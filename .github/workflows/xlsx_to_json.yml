@@ -10,6 +10,9 @@ jobs:
   download-and-commit:
     runs-on: ubuntu-latest
     environment: csv_to_json
+    env:
+      CHILE_FILE: ${{ vars.CHILE_FILE }}
+      PERU_FILE: ${{ vars.PERU_FILE }}
 
     steps:
     - name: Checkout repository
@@ -20,8 +23,8 @@ jobs:
         CURL_COMMAND: ${{ secrets.DOWNLOADER_URL }}
       run: |
         echo "$CURL_COMMAND" | bash
-        ./xlsx_downloader.sh -d ./downloaded -f "${{ vars.CHILE_FILE }}" "${{ secrets.CHILE_FILE_URL }}"
-        ./xlsx_downloader.sh -d ./downloaded -f "${{ vars.PERU_FILE }}" "${{ secrets.PERU_FILE_URL }}"
+        ./xlsx_downloader.sh -d ./downloaded -f "$CHILE_FILE" "${{ secrets.CHILE_FILE_URL }}"
+        ./xlsx_downloader.sh -d ./downloaded -f "$PERU_FILE" "${{ secrets.PERU_FILE_URL }}"
 
     - name: Set up Python
       uses: actions/setup-python@v5
