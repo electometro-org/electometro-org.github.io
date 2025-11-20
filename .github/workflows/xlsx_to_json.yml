@@ -25,7 +25,7 @@ jobs:
         echo "$CURL_COMMAND" | bash
         ./xlsx_downloader.sh -d ./downloaded -f "$CHILE_FILE" "${{ secrets.CHILE_FILE_URL }}"
         ./xlsx_downloader.sh -d ./downloaded -f "$PERU_FILE" "${{ secrets.PERU_FILE_URL }}"
-        apt install tree
+        sudo apt install tree
         tree .
 
     - name: Set up Python
