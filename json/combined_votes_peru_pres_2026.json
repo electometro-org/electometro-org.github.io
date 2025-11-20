@@ -1,0 +1,996 @@
+{
+  "candidates": {
+    "Rafael López Aliaga (Renovación Popular)": {
+      "name": "Rafael López Aliaga",
+      "party": "Renovación Popular",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.0,
+          "comment": "Prometió “exterminar” la “doctrina de género” y se opone a la inclusión del enfoque de género en la educación.",
+          "source": "https://elcomercio.pe/elecciones-2021/rafael-lopez-aliaga-toda-la-doctrina-de-genero-evidentemente-va-a-ser-exterminada-renovacion-popular-entrevista-elecciones-2021-noticia/"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Ha prometido cárcel efectiva para hurtos y robos sin importar el monto, además de deportación de extranjeros que incumplan la ley, postura punitiva.",
+          "source": "https://rpp.pe/politica/elecciones/somos-la-renovacion-que-necesita-el-peru-por-rafael-lopez-aliaga-noticia-1326574"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 1.0,
+          "comment": "Ha impulsado medidas punitivas muy duras contra corruptos (propone cadena perpetua/pena de muerte para funcionarios corruptos y ha promovido iniciativas para sanciones extremas).",
+          "source": "https://elcomercio.pe/politica/rafael-lopez-aliaga-propone-pena-de-muerte-para-funcionarios-corruptos-noticia/ ***https://larepublica.pe/politica/2021/03/11/rafael-lopez-aliaga-asegura-que-corruptos-merecen-cadena-perpetua/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No opinion found. (Revisado: López Aliaga ha propuesto reformas sobre pensiones/fondos individuales y reducción de años de jubilación, pero no encontré declaración específica a favor de permitir retiros a los 45 años).",
+          "source": "https://gestion.pe/economia/rafael-lopez-aliaga-propone-reforma-del-sistema-de-pensiones-noticia/ ***https://andina.pe/agencia/noticia-lopez-aliaga-propone-reducir-la-edad-jubilacion-a-60-anos-878932.aspx"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "Rechaza la despenalización incluso en casos de violación; propuso hospedar a niñas violadas en un “hotel cinco estrellas” en lugar de permitir el aborto.",
+          "source": "https://larepublica.pe/politica/2021/02/21/rafael-lopez-aliaga-perfil-del-candidato-presidencial-de-renovacion-popular-pltc"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No opinion found. (Renovación Popular / López Aliaga suelen posicionarse en línea pro-empresa/neoliberal; no encontré una declaración pública apoyando impuestos más altos a los ricos).",
+          "source": "https://larepublica.pe/politica/2020/11/28/rafael-lopez-aliaga-renovacion-popular-perfil-del-candidato-de-ultraderecha/"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Respaldó abrir el debate para aplicar la pena de muerte a violadores de menores.",
+          "source": "https://www.infobae.com/peru/2024/12/10/rafael-lopez-aliaga-respalda-propuesta-de-abrir-el-debate-para-la-pena-de-muerte-a-violadores-de-menores/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 1.0,
+          "comment": "Ha pedido formalmente el despliegue de militares para resguardar Lima (especialmente en horarios nocturnos) y ha reclamado mayor presencia militar/policial para enfrentar la inseguridad.",
+          "source": "https://elcomercio.pe/politica/rafael-lopez-aliaga-sobre-la-delincuencia-estamos-en-guerra-lima-debe-ser-resguardada-como-el-callao-nndc-noticia/ ***https://rpp.pe/politica/elecciones/somos-la-renovacion-que-necesita-el-peru-por-rafael-lopez-aliaga-noticia-1326574"
+        }
+      }
+    },
+    "Alonso López Chau (Ahora Nación)": {
+      "name": "Alonso López Chau",
+      "party": "Ahora Nación",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 1.0,
+          "comment": "Apoya la educación sexual integral desde primaria, basada en derechos y sin sesgos.",
+          "source": "https://larepublica.pe/opinion/2025/07/24/por-ellas-por-el-peru-por-alfonso-lopez-chau-nava-hnews-2399664"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.5,
+          "comment": "Propone reorganizar la Policía 'de arriba hacia abajo', reinstalar la Policía de Investigación del Perú y dar prioridad a liderazgo y medidas para enfrentar la delincuencia organizada; no hay declaración explícita que priorice castigo sobre reintegración.",
+          "source": "https://ojo-publico.com/entrevistas/alfonso-lopez-chau-creo-que-necesitamos-una-nueva-constitucion"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.0,
+          "comment": "Se opone a la reforma de AFP que critica como 'estafa'; propone un sistema previsional de tres pilares (pilar solidario no contributivo; contributivo obligatorio con 10% a AFP y 3% a ONP) y no respalda retiros universales de fondos a los 45 años.",
+          "source": "https://larepublica.pe/opinion/2025/09/17/la-estafa-de-las-afp-y-el-pacto-mafioso-por-alfonso-lopez-chau-nava-hnews-748986"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.0,
+          "comment": "Ha planteado reorganizar y fortalecer la Policía y la investigación policial; no propone mayor presencia militar en las calles.",
+          "source": "https://ojo-publico.com/entrevistas/alfonso-lopez-chau-creo-que-necesitamos-una-nueva-constitucion"
+        }
+      }
+    },
+    "Keiko Fujimori (Fuerza Popular)": {
+      "name": "Keiko Fujimori",
+      "party": "Fuerza Popular",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.0,
+          "comment": "Ha criticado lo que llama la \"ideología de género\", y su plan y declaraciones públicas apuntan a revisar/eliminar esos contenidos en textos escolares, postura asociada a oponerse a una ESI obligatoria tal como la plantean activistas.",
+          "source": "https://especiales.elcomercio.pe/?q=especiales%2Felecciones-2021-propuestas-en-temas-de-genero-de-candidatos-ecpm%2Findex.html"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Su plan de seguridad propone \"mano dura\", construir penales y endurecer medidas contra la criminalidad, postura enfocada en castigo y control.",
+          "source": "https://gestion.pe/peru/politica/las-propuestas-de-keiko-fujimori-en-seguridad-ciudadana-segun-su-plan-de-gobierno-noticia/"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "Se opone a la despenalización en la mayoría de los casos, ha dicho no estar a favor del aborto \"en ningún caso\" salvo cuando peligra la vida de la madre.",
+          "source": "https://elcomercio.pe/politica/congreso/congreso-debatira-aborto-casos-violacion-198201-noticia/?outputType=amp"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.0,
+          "comment": "Su agenda prioriza simplificación y estabilidad tributaria, no aumento explícito de tasas marginales a los más ricos.",
+          "source": "https://elcomercio.pe/economia/peru/reforma-y-recaudacion-tributaria-que-plantean-fuerza-popular-y-peru-libre-elecciones-2021-ncze-noticia/"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "En declaraciones públicas anteriores apoyó, a título personal, la pena de muerte para violadores de niños en casos extremos, y su bancada impulsó iniciativas punitivas.",
+          "source": "https://www.reuters.com/article/peru-elecciones-fujimori-idLTAKCN0VJ04E"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    },
+    "Phillip Butters (Avanza País)": {
+      "name": "Phillip Butters",
+      "party": "Avanza País",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.0,
+          "comment": "Fue vocero visible de “Con mis hijos no te metas”, rechazó el currículo con enfoque de género del Minedu, postura contraria a la ESI obligatoria.",
+          "source": "https://www.dejusticia.org/con-mis-hijos-no-te-metas-no-a-la-ideologia-de-genero/ ; https://promsex.org/wp-content/uploads/2019/02/CNEBsistematizacion.pdf"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Propone mano dura, pena de muerte, y construcción de más prisiones, enfoque abiertamente punitivo.",
+          "source": "https://radiouno.pe/noticias/242452/phillip-butters-la-posicion-contra-chile-es-absolutamente-sencilla/ ; https://www.instagram.com/reel/DJk7sM5RVTL/"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "Ha señalado que no respalda el aborto, por lo que no apoyaría su despenalización incluso en casos de violación.",
+          "source": "https://larepublica.pe/politica/2025/05/03/phillip-butters-el-comunicador-que-se-perfila-como-el-outsider-de-la-derecha-y-podria-arrebatarle-votos-al-fujimorismo-hnews-35921"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Ha dicho que establecería la pena de muerte para asesinos y violadores.",
+          "source": "https://www.instagram.com/reel/DJk7sM5RVTL/ ; https://www.youtube.com/watch?v=VDeuHDCPRSw"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    },
+    "Vicente Alanoca (Venceremos)": {
+      "name": "Vicente Alanoca",
+      "party": "Venceremos",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 1.0,
+          "comment": "Apoyó el proyecto de despenalización del aborto por violación que, según la cobertura periodística, incorporaba la obligación de Educación Sexual Integral; Bermejo suscribió/apoyó esa iniciativa.",
+          "source": "https://www.aciprensa.com/noticias/91426/congresista-acusado-de-afiliacion-terrorista-apoya-intento-de-despenalizar-aborto-en-peru"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.5,
+          "comment": "Ha planteado reformar la Policía Nacional y crear un comando unificado de inteligencia para combatir la delincuencia organizada, enfatizando medidas de seguridad y control.",
+          "source": "https://www.facebook.com/GuilleBermejoR/videos/para-combatir-a-la-delincuencia-organizada-tenemos-que-reformar-a-la-policia-nac/1753575488626713/"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 1.0,
+          "comment": "Presentó el Proyecto de Ley N° 12447 que propone derogar la reforma pro-AFP y reorganizar el sistema de pensiones, lo que muestra oposición a la reforma favorecedora de las AFP.",
+          "source": "https://x.com/GuilleBermejoR/status/1968064788673830932"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 1.0,
+          "comment": "Apoyó y suscribió el proyecto que busca despenalizar el aborto en casos de violación.",
+          "source": "https://www.aciprensa.com/noticias/91426/congresista-acusado-de-afiliacion-terrorista-apoya-intento-de-despenalizar-aborto-en-peru"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 1.0,
+          "comment": "En el espacio programático/alianza (Venceremos / Voces del Pueblo) se plantea una reforma tributaria que busca eliminar beneficios tributarios injustificados y avanzar hacia un sistema más equitativo.",
+          "source": "https://peru21.pe/investigacion/programa-de-venceremos-recuerda-el-obsoleto-plan-de-pedro-castillo/"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    },
+    "Roberto Chiabra (Unidad Nacional)": {
+      "name": "Roberto Chiabra",
+      "party": "Unidad Nacional",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.0,
+          "comment": "Se opuso en debates a la guía de Educación Sexual Integral (la calificó de ideologizada), ha pedido participación de los padres y ha distinguido la ESI de la educación científica/biológica; por tanto no apoya la obligatoriedad.",
+          "source": "https://www2.congreso.gob.pe/Sicr/DiarioDebates/Publicad.nsf/SesionesPleno/142F46AA38B12F1C052587F8000F69CA/$FILE/PLO-2021-23.pdf ; https://twitter.com/robertochiabra/status/1787909760609587532"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Ha defendido medidas excepcionales y sanciones duras ante la crisis de inseguridad, pidiendo acciones firmes y control más estricto para combatir a la delincuencia.",
+          "source": "https://www.youtube.com/watch?v=DB5lr6RgD08"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.0,
+          "comment": "Se declaró contrario a los retiros de fondos de pensiones (ha dicho que votó en contra y aboga por reformar el sistema en coordinación con el Ejecutivo y las AFP).",
+          "source": "https://twitter.com/robertochiabra/status/1778392175388078096"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Se ha manifestado a favor de aplicar pena máxima (pena de muerte o cadena perpetua) para delitos como la extorsión en videos y declaraciones públicas.",
+          "source": "https://www.facebook.com/chiabra.pe/videos/2635990943270041/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 1.0,
+          "comment": "Ha pedido dar control (en situaciones de emergencia) a las Fuerzas Armadas y apoyar mayor rol de las fuerzas en el control de la seguridad interna; también ha señalado que la solución exige dar poder y recursos a las Fuerzas para actuar.",
+          "source": "https://trome.com/actualidad/politica/roberto-chiabra-pide-quitar-internet-a-todos-los-telefonos-en-los-carceles-compara-inseguridad-con-sendero-luminoso-nayib-bukele-entrevista-video-noticia/ ; https://x.com/robertochiabra/status/1847049415275827599"
+        }
+      }
+    },
+    "César Acuña (Alianza para el Progreso)": {
+      "name": "César Acuña",
+      "party": "Alianza para el Progreso",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "César Acuña ha dicho 'Hay que educar para erradicar la violencia hacia la mujer' y promueve educación y escuelas de padres; su discurso apoya educación preventiva pero no hay evidencia de que apoye hacer la educación sexual obligatoria en colegios.",
+          "source": "https://www.gob.pe/institucion/regionlalibertad/noticias/1153618-cesar-acuna-hay-que-educar-para-erradicar-la-violencia-hacia-la-mujer"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "César Acuña ha pedido que el control de la seguridad en la región esté en manos de las Fuerzas Armadas y ha impulsado medidas de mano dura, lo que indica prioridad en medidas punitivas.",
+          "source": "https://www.americatv.com.pe/noticias/actualidad/cesar-acuna-exige-al-gobierno-plan-concreto-seguridad-n501682"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "César Acuña ha manifestado que 'los corruptos, quienes sean, su lugar es la cárcel' y ha impulsado propuestas públicas contra la corrupción; no hay evidencia clara de que promueva un veto de por vida a cargos públicos.",
+          "source": "https://www.regionlalibertad.gob.pe/noticias/regionales/14672-cesar-acuna-me-alegra-que-todos-los-funcionarios-corruptos-y-sinvergueenzas-sean-detenidos-y-juzgados"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "La bancada de César Acuña trabajó para derogar la Ley 32123 y autorizar retiros extraordinarios y voluntarios de la AFP, mostrando apoyo a retiros aunque no hay evidencia explícita de retiro a los 45 años.",
+          "source": "https://x.com/CesarAcunaP/status/1967738923645538764"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "En resúmenes y documentos asociados al periodo de campaña se recoge la postura de APP/'la vida comienza desde la concepción', lo que indica oposición a ampliar el aborto por violación.",
+          "source": "https://tc.gob.pe/publicaciones/resumenes/2016/febrero/Resumen_12022016.pdf"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.0,
+          "comment": "El plan y declaraciones de APP de César Acuña plantean reformas tributarias orientadas a simplificación y formalización de la economía, no propuestas de aumentar impuestos progresivos a los más ricos.",
+          "source": "https://rpp.pe/politica/elecciones/tenemos-la-formula-para-terminar-con-la-informalidad-por-cesar-acuna-noticia-1321394"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "César Acuña declaró que 'el pueblo decidirá' si se aplica la pena de muerte a violadores, mostrando apertura a la idea mediante consulta popular.",
+          "source": "https://noticias.regionlalibertad.gob.pe/cesar-acuna-el-pueblo-decidira-si-se-aplica-o-no-la-pena-de-muerte-a-violadores/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 1.0,
+          "comment": "César Acuña anunció el despliegue y la incorporación de las Fuerzas Armadas para patrullar mercados y pidió la intervención militar en la seguridad regional, alineándose con mayor presencia militar en las calles.",
+          "source": "https://www.infobae.com/peru/2024/07/24/cesar-acuna-desplegara-a-las-fuerzas-armadas-en-mercados-de-trujillo-para-combatir-la-delincuencia/"
+        }
+      }
+    },
+    "Francisco Diez Canseco (Perú Acción)": {
+      "name": "Francisco Diez Canseco",
+      "party": "Perú Acción",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Plantea un plan de 'mano de hierro' con penas severas, ampliación del plazo de detención y medidas punitivas, enfatizando castigo sobre reinserción.",
+          "source": "https://ahora.com.pe/mano-de-hierro-francisco-diez-canseco-promete-reformas-duras-contra-corrupcion-en-peru/"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "Propone cadena perpetua y penas severas para delitos de corrupción y la creación de órganos de control y expulsión inmediata de funcionarios corruptos; no hay mención explícita de 'inhabilitación de por vida', pero su plan apunta a sanciones drásticas.",
+          "source": "https://ahora.com.pe/mano-de-hierro-francisco-diez-canseco-promete-reformas-duras-contra-corrupcion-en-peru/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "Ha declarado que no está a favor del aborto.",
+          "source": "https://larepublica.pe/politica/736534-francisco-diez-canseco-no-estoy-favor-del-aborto"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Ha declarado que debería aplicarse la pena de muerte para quienes abusen sexualmente de menores y ha mencionado su apoyo en casos graves.",
+          "source": "https://rpp.pe/politica/gobierno/verdadero-o-falso-francisco-diez-canseco-el-30-de-los-que-salen-de-las-carceles-por-estos-motivos-violacion-de-ninos-y-ninas-vuelve-a-delinquir-noticia-1251062"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    },
+    "Walter Chirinos (PRIN)": {
+      "name": "Walter Chirinos",
+      "party": "PRIN",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Ha promovido una agenda de mano dura contra la delincuencia; propone el \"Plan Perú Sin Miedo\" y en entrevistas y redes ha abogado por penas severas (cadena perpetua para sicarios, extorsionadores y violadores de menores).",
+          "source": "https://eleccionesperu.pe/por-un-peru-sin-miedo-walter-chirinos-precandidato-presidencial-presenta-su-propuesta-mas-firme-contra-la-delincuencia/ ; https://lanoticia.com.pe/pena-de-muerte-a-extorsionadores/ ; https://x.com/wchirinosp/status/1882441114302771293"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 1.0,
+          "comment": "Ha pedido medidas duras contra la corrupción y en redes y declaraciones ha planteado cadena perpetua para corruptos; además critica la impunidad y su partido ha expulsado militantes vinculados a la delincuencia.",
+          "source": "https://x.com/wchirinosp/status/1882441114302771293 ; https://soltvperu.com/walter-chirinos-dina-boluarte-corrupcion-criminalidad/ ; https://prin.org.pe/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Ha declarado públicamente que aplicaría la pena de muerte a sicarios, extorsionadores y violadores de menores.",
+          "source": "https://lanoticia.com.pe/pena-de-muerte-a-extorsionadores/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    },
+    "Carlos Espá (SiCreo)": {
+      "name": "Carlos Espá",
+      "party": "SiCreo",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Propone medidas firmes de seguridad: plantea seis penales de máxima seguridad, audiencias por Zoom, sin visitas, y privatizar cámaras; privilegia el castigo y la revalorización de las fuerzas de seguridad.",
+          "source": "https://peru21.pe/politica/carlos-espa-la-democracia-ha-sido-boba-negligente-indolente-e-insensible/"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "Plantea 'secar el pozo de la corrupción' y exige que aliados no estén involucrados en corrupción; no encontré una propuesta explícita de veto de por vida.",
+          "source": "https://peru21.pe/politica/carlos-espa-la-democracia-ha-sido-boba-negligente-indolente-e-insensible/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "El ideario del partido afirma el 'Derecho a la Vida' y que 'por encima de la libertad solo está la vida', lo que indica postura contrario a legalizar el aborto.",
+          "source": "https://sicreo.org.pe/wp-content/uploads/2025/04/Ideario.pdf"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.0,
+          "comment": "El ideario promueve libre mercado y reducción de impuestos/exoneraciones como medidas para formalizar la economía; no hay apoyo a aumentar la progresividad impositiva.",
+          "source": "https://sicreo.org.pe/wp-content/uploads/2025/04/Ideario.pdf"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 1.0,
+          "comment": "Propone revalorizar a la Policía y a las Fuerzas Armadas y darles un papel más activo en seguridad ciudadana.",
+          "source": "https://peru21.pe/politica/carlos-espa-la-democracia-ha-sido-boba-negligente-indolente-e-insensible/"
+        }
+      }
+    },
+    "Reynaldo López Viera (Perú Moderno)": {
+      "name": "Reynaldo López Viera",
+      "party": "Perú Moderno",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Plantea medidas drásticas contra la delincuencia: juicios sumarísimos, facultades policiales para mano dura y prioridad en sanción; su discurso y propuestas priorizan castigo y autoridad sobre políticas de reinserción.",
+          "source": "https://larepublica.pe/politica/2025/08/15/precandidato-presidencial-de-peru-moderno-reynaldo-lopez-no-es-el-momento-de-una-nueva-constitucion-hnews-811275/ ; https://elbuho.pe/2025/09/precandidato-presidencial-de-peru-moderno-propone-que-presos-tendran-que-trabajar-para-comer/"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "Se presenta como un candidato que \"acabará con la corrupción\" y propone reformas y juicios más rápidos para corruptos, y medidas para que paguen el daño; no hallé un respaldo explícito a la inhabilitación vitalicia.",
+          "source": "https://larepublica.pe/politica/2025/08/15/precandidato-presidencial-de-peru-moderno-reynaldo-lopez-no-es-el-momento-de-una-nueva-constitucion-hnews-811275/ ; https://www.facebook.com/Reynaldolopezviera/videos/reynaldo-l%C3%B3pez-acabara-con-la-corrupci%C3%B3n-politica-peru%CC%81-cambio-gobierno-peruanos/1892493551600815/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "Ha comentado públicamente sobre retiros y cuestiones legales vinculadas a las AFP en sus redes y publicaciones (análisis jurídico), pero no encontré una propuesta clara que habilite retiros universales a los 45 años.",
+          "source": "https://www.facebook.com/story.php?id=1558092144456476&story_fbid=2665214023744277/ ; https://www.congreso.gob.pe/Docs/biblioteca/files/publicaciones-periodicas/dj290.pdf"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "En una entrevista dijo que no se opone a la pena de muerte \"si fuera necesario\", aunque advirtió que no es la solución definitiva; postura ambigua pero abierta a su uso en casos extremos.",
+          "source": "https://larepublica.pe/politica/2025/08/15/precandidato-presidencial-de-peru-moderno-reynaldo-lopez-no-es-el-momento-de-una-nueva-constitucion-hnews-811275/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.0,
+          "comment": "Propone servicio militar obligatorio y mayor fortalecimiento de la Policía Nacional, pero en las fuentes revisadas prioriza facultar a la policía y construir megacárceles; no encontré propuestas explícitas para aumentar la presencia militar en las calles como política principal.",
+          "source": "https://larepublica.pe/politica/2025/08/15/precandidato-presidencial-de-peru-moderno-reynaldo-lopez-no-es-el-momento-de-una-nueva-constitucion-hnews-811275/"
+        }
+      }
+    },
+    "José Luna Gálvez (Podemos Perú)": {
+      "name": "José Luna Gálvez",
+      "party": "Podemos Perú",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Promueve mano dura y penas más severas: impulsó y difundió leyes y mensajes para cadena perpetua contra sicarios y extorsionadores y cárcel para sicarios juveniles; prioriza castigo severo.",
+          "source": "facebook.com/JoseLunaGalvez.Peru (posts 'Cadena perpetua...'); x.com/JOSELUNA_G (posts)"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.0,
+          "comment": "Ha buscado anular investigaciones en su contra y su partido ha presentado recursos para excluirse de pesquisas; acciones públicas indican oposición a sanciones permanentes o inhabilitaciones, aunque no hay declaración textual sobre veto de por vida.",
+          "source": "infobae.com (19 Jul 2025); peru21.pe (28 May 2025); lpderecho.pe (May 2024)"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "Ha promovido y respaldado retiros de fondos AFP (proyectos y declaraciones a medios apoyando un octavo retiro y retiro de 4 UIT); apoya permitir que afiliados dispongan de sus fondos aunque no hay mención específica a retiro a los 45 años.",
+          "source": "infobae.com (15 Sep 2025); joselunagalvez.pe (sección AFP); caretas.pe (9 Sep 2025)"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios; apoya pena capital en público.",
+          "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels)"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    },
+    "Mariano González (Salvemos al Perú)": {
+      "name": "Mariano González",
+      "party": "Salvemos al Perú",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Ha declarado creer en la 'mano dura' y proponer medidas fuertes para combatir la delincuencia; ha pedido liderazgo del gobierno y acciones contundentes para seguridad ciudadana.",
+          "source": "https://atv.pe/noticia/exministro-mariano-gonzalez-analiza-la-criminalidad-en-el-peru-debe-haber-mano-dura-desde-el-gobierno"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.0,
+          "comment": "Ha calificado propuestas como elevar penas y la pena de muerte como populistas y no solución inmediata; por tanto se ha mostrado en contra de instaurar la pena de muerte.",
+          "source": "https://peru21.pe/politica/mariano-gonzalez-este-congreso-ha-hecho-leyes-que-favorecen-las-economias-criminales/ citeturn2search2"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.0,
+          "comment": "Ha abogado por 'mano dura' y reordenamiento/fortalecimiento de la Policía Nacional; no ha promovido aumentar la presencia militar en las calles como política principal de seguridad.",
+          "source": "https://atv.pe/noticia/exministro-mariano-gonzalez-analiza-la-criminalidad-en-el-peru-debe-haber-mano-dura-desde-el-gobierno-n463396 citeturn2search9"
+        }
+      }
+    },
+    "Arturo Fernández (Un Camino Diferente)": {
+      "name": "Arturo Fernández",
+      "party": "Un Camino Diferente",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Arturo Fernández aboga por mano dura y medidas punitivas contra la delincuencia, señalando que la pena máxima y castigos severos son necesarios; ello muestra prioridad en el castigo sobre reinserción.",
+          "source": "https://larazon.pe/alcalde-de-trujillo-exige-la-pena-de-muerte-para-organizaciones-criminales/"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 1.0,
+          "comment": "Arturo Fernández públicamente pide 'sacar a los delincuentes del gobierno' y promueve 'tolerancia cero' contra la corrupción, lo que implica apoyo a inhabilitación/expulsión de corruptos del poder.",
+          "source": "https://www.facebook.com/61557627290864/posts/-%EF%B8%8Fno-hay-otro-camino%EF%B8%8Fa-refundar-el-per%C3%BA-y-sacar-a-los-delincuentes-del-gobierno-/122227391048254243/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Arturo Fernández ha declarado que la pena de muerte es una medida necesaria ante la 'situación límite' de inseguridad y la considera disuasiva para delitos graves.",
+          "source": "https://larazon.pe/alcalde-de-trujillo-exige-la-pena-de-muerte-para-organizaciones-criminales/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 1.0,
+          "comment": "Arturo Fernández propuso que el Ejército salga a patrullar las calles de Trujillo y expresó que prefiere trabajar de la mano con las Fuerzas Armadas para seguridad ciudadana, mostrando apoyo a mayor presencia militar.",
+          "source": "https://larepublica.pe/sociedad/2023/01/12/trujillo-alcalde-arturo-fernandez-busca-que-el-ejercito-patrulle-las-calles-lrnd"
+        }
+      }
+    },
+    "Tomás Aladino Gálvez (Peruanos Unidos)": {
+      "name": "Tomás Aladino Gálvez",
+      "party": "Peruanos Unidos",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.0,
+          "comment": "Ha propuesto desactivar los \"equipos especiales\" del Ministerio Público, argumentando que eran medidas extraordinarias y debían dejar de existir; esta postura ha sido interpretada como una reforma institucional que reduce el papel de unidades especiales centradas en casos de gran corrupción y crimen organizado.",
+          "source": "https://larepublica.pe/politica/2025/10/02/tomas-galvez-reafirma-su-propuesta-de-eliminar-a-los-equipos-especiales-dentro-del-ministerio-publico-hnews-45804"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.0,
+          "comment": "Ha sido implicado en el caso 'Los Cuellos Blancos del Puerto' y, tras recuperar cargos, ha realizado cambios y archivamientos en investigaciones; analistas y medios han señalado que sus decisiones pueden debilitar la persecución de la corrupción, por lo que no hay evidencia de que respalde vetos perpetuos a personas condenadas por corrupción.",
+          "source": "https://wayka.pe/tomas-galvez-implicado-en-cuellos-blancos-es-elegido-fiscal-de-la-nacion-con-visto-bueno-del-pacto-congresal-fujimorista/ ; https://elcomercio.pe/politica/actualidad/entrevista-tomas-galvez-fiscal-de-la-nacion-vamos-a-buscar-siempre-consensos-en-aras-de-la-unidad-de-la-institucion-responde-cuestionamientos-rechaza-vinculos-con-los-cuellos-blancos-noticia/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    },
+    "Mario Vizcarra (Perú Primero)": {
+      "name": "Mario Vizcarra",
+      "party": "Perú Primero",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.0,
+          "comment": "Mario Vizcarra ha defendido públicamente a su hermano Martín Vizcarra, denunciando lo que llamó un 'pacto mafioso' y calificando la orden de prisión preventiva como persecución política; por ello no respalda medidas punitivas automáticas contra su hermano.",
+          "source": "https://www.infobae.com/peru/2025/08/14/hermano-de-martin-vizcarra-sobre-prision-preventiva-contra-el-expresidente-el-pacto-mafioso-se-mantiene-en-el-pais/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    }
+  }
+}

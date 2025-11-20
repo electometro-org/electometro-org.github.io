@@ -1,0 +1,736 @@
+{
+  "parties": {
+    "Perú Libre": {
+      "name": "Perú Libre",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "El programa reconoce los derechos reproductivos y defiende educación y salud como bienes sociales; además propone modificar el currículo para promover valores y principios, pero no establece explícitamente educación sexual obligatoria en los colegios.",
+          "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.0,
+          "comment": "El programa de Perú Libre enfatiza atender las causas de la delincuencia y plantea medidas de reinserción (producción/empleo para reos) y reorganización policial en lugar de priorizar un enfoque exclusivamente punitivo.",
+          "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.0,
+          "comment": "Perú Libre ha rechazado iniciativas que prohíben la participación política de dirigentes con sentencias por corrupción y su bancada ha promovido cambios para reducir periodos de inhabilitación o facilitar rehabilitaciones, por lo que no apoya vetos perpetuos.",
+          "source": "https://elcomercio.pe/politica/vladimir-cerron-peru-libre-busca-ahora-reducir-los-anos-de-inhabilitacion-para-funcionarios-corruptos-los-peligros-de-su-nuevo-proyecto-de-ley-noticia/ ; https://ahora.com.pe/peru-libre-rechaza-proyecto-de-ley-del-jne-que-prohibe-dirigentes-con-sentencias-por-corrupcion/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.0,
+          "comment": "El programa cuestiona el sistema privado de pensiones (SPP) y propone fortalecer el Sistema Nacional de Pensiones (SNP) y eliminar paulatinamente el SPP; no hay propuesta en el programa que promueva retiros universales de fondos AFP a los 45 años.",
+          "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "El ideario de Perú Libre afirma el respeto a los derechos reproductivos y defiende que nada tenga carácter obligatorio o coactivo; sin embargo el documento no especifica explícitamente la despenalización del aborto por violación, por lo que la posición queda ambigua en su programa.",
+          "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 1.0,
+          "comment": "Perú Libre propone eliminar exoneraciones para grandes empresas, ajustar la recaudación y cobrar más a las grandes empresas; su plan económico y documentos del partido plantean cobrar impuestos a todas las empresas y reducir privilegios tributarios, lo que es coherente con una orientación hacia mayor carga sobre los de mayores recursos.",
+          "source": "https://perulibre.pe/plan-bicentenario.pdf ; https://sudaca.pe/noticia/peru-libre-este-es-el-plan-pari-para-reestructurar-la-sunat-y-cobrar-mas-a-las-grandes-empresas/"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.0,
+          "comment": "Miembros y voceros de Perú Libre se han pronunciado rechazando la instauración de la pena de muerte; el partido y su bancada han rechazado propuestas legislativas que la promueven.",
+          "source": "https://www.youtube.com/watch?v=yzyO1m2YDrA ; https://www.facebook.com/bancadaperulibre/posts/-importante-si-se-instaura-la-pena-de-muerte-como-dice-boluarte-ser%C3%ADa-la-primera/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.0,
+          "comment": "El documento programa prioriza la reorganización y especialización de la Policía Nacional, respeta las rondas campesinas y condena violaciones a DDHH por fuerzas del Estado; no promueve aumentar la presencia militar en las calles como política principal de seguridad.",
+          "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
+        }
+      }
+    },
+    "Fuerza popular": {
+      "name": "Fuerza popular",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.0,
+          "comment": "Fuerza Popular se ha opuesto a la implementación amplia de la Educación Sexual Integral y forma parte del bloque conservador que critica el enfoque de género; por tanto no apoyan convertirla en mandato.",
+          "source": "https://www.swissinfo.ch/spa/per%C3%BA-elecciones_debate-presidencial-en-per%C3%BA-enfoca-cruces-en-educaci%C3%B3n-y-enfoque-de-g%C3%A9nero/46574100"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "El plan y comunicados de Fuerza Popular priorizan medidas de seguridad contundentes, el fortalecimiento policial y han propuesto que las FF.AA. asuman roles en penales y seguridad; eso indica alineamiento con un enfoque punitivo.",
+          "source": "https://elcomercio.pe/politica/elecciones/keiko-fujimori-plantea-que-las-fuerzas-armadas-adminsitren-los-penales-en-un-eventual-gobierno-fuerza-popular-elecciones-2021-noticia/"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "Keiko/Fuerza Popular ha propuesto la inhabilitación del servicio público para corruptos (muerte civil / inhabilitación), aunque no hay evidencia pública clara de un veto explícito y permanente de por vida en su programa.",
+          "source": "https://www.gob.pe/institucion/contraloria/noticias/505880-muerte-civil-para-corruptos-es-una-de-las-propuestas-de-los-candidatos-presidenciales"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.0,
+          "comment": "Fuerza Popular no apoya esta propuesta, si bien apoyaron el retiro excepcional de fondos de las AFP hace un par de meses.",
+          "source": "https://rpp.pe/economia/economia/fuerza-popular-insiste-en-que-el-ejecutivo-desnaturalizo-la-reforma-de-pensiones-y-anuncia-respaldo-al-octavo-retiro-de-afp-noticia-1655553?ref=rpp; https://www.infobae.com/peru/2025/09/18/retiro-afp-en-2025-es-una-realidad-montos-plazos-y-procedimiento-que-tendria-el-octavo-acceso/"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "Fuerza Popular y su lideresa Keiko Fujimori se declaran 'pro-vida' y su plan defiende el derecho a la vida desde la concepción; han rechazado ampliar el aborto.",
+          "source": "https://canaln.pe/actualidad/keiko-fujimori-reafirma-su-postura-provida-n420789"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.0,
+          "comment": "El plan de Fuerza Popular plantea una reforma tributaria orientada a simplificación y reducción de cargas para MYPES e incentivos, no un aumento progresivo para los más ricos.",
+          "source": "https://wayka.pe/elecciones-2021-keiko-fujimori-ofrece-bajar-impuestos-a-la-micro-y-pequena-empresa/"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Keiko y sectores de Fuerza Popular han promovido en el pasado la pena de muerte para delitos como la violación de menores y han reavivado la idea en declaraciones públicas.",
+          "source": "https://elpais.com/internacional/2006/03/20/actualidad/1142828419_850215.html"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 1.0,
+          "comment": "Fuerza Popular ha propuesto un mayor rol de las Fuerzas Armadas en seguridad ciudadana y la administración temporal de penales; han defendido ampliar poderes militares/policiales.",
+          "source": "https://infobae.com/america/peru/2021/04/29/keiko-fujimori-propone-que-las-fuerzas-armadas-adminsitren-los-penales-si-llega-a-ser-presidenta/"
+        }
+      }
+    },
+    "Partido Morado": {
+      "name": "Partido Morado",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.0,
+          "comment": "El plan prioriza prevención del delito, modernización y profesionalización policial y medidas de reinserción/rehabilitación social en lugar de un enfoque exclusivamente punitivo.",
+          "source": "https://partidomorado.pe/files/pdf/partido-morado_240601_212441.pdf"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 1.0,
+          "comment": "El Partido Morado y candidatos morados se han manifestado a favor de despenalizar el aborto por violación (propuestas públicas durante el periodo electoral).",
+          "source": "https://promsex.org/candidatos-al-congreso-se-comprometieron-en-trabajar-por-el-enfoque-de-genero-en-las-politicas/ ; https://factual.afp.com/el-partido-morado-de-peru-esta-favor-del-aborto-pero-no-hay-registros-de-que-el-afiche-sea-de-su"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 1.0,
+          "comment": "El partido propone una reforma tributaria integral y la eliminación/reducción de beneficios tributarios/exoneraciones para mejorar la recaudación y equidad fiscal.",
+          "source": "https://partidomorado.pe/files/pdf/partido-morado_240601_212441.pdf ; https://larepublica.pe/verificador/2021/02/23/no-es-seguro-que-se-podra-realizar-una-reforma-tributaria-inmediata-como-afirmo-julio-guzman/"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.0,
+          "comment": "Voceros morados (ej. Daniel Olivares) han rechazado la pena de muerte como solución estructural y la describen como un 'fuego artificial'.",
+          "source": "https://www.atv.pe/noticia/daniel-olivares-revela-si-el-partido-morado-impulsara-la-pena-de-muerte/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "El plan contempla la inclusión de las Fuerzas Armadas en operaciones contra el narcotráfico y las emergencias, coordinadas con Policía y bajo comando; prioriza modernización policial en seguridad ciudadana más que una presencia militar permanente en las calles.",
+          "source": "https://partidomorado.pe/files/pdf/partido-morado_240601_212441.pdf"
+        }
+      }
+    },
+    "Renovación Popular": {
+      "name": "Renovación Popular",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.0,
+          "comment": "Renovación Popular (congresista Milagros Jáuregui) presentó proyectos para eliminar la Educación Sexual Integral y reemplazarla por una educación sexual 'científica, biológica y ética', lo que muestra oposición a mandatar ESI.",
+          "source": "https://comunicaciones.congreso.gob.pe/damos-cuenta/proponen-eliminar-la-educacion-sexual-integral-y-reemplazarla-por-la-educacion-sexual-cientifica-biologica-y-etica/"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "El plan de gobierno y propuestas de la bancada de Renovación Popular insisten en medidas de seguridad contundentes (patrullaje integrado, mayor actuación policial y proyectos para penas más severas), lo que indica prioridad al castigo.",
+          "source": "https://www.actualidadambiental.pe/wp-content/uploads/2022/09/Plan-de-Gobierno-Renovacion-Popular-Elecciones-2022.pdf"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 1.0,
+          "comment": "Miembros de Renovación Popular (congresistas de la bancada) presentaron proyectos que proponen 'muerte civil' o inhabilitación perpetua para sentenciados por corrupción (Proyecto N°10344 por Cheryl Trigozo), lo que coincide con vetos permanentes.",
+          "source": "https://willax.pe/politica/cheryl-trigozo-congresista-de-renovacion-popular-propone-muerte-civil-para-sentenciados-por-corrupcion"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "Renovación Popular y su líder Rafael López Aliaga mantienen una postura 'pro-vida' y crítican los movimientos que piden legalizar o ampliar el acceso al aborto; en general se oponen a ampliar causales.",
+          "source": "https://elcomercio.pe/elecciones-2021/rafael-lopez-aliaga-toda-la-doctrina-de-genero-evidentemente-va-a-ser-exterminada-renovacion-popular-entrevista-elecciones-2021-noticia/"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.0,
+          "comment": "El plan de gobierno de Renovación Popular promueve reducción/simplificación regulatoria e incentivos económicos, no un enfoque de aumento de impuestos progresivos hacia los más ricos.",
+          "source": "https://www.actualidadambiental.pe/wp-content/uploads/2022/09/Plan-de-Gobierno-Renovacion-Popular-Elecciones-2022.pdf"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 1.0,
+          "comment": "Renovación Popular ha propuesto que las Fuerzas Armadas y otras medidas excepcionales asuman papeles más activos en seguridad (por ejemplo propuestas para usar cuarteles como cárceles y llamados a que las FF.AA. se hagan cargo de la seguridad), lo que muestra apoyo a mayor presencia militar.",
+          "source": "https://www.infobae.com/peru/2024/10/22/proponen-usar-cuarteles-de-las-fuerzas-armadas-como-carceles-proyecto-de-ley-fue-presentado-por-renovacion-popular/"
+        }
+      }
+    },
+    "Avanza País": {
+      "name": "Avanza País",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "Hay señales contradictorias: una congresista de Avanza País (Karol Paredes) ha pedido implementar la Educación Sexual Integral (ESI) para prevenir embarazos adolescentes y violencia de género; no obstante, bancadas de Avanza País apoyaron en 2022 un dictamen que elimina la ESI y el enfoque de género del currículo. Por tanto no hay posición única y clara a favor de mandatarla.",
+          "source": "https://comunicaciones.congreso.gob.pe/noticias/en-mesa-de-trabajo-analizan-acceso-a-una-educacion-sexual-integral-en-el-peru/ ; https://larepublica.pe/politica/2022/05/05/congreso-los-parlamentarios-que-votaron-a-favor-del-dictamen-que-afecta-el-enfoque-de-genero-y-educacion-sexual-en-aulas/"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.0,
+          "comment": "El ideario de Avanza País promueve \"un enfoque basado en la prevención, planificación, fortalecimiento, ejecución y la reinserción social\" y la planificación segmentada, lo que indica que no priorizan exclusivamente el castigo sobre la reintegración.",
+          "source": "https://api.avanzapais.org/media/documents/2025/02/28/IDEARIO_DE_AVANZA_PA%C3%8DS.pdf"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "Hay posiciones encontradas dentro del partido: candidatas y congresistas de Avanza País han expresado rechazo a despenalizar el aborto en casos de violación (p. ej. Beatriz Mejía), mientras que otros miembros vinculados a candidaturas pasadas han mostrado posiciones más liberales, por lo que la posición del partido es ambigua.",
+          "source": "https://ojo-publico.com/1536/candidata-beatriz-mejia-no-dijo-la-verdad-sobre-victimas-violacion ; https://es.wikipedia.org/wiki/Avanza_Pa%C3%ADs_-_Partido_de_Integraci%C3%B3n_Social"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.0,
+          "comment": "El ideario explícitamente propone la reducción de impuestos para las empresas y promoción de inversión privada; esto indica una orientación contraria a aumentar la carga proporcional sobre los más ricos.",
+          "source": "https://api.avanzapais.org/media/documents/2025/02/28/IDEARIO_DE_AVANZA_PA%C3%8DS.pdf"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "El ideario pide \"fortalecer a nuestra Policía Nacional del Perú, la Fuerza Aérea del Perú, la Marina de Guerra del Perú y el Ejército del Perú\" como ayuda para combatir la inseguridad; es una posición a favor de reforzar fuerzas del Estado en seguridad, aunque no especifica expresamente desplegar militares en las calles como política prioritaria.",
+          "source": "https://api.avanzapais.org/media/documents/2025/02/28/IDEARIO_DE_AVANZA_PA%C3%8DS.pdf"
+        }
+      }
+    },
+    "Acción Popular": {
+      "name": "Acción Popular",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.0,
+          "comment": "Un congresista de Acción Popular presentó un proyecto para que el currículo escolar sea aprobado previamente por los padres, lo que indica oposición a la Educación Sexual Integral mandatoria.",
+          "source": "https://www.flora.org.pe/wp-content/uploads/publicaciones/EFECTOS-DE-LAS-ACCIONES-Y-ESTRATEGIAS-ANTI-GENERO-EN-PARAGUAY-Y-PERU.pdf"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.0,
+          "comment": "El plan de Acción Popular prioriza prevención, tecnología y coordinación con la Policía Nacional y el serenazgo (medidas comunitarias y de prevención), no un enfoque exclusivo en el castigo.",
+          "source": "https://cde.3.elcomercio.pe/doc/0/1/7/1/2/1712587.pdf"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.0,
+          "comment": "Representantes de Acción Popular en la Comisión de Economía (por ejemplo Elvis Vergara) se han pronunciado en contra de los retiros AFP y los han calificado de populistas.",
+          "source": "https://www.infobae.com/peru/2025/08/13/comision-de-economia-2025-las-posiciones-de-los-tres-miembros-sobre-el-retiro-afp/"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "El congresista Wilson Soto (Acción Popular) presentó un proyecto que propone sancionar con cadena perpetua o pena de muerte delitos como extorsión, secuestro, sicariato y robo agravado.",
+          "source": "https://wb2server.congreso.gob.pe/spley-portal-service/archivo/MjE5Njgz/pdf"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.0,
+          "comment": "El plan de Acción Popular promueve coordinación con la Policía Nacional y el serenazgo y medidas de prevención ciudadana; no promueve una mayor presencia militar en las calles.",
+          "source": "https://cde.3.elcomercio.pe/doc/0/1/7/1/2/1712587.pdf"
+        }
+      }
+    },
+    "Juntos por el Perú": {
+      "name": "Juntos por el Perú",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 1.0,
+          "comment": "Apoyan educación sexual integral y un enfoque de género e interculturalidad en la educación pública; proponen políticas públicas para educación con enfoque de derechos y prevención de violencia sexual.",
+          "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.0,
+          "comment": "Promueven un enfoque participativo y preventivo de seguridad ciudadana, con reforma de la Policía Nacional y participación comunitaria, en lugar de priorizar solo castigos.",
+          "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "Miembros de la bancada/Juntos por el Perú han impulsado proyectos de retiro de AFP (por ejemplo retiros hasta 4 UIT); no hay evidencia de un respaldo unánime del partido a una medida de retiro universal a los 45 años.",
+          "source": "La República / Infobae - larepublica.pe; infobae.com"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 1.0,
+          "comment": "Presentaron y respaldaron iniciativas para despenalizar el aborto en casos de violación (proyecto impulsado por la congresista Ruth Luque).",
+          "source": "Comunicaciones Congreso / Swissinfo / Infobae - comunicaciones.congreso.gob.pe; swissinfo.ch; infobae.com"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 1.0,
+          "comment": "Proponen una reforma tributaria redistributiva que incluya impuestos a las grandes fortunas y medidas progresivas.",
+          "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No hay posición unificada: la alianza con Antauro Humala incluye propuestas favorables a la pena de muerte, mientras que congresistas del partido han declarado su oposición. El partido muestra división sobre el tema.",
+          "source": "7dias / ATV / SinPermiso - 7dias.pe; atv.pe; sinpermiso.info"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.0,
+          "comment": "El plan prioriza la reforma de la Policía Nacional y un enfoque preventivo/participativo para la seguridad ciudadana; no promueven una mayor presencia militar en las calles como política central.",
+          "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
+        }
+      }
+    },
+    "Frepap": {
+      "name": "Frepap",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.0,
+          "comment": "Frepap se opone a la Educación Sexual Integral, especialmente a enfoques de género; por tanto no apoyan que sea mandatoria.",
+          "source": "https://wayka.pe/el-lobby-religioso-que-no-descansa-durante-la-pandemia/"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Frepap apuesta por medidas de seguridad contundentes y hay registros de propuestas o llamadas a castigos severos (menciones históricas a pena de muerte), lo que indica prioridad por un enfoque punitivo.",
+          "source": "https://sudaca.pe/noticia/informes/la-ultima-caravana-del-frepap-2/"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 1.0,
+          "comment": "La bancada del Frepap presentó una propuesta de inhabilitación perpetua para corruptos, lo que equivale a vetarlos de por vida de cargos públicos.",
+          "source": "https://radioondaazul.com/frepap-proponen-inhabilitacion-perpetua-a-corruptos-para-ejercer-cargos-de-administracion-publica-y-representacion-politica/"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "Congresistas del Frepap se han pronunciado en contra del aborto terapéutico y de la despenalización por violación; por tanto se oponen a permitir aborto en esos casos.",
+          "source": "https://wayka.pe/el-lobby-religioso-que-no-descansa-durante-la-pandemia/"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 1.0,
+          "comment": "La bancada del Frepap presentó un proyecto para un impuesto directo solidario a las grandes fortunas con tasas de hasta 3%, proponiendo gravar más a los más ricos.",
+          "source": "https://andina.pe/agencia/noticia-frepap-plantea-impuesto-hasta-3-a-las-grandes-fortunas-794344.aspx"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Hay registros y análisis que asocian al Frepap con propuestas de penas extremas (menciones históricas a la pena de muerte y castigos severos), indicando acuerdo con la idea.",
+          "source": "https://sudaca.pe/noticia/informes/la-ultima-caravana-del-frepap-2/"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    },
+    "Podemos Perú": {
+      "name": "Podemos Perú",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "Podemos Perú y su liderazgo (Daniel Urresti, José Luna) han promovido políticas de 'mano dura' y penas más severas; han difundido propuestas que favorecen cadena perpetua para sicarios/extorsionadores y el fortalecimiento de comisarías y sanciones.",
+          "source": "https://www.facebook.com/photo.php?fbid=1094165198735107&id=100044249103024&set=a.405356920949275/ ; https://www.nodal.am/2021/04/cuales-son-las-propuestas-de-los-y-las-candidatas-para-erradicar-la-violencia-de-genero/"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 1.0,
+          "comment": "La bancada y congresistas de Podemos (especialmente José Luna) han presentado y promovido proyectos para permitir retiros extraordinarios de fondos de AFP (p. ej. proyectos para retiro de hasta 4 UIT) y han pedido priorizar su debate en el Congreso.",
+          "source": "https://comunicaciones.congreso.gob.pe/damos-cuenta/presentan-nuevo-proyecto-para-retiro-de-4-uit-de-cuentas-afp/ ; https://www.infobae.com/peru/2025/09/15/octavo-retiro-afp-ve-la-luz-jose-luna-podemos-peru-congreso-presenta-proyecto-que-deroga-la-reforma-previsional-y-autoriza-liberacion-extraordinaria-de-fondos/"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.0,
+          "comment": "Verificaciones periodísticas y revisión del plan de gobierno indican que el programa de Podemos Perú no incluye la despenalización del aborto por violación; la afirmación del candidato Daniel Urresti en campaña sobre esto fue calificada como falsa.",
+          "source": "https://convoca.pe/convoca-verifica/reportaje/no-es-cierto-lo-que-dijo-urresti-acerca-de-que-su-plan-de-gobierno ; https://ojo-publico.com/2564/no-es-cierto-lo-que-dijo-urresti-acerca-de-su-postura-sobre-el-aborto"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.0,
+          "comment": "En su discurso y plan de seguridad, Podemos y su liderazgo enfatizan el fortalecimiento y equipamiento de la Policía Nacional y sanciones más duras; no existe evidencia pública sólida de que promuevan como política principal el despliegue masivo de las Fuerzas Armadas en las calles.",
+          "source": "https://elcomercio.pe/politica/actualidad/perfil-daniel-urresti-el-militar-en-retiro-y-politico-que-aun-le-debe-una-respuesta-a-la-justicia-caso-hugo-bustios-ayacucho-noticia/ ; https://www.nodal.am/2021/04/cuales-son-las-propuestas-de-los-y-las-candidatas-para-erradicar-la-violencia-de-genero/"
+        }
+      }
+    },
+    "Alianza para el Progreso": {
+      "name": "Alianza para el Progreso",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "APP ha promovido proyectos y declaraciones a favor de medidas de seguridad contundentes y que las Fuerzas Armadas apoyen a la Policía en la lucha contra la delincuencia.",
+          "source": "https://www.infobae.com/peru/2024/02/28/app-impulsa-propuesta-para-que-las-fuerzas-armadas-acompanen-a-la-pnp-en-lucha-contra-delincuencia/"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "La bancada de APP presentó proyectos para penas más severas por corrupción (hasta 22 años) y medidas de inhabilitación en casos de corrupción.",
+          "source": "https://andina.pe/agencia/noticia-proponen-hasta-22-anos-carcel-corrupcion-durante-emergencias-662316.aspx"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 1.0,
+          "comment": "La bancada y representantes de APP han respaldado proyectos de retiro de fondos de AFP y votaron a favor de reformas relacionadas con retiros.",
+          "source": "https://larepublica.pe/politica/2025/09/15/retiro-de-la-afp-fuerza-popular-renovacion-popular-y-app-votaron-a-favor-de-la-reforma-que-ahora-rechazan-hnews-1338720"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 1.0,
+          "comment": "Congresistas de APP presentaron iniciativas vinculadas a autorizar al Ejecutivo retirar al Perú del Pacto de San José, paso vinculado a permitir la pena de muerte; indica apoyo a medidas que permitirían pena de muerte.",
+          "source": "https://www.radionacional.gob.pe/noticias/politica/pena-de-muerte-presentan-proyecto-de-ley-que-propone-retiro-del-peru-del-pacto-de-san-jose"
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 1.0,
+          "comment": "Miembros de APP han propuesto que las Fuerzas Armadas apoyen a la policía en seguridad ciudadana y han respaldado ideas de mayor participación militar en la lucha contra la criminalidad.",
+          "source": "https://gestion.pe/peru/politica/app-propone-que-las-ff-aa-apoye-a-la-policia-en-la-lucha-contra-la-criminalidad-noticia/"
+        }
+      }
+    },
+    "Somos Perú": {
+      "name": "Somos Perú",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 0.0,
+          "comment": "El plan de Somos Perú prioriza la prevención integral de la delincuencia y medidas de coordinación con la Policía (cámaras, participación vecinal, juzgados de flagrancia para agilizar sanciones) — es una combinación de prevención y aplicación de la ley, no una apuesta exclusiva por el castigo en vez de la reinserción.",
+          "source": "declara.jne.gob.pe / Plan de Gobierno Somos Perú"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "Somos Perú incluye propuestas anticorrupción en sus planes y además cuenta con normativa partidaria interna que menciona la exclusión de quienes han sido sentenciados por delitos como corrupción; eso muestra apoyo a vetos/inhabilitaciones en el ámbito partidario, aunque no hay en el plan una propuesta explícita de inhabilitación de por vida para cargos públicos en general.",
+          "source": "Plan de Gobierno Somos Perú; Directiva OEC/PDSP (Somos Perú)"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.5,
+          "comment": "No hay un mandato partidario claro para retiros automáticos a los 45 años; además, líderes de Somos Perú en el Congreso (ej. presidente del Congreso José Jerí) se pronunciaron en contra de nuevos retiros extraordinarios de AFP, lo que indica postura ambivalente o contraria a facilitar retiros indiscriminados.",
+          "source": "Declaraciones de congresista José Jerí (Somos Perú); noticias sobre rechazo a retiros de AFP"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 0.5,
+          "comment": "El plan de Somos Perú propone una 'política tributaria y de facilitación que estimule y no disuada la formalización' y medidas para fomentar la formalización; el documento no expresa de forma explícita una apuesta por impuestos marcadamente más progresivos, por lo que la concordancia con la afirmación es parcial/indirecta.",
+          "source": "Plan de Gobierno Somos Perú"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.0,
+          "comment": "Los documentos programáticos de Somos Perú enfatizan la presencia policial y medidas de seguridad ciudadana (patrullaje, cámaras, coordinación con la PNP) — no hay en su plan una propuesta programática de aumentar la presencia militar en las calles como política permanente.",
+          "source": "Plan de Gobierno Somos Perú"
+        }
+      }
+    },
+    "Partido Aprista Peruano": {
+      "name": "Partido Aprista Peruano",
+      "votes": {
+        "Educación sexual: La educación sobre temas sexuales debería ser mandatoria en los colegios.": {
+          "tema": "Educación sexual",
+          "question": "La educación sobre temas sexuales debería ser mandatoria en los colegios.",
+          "vote": 1.0,
+          "comment": "El plan de gobierno del Partido Aprista Peruano menciona que 'la salud mental, el deporte y la educación sexual son fomentados a lo largo de la vida de los peruanos', lo que muestra apoyo explícito a la educación sexual.",
+          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/2065/ARCHIVO/FIRMADO/9039.PDF"
+        },
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": 1.0,
+          "comment": "El Plan de Gobierno destaca el fortalecimiento de la Policía Nacional (formación y aumento de comisarías) y la ampliación de infraestructura penitenciaria, lo que refleja un enfoque centrado en medidas de control y castigo para la seguridad ciudadana.",
+          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/2065/ARCHIVO/FIRMADO/9039.PDF"
+        },
+        "Corrupción: Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas sentenciadas por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "vote": 0.5,
+          "comment": "El plan plantea una 'lucha permanente contra toda forma de corrupción' y medidas anticorrupción (cláusulas anticorrupción en contratos, fortalecimiento de procuradurías), pero no especifica un veto de por vida para responsables condenados; por tanto es plausible que apoyen sanciones fuertes pero no necesariamente inhabilitación perpetua.",
+          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/2065/ARCHIVO/FIRMADO/9039.PDF"
+        },
+        "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
+          "tema": "AFP",
+          "question": "Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.",
+          "vote": 0.0,
+          "comment": "El Plan propone una 'Reforma del Sistema Previsional' hacia un sistema mixto, eliminación de comisiones fijas y otros cambios estructurales, pero no apoya retiros anticipados desde los 45 años; por tanto no respalda la medida pedida.",
+          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/2065/ARCHIVO/FIRMADO/9039.PDF"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "vote": 1.0,
+          "comment": "El documento indica que el régimen tributario debe 'incentivar la formalización' y menciona un 'sistema impositivo progresivo' en beneficio de las MYPES; esto muestra apoyo a la progresividad tributaria.",
+          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/2065/ARCHIVO/FIRMADO/9039.PDF"
+        },
+        "Pena de muerte: Está bien que haya la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que haya la pena de muerte en el Perú.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "tema": "Militares",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        }
+      }
+    }
+  }
+}
