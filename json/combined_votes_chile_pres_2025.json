@@ -1,0 +1,1172 @@
+{
+  "candidates": {
+    "Evelyn Matthei (Unión Demócrata Independiente)": {
+      "name": "Evelyn Matthei",
+      "party": "Unión Demócrata Independiente",
+      "votes": {
+        "Vivienda: El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.": {
+          "tema": "Vivienda",
+          "question": "El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Sueldo mínimo: El sueldo mínimo en Chile debería ser aumentado.": {
+          "tema": "Sueldo mínimo",
+          "question": "El sueldo mínimo en Chile debería ser aumentado.",
+          "vote": "0.5",
+          "comment": "\"No está en contra, pero para subir el sueldo mínimo debemos crecer económicamente y crear más empleo. Proponemos volver a crecer al 4% y, a partir de ahí, crear 1 millón de empleos.\".",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Seguridad pública: El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": "1",
+          "comment": "\"Vamos a combatir con toda la fuerza de la ley el crimen y a los delincuentes: con cárceles de alta seguridad, inteligencia y 10 mil nuevos carabineros. Pero también nos precuparemos de la prevención, especialmente de los jóvenes.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Secreto bancario: Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.": {
+          "tema": "Secreto bancario",
+          "question": "Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.",
+          "vote": "0",
+          "comment": "No sin un juez de por medio.",
+          "source": "https://radio.uchile.cl/2025/09/23/matthei-define-posicion-sobre-el-secreto-bancario-tenemos-que-armar-un-equipo-de-inteligencia/"
+        },
+        "Salud: El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).": {
+          "tema": "Salud",
+          "question": "El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).",
+          "vote": "0.5",
+          "comment": "\"Queremos que todas las personas tengan un acceso a salud oportuno y digno, pero que también puedan elegir. Vamos a fortaelcer Fonasa, resolveremos los problemas con las Isapres y garantizaremos la posibilidad de elección.\" \" La prioridad será reducir los tiempos de espera en atención primaria y hospitales, optimizar el uso de pabellones, eliminar filas y aprovechar la transformación digital. Si la gestión pública no es suficiente, se\nrecurrirá a alianzas con el sector privado.\", y habla de reducir los costos de ciertos medicamentos (ej. contra el cáncer), pero no a nivel general. No menciona quitar el IVA",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Restitución de tierras: El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.": {
+          "tema": "Restitución de tierras",
+          "question": "El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.",
+          "vote": "1",
+          "comment": "Ha sido crítica con el informe de la Comisión para la Paz y enfatiza la existencia de “terrorismo” en la Macrozona Sur; desde la derecha se ha rechazado la idea de un plan estatal masivo de compra/restitución de tierras. (Matthei ha puesto reparos públicos al informe).",
+          "source": "https://www.latercera.com/politica/noticia/matthei-por-acuerdo-de-comision-para-la-paz-es-imposible-el-entendimiento-si-no-se-reconoce-que-ha-habido-terrorismo/"
+        },
+        "Reparación y reconocimiento cultural: El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.": {
+          "tema": "Reparación y reconocimiento cultural",
+          "question": "El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.",
+          "vote": "0",
+          "comment": "\"Estamos de acuerdo en reconocer constitucionalmente a los pueblos originarios (como el Mapuche), pero siempre en el marco de la nación chilena, que es una e indivisible. Nuestro programa diferencia la reivindicación de los pueblos indígenas de los actos de violencia, aplicando con firmeza el Estado de Derecho a quienes lo infrinjan, sin ambigüedades. Por eso, crearemos una Ley de Víctimas del Terrorismo para resguardar con una nueva institucionalidad a las personas que han sido afectadas por actos terroristas.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Pensiones: Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).": {
+          "tema": "Pensiones",
+          "question": "Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).",
+          "vote": "1",
+          "comment": "\"Defendemos el ahorro individual de los trabajadores, la PGU para que los adultos mayores puedan tener pensiones dignas y el bono de compensación a las mujeres.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Pena de muerte: La pena de muerte debería estar permitida en Chile.": {
+          "tema": "Pena de muerte",
+          "question": "La pena de muerte debería estar permitida en Chile.",
+          "vote": "1",
+          "comment": "\"Personalmente estoy a favor. Sin embargo, no existe el acuerdo para avanzar en esta propuesta, por lo que no la impulsaré en mi gobierno.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Migración irregular: La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.": {
+          "tema": "Migración irregular",
+          "question": "La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.",
+          "vote": "0",
+          "comment": "\"La candidata propone el cierre total de las fronteras, con tecnología y una Policía Militar Fronteriza para combatir la inmigración irregular. La solución no es la regularización masiva. También propone crear acuerdos con algunos países para que los trabajadores vengan temporalmente a realizar ciertos trabajos.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Matrimonio: El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.": {
+          "tema": "Matrimonio",
+          "question": "El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.",
+          "vote": "1",
+          "comment": "\"Defendemos la ley de matrimonio homosexual promulgada por el presidente Piñera.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Litio: La extracción del litio en Chile no debería estar regulada por el Estado.": {
+          "tema": "Litio",
+          "question": "La extracción del litio en Chile no debería estar regulada por el Estado.",
+          "vote": "1",
+          "comment": "\"Propone reformar la administración de Codelco, de tal manera de empezar a usar gestión competitiva como las empresas privadas, y dar transparencia al proceso que ha tenido la Estrategia Nacional de Litio.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Jornada: La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.": {
+          "tema": "Jornada",
+          "question": "La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.",
+          "vote": "0.5",
+          "comment": "Ha expresado reservas sobre los efectos de las 40 horas, destacando advertencias del Banco Central sobre impacto en empleo y productividad. Apoya la flexibilidad más que la reducción rígida.",
+          "source": "https://www.latercera.com/pulso/noticia/matthei-respalda-informe-del-banco-central-que-detalla-efectos-en-el-empleo-por-las-40-horas-y-el-salario-minimo/"
+        },
+        "Impuestos progresivos: Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.": {
+          "tema": "Impuestos progresivos",
+          "question": "Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.",
+          "vote": "1",
+          "comment": "\"Actualmente en nuestro país los impuestos a las personas son progresivos y está muy bien que así sea y no vamos a reformar eso.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Gasto: El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.": {
+          "tema": "Gasto",
+          "question": "El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.",
+          "vote": "1",
+          "comment": "\"Nuestro objetivo es tener un Estado e instituciones eficientes, que gasten bien los recursos para dar solución a los problemas de los chilenos. Por eso proponemos redestinar en 4 años USD 8 mil millones para invertirlos de buena manera en salud, seguridad, vivienda, entre otros.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Despidos: El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.": {
+          "tema": "Despidos",
+          "question": "El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.",
+          "vote": "1",
+          "comment": "\"Vamos a reducir en un 50% los cargos de confianza en el Estado e identificarremos a todos los funcionarios que hayan hecho mal uso de sus licencias médicas y que se encuentren \"apitutados\" en el Estado para desvilcularlos.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Control fronterizo: El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.": {
+          "tema": "Control fronterizo",
+          "question": "El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.",
+          "vote": "1",
+          "comment": "\"La candidata propone el cierre total de las fronteras, con tecnología y una Policía Militar Fronteriza para combatir la inmigración irregular. La solución no es la regularización masiva. También propone crear acuerdos con algunos países para que los trabajadores vengan temporalmente a realizar ciertos trabajos.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Constitución: Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.": {
+          "tema": "Constitución",
+          "question": "Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.",
+          "vote": "0",
+          "comment": "\"Ya tuvimos dos procesos constitucionales que fracasaron. Los chilenos necesitamos estabildiad y si bien es posible hacer modificaciones constitucionales para mejorar el sistema político o para dar más atribuciones a FFAA, no estamos de ninguna manera a favor de reemplazar la Constitución actual. \"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Cambio climático: El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.": {
+          "tema": "Cambio climático",
+          "question": "El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.",
+          "vote": "1",
+          "comment": "\"Sabemos que Chile es uno de los países más afectados por el cambio climático. Nuestra propuesta es asegurar el agua para el consumo y para el riego, impulsaremos planes de construcción de embalses y desaladoras para asegurar el agua y en los primeros días echaremos a andar un sistema de emergencia hídrica que nos permita identificar a tiempo la escasez de agua en ciudades, para tomar medidas preventivas. Además, el cambio climático es un desafío para la adaptabilidad de nuestras industrias: en energía, minería y agricultura.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        },
+        "Aborto: El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).": {
+          "tema": "Aborto",
+          "question": "El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).",
+          "vote": "0",
+          "comment": "\"A favor del aborto en tres causales como es actualmente.\"",
+          "source": "https://electometro.org/electometro/20251101_Posiciones_Oficiales_Matthei.csv"
+        }
+      }
+    },
+    "José Antonio Kast (Partido Republicano de Chile)": {
+      "name": "José Antonio Kast",
+      "party": "Partido Republicano de Chile",
+      "votes": {
+        "Vivienda: El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.": {
+          "tema": "Vivienda",
+          "question": "El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.",
+          "vote": "0.5",
+          "comment": "Plantea \"ampliar los subsidios habitacionales, fortaleciendo los programas para la clase media e incorporando la posibilidad de la autoconstrucción. Esto último, a través del subsidio “Mi Terreno”\". https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2025/10/11/hipotecazo-y-pie-cero-las-principales-propuestas-de-los-candidatos-presidenciales-sobre-vivienda.shtml",
+          "source": null
+        },
+        "Sueldo mínimo: El sueldo mínimo en Chile debería ser aumentado.": {
+          "tema": "Sueldo mínimo",
+          "question": "El sueldo mínimo en Chile debería ser aumentado.",
+          "vote": "0",
+          "comment": "Su bancada votó en contra de subir el sueldo mínimo a 500 000 CLP",
+          "source": "https://www.elmostrador.cl/mercados/2023/05/10/bancada-de-republicanos-anuncia-que-votara-en-contra-de-proyecto-de-aumento-del-salario-minimo/"
+        },
+        "Seguridad pública: El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": "1",
+          "comment": "“Plan Implacable”: penas más duras, cárceles de aislamiento total y “guerra” al crimen organizado.",
+          "source": "https://www.t13.cl/noticia/politica/las-propuestas-de-kast-para-su-plan-implacable-de-seguridad-19-5-2025"
+        },
+        "Secreto bancario: Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.": {
+          "tema": "Secreto bancario",
+          "question": "Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.",
+          "vote": "0",
+          "comment": "No sin un juez de por medio.",
+          "source": null
+        },
+        "Salud: El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).": {
+          "tema": "Salud",
+          "question": "El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).",
+          "vote": "0",
+          "comment": "Programa y comunicaciones defienden soluciones con sector privado y no plantean terminar o sustituir Isapres; énfasis en políticas de prevención y ajuste (no en ampliar FONASA y reducir Isapres).",
+          "source": "https://kast.cl/wp-content/uploads/2025/05/PLAN-ZERO.pdf"
+        },
+        "Restitución de tierras: El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.": {
+          "tema": "Restitución de tierras",
+          "question": "El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.",
+          "vote": "1",
+          "comment": "Su campaña en La Araucanía puso el acento en “recuperar el territorio”, seguridad y mano dura; el sector Republicano ha rechazado las propuestas de compra/restitución masiva recogidas en el informe. (Plan “Araucanía Libre”; críticas al informe).",
+          "source": "https://www.latercera.com/politica/noticia/araucania-libre-kast-da-a-conocer-plan-de-5-puntos-para-eliminar-la-violencia-en-la-region/"
+        },
+        "Reparación y reconocimiento cultural: El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.": {
+          "tema": "Reparación y reconocimiento cultural",
+          "question": "El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.",
+          "vote": "0",
+          "comment": "En contra del acuerdo de la comisión de la Paz y el Entendimiento",
+          "source": "https://www.theclinic.cl/2025/05/02/el-conflicto-que-se-armo-en-la-derecha-por-el-acuerdo-de-la-comision-para-la-paz-y-el-entendimiento/"
+        },
+        "Pensiones: Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).": {
+          "tema": "Pensiones",
+          "question": "Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).",
+          "vote": "1",
+          "comment": "A favor de cuentas individuales",
+          "source": "https://www.emol.com/noticias/Nacional/2024/12/10/1150942/kast-por-pensiones-udimatthei.html"
+        },
+        "Pena de muerte: La pena de muerte debería estar permitida en Chile.": {
+          "tema": "Pena de muerte",
+          "question": "La pena de muerte debería estar permitida en Chile.",
+          "vote": "0",
+          "comment": "Rechaza; prefiere cadena perpetua y la califica de “salida fácil”.",
+          "source": "https://www.infobae.com/america/america-latina/2025/03/14/polemica-en-chile-por-propuesta-de-la-candidata-evelyn-matthei-de-reflotar-la-pena-de-muerte/"
+        },
+        "Migración irregular: La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.": {
+          "tema": "Migración irregular",
+          "question": "La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.",
+          "vote": "0",
+          "comment": "Propuso armar una pared en la frontera norte",
+          "source": "https://www.eldinamo.cl/politica/2024/05/02/jose-antonio-kast-propone-construir-muro-frontera-bolivia-zanja-migracion-irregular/"
+        },
+        "Matrimonio: El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.": {
+          "tema": "Matrimonio",
+          "question": "El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.",
+          "vote": "0",
+          "comment": "En contra de la homosexualidad.",
+          "source": "https://english.elpais.com/international/2023-05-14/jose-antonio-kast-the-far-right-catholic-who-seduces-chile.html?"
+        },
+        "Litio: La extracción del litio en Chile no debería estar regulada por el Estado.": {
+          "tema": "Litio",
+          "question": "La extracción del litio en Chile no debería estar regulada por el Estado.",
+          "vote": "1",
+          "comment": "En contra de Codelco y SQM",
+          "source": "https://www.latercera.com/pulso/noticia/presidenciales-y-sqm-codelco-respaldo-casi-total-en-el-oficialismo-y-revision-de-matthei-kast-y-kaiser/"
+        },
+        "Jornada: La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.": {
+          "tema": "Jornada",
+          "question": "La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.",
+          "vote": "0.5",
+          "comment": "Ha dicho que no retrotraería la norma en términos absolutos, pero promueve “mejorar su aplicación” y medidas de adaptabilidad laboral. Ha planteado flexibilizar la jornada laboral (ej. teletrabajo).",
+          "source": "https://eldiariodesantiago.cl/2025/09/24/kast-sobre-recorte-fiscal-en-18-meses-juzguenme-y-si-no-cumplo-me-piden-el-cargo/"
+        },
+        "Impuestos progresivos: Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.": {
+          "tema": "Impuestos progresivos",
+          "question": "Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.",
+          "vote": "0",
+          "comment": "Le pidió a los senadores que voten en contra de la reforma tributaria",
+          "source": "https://www.latercera.com/politica/noticia/kast-llama-a-senadores-de-chile-vamos-a-no-concurrir-con-sus-votos-en-caso-de-que-el-gobierno-insista-con-la-reforma-tributaria/NHPUMABIC5GTHBOB6S33SQTRKQ/"
+        },
+        "Gasto: El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.": {
+          "tema": "Gasto",
+          "question": "El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.",
+          "vote": "1",
+          "comment": "Quiere eliminar 50 000 empleos públicos y “achicar el Estado”.",
+          "source": "https://elpais.com/chile/2025-05-15/primer-cara-a-cara-de-los-presidenciables-en-chile-recorte-del-gasto-publico-incentivo-a-la-vivienda-y-cruces-por-las-contribuciones.html"
+        },
+        "Despidos: El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.": {
+          "tema": "Despidos",
+          "question": "El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.",
+          "vote": "1",
+          "comment": "Propone reducir ministerios y “solicitar el retiro a 30 000 personas”.",
+          "source": "https://www.futuro.cl/2021/10/kast-propuso-reducir-ministerios-y-solicitar-el-retiro-a-30-mil-personas/"
+        },
+        "Control fronterizo: El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.": {
+          "tema": "Control fronterizo",
+          "question": "El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.",
+          "vote": "1",
+          "comment": "Propuso armar una pared en la frontera norte",
+          "source": "https://www.eldinamo.cl/politica/2024/05/02/jose-antonio-kast-propone-construir-muro-frontera-bolivia-zanja-migracion-irregular/"
+        },
+        "Constitución: Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.": {
+          "tema": "Constitución",
+          "question": "Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.",
+          "vote": "0",
+          "comment": "Contra una nueva constitución",
+          "source": "https://www.latercera.com/la-tercera-domingo/noticia/jose-antonio-kast-no-necesitamos-una-nueva-constitucion/WZEZITGFNND4JNMDAJY4IINXE4/"
+        },
+        "Cambio climático: El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.": {
+          "tema": "Cambio climático",
+          "question": "El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.",
+          "vote": "0.5",
+          "comment": "No es una prioridad, pero no niega que haya cambio climático",
+          "source": "https://www.ex-ante.cl/la-apuesta-de-kast-por-la-agenda-medioambiental-y-el-cambio-climatico-tras-las-criticas-de-primera-vuelta/"
+        },
+        "Aborto: El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).": {
+          "tema": "Aborto",
+          "question": "El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).",
+          "vote": "0",
+          "comment": "Completamente en contra de más liberalización",
+          "source": "https://english.elpais.com/international/2023-05-14/jose-antonio-kast-the-far-right-catholic-who-seduces-chile.html"
+        }
+      }
+    },
+    "Johannes Kaiser (Partido Nacional Libertario)": {
+      "name": "Johannes Kaiser",
+      "party": "Partido Nacional Libertario",
+      "votes": {
+        "Vivienda: El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.": {
+          "tema": "Vivienda",
+          "question": "El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.",
+          "vote": "0",
+          "comment": "No el Estado directamente. Propone la \"flexibilización del crédito hipotecario para facilitar el acceso al financiamiento y promover la competencia en el sector financiero\".",
+          "source": "https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2025/10/11/hipotecazo-y-pie-cero-las-principales-propuestas-de-los-candidatos-presidenciales-sobre-vivienda.shtml"
+        },
+        "Sueldo mínimo: El sueldo mínimo en Chile debería ser aumentado.": {
+          "tema": "Sueldo mínimo",
+          "question": "El sueldo mínimo en Chile debería ser aumentado.",
+          "vote": "0",
+          "comment": "Votó en contra del aumento a $500 000 junto a su bancada",
+          "source": "https://www.elmostrador.cl/mercados/2023/05/10/bancada-de-republicanos-anuncia-que-votara-en-contra-de-proyecto-de-aumento-del-salario-minimo/"
+        },
+        "Seguridad pública: El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": "1",
+          "comment": "Defiende el modelo Bukele; se declara partidario de “mano dura” y endurecer penas.",
+          "source": "https://www.ciperchile.cl/2025/04/01/la-mano-hiper-dura-analisis-de-las-propuestas-en-seguridad-de-las-candidaturas-presidenciales-de-derecha/"
+        },
+        "Secreto bancario: Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.": {
+          "tema": "Secreto bancario",
+          "question": "Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Salud: El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).": {
+          "tema": "Salud",
+          "question": "El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).",
+          "vote": "0",
+          "comment": "Programa nacional-libertario enfatiza libertad, mercado y reducción del gasto público; su capítulo de salud prioriza opciones privadas/flexibilidad y no la expansión de FONASA como sustituto de Isapres.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251166.pdf"
+        },
+        "Restitución de tierras: El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.": {
+          "tema": "Restitución de tierras",
+          "question": "El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.",
+          "vote": "1",
+          "comment": "El PNL y Kaiser rechazaron el informe de la Comisión por considerarlo inviable y criticaron la idea de un plan estatal de compra de tierras; Kaiser se opuso además a consultas indígenas vinculantes.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2025/06/20/kaiser-rechaza-consulta-indigena-por-comision-por-la-paz-por-generar-una-industria-extorsiva.shtml"
+        },
+        "Reparación y reconocimiento cultural: El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.": {
+          "tema": "Reparación y reconocimiento cultural",
+          "question": "El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.",
+          "vote": "0",
+          "comment": "Rechazó el informe de la Comisión de Paz y acusó “burocracia indigenista”",
+          "source": "https://www.latercera.com/politica/noticia/pnl-rechaza-informe-de-comision-por-la-paz-y-el-entendimiento-acusa-descabellado-plan-de-compra-de-tierras/"
+        },
+        "Pensiones: Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).": {
+          "tema": "Pensiones",
+          "question": "Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).",
+          "vote": "1",
+          "comment": "“El 6 % debe ir completo a cuentas individuales; lo otro es robo”",
+          "source": "https://www.latercera.com/politica/noticia/johannes-kaiser-confirmo-que-no-participara-en-primarias-con-chile-vamos/OJ75O4HAFVFE7KIIGDJ7P654JQ/"
+        },
+        "Pena de muerte: La pena de muerte debería estar permitida en Chile.": {
+          "tema": "Pena de muerte",
+          "question": "La pena de muerte debería estar permitida en Chile.",
+          "vote": "1",
+          "comment": "“Debe reinstalarse”; la ve necesaria para violadores y asesinos de policías.",
+          "source": "https://www.infobae.com/america/america-latina/2025/03/14/polemica-en-chile-por-propuesta-de-la-candidata-evelyn-matthei-de-reflotar-la-pena-de-muerte/"
+        },
+        "Migración irregular: La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.": {
+          "tema": "Migración irregular",
+          "question": "La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.",
+          "vote": "0",
+          "comment": "Propone “migración ilegal cero” y expulsión inmediata",
+          "source": "https://johanneskaiser.cl/migracion-ilegal-cero/"
+        },
+        "Matrimonio: El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.": {
+          "tema": "Matrimonio",
+          "question": "El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.",
+          "vote": "0",
+          "comment": "Rechaza el matrimonio igualitario y propone derogarlo",
+          "source": "https://www.laizquierdadiario.cl/Detras-de-Milei-Kaiser-plantea-eliminar-el-Ministerio-de-la-Mujer-y-el-matrimonio-igualitario"
+        },
+        "Litio: La extracción del litio en Chile no debería estar regulada por el Estado.": {
+          "tema": "Litio",
+          "question": "La extracción del litio en Chile no debería estar regulada por el Estado.",
+          "vote": "1",
+          "comment": "Cuestiona el acuerdo Codelco-SQM y promete revisarlo",
+          "source": "https://www.latercera.com/pulso/noticia/presidenciales-y-sqm-codelco-respaldo-casi-total-en-el-oficialismo-y-revision-de-matthei-kast-y-kaiser/"
+        },
+        "Jornada: La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.": {
+          "tema": "Jornada",
+          "question": "La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.",
+          "vote": "0",
+          "comment": "Ha criticado la medida como “populista” y “contraria a la productividad”; propone mayor libertad contractual entre empleador y trabajador. Como diputado, ha señalado: \"este proyecto de ley lo que pretende es rebajar la jornada laboral a 40 horas, es decir, a la misma cantidad de horas trabajadas que en Austria, Suiza y otros países europeos, que tienen una productividad 40 por ciento mayor que en Chile. Es decir, nuestra capacidad para competir con esas naciones se va a ir reduciendo aún más. Para qué hablar de las asiáticas, que no conocen las 40 horas.\"",
+          "source": "https://www.bcn.cl/laborparlamentaria/participacion?idParticipacion=2323427"
+        },
+        "Impuestos progresivos: Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.": {
+          "tema": "Impuestos progresivos",
+          "question": "Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.",
+          "vote": "0",
+          "comment": "Propone bajar impuestos corporativos y eliminar contribuciones",
+          "source": "https://johanneskaiser.cl/2025/05/15/johannes-kaiser-propone-plan-historico-para-superar-deficit-habitacional-un-millon-de-subsidios-en-los-primeros-90-dias-de-gobierno/"
+        },
+        "Gasto: El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.": {
+          "tema": "Gasto",
+          "question": "El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.",
+          "vote": "1",
+          "comment": "Plantea suprimir ministerios (ej. Mujer) y reducir la estructura estatal.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2025/03/30/kaiser-en-modo-milei-quiere-eliminar-ministerio-de-la-mujer-porque-es-un-desastre/"
+        },
+        "Despidos: El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.": {
+          "tema": "Despidos",
+          "question": "El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.",
+          "vote": "1",
+          "comment": "Pide cesar a los 25 000 empleados con licencias fraudulentas; “hay que achicar el Estado”.",
+          "source": "https://www.latercera.com/politica/noticia/kaiser-propone-despedir-a-los-mas-de-25-mil-funcionarios-publicos-que-viajaron-fuera-del-pais-durante-licencias-medicas/"
+        },
+        "Control fronterizo: El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.": {
+          "tema": "Control fronterizo",
+          "question": "El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.",
+          "vote": "1",
+          "comment": "Propone “migración ilegal cero” y expulsión inmediata",
+          "source": "https://johanneskaiser.cl/migracion-ilegal-cero/"
+        },
+        "Constitución: Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.": {
+          "tema": "Constitución",
+          "question": "Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.",
+          "vote": "0",
+          "comment": "Se declaró “En contra” en el plebiscito y dice que es una discusión cerrada",
+          "source": "https://www.latercera.com/politica/noticia/segundo-parlamentario-republicano-que-se-desmarca-del-sector-johannes-kaiser-se-manifiesta-por-el-en-contra/ER7XLUF52BA65K2XZ22ONZ4NAI/"
+        },
+        "Cambio climático: El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.": {
+          "tema": "Cambio climático",
+          "question": "El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.",
+          "vote": "0",
+          "comment": "Califica el cambio climático como “un negocio” y rechaza enfoque estatal",
+          "source": "https://johanneskaiser.cl/2024/10/15/el-cambio-climatico-es-un-negocio-que-nos-afecta-a-todos/"
+        },
+        "Aborto: El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).": {
+          "tema": "Aborto",
+          "question": "El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).",
+          "vote": "0",
+          "comment": "Completamente en contra; se retiró de la Cuenta Pública cuando Boric anunció un proyecto de aborto libre",
+          "source": "https://www.latercera.com/politica/noticia/kaiser-abandona-cuenta-publica-tras-anuncio-de-boric-por-ley-de-aborto-habla-de-unidad-pero-miente-nos-insulta/"
+        }
+      }
+    },
+    "Franco Parisi (Partido de la Gente)": {
+      "name": "Franco Parisi",
+      "party": "Partido de la Gente",
+      "votes": {
+        "Vivienda: El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.": {
+          "tema": "Vivienda",
+          "question": "El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Sueldo mínimo: El sueldo mínimo en Chile debería ser aumentado.": {
+          "tema": "Sueldo mínimo",
+          "question": "El sueldo mínimo en Chile debería ser aumentado.",
+          "vote": "0",
+          "comment": "Dice que hay que generar más trabajo en vez de subir el sueldo mínimo, porque aunque se suba no es suficiente",
+          "source": "https://www.tiktok.com/@fr_parisi/video/7507466467990932741"
+        },
+        "Seguridad pública: El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": "1",
+          "comment": "Sugiere “barcos-cárcel” donde los presos “la pasen mal, muy mal”.",
+          "source": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2025/04/24/barcos-carceles-la-propuesta-de-franco-parisi-para-encarcelar-a-los-reos-mas-peligrosos.shtml"
+        },
+        "Secreto bancario: Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.": {
+          "tema": "Secreto bancario",
+          "question": "Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.",
+          "vote": "1",
+          "comment": "Propone levantar el secreto bancario en su programa",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/FRANCO-PARISI-FERNANDEZ.pdf"
+        },
+        "Salud: El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).": {
+          "tema": "Salud",
+          "question": "El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).",
+          "vote": "1",
+          "comment": "Habla de reducir las listas de espera a través de derivaciones (mediante licitaciones) al sector privado cuando el público no dé a basto y sea económicamente rentable, y quitar el IVA a los medicamentos",
+          "source": "https://parisipresidente.cl/tipo-de-propuesta/salud-a-tiempo/"
+        },
+        "Restitución de tierras: El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.": {
+          "tema": "Restitución de tierras",
+          "question": "El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.",
+          "vote": "1",
+          "comment": "Habla de terrorismo, particularmente en la Macrozona Sur. En su programa menciona: \"El sur de Chile está siendo disputado por el crimen, el miedo y la indiferencia. Con el Plan ZAGLO, vamos a recuperar soberanía con presencia operativa, inteligencia territorial y justicia rápida. No es solo seguridad: es dignidad, es control, es Estado\". Se infiere que no apoya la restitución de tierras, si no más bien recuperar la soberanía/control nacional.",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/FRANCO-PARISI-FERNANDEZ.pdf"
+        },
+        "Reparación y reconocimiento cultural: El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.": {
+          "tema": "Reparación y reconocimiento cultural",
+          "question": "El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.",
+          "vote": "0.5",
+          "comment": "Dijo que deberían haber tests de ADN para determinar si alguien es Mapuche; en otra entrevista dijo que los Mapuches deberían tener beneficios para no perder esa parte de la cultura",
+          "source": "https://www.laopinon.cl/noticia/politica/franco-parisi-demandas-mapuche-y-sus-medidas-para-el-desarrollo-de-la-araucania"
+        },
+        "Pensiones: Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).": {
+          "tema": "Pensiones",
+          "question": "Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).",
+          "vote": "1",
+          "comment": "El PDG exige que el 6 % adicional vaya “íntegramente a capitalización individual”.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2022/11/03/libertad-de-eleccion-en-la-reforma-de-pensiones-la-discusion-que-enreda-a-la-derecha/"
+        },
+        "Pena de muerte: La pena de muerte debería estar permitida en Chile.": {
+          "tema": "Pena de muerte",
+          "question": "La pena de muerte debería estar permitida en Chile.",
+          "vote": "1",
+          "comment": "Plantea “iniciar la discusión” para restituirla; la considera una medida disuasiva.",
+          "source": "https://www.antofagasta.tv/categoria/politica/video-parisi-lanza-propuestas-presidenciales-foco-seguridad-region"
+        },
+        "Migración irregular: La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.": {
+          "tema": "Migración irregular",
+          "question": "La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.",
+          "vote": "0",
+          "comment": "Antes de 2017 apoyaba fronteras libres, pero en una entrevista en 2023 acusó al gobierno de ser muy permisivo",
+          "source": "https://eldesconcierto.cl/2023/04/25/el-radical-giro-de-parisi-en-migracion-el-dia-que-propuso-libre-transito-sin-fronteras"
+        },
+        "Matrimonio: El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.": {
+          "tema": "Matrimonio",
+          "question": "El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.",
+          "vote": "0",
+          "comment": "“El matrimonio es un sacramento; las leyes deben ser sobre uniones civiles”.",
+          "source": "https://www.emol.com/noticias/Nacional/2017/04/04/852743/Parisi-rechaza-aprobar-aborto-por-violacion-y-matrimonio-entre-personas-del-mismo-sexo.html"
+        },
+        "Litio: La extracción del litio en Chile no debería estar regulada por el Estado.": {
+          "tema": "Litio",
+          "question": "La extracción del litio en Chile no debería estar regulada por el Estado.",
+          "vote": "1",
+          "comment": "Propone \"Concesionar la explotación del litio bajo licitación pública de portafolio de empresas privadas aplicando un porcentaje de dominio accionista por parte del Estado chileno\".",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/FRANCO-PARISI-FERNANDEZ.pdf"
+        },
+        "Jornada: La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.": {
+          "tema": "Jornada",
+          "question": "La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.": {
+          "tema": "Impuestos progresivos",
+          "question": "Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.",
+          "vote": "0",
+          "comment": "En vez de subir el impuesto a los ricos, propone rebajar el gasto fiscal",
+          "source": "https://www.instagram.com/reel/DKKy_9TPRAJ/?hl=en"
+        },
+        "Gasto: El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.": {
+          "tema": "Gasto",
+          "question": "El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.",
+          "vote": "1",
+          "comment": "Promete “ajuste drástico”: fusionar ministerios y tope salarial de $ 5 millones.",
+          "source": "https://thetimes.cl/contenido/3319/franco-parisi-promete-sueldos-maximos-de-5-millones-y-recorte-masivo-de-empleos-"
+        },
+        "Despidos: El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.": {
+          "tema": "Despidos",
+          "question": "El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.",
+          "vote": "1",
+          "comment": "Promete “recorte masivo de empleos públicos” y fusionar ministerios.",
+          "source": "https://thetimes.cl/contenido/3319/franco-parisi-promete-sueldos-maximos-de-5-millones-y-recorte-masivo-de-empleos-"
+        },
+        "Control fronterizo: El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.": {
+          "tema": "Control fronterizo",
+          "question": "El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.",
+          "vote": "1",
+          "comment": null,
+          "source": "https://parisipresidente.cl/tipo-de-propuesta/salud-a-tiempo/"
+        },
+        "Constitución: Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.": {
+          "tema": "Constitución",
+          "question": "Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.",
+          "vote": "1",
+          "comment": "A favor de una nueva constitución",
+          "source": "https://www.latercera.com/politica/noticia/por-el-a-favor-franco-parisi-define-su-postura-para-el-plebiscito-del-17-de-diciembre/MXWLLBNVP5BFTKHPSB5FWKL7QU/"
+        },
+        "Cambio climático: El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.": {
+          "tema": "Cambio climático",
+          "question": "El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.",
+          "vote": "1",
+          "comment": "Menciona problemas ambientales que surgen por el cambio climático",
+          "source": "https://centrocompetencia.com/wp-content/uploads/2021/10/Franco-Parisi-Programa-de-gobierno-2022-2026.pdf"
+        },
+        "Aborto: El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).": {
+          "tema": "Aborto",
+          "question": "El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).",
+          "vote": "0",
+          "comment": "Rechaza incluso el aborto en 3 causales y dice volver a la ley de 1988.",
+          "source": "https://www.emol.com/noticias/Nacional/2017/04/04/852743/Parisi-rechaza-aprobar-aborto-por-violacion-y-matrimonio-entre-personas-del-mismo-sexo.html"
+        }
+      }
+    },
+    "Jeanette Jara (Unidad Por Chile)": {
+      "name": "Jeanette Jara",
+      "party": "Unidad Por Chile",
+      "votes": {
+        "Vivienda: El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.": {
+          "tema": "Vivienda",
+          "question": "El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.",
+          "vote": "1",
+          "comment": "\"trabajaremos con un objetivo claro: que las personas de esfuerzo tengan la tranquilidad de acceder a una vivienda, llegar en paz a sus hogares y criar a sus familias en barrios iluminados, limpios, con servicios, áreas de recreación e infraestructura deportiva de calidad\" Proyectos habitacionales, mejor acceso a la vivienda, ciudad y barrio, etc.",
+          "source": "https://drive.google.com/file/d/1Ppf6IZsmKQang337f5-q5IYaDn7ihcdE/view?usp=sharing"
+        },
+        "Sueldo mínimo: El sueldo mínimo en Chile debería ser aumentado.": {
+          "tema": "Sueldo mínimo",
+          "question": "El sueldo mínimo en Chile debería ser aumentado.",
+          "vote": "1",
+          "comment": "Promete “salario vital” de CLP 750 000 y alzas sostenidas del mínimo.",
+          "source": "https://www.latercera.com/pulso/noticia/las-definiciones-y-planteamientos-economicos-de-jeannette-jara/"
+        },
+        "Seguridad pública: El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": "0",
+          "comment": "Enfoca la seguridad en prevención social, rehabilitación y derechos humanos.",
+          "source": "https://www.emol.com/noticias/Nacional/2025/06/29/1170474/prioridades-programa-gobierno-jeannette-jara.html"
+        },
+        "Secreto bancario: Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.": {
+          "tema": "Secreto bancario",
+          "question": "Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.",
+          "vote": "1",
+          "comment": "Propone levantar el secreto bancario en su programa",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/JEANNETTE-JARA-ROMAN.pdf"
+        },
+        "Salud: El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).": {
+          "tema": "Salud",
+          "question": "El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).",
+          "vote": "1",
+          "comment": "Plataforma oficial propone avanzar hacia “un modelo universal, integrado y solidario”; fortalecer red pública, APS y presupuesto público de salud — clara apuesta por ampliar rol de FONASA/sector público.",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/05/2-JEANNETTE-JARA-ROMAN.pdf"
+        },
+        "Restitución de tierras: El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.": {
+          "tema": "Restitución de tierras",
+          "question": "El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.",
+          "vote": "0.5",
+          "comment": "\"No aparecen propuestas específicas sobre tierras indígenas, suelos o propiedad territorial indígena. El documento no aborda la restitución de tierras ni modificaciones legales relacionadas con la Ley Indígena\". Tampoco habla de terrorismo.",
+          "source": "https://mapuche.info/centro-documentacion-nuke-mapu/conflicto-paz-y-resolucion/propuestas-de-los-candidatos-a-presidente-de-chile-sobre-pueblo-mapuche-desde-mas-mano-dura-militar-a-plurinacionalidad"
+        },
+        "Reparación y reconocimiento cultural: El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.": {
+          "tema": "Reparación y reconocimiento cultural",
+          "question": "El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.",
+          "vote": "1",
+          "comment": "En la vereda oficialista hay apoyo al diagnóstico y medidas propuestas por la Comisión (reconocimiento, reparación y mecanismos para restitución). Jara y el oficialismo han respaldado la agenda de reparación y reconocimiento indígena.",
+          "source": null
+        },
+        "Pensiones: Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).": {
+          "tema": "Pensiones",
+          "question": "Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).",
+          "vote": "0",
+          "comment": "Su propuesta reparte el 6 %: 3 % capitalización individual + 3 % seguro social solidario.",
+          "source": "https://cooperativa.cl/noticias/economia/sistema-previsional/jubilacion/ministra-jara-en-materia-de-equidad-de-genero-tenemos-diferencias-con/2024-12-11/145107.html"
+        },
+        "Pena de muerte: La pena de muerte debería estar permitida en Chile.": {
+          "tema": "Pena de muerte",
+          "question": "La pena de muerte debería estar permitida en Chile.",
+          "vote": "0",
+          "comment": "Critica volver a la pena de muerte; lo considera un retroceso civilizatorio.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2025/03/21/jara-pide-unidad-ante-ultraderecha-amenazando-retrocesos-que-es-eso-de-volver-a-pena-de-muerte.shtml"
+        },
+        "Migración irregular: La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.": {
+          "tema": "Migración irregular",
+          "question": "La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.",
+          "vote": "1",
+          "comment": "Propone un programa de regularización para personas en situación irregular.",
+          "source": "https://www.facebook.com/LaVozDeAH/posts/jeannette-jara-candidata-presidencial-propone-abrir-un-programa-de-regularizaci%C3%B3/1127210136105045/"
+        },
+        "Matrimonio: El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.": {
+          "tema": "Matrimonio",
+          "question": "El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.",
+          "vote": "1",
+          "comment": "Participó en la firma del proyecto de ley de matrimonio igualitario (2017).",
+          "source": "https://www.mintrab.gob.cl/26363-2/"
+        },
+        "Litio: La extracción del litio en Chile no debería estar regulada por el Estado.": {
+          "tema": "Litio",
+          "question": "La extracción del litio en Chile no debería estar regulada por el Estado.",
+          "vote": "0",
+          "comment": "Quiere crear una Empresa Nacional del Litio y sacar a SQM del salar de Atacama.",
+          "source": "https://www.latercera.com/pulso/noticia/las-definiciones-y-planteamientos-economicos-de-jeannette-jara/"
+        },
+        "Jornada: La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.": {
+          "tema": "Jornada",
+          "question": "La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.",
+          "vote": "1",
+          "comment": "Lideró e impulsó la ley desde su rol ministerial; defiende su implementación y el carácter social de la medida.",
+          "source": "https://elpais.com/chile/2025-04-26/jeannette-jara-es-muy-vital-empujar-la-disminucion-de-la-concentracion-economica-que-hay-en-chile.html"
+        },
+        "Impuestos progresivos: Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.": {
+          "tema": "Impuestos progresivos",
+          "question": "Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.",
+          "vote": "1",
+          "comment": "Propone un sistema tributario progresivo y subir impuestos a los súper ricos.",
+          "source": "https://www.latercera.com/pulso/noticia/las-definiciones-y-planteamientos-economicos-de-jeannette-jara/"
+        },
+        "Gasto: El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.": {
+          "tema": "Gasto",
+          "question": "El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.",
+          "vote": "0",
+          "comment": "Propone inversión estatal en salud, seguridad y trenes; no plantea recortes masivos.",
+          "source": "https://www.emol.com/noticias/Nacional/2025/06/29/1170474/prioridades-programa-gobierno-jeannette-jara.html"
+        },
+        "Despidos: El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.": {
+          "tema": "Despidos",
+          "question": "El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Control fronterizo: El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.": {
+          "tema": "Control fronterizo",
+          "question": "El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.",
+          "vote": "1",
+          "comment": "\"se ejercerá la atribución presidencial que permite desplegar a las Fuerzas Armadas para la protección de las fronteras, en tanto infraestructura crítica del país\": \"Plan Estratégico de Control Fronterizo\" y \"unidad especializada de control fronterizo dentro de Carabineros de Chile y con colaboración de las Fuerzas Armadas\".",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/JEANNETTE-JARA-ROMAN.pdf"
+        },
+        "Constitución: Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.": {
+          "tema": "Constitución",
+          "question": "Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.",
+          "vote": "0",
+          "comment": "Señala que reabrir un proceso constituyente “no es prioridad” y lo descarta.",
+          "source": "https://elpais.com/chile/2025-07-01/las-preguntas-que-abre-el-triunfo-de-jeannette-jara-fue-mas-fuerte-su-carisma-que-su-militancia-comunista.html"
+        },
+        "Cambio climático: El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.": {
+          "tema": "Cambio climático",
+          "question": "El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.",
+          "vote": "1",
+          "comment": "Programa preliminar incluye transición ecológica, cierre de termoeléctricas y Ley de Glaciares.",
+          "source": "https://www.cr2.cl/analisis-cr2-un-vistazo-al-programa-preliminar-de-jeannette-jara-respecto-al-cambio-climatico/"
+        },
+        "Aborto: El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).": {
+          "tema": "Aborto",
+          "question": "El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).",
+          "vote": "1",
+          "comment": "A favor del proyecto de ley de aborto libre hasta la semana 14.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2025/10/03/jeannette-jara-confirma-que-continuara-con-tramitacion-de-proyecto-de-aborto-en-su-eventual-gobierno.shtml"
+        }
+      }
+    },
+    "Eduardo Artés (Independiente)": {
+      "name": "Eduardo Artés",
+      "party": "Independiente",
+      "votes": {
+        "Vivienda: El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.": {
+          "tema": "Vivienda",
+          "question": "El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.",
+          "vote": "1",
+          "comment": "Habla del derecho a la vivienda y a la ciudad.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Sueldo mínimo: El sueldo mínimo en Chile debería ser aumentado.": {
+          "tema": "Sueldo mínimo",
+          "question": "El sueldo mínimo en Chile debería ser aumentado.",
+          "vote": "1",
+          "comment": "A favor de un salario mínimo que cubra necesidades básicas; propone escala salarial nacional y subsidios a PyMEs para garantizar su pago.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Seguridad pública: El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": "1",
+          "comment": "Prioriza la lucha contra el crimen organizado; propone refundar fuerzas de orden, brigadas populares y medidas duras como parte de su estrategia.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Secreto bancario: Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.": {
+          "tema": "Secreto bancario",
+          "question": "Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Salud: El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).": {
+          "tema": "Salud",
+          "question": "El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).",
+          "vote": "1",
+          "comment": "Programa apunta a disminuir las listas de espera abriendo clínicas y hospitales militares a toda la comunidad, y aumentando la dotación de personal en salud mental. No habla directamente de quitar el IVA a los medicamentos, pero señala que \"buscará establecer relaciones comerciales con otros países, para adquirir medicamentos a precios convenientes. También hará del desarrollo y de la producción de\nmedicamentos de primera necesidad en el país, una política central.\".",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Restitución de tierras: El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.": {
+          "tema": "Restitución de tierras",
+          "question": "El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.",
+          "vote": "0",
+          "comment": "Plantea \"un Estado plurinacional con reconocimiento político y jurídico de las naciones originarias, restitución de tierras y autonomías en la gestión de recursos. Para él, el conflicto es expresión del colonialismo y la explotación histórica, y la salida pasa por dar control directo a los pueblos indígenas sobre su desarrollo.",
+          "source": "https://mapuche.info/centro-documentacion-nuke-mapu/conflicto-paz-y-resolucion/propuestas-de-los-candidatos-a-presidente-de-chile-sobre-pueblo-mapuche-desde-mas-mano-dura-militar-a-plurinacionalidad"
+        },
+        "Reparación y reconocimiento cultural: El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.": {
+          "tema": "Reparación y reconocimiento cultural",
+          "question": "El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.",
+          "vote": "1",
+          "comment": "Apoya el reconocimiento de la autodeterminación y la plurinacionalidad; defiende el derecho de usufructo de los suelos ancestrales, aunque plantea mantener la unidad territorial.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Pensiones: Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).": {
+          "tema": "Pensiones",
+          "question": "Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).",
+          "vote": "0",
+          "comment": "Propone un sistema público/colectivo de pensiones (fondo común) y rechaza las cuentas individuales; el Estado garantizará una pensión digna.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Pena de muerte: La pena de muerte debería estar permitida en Chile.": {
+          "tema": "Pena de muerte",
+          "question": "La pena de muerte debería estar permitida en Chile.",
+          "vote": "1",
+          "comment": "Propone la pena de muerte para crímenes especialmente graves (incluye pedofilia y jefes del crimen organizado) según su programa.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Migración irregular: La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.": {
+          "tema": "Migración irregular",
+          "question": "La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.",
+          "vote": "0",
+          "comment": "Plantea control estricto de la inmigración para evitar el ingreso del crimen organizado; no apoya una regularización fácil de migrantes irregulares.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Matrimonio: El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.": {
+          "tema": "Matrimonio",
+          "question": "El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.",
+          "vote": "1",
+          "comment": "A favor del matrimonio igualitario; ha manifestado respaldo público a la iniciativa.",
+          "source": "https://www.adnradio.cl/politica/2017/08/28/matrimonio-igualitario-estas-son-las-distintas-posturas-de-los-presidenciables-3562277.html"
+        },
+        "Litio: La extracción del litio en Chile no debería estar regulada por el Estado.": {
+          "tema": "Litio",
+          "question": "La extracción del litio en Chile no debería estar regulada por el Estado.",
+          "vote": "0",
+          "comment": "La extracción de litio y otros recursos estratégicos deben estar bajo control estatal; propone recuperar y estatizar recursos claves.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Jornada: La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.": {
+          "tema": "Jornada",
+          "question": "La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.",
+          "vote": "1",
+          "comment": "De hecho, propone reducir la jornada a 35 horas semanales.",
+          "source": "https://www.eldinamo.cl/politica/2025/09/03/eduardo-artes-presenta-su-programa-de-gobierno-pena-de-muerte-asamblea-popular-y-jornada-laboral-de-35-horas/"
+        },
+        "Impuestos progresivos: Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.": {
+          "tema": "Impuestos progresivos",
+          "question": "Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.",
+          "vote": "1",
+          "comment": "Propone una reforma tributaria para que grandes empresas paguen más y medidas contra la evasión; analiza cambios al IVA.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Gasto: El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.": {
+          "tema": "Gasto",
+          "question": "El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.",
+          "vote": "0",
+          "comment": "Propone una mayor inversión pública en planificación y fortalecimiento institucional; prioriza gasto público estratégico.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Despidos: El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.": {
+          "tema": "Despidos",
+          "question": "El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.",
+          "vote": "0",
+          "comment": "No apoya despidos masivos de funcionarios; propone empleo público, protección laboral y reestructuración desde el Estado, no recortes masivos.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Control fronterizo: El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.": {
+          "tema": "Control fronterizo",
+          "question": "El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.",
+          "vote": "1",
+          "comment": "\"Una tarea esencial será asegurar las fronteras para evitar la inmigración incontrolada a través de la cual la delincuencia organizada internacional ha penetrado en el territorio nacional. Esto se conseguirá fundamentalmente con las fuerzas armadas refundadas y el pueblo organizado.\"",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/EDUARDO-ANTONIO-ARTES-BRICHETTI.pdf"
+        },
+        "Constitución: Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.": {
+          "tema": "Constitución",
+          "question": "Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.",
+          "vote": "1",
+          "comment": "Aboga por una nueva constitución mediante una Asamblea Constituyente y la refundación del país.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Cambio climático: El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.": {
+          "tema": "Cambio climático",
+          "question": "El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.",
+          "vote": "1",
+          "comment": "Incluye desarrollo sustentable y medidas de restauración ecológica en su programa; plantea planificación nacional para enfrentar la crisis ambiental.",
+          "source": "https://artes2026.cl/wp-content/uploads/2025/09/PROGRAMA-DE-GOBIERNO-2025-2.pdf"
+        },
+        "Aborto: El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).": {
+          "tema": "Aborto",
+          "question": "El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).",
+          "vote": "1",
+          "comment": "A favor de la despenalización; lo considera un derecho de la mujer y ha declarado apoyar aborto libre, gratuito y seguro.",
+          "source": "https://www.chilevision.cl/noticias/elecciones-2021/artes-sobre-el-aborto-lo-considera-un-derecho-de-la-mujer-y-aseguro-que"
+        }
+      }
+    },
+    "Harold Mayne-Nicholls (Independiente)": {
+      "name": "Harold Mayne-Nicholls",
+      "party": "Independiente",
+      "votes": {
+        "Vivienda: El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.": {
+          "tema": "Vivienda",
+          "question": "El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.",
+          "vote": "1",
+          "comment": "Derecho a vivienda digna y fin de los campamentos. Subsidios, apoyo a proyectos como el programa \"Pequeño Condominio\" y anticipar la formación de nuevos campamentos, con inteligencia policial.",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/HAROLD-MAYNE-NICHOLLS-SECUL.pdf"
+        },
+        "Sueldo mínimo: El sueldo mínimo en Chile debería ser aumentado.": {
+          "tema": "Sueldo mínimo",
+          "question": "El sueldo mínimo en Chile debería ser aumentado.",
+          "vote": "1",
+          "comment": "El programa aborda salarios bajos como urgencia; propone medidas para mejorar salarios y generar empleo decente.",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICHCHOLS-1.pdf"
+        },
+        "Seguridad pública: El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": "1",
+          "comment": "Seguridad es prioridad absoluta; propone institucionalidad robusta contra crimen organizado, Comité Nacional de Seguridad y medidas firmes para combatir delitos.",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICHCHOLS-1.pdf"
+        },
+        "Secreto bancario: Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.": {
+          "tema": "Secreto bancario",
+          "question": "Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.",
+          "vote": "1",
+          "comment": "Propone levantar el secreto bancario en su programa",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/HAROLD-MAYNE-NICHOLLS-SECUL.pdf"
+        },
+        "Salud: El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).": {
+          "tema": "Salud",
+          "question": "El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).",
+          "vote": "1",
+          "comment": "Programa presenta compromisos para “salud oportuna y sin exclusiones” y mejoras en atención, así como quitar el IVA a los medicamentos.",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICHOLLS-1.pdf"
+        },
+        "Restitución de tierras: El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.": {
+          "tema": "Restitución de tierras",
+          "question": "El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.",
+          "vote": "0.5",
+          "comment": "Enfatiza diálogo, convivencia, acompañamiento y medidas institucionales; favorece soluciones de desarrollo/diálogo más que propuestas de compra masiva o restitución amplia explicitadas.",
+          "source": "https://mapuche.info/centro-documentacion-nuke-mapu/conflicto-paz-y-resolucion/propuestas-de-los-candidatos-a-presidente-de-chile-sobre-pueblo-mapuche-desde-mas-mano-dura-militar-a-plurinacionalidad"
+        },
+        "Reparación y reconocimiento cultural: El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.": {
+          "tema": "Reparación y reconocimiento cultural",
+          "question": "El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.",
+          "vote": "0.5",
+          "comment": "Prioriza la convivencia y la paz; su programa insiste en diálogo, seguridad y reparación institucional (posición moderada/no aboga por amplísima autonomía).",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICCHOLS-1.pdf"
+        },
+        "Pensiones: Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).": {
+          "tema": "Pensiones",
+          "question": "Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).",
+          "vote": "0.5",
+          "comment": "Aboga por revisar propuestas con expertos y buscar soluciones técnicas; no defiende explícitamente cuentas individuales AFP ni un PAYGO claro en el programa (enfoque técnico y diálogo).",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICCHOLS-1.pdf"
+        },
+        "Pena de muerte: La pena de muerte debería estar permitida en Chile.": {
+          "tema": "Pena de muerte",
+          "question": "La pena de muerte debería estar permitida en Chile.",
+          "vote": "0",
+          "comment": "No propone pena de muerte; su enfoque pone acento en seguridad y respeto a DD.HH. (programa centra en prevención, institucionalidad y respeto a DDHH).",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICHCHOLS-1.pdf"
+        },
+        "Migración irregular: La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.": {
+          "tema": "Migración irregular",
+          "question": "La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.",
+          "vote": "1",
+          "comment": "Propone: \"Migración sostenible y regular. Adoptaremos una política migratoria humanitaria pero ordenada, que agilice la regularización de extranjeros con arraigo laboral y expulse a quienes delinquen (como ya mencionamos). Esto permitirá incluir a los migrantes de buena fe en la protección social y en la economía formal, evitando bolsones de exclusión.",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/HAROLD-MAYNE-NICHOLLS-SECUL.pdf"
+        },
+        "Matrimonio: El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.": {
+          "tema": "Matrimonio",
+          "question": "El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.",
+          "vote": "Sin declaración explícita en su programa; en entrevistas prioriza el diálogo y el centro (posición no clara públicamente).",
+          "comment": "https://www.latercera.com/politica/noticia/mayne-nicholls-presenta-su-programa-de-gobierno-el-detalle-de-sus-propuestas-en-seguridad-salud-educacion-y-vivienda/",
+          "source": null
+        },
+        "Litio: La extracción del litio en Chile no debería estar regulada por el Estado.": {
+          "tema": "Litio",
+          "question": "La extracción del litio en Chile no debería estar regulada por el Estado.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Jornada: La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.": {
+          "tema": "Jornada",
+          "question": "La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.": {
+          "tema": "Impuestos progresivos",
+          "question": "Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.",
+          "vote": "0",
+          "comment": "En su programa enfatiza responsabilidad fiscal, revisión de exenciones regresivas y medidas pro-pymes; no plantea una reforma tributaria marcada por fuerte progresividad.",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICCHOLS-1.pdf"
+        },
+        "Gasto: El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.": {
+          "tema": "Gasto",
+          "question": "El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.",
+          "vote": "0",
+          "comment": "Propone inversión estratégica y fortalecimiento institucional junto a responsabilidad fiscal; prioriza inversión en salud, seguridad y vivienda.",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICHCHOLS-1.pdf"
+        },
+        "Despidos: El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.": {
+          "tema": "Despidos",
+          "question": "El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.",
+          "vote": "0.5",
+          "comment": "Propone profesionalizar y reestructurar el empleo público, reducing asesores and duplicidades, but does not advocate mass layoffs.",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICHCHOLS-1.pdf"
+        },
+        "Control fronterizo: El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.": {
+          "tema": "Control fronterizo",
+          "question": "El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.",
+          "vote": "1",
+          "comment": "Propone: \"Controles fronterizos exhaustivos y migración ordenada.",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/HAROLD-MAYNE-NICHOLLS-SECUL.pdf"
+        },
+        "Constitución: Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.": {
+          "tema": "Constitución",
+          "question": "Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.",
+          "vote": "0.5",
+          "comment": "Busca reformas institucionales y diálogo; no promueve abiertamente una nueva Constitución en el texto de lineamientos (enfatiza reforma responsable del régimen político).",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICHCHOLS-1.pdf"
+        },
+        "Cambio climático: El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.": {
+          "tema": "Cambio climático",
+          "question": "El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.",
+          "vote": "1",
+          "comment": "Incluye desarrollo sustentable y medio ambiente en su programa; plantea políticas ambientales y desarrollo sostenible.",
+          "source": "https://www.haroldpresidente.cl/wp-content/uploads/2025/08/LINEAMIENTOS-PROGRAMA-DE-GOBIERNO-2026-2030-HAROLD-MAYNE-NICCHOLS-1.pdf"
+        },
+        "Aborto: El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).": {
+          "tema": "Aborto",
+          "question": "El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).",
+          "vote": "0",
+          "comment": "Rechaza aborto sin causales; señala que la legislación de las tres causales es suficiente por ahora.",
+          "source": "https://www.cnnchile.com/lodijeronencnn/harold-mayne-nicholls-rechaza-aborto-sin-causales-advierte-genera-division_20250707/"
+        }
+      }
+    },
+    "Marco Enríquez-Ominami (Independiente)": {
+      "name": "Marco Enríquez-Ominami",
+      "party": "Independiente",
+      "votes": {
+        "Vivienda: El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.": {
+          "tema": "Vivienda",
+          "question": "El Estado debería garantizar el acceso a una vivienda digna para quienes no pueden costearla por sí mismos.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Sueldo mínimo: El sueldo mínimo en Chile debería ser aumentado.": {
+          "tema": "Sueldo mínimo",
+          "question": "El sueldo mínimo en Chile debería ser aumentado.",
+          "vote": "1",
+          "comment": "Propone Plan Nacional de Empleo y medidas para remuneraciones dignas; apoya aumentos y escalas salariales.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Seguridad pública: El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "tema": "Seguridad pública",
+          "question": "El Estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "vote": "0.5",
+          "comment": "Propone una estrategia integral: prevención, reinserción y combate al crimen organizado; en su programa enfatiza prevención y políticas integrales más que sólo castigo.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Secreto bancario: Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.": {
+          "tema": "Secreto bancario",
+          "question": "Se debería levantar el secreto bancario (sin autorización judicial) para investigar el crimen organizado, el narcotráfico y la corrupción.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Salud: El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).": {
+          "tema": "Salud",
+          "question": "El sistema de salud público (FONASA) debería ampliar su cobertura para garantizar atención universal y reducir la dependencia de aseguradoras privadas (Isapres).",
+          "vote": "1",
+          "comment": "Plantea reducir las listas de espera y quitar el IVA a los medicamentos.",
+          "source": "https://www.servel.cl/wp-content/uploads/2025/09/MARCO-ANTONIO-ENRIQUEZ-OMINAMI-GUMUCIO.pdf"
+        },
+        "Restitución de tierras: El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.": {
+          "tema": "Restitución de tierras",
+          "question": "El Estado no debería restituir tierras a aquellos pueblos indígenas afectados por expropiaciones históricas.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Reparación y reconocimiento cultural: El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.": {
+          "tema": "Reparación y reconocimiento cultural",
+          "question": "El Estado debería priorizar medidas de reparación y reconocimiento de la cultura y los derechos de los pueblos indígenas en Chile.",
+          "vote": "1",
+          "comment": "Propone desmilitarizar zonas, diálogo y reconocer derechos ancestrales; su programa habla de políticas territoriales y convivencia (apoya mayores derechos y reconocimiento).",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Pensiones: Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).": {
+          "tema": "Pensiones",
+          "question": "Las contribuciones de pensiones deberían ir a cuentas individuales y no a un fondo común (PAYGO).",
+          "vote": "1",
+          "comment": "Propone un Sistema Nacional de Pensiones público con \"cuentas nacionales\" de derechos y administración pública (SNP público, reconoce aportes individuales pero bajo administración pública).",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Pena de muerte: La pena de muerte debería estar permitida en Chile.": {
+          "tema": "Pena de muerte",
+          "question": "La pena de muerte debería estar permitida en Chile.",
+          "vote": "0",
+          "comment": "No propone pena de muerte; su programa habla de convivencia, prevención y políticas integrales de seguridad respetando DDHH.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Migración irregular: La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.": {
+          "tema": "Migración irregular",
+          "question": "La política migratoria debería agilizar el proceso de regularización de migrantes irregulares en Chile.",
+          "vote": "0.5",
+          "comment": "Combina control fronterizo y políticas humanitarias; su programa fija control de fronteras y medidas contra crimen organizado, pero también habla de soluciones ordenadas.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Matrimonio: El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.": {
+          "tema": "Matrimonio",
+          "question": "El matrimonio entre personas del mismo sexo debería continuar siendo legal en Chile.",
+          "vote": "1",
+          "comment": "A favor del matrimonio igualitario y de una agenda de igualdad de género (página de propuesta de género en su sitio).",
+          "source": "https://marcoenriquezominami.cl/igualdad-genero-chile-propuesta-meo/"
+        },
+        "Litio: La extracción del litio en Chile no debería estar regulada por el Estado.": {
+          "tema": "Litio",
+          "question": "La extracción del litio en Chile no debería estar regulada por el Estado.",
+          "vote": "0",
+          "comment": "Propone modernizar y fortalecer empresas públicas estratégicas (Codelco) y recuperar dispositivo fiscal sobre recursos; defiende mayor control estatal del litio y recursos estratégicos.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Jornada: La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.": {
+          "tema": "Jornada",
+          "question": "La reducción de la jornada laboral a 40 horas semanales en Chile es una buena medida.",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "source": null
+        },
+        "Impuestos progresivos: Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.": {
+          "tema": "Impuestos progresivos",
+          "question": "Debería existir un sistema de impuestos progresivos más fuerte, en el que las personas con mayores ingresos paguen un porcentaje más alto de sus ganancias.",
+          "vote": "1",
+          "comment": "Propone reforma tributaria progresiva (capítulo de su programa: \"Reforma Tributaria, Progresiva y pro-pymes\").",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Gasto: El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.": {
+          "tema": "Gasto",
+          "question": "El Estado debería reducir gastos en vez de invertir más en fortalecer las instituciones estatales.",
+          "vote": "0",
+          "comment": "Prioriza gasto público estratégico para empleo, salud y transición verde; combina inversión con reforma de fiscalidad.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Despidos: El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.": {
+          "tema": "Despidos",
+          "question": "El Estado debería reducir la cantidad de funcionarios públicos para reducir sus gastos.",
+          "vote": "0",
+          "comment": "No propone despidos masivos; su programa favorece empleo público protegido y reestructuración técnica.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Control fronterizo: El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.": {
+          "tema": "Control fronterizo",
+          "question": "El Estado debería fortalecer el control fronterizo para regular la entrada de migrantes.",
+          "vote": "0.5",
+          "comment": "Combina control fronterizo y políticas humanitarias; su programa fija control de fronteras y medidas contra crimen organizado, pero también habla de soluciones ordenadas.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Constitución: Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.": {
+          "tema": "Constitución",
+          "question": "Se debería reemplazar la Constitución vigente por una nueva mediante proceso constituyente.",
+          "vote": "1",
+          "comment": "Aboga por una nueva constitución/Asamblea Constituyente y refundación política en su plataforma programática.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Cambio climático: El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.": {
+          "tema": "Cambio climático",
+          "question": "El cambio climático es uno de los problemas centrales de los cuales se debería encargar el Estado.",
+          "vote": "1",
+          "comment": "Incluye transición verde y conservación en su programa; medidas para profesionalizar SBAP y políticas ambientales.",
+          "source": "https://static.emol.cl/emol50/documentos/archivos/2025/09/25/202509251189.pdf"
+        },
+        "Aborto: El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).": {
+          "tema": "Aborto",
+          "question": "El aborto debería ser despenalizado dentro de las primeras 14 semanas de gestación (sin necesidad de causales).",
+          "vote": "1",
+          "comment": "A favor de la despenalización; ha defendido acelerar tramitación y ha señalado que penalizarlo empuja a mujeres a la clandestinidad.",
+          "source": "https://mobile.twitter.com/marcoporchile/status/1931829854615249177"
+        }
+      }
+    }
+  }
+}
