@@ -23,10 +23,10 @@ jobs:
         CURL_COMMAND: ${{ secrets.DOWNLOADER_URL }}
       run: |
         echo "$CURL_COMMAND" | bash
-        ./xlsx_downloader.sh -d ./downloaded -f "$CHILE_FILE" "${{ secrets.CHILE_FILE_URL }}"
-        ./xlsx_downloader.sh -d ./downloaded -f "$PERU_FILE" "${{ secrets.PERU_FILE_URL }}"
-        sudo apt install tree
-        tree .
+        mkdir downloaded
+        ./xlsx_downloader.sh -f "$CHILE_FILE" "${{ secrets.CHILE_FILE_URL }}"
+        ./xlsx_downloader.sh -f "$PERU_FILE" "${{ secrets.PERU_FILE_URL }}"
+
 
     - name: Set up Python
       uses: actions/setup-python@v5
