@@ -10,7 +10,7 @@ MISSING_VOTE_DEFAULT = 0.5
 MISSING_COMMENT_DEFAULT = "No se encontró información pública sobre su posición."
 MISSING_SOURCE_DEFAULT = None
 
-number_of_topics = 8
+number_of_topics = 20
 
 # Global counter and mapping for unique comments
 comment_to_key_map = {}
