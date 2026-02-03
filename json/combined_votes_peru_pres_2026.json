@@ -83,6 +83,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.0,
+          "comment": null,
+          "comment_key": null,
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -169,6 +289,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
         }
       }
     },
@@ -251,6 +491,126 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.militares",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
@@ -341,6 +701,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -423,6 +903,126 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.militares",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
@@ -513,6 +1113,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -595,6 +1315,126 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.militares",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
@@ -685,6 +1525,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -767,6 +1727,126 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.militares",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
@@ -857,6 +1937,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -943,6 +2143,126 @@
           "comment": null,
           "comment_key": null,
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 1.0,
+          "comment": null,
+          "comment_key": null,
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -1025,6 +2345,126 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.militares",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
@@ -1115,6 +2555,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -1197,6 +2757,126 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.militares",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
@@ -1287,6 +2967,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -1369,6 +3169,126 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.militares",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
@@ -1459,6 +3379,126 @@
           "comment": "No se encontró...",
           "comment_key": "explanations.exp1",
           "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
+          "vote": 0.5,
+          "comment": "No se encontró...",
+          "comment_key": "explanations.exp1",
+          "source": null
         }
       }
     },
@@ -1541,6 +3581,126 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.militares",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
+          "tema": "Deforestación",
+          "question": "Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.",
+          "question_key": "questions.impulsar_el_desarrollo_económico_es_de_una_urgencia_mayor_que_fortalecer_las_protecciones_medioambientales_de_los_bosques",
+          "topic_key": "topics.deforestación",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
+          "topic_key": "topics.salud_pública",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
+          "tema": "Mega-prisión",
+          "question": "Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.",
+          "question_key": "questions.perú_debería_armar_una_megaprisión_siguiendo_el_modelo_de_bukele",
+          "topic_key": "topics.megaprisión",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
+          "topic_key": "topics.cambio_climático",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
+          "topic_key": "topics.inversión_extranjera",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.eutanasia",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
+          "topic_key": "topics.gasto",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "tema": "Pensiones",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
+          "topic_key": "topics.pensiones",
+          "vote": 0.5,
+          "comment": "No se encontró información pública sobre su posición.",
+          "comment_key": null,
+          "source": null
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
+          "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "No se encontró información pública sobre su posición.",
           "comment_key": null,
