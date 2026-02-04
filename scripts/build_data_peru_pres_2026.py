@@ -13,7 +13,7 @@ MISSING_SOURCE_DEFAULT = None
 number_of_topics = 20
 
 def text_to_key(text):
-    """Convert Spanish text to a translation key in snake_case."""
+    """Spanish text -> snake_case key"""
     if text is None:
         return None
     text = str(text).strip().lower()
@@ -23,11 +23,10 @@ def text_to_key(text):
     return text
 
 def build_comment_key(entity_type, entity_name, topic_key):
-    """Build a deterministic comment key based on entity and topic."""
+    """explanations.{type}.{entity}.{topic}"""
     if not entity_name or not topic_key:
         return None
     entity_key = text_to_key(entity_name)
-    # topic_key is already in format "topics.xyz", extract just the topic part
     topic_part = topic_key.replace("topics.", "") if topic_key.startswith("topics.") else text_to_key(topic_key)
     return f"explanations.{entity_type}.{entity_key}.{topic_part}"
 
@@ -40,7 +39,7 @@ def clean_text(s):
     return s if s != "" else None
 
 def parse_candidate_header(header_str):
-    """Parse header like "Rafael Aliaga (Partido X)" into name and party."""
+    """'Name (Party)' -> (name, party)"""
     if header_str is None:
         return None, None
     header_str = str(header_str).strip()
@@ -54,7 +53,7 @@ def parse_candidate_header(header_str):
     return name, party
 
 def map_vote_text_to_value(vote_text):
-    """Map Spanish vote text or numeric strings to numeric values."""
+    """'A favor' -> 1.0, 'En contra' -> 0.0, 'Neutral' -> 0.5"""
     if vote_text is None:
         return None
 
@@ -84,7 +83,7 @@ def map_vote_text_to_value(vote_text):
     return None
 
 def parse_cell_combined(cell_value):
-    """Parse cell: "vote+++comment+++source" """
+    """Parse 'vote+++comment+++source' format"""
     raw = clean_text(cell_value)
     if raw is None:
         return MISSING_VOTE_DEFAULT, MISSING_COMMENT_DEFAULT, MISSING_SOURCE_DEFAULT
