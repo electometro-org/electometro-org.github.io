@@ -10,7 +10,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.0,
           "comment": "El programa de Perú Libre enfatiza atender las causas de la delincuencia y plantea medidas de reinserción (producción/empleo para reos) y reorganización policial en lugar de priorizar un enfoque exclusivamente punitivo.",
-          "comment_key": "explanations.exp1",
+          "comment_key": "explanations.party.perú_primero.seguridad_pública",
           "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -20,7 +20,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.0,
           "comment": "Perú Libre ha rechazado iniciativas que prohíben la participación política de dirigentes con sentencias por corrupción y su bancada ha promovido cambios para reducir periodos de inhabilitación o facilitar rehabilitaciones, por lo que no apoya vetos perpetuos.",
-          "comment_key": "explanations.exp10",
+          "comment_key": "explanations.party.perú_primero.corrupción",
           "source": "https://elcomercio.pe/politica/vladimir-cerron-peru-libre-busca-ahora-reducir-los-anos-de-inhabilitacion-para-funcionarios-corruptos-los-peligros-de-su-nuevo-proyecto-de-ley-noticia/ ; https://ahora.com.pe/peru-libre-rechaza-proyecto-de-ley-del-jne-que-prohibe-dirigentes-con-sentencias-por-corrupcion/"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -30,7 +30,7 @@
           "topic_key": "topics.afp",
           "vote": 0.0,
           "comment": "El programa cuestiona el sistema privado de pensiones (SPP) y propone fortalecer el Sistema Nacional de Pensiones (SNP) y eliminar paulatinamente el SPP; no hay propuesta en el programa que promueva retiros universales de fondos AFP a los 45 años.",
-          "comment_key": "explanations.exp15",
+          "comment_key": "explanations.party.perú_primero.afp",
           "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -40,7 +40,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "El ideario de Perú Libre afirma el respeto a los derechos reproductivos y defiende que nada tenga carácter obligatorio o coactivo; sin embargo el documento no especifica explícitamente la despenalización del aborto por violación, por lo que la posición queda ambigua en su programa.",
-          "comment_key": "explanations.exp21",
+          "comment_key": "explanations.party.perú_primero.aborto",
           "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -50,7 +50,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 1.0,
           "comment": "Perú Libre propone eliminar exoneraciones para grandes empresas, ajustar la recaudación y cobrar más a las grandes empresas; su plan económico y documentos del partido plantean cobrar impuestos a todas las empresas y reducir privilegios tributarios, lo que es coherente con una orientación hacia mayor carga sobre los de mayores recursos.",
-          "comment_key": "explanations.exp27",
+          "comment_key": "explanations.party.perú_primero.impuestos_progresivos",
           "source": "https://perulibre.pe/plan-bicentenario.pdf ; https://sudaca.pe/noticia/peru-libre-este-es-el-plan-pari-para-reestructurar-la-sunat-y-cobrar-mas-a-las-grandes-empresas/"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -60,7 +60,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.0,
           "comment": "Miembros y voceros de Perú Libre se han pronunciado rechazando la instauración de la pena de muerte; el partido y su bancada han rechazado propuestas legislativas que la promueven.",
-          "comment_key": "explanations.exp33",
+          "comment_key": "explanations.party.perú_primero.pena_de_muerte",
           "source": "https://www.youtube.com/watch?v=yzyO1m2YDrA ; https://www.facebook.com/bancadaperulibre/posts/-importante-si-se-instaura-la-pena-de-muerte-como-dice-boluarte-ser%C3%ADa-la-primera/"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -70,7 +70,7 @@
           "topic_key": "topics.militares",
           "vote": 0.0,
           "comment": "El documento programa prioriza la reorganización y especialización de la Policía Nacional, respeta las rondas campesinas y condena violaciones a DDHH por fuerzas del Estado; no promueve aumentar la presencia militar en las calles como política principal de seguridad.",
-          "comment_key": "explanations.exp38",
+          "comment_key": "explanations.party.perú_primero.militares",
           "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -100,7 +100,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "El programa reconoce los derechos reproductivos y defiende educación y salud como bienes sociales; además propone modificar el currículo para promover valores y principios, pero no establece explícitamente educación sexual obligatoria en los colegios.",
-          "comment_key": "explanations.exp49",
+          "comment_key": "explanations.party.perú_primero.educación_sexual",
           "source": "https://perulibre.pe/wp-content/uploads/2024/11/IDEARIO-Y-PROGRAMA-2024.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -110,7 +110,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -120,7 +120,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -130,7 +130,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -140,7 +140,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -150,7 +150,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -160,7 +160,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -170,7 +170,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -180,7 +180,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -190,7 +190,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -200,7 +200,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -215,7 +215,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 1.0,
           "comment": "El plan y comunicados de Fuerza Popular priorizan medidas de seguridad contundentes, el fortalecimiento policial y han propuesto que las FF.AA. asuman roles en penales y seguridad; eso indica alineamiento con un enfoque punitivo.",
-          "comment_key": "explanations.exp2",
+          "comment_key": "explanations.party.fuerza_popular.seguridad_pública",
           "source": "https://elcomercio.pe/politica/elecciones/keiko-fujimori-plantea-que-las-fuerzas-armadas-adminsitren-los-penales-en-un-eventual-gobierno-fuerza-popular-elecciones-2021-noticia/"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -225,7 +225,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Keiko/Fuerza Popular ha propuesto la inhabilitación del servicio público para corruptos (muerte civil / inhabilitación), aunque no hay evidencia pública clara de un veto explícito y permanente de por vida en su programa.",
-          "comment_key": "explanations.exp11",
+          "comment_key": "explanations.party.fuerza_popular.corrupción",
           "source": "https://www.gob.pe/institucion/contraloria/noticias/505880-muerte-civil-para-corruptos-es-una-de-las-propuestas-de-los-candidatos-presidenciales"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -235,7 +235,7 @@
           "topic_key": "topics.afp",
           "vote": 0.0,
           "comment": "Fuerza Popular no apoya esta propuesta, si bien apoyaron el retiro excepcional de fondos de las AFP hace un par de meses.",
-          "comment_key": "explanations.exp16",
+          "comment_key": "explanations.party.fuerza_popular.afp",
           "source": "https://rpp.pe/economia/economia/fuerza-popular-insiste-en-que-el-ejecutivo-desnaturalizo-la-reforma-de-pensiones-y-anuncia-respaldo-al-octavo-retiro-de-afp-noticia-1655553?ref=rpp; https://www.infobae.com/peru/2025/09/18/retiro-afp-en-2025-es-una-realidad-montos-plazos-y-procedimiento-que-tendria-el-octavo-acceso/"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -245,7 +245,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.0,
           "comment": "Fuerza Popular y su lideresa Keiko Fujimori se declaran 'pro-vida' y su plan defiende el derecho a la vida desde la concepción; han rechazado ampliar el aborto.",
-          "comment_key": "explanations.exp22",
+          "comment_key": "explanations.party.fuerza_popular.aborto",
           "source": "https://canaln.pe/actualidad/keiko-fujimori-reafirma-su-postura-provida-n420789"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -255,7 +255,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.0,
           "comment": "El plan de Fuerza Popular plantea una reforma tributaria orientada a simplificación y reducción de cargas para MYPES e incentivos, no un aumento progresivo para los más ricos.",
-          "comment_key": "explanations.exp28",
+          "comment_key": "explanations.party.fuerza_popular.impuestos_progresivos",
           "source": "https://wayka.pe/elecciones-2021-keiko-fujimori-ofrece-bajar-impuestos-a-la-micro-y-pequena-empresa/"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -265,7 +265,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 1.0,
           "comment": "Keiko y sectores de Fuerza Popular han promovido en el pasado la pena de muerte para delitos como la violación de menores y han reavivado la idea en declaraciones públicas.",
-          "comment_key": "explanations.exp34",
+          "comment_key": "explanations.party.fuerza_popular.pena_de_muerte",
           "source": "https://elpais.com/internacional/2006/03/20/actualidad/1142828419_850215.html"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -275,7 +275,7 @@
           "topic_key": "topics.militares",
           "vote": 1.0,
           "comment": "Fuerza Popular ha propuesto un mayor rol de las Fuerzas Armadas en seguridad ciudadana y la administración temporal de penales; han defendido ampliar poderes militares/policiales.",
-          "comment_key": "explanations.exp39",
+          "comment_key": "explanations.party.fuerza_popular.militares",
           "source": "https://infobae.com/america/peru/2021/04/29/keiko-fujimori-propone-que-las-fuerzas-armadas-adminsitren-los-penales-si-llega-a-ser-presidenta/"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -285,7 +285,7 @@
           "topic_key": "topics.deforestación",
           "vote": 1.0,
           "comment": "La congresista Jeny López Morales presentó una iniciativa en el congreso para habilitar el uso de zonas previamente protegidas con fines agropecuarios.",
-          "comment_key": "explanations.exp46",
+          "comment_key": "explanations.party.fuerza_popular.deforestación",
           "source": "https://ojo-publico.com/5973/los-rostros-detras-las-leyes-que-amenazan-la-amazonia"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -295,7 +295,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.0,
           "comment": "Podría investigar más, pero en ningún momento mencionan que sea necesario invertir más dinero en la salud pública.",
-          "comment_key": "explanations.exp48",
+          "comment_key": "explanations.party.fuerza_popular.salud_pública",
           "source": null
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -305,7 +305,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.0,
           "comment": "Fuerza Popular se ha opuesto a la implementación amplia de la Educación Sexual Integral y forma parte del bloque conservador que critica el enfoque de género; por tanto no apoyan convertirla en mandato.",
-          "comment_key": "explanations.exp50",
+          "comment_key": "explanations.party.fuerza_popular.educación_sexual",
           "source": "https://www.swissinfo.ch/spa/per%C3%BA-elecciones_debate-presidencial-en-per%C3%BA-enfoca-cruces-en-educaci%C3%B3n-y-enfoque-de-g%C3%A9nero/46574100"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -315,7 +315,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -325,7 +325,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -335,7 +335,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -345,7 +345,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -355,7 +355,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -365,7 +365,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -375,7 +375,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -385,7 +385,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -395,7 +395,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -405,7 +405,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fuerza_popular.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -420,7 +420,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.0,
           "comment": "El plan prioriza prevención del delito, modernización y profesionalización policial y medidas de reinserción/rehabilitación social en lugar de un enfoque exclusivamente punitivo.",
-          "comment_key": "explanations.exp3",
+          "comment_key": "explanations.party.partido_morado.seguridad_pública",
           "source": "https://partidomorado.pe/files/pdf/partido-morado_240601_212441.pdf"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -450,7 +450,7 @@
           "topic_key": "topics.aborto",
           "vote": 1.0,
           "comment": "El Partido Morado y candidatos morados se han manifestado a favor de despenalizar el aborto por violación (propuestas públicas durante el periodo electoral).",
-          "comment_key": "explanations.exp23",
+          "comment_key": "explanations.party.partido_morado.aborto",
           "source": "https://promsex.org/candidatos-al-congreso-se-comprometieron-en-trabajar-por-el-enfoque-de-genero-en-las-politicas/ ; https://factual.afp.com/el-partido-morado-de-peru-esta-favor-del-aborto-pero-no-hay-registros-de-que-el-afiche-sea-de-su"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -460,7 +460,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 1.0,
           "comment": "El partido propone una reforma tributaria integral y la eliminación/reducción de beneficios tributarios/exoneraciones para mejorar la recaudación y equidad fiscal.",
-          "comment_key": "explanations.exp29",
+          "comment_key": "explanations.party.partido_morado.impuestos_progresivos",
           "source": "https://partidomorado.pe/files/pdf/partido-morado_240601_212441.pdf ; https://larepublica.pe/verificador/2021/02/23/no-es-seguro-que-se-podra-realizar-una-reforma-tributaria-inmediata-como-afirmo-julio-guzman/"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -470,7 +470,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.0,
           "comment": "Voceros morados (ej. Daniel Olivares) han rechazado la pena de muerte como solución estructural y la describen como un 'fuego artificial'.",
-          "comment_key": "explanations.exp35",
+          "comment_key": "explanations.party.partido_morado.pena_de_muerte",
           "source": "https://www.atv.pe/noticia/daniel-olivares-revela-si-el-partido-morado-impulsara-la-pena-de-muerte/"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -480,7 +480,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "El plan contempla la inclusión de las Fuerzas Armadas en operaciones contra el narcotráfico y las emergencias, coordinadas con Policía y bajo comando; prioriza modernización policial en seguridad ciudadana más que una presencia militar permanente en las calles.",
-          "comment_key": "explanations.exp40",
+          "comment_key": "explanations.party.partido_morado.militares",
           "source": "https://partidomorado.pe/files/pdf/partido-morado_240601_212441.pdf"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -520,7 +520,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -530,7 +530,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -540,7 +540,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -550,7 +550,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -560,7 +560,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -570,7 +570,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -580,7 +580,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -590,7 +590,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -600,7 +600,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -610,7 +610,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_morado.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -625,7 +625,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 1.0,
           "comment": "El plan de gobierno y propuestas de la bancada de Renovación Popular insisten en medidas de seguridad contundentes (patrullaje integrado, mayor actuación policial y proyectos para penas más severas), lo que indica prioridad al castigo.",
-          "comment_key": "explanations.exp4",
+          "comment_key": "explanations.party.renovación_popular.seguridad_pública",
           "source": "https://www.actualidadambiental.pe/wp-content/uploads/2022/09/Plan-de-Gobierno-Renovacion-Popular-Elecciones-2022.pdf"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -635,7 +635,7 @@
           "topic_key": "topics.corrupción",
           "vote": 1.0,
           "comment": "Miembros de Renovación Popular (congresistas de la bancada) presentaron proyectos que proponen 'muerte civil' o inhabilitación perpetua para sentenciados por corrupción (Proyecto N°10344 por Cheryl Trigozo), lo que coincide con vetos permanentes.",
-          "comment_key": "explanations.exp12",
+          "comment_key": "explanations.party.renovación_popular.corrupción",
           "source": "https://willax.pe/politica/cheryl-trigozo-congresista-de-renovacion-popular-propone-muerte-civil-para-sentenciados-por-corrupcion"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -655,7 +655,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.0,
           "comment": "Renovación Popular y su líder Rafael López Aliaga mantienen una postura 'pro-vida' y crítican los movimientos que piden legalizar o ampliar el acceso al aborto; en general se oponen a ampliar causales.",
-          "comment_key": "explanations.exp24",
+          "comment_key": "explanations.party.renovación_popular.aborto",
           "source": "https://elcomercio.pe/elecciones-2021/rafael-lopez-aliaga-toda-la-doctrina-de-genero-evidentemente-va-a-ser-exterminada-renovacion-popular-entrevista-elecciones-2021-noticia/"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -665,7 +665,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.0,
           "comment": "El plan de gobierno de Renovación Popular promueve reducción/simplificación regulatoria e incentivos económicos, no un enfoque de aumento de impuestos progresivos hacia los más ricos.",
-          "comment_key": "explanations.exp30",
+          "comment_key": "explanations.party.renovación_popular.impuestos_progresivos",
           "source": "https://www.actualidadambiental.pe/wp-content/uploads/2022/09/Plan-de-Gobierno-Renovacion-Popular-Elecciones-2022.pdf"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -685,7 +685,7 @@
           "topic_key": "topics.militares",
           "vote": 1.0,
           "comment": "Renovación Popular ha propuesto que las Fuerzas Armadas y otras medidas excepcionales asuman papeles más activos en seguridad (por ejemplo propuestas para usar cuarteles como cárceles y llamados a que las FF.AA. se hagan cargo de la seguridad), lo que muestra apoyo a mayor presencia militar.",
-          "comment_key": "explanations.exp41",
+          "comment_key": "explanations.party.renovación_popular.militares",
           "source": "https://www.infobae.com/peru/2024/10/22/proponen-usar-cuarteles-de-las-fuerzas-armadas-como-carceles-proyecto-de-ley-fue-presentado-por-renovacion-popular/"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -715,7 +715,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.0,
           "comment": "Renovación Popular (congresista Milagros Jáuregui) presentó proyectos para eliminar la Educación Sexual Integral y reemplazarla por una educación sexual 'científica, biológica y ética', lo que muestra oposición a mandatar ESI.",
-          "comment_key": "explanations.exp51",
+          "comment_key": "explanations.party.renovación_popular.educación_sexual",
           "source": "https://comunicaciones.congreso.gob.pe/damos-cuenta/proponen-eliminar-la-educacion-sexual-integral-y-reemplazarla-por-la-educacion-sexual-cientifica-biologica-y-etica/"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -725,7 +725,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -735,7 +735,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -745,7 +745,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -755,7 +755,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -765,7 +765,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -775,7 +775,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -785,7 +785,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -795,7 +795,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -805,7 +805,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -815,7 +815,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.renovación_popular.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -830,7 +830,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.0,
           "comment": "Promueven un enfoque participativo y preventivo de seguridad ciudadana, con reforma de la Policía Nacional y participación comunitaria, en lugar de priorizar solo castigos.",
-          "comment_key": "explanations.exp5",
+          "comment_key": "explanations.party.juntos_por_el_perú.seguridad_pública",
           "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -850,7 +850,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Miembros de la bancada/Juntos por el Perú han impulsado proyectos de retiro de AFP (por ejemplo retiros hasta 4 UIT); no hay evidencia de un respaldo unánime del partido a una medida de retiro universal a los 45 años.",
-          "comment_key": "explanations.exp17",
+          "comment_key": "explanations.party.juntos_por_el_perú.afp",
           "source": "La República / Infobae - larepublica.pe; infobae.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -860,7 +860,7 @@
           "topic_key": "topics.aborto",
           "vote": 1.0,
           "comment": "Presentaron y respaldaron iniciativas para despenalizar el aborto en casos de violación (proyecto impulsado por la congresista Ruth Luque).",
-          "comment_key": "explanations.exp25",
+          "comment_key": "explanations.party.juntos_por_el_perú.aborto",
           "source": "Comunicaciones Congreso / Swissinfo / Infobae - comunicaciones.congreso.gob.pe; swissinfo.ch; infobae.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -870,7 +870,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 1.0,
           "comment": "Proponen una reforma tributaria redistributiva que incluya impuestos a las grandes fortunas y medidas progresivas.",
-          "comment_key": "explanations.exp31",
+          "comment_key": "explanations.party.juntos_por_el_perú.impuestos_progresivos",
           "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -880,7 +880,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "No hay posición unificada: la alianza con Antauro Humala incluye propuestas favorables a la pena de muerte, mientras que congresistas del partido han declarado su oposición. El partido muestra división sobre el tema.",
-          "comment_key": "explanations.exp36",
+          "comment_key": "explanations.party.juntos_por_el_perú.pena_de_muerte",
           "source": "7dias / ATV / SinPermiso - 7dias.pe; atv.pe; sinpermiso.info"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -890,7 +890,7 @@
           "topic_key": "topics.militares",
           "vote": 0.0,
           "comment": "El plan prioriza la reforma de la Policía Nacional y un enfoque preventivo/participativo para la seguridad ciudadana; no promueven una mayor presencia militar en las calles como política central.",
-          "comment_key": "explanations.exp42",
+          "comment_key": "explanations.party.juntos_por_el_perú.militares",
           "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -900,7 +900,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "En su estatuto, el partido sostiene la necesidad de proteger al medio ambiente. Sin embargo, el presidente del partido, Roberto Sánchez Palomino presentó una propuesta similar a la de Jeny López Morales.",
-          "comment_key": "explanations.exp47",
+          "comment_key": "explanations.party.juntos_por_el_perú.deforestación",
           "source": "https://ojo-publico.com/5973/los-rostros-detras-las-leyes-que-amenazan-la-amazonia; https://es.wikipedia.org/wiki/Juntos_por_el_Per%C3%BA; https://jp.org.pe/estatuto-del-partido/."
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -920,7 +920,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 1.0,
           "comment": "Apoyan educación sexual integral y un enfoque de género e interculturalidad en la educación pública; proponen políticas públicas para educación con enfoque de derechos y prevención de violencia sexual.",
-          "comment_key": "explanations.exp52",
+          "comment_key": "explanations.party.juntos_por_el_perú.educación_sexual",
           "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -930,7 +930,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -940,7 +940,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -950,7 +950,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -960,7 +960,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -970,7 +970,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -980,7 +980,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -990,7 +990,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -1000,7 +1000,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -1010,7 +1010,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -1020,7 +1020,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.juntos_por_el_perú.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -1035,7 +1035,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 1.0,
           "comment": "Podemos Perú y su liderazgo (Daniel Urresti, José Luna) han promovido políticas de 'mano dura' y penas más severas; han difundido propuestas que favorecen cadena perpetua para sicarios/extorsionadores y el fortalecimiento de comisarías y sanciones.",
-          "comment_key": "explanations.exp6",
+          "comment_key": "explanations.party.podemos_perú.seguridad_pública",
           "source": "https://www.facebook.com/photo.php?fbid=1094165198735107&id=100044249103024&set=a.405356920949275/ ; https://www.nodal.am/2021/04/cuales-son-las-propuestas-de-los-y-las-candidatas-para-erradicar-la-violencia-de-genero/"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -1055,7 +1055,7 @@
           "topic_key": "topics.afp",
           "vote": 1.0,
           "comment": "La bancada y congresistas de Podemos (especialmente José Luna) han presentado y promovido proyectos para permitir retiros extraordinarios de fondos de AFP (p. ej. proyectos para retiro de hasta 4 UIT) y han pedido priorizar su debate en el Congreso.",
-          "comment_key": "explanations.exp18",
+          "comment_key": "explanations.party.podemos_perú.afp",
           "source": "https://comunicaciones.congreso.gob.pe/damos-cuenta/presentan-nuevo-proyecto-para-retiro-de-4-uit-de-cuentas-afp/ ; https://www.infobae.com/peru/2025/09/15/octavo-retiro-afp-ve-la-luz-jose-luna-podemos-peru-congreso-presenta-proyecto-que-deroga-la-reforma-previsional-y-autoriza-liberacion-extraordinaria-de-fondos/"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -1065,7 +1065,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.0,
           "comment": "Verificaciones periodísticas y revisión del plan de gobierno indican que el programa de Podemos Perú no incluye la despenalización del aborto por violación; la afirmación del candidato Daniel Urresti en campaña sobre esto fue calificada como falsa.",
-          "comment_key": "explanations.exp26",
+          "comment_key": "explanations.party.podemos_perú.aborto",
           "source": "https://convoca.pe/convoca-verifica/reportaje/no-es-cierto-lo-que-dijo-urresti-acerca-de-que-su-plan-de-gobierno ; https://ojo-publico.com/2564/no-es-cierto-lo-que-dijo-urresti-acerca-de-su-postura-sobre-el-aborto"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -1095,7 +1095,7 @@
           "topic_key": "topics.militares",
           "vote": 0.0,
           "comment": "En su discurso y plan de seguridad, Podemos y su liderazgo enfatizan el fortalecimiento y equipamiento de la Policía Nacional y sanciones más duras; no existe evidencia pública sólida de que promuevan como política principal el despliegue masivo de las Fuerzas Armadas en las calles.",
-          "comment_key": "explanations.exp43",
+          "comment_key": "explanations.party.podemos_perú.militares",
           "source": "https://elcomercio.pe/politica/actualidad/perfil-daniel-urresti-el-militar-en-retiro-y-politico-que-aun-le-debe-una-respuesta-a-la-justicia-caso-hugo-bustios-ayacucho-noticia/ ; https://www.nodal.am/2021/04/cuales-son-las-propuestas-de-los-y-las-candidatas-para-erradicar-la-violencia-de-genero/"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -1135,7 +1135,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -1145,7 +1145,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -1155,7 +1155,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -1165,7 +1165,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -1175,7 +1175,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -1185,7 +1185,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -1195,7 +1195,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -1205,7 +1205,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -1215,7 +1215,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -1225,7 +1225,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.podemos_perú.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -1240,7 +1240,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 1.0,
           "comment": "APP ha promovido proyectos y declaraciones a favor de medidas de seguridad contundentes y que las Fuerzas Armadas apoyen a la Policía en la lucha contra la delincuencia.",
-          "comment_key": "explanations.exp7",
+          "comment_key": "explanations.party.alianza_para_el_progreso.seguridad_pública",
           "source": "https://www.infobae.com/peru/2024/02/28/app-impulsa-propuesta-para-que-las-fuerzas-armadas-acompanen-a-la-pnp-en-lucha-contra-delincuencia/"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -1250,7 +1250,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "La bancada de APP presentó proyectos para penas más severas por corrupción (hasta 22 años) y medidas de inhabilitación en casos de corrupción.",
-          "comment_key": "explanations.exp13",
+          "comment_key": "explanations.party.alianza_para_el_progreso.corrupción",
           "source": "https://andina.pe/agencia/noticia-proponen-hasta-22-anos-carcel-corrupcion-durante-emergencias-662316.aspx"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -1260,7 +1260,7 @@
           "topic_key": "topics.afp",
           "vote": 1.0,
           "comment": "La bancada y representantes de APP han respaldado proyectos de retiro de fondos de AFP y votaron a favor de reformas relacionadas con retiros.",
-          "comment_key": "explanations.exp19",
+          "comment_key": "explanations.party.alianza_para_el_progreso.afp",
           "source": "https://larepublica.pe/politica/2025/09/15/retiro-de-la-afp-fuerza-popular-renovacion-popular-y-app-votaron-a-favor-de-la-reforma-que-ahora-rechazan-hnews-1338720"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -1290,7 +1290,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 1.0,
           "comment": "Congresistas de APP presentaron iniciativas vinculadas a autorizar al Ejecutivo retirar al Perú del Pacto de San José, paso vinculado a permitir la pena de muerte; indica apoyo a medidas que permitirían pena de muerte.",
-          "comment_key": "explanations.exp37",
+          "comment_key": "explanations.party.alianza_para_el_progreso.pena_de_muerte",
           "source": "https://www.radionacional.gob.pe/noticias/politica/pena-de-muerte-presentan-proyecto-de-ley-que-propone-retiro-del-peru-del-pacto-de-san-jose"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -1300,7 +1300,7 @@
           "topic_key": "topics.militares",
           "vote": 1.0,
           "comment": "Miembros de APP han propuesto que las Fuerzas Armadas apoyen a la policía en seguridad ciudadana y han respaldado ideas de mayor participación militar en la lucha contra la criminalidad.",
-          "comment_key": "explanations.exp44",
+          "comment_key": "explanations.party.alianza_para_el_progreso.militares",
           "source": "https://gestion.pe/peru/politica/app-propone-que-las-ff-aa-apoye-a-la-policia-en-la-lucha-contra-la-criminalidad-noticia/"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -1340,7 +1340,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -1350,7 +1350,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -1360,7 +1360,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -1370,7 +1370,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -1380,7 +1380,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -1390,7 +1390,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -1400,7 +1400,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -1410,7 +1410,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -1420,7 +1420,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -1430,7 +1430,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.alianza_para_el_progreso.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -1445,7 +1445,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.0,
           "comment": "El plan de Somos Perú prioriza la prevención integral de la delincuencia y medidas de coordinación con la Policía (cámaras, participación vecinal, juzgados de flagrancia para agilizar sanciones) — es una combinación de prevención y aplicación de la ley, no una apuesta exclusiva por el castigo en vez de la reinserción.",
-          "comment_key": "explanations.exp8",
+          "comment_key": "explanations.party.somos_perú.seguridad_pública",
           "source": "declara.jne.gob.pe / Plan de Gobierno Somos Perú"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -1455,7 +1455,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Somos Perú incluye propuestas anticorrupción en sus planes y además cuenta con normativa partidaria interna que menciona la exclusión de quienes han sido sentenciados por delitos como corrupción; eso muestra apoyo a vetos/inhabilitaciones en el ámbito partidario, aunque no hay en el plan una propuesta explícita de inhabilitación de por vida para cargos públicos en general.",
-          "comment_key": "explanations.exp14",
+          "comment_key": "explanations.party.somos_perú.corrupción",
           "source": "Plan de Gobierno Somos Perú; Directiva OEC/PDSP (Somos Perú)"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -1465,7 +1465,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "No hay un mandato partidario claro para retiros automáticos a los 45 años; además, líderes de Somos Perú en el Congreso (ej. presidente del Congreso José Jerí) se pronunciaron en contra de nuevos retiros extraordinarios de AFP, lo que indica postura ambivalente o contraria a facilitar retiros indiscriminados.",
-          "comment_key": "explanations.exp20",
+          "comment_key": "explanations.party.somos_perú.afp",
           "source": "Declaraciones de congresista José Jerí (Somos Perú); noticias sobre rechazo a retiros de AFP"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -1485,7 +1485,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "El plan de Somos Perú propone una 'política tributaria y de facilitación que estimule y no disuada la formalización' y medidas para fomentar la formalización; el documento no expresa de forma explícita una apuesta por impuestos marcadamente más progresivos, por lo que la concordancia con la afirmación es parcial/indirecta.",
-          "comment_key": "explanations.exp32",
+          "comment_key": "explanations.party.somos_perú.impuestos_progresivos",
           "source": "Plan de Gobierno Somos Perú"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -1505,7 +1505,7 @@
           "topic_key": "topics.militares",
           "vote": 0.0,
           "comment": "Los documentos programáticos de Somos Perú enfatizan la presencia policial y medidas de seguridad ciudadana (patrullaje, cámaras, coordinación con la PNP) — no hay en su plan una propuesta programática de aumentar la presencia militar en las calles como política permanente.",
-          "comment_key": "explanations.exp45",
+          "comment_key": "explanations.party.somos_perú.militares",
           "source": "Plan de Gobierno Somos Perú"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -1545,7 +1545,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -1555,7 +1555,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -1565,7 +1565,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -1575,7 +1575,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -1585,7 +1585,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -1595,7 +1595,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -1605,7 +1605,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -1615,7 +1615,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -1625,7 +1625,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -1635,7 +1635,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.somos_perú.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -1650,7 +1650,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -1660,7 +1660,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -1670,7 +1670,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -1680,7 +1680,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -1690,7 +1690,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -1700,7 +1700,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -1710,7 +1710,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -1720,7 +1720,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -1730,7 +1730,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -1740,7 +1740,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -1750,7 +1750,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -1760,7 +1760,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -1770,7 +1770,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -1780,7 +1780,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -1790,7 +1790,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -1800,7 +1800,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -1810,7 +1810,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -1820,7 +1820,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -1830,7 +1830,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -1840,7 +1840,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.ahora_nación.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -1855,7 +1855,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -1865,7 +1865,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -1875,7 +1875,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -1885,7 +1885,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -1895,7 +1895,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -1905,7 +1905,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -1915,7 +1915,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -1925,7 +1925,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -1935,7 +1935,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -1945,7 +1945,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -1955,7 +1955,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -1965,7 +1965,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -1975,7 +1975,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -1985,7 +1985,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -1995,7 +1995,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -2005,7 +2005,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -2015,7 +2015,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -2025,7 +2025,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -2035,7 +2035,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -2045,7 +2045,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.fe_en_el_perú.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -2060,7 +2060,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -2070,7 +2070,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -2080,7 +2080,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -2090,7 +2090,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -2100,7 +2100,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -2110,7 +2110,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -2120,7 +2120,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -2130,7 +2130,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -2140,7 +2140,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -2150,7 +2150,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -2160,7 +2160,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -2170,7 +2170,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -2180,7 +2180,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -2190,7 +2190,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -2200,7 +2200,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -2210,7 +2210,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -2220,7 +2220,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -2230,7 +2230,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -2240,7 +2240,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -2250,7 +2250,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_del_buen_gobierno.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -2265,7 +2265,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -2275,7 +2275,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -2285,7 +2285,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -2295,7 +2295,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -2305,7 +2305,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -2315,7 +2315,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -2325,7 +2325,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -2335,7 +2335,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -2345,7 +2345,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -2355,7 +2355,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -2365,7 +2365,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -2375,7 +2375,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -2385,7 +2385,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -2395,7 +2395,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -2405,7 +2405,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -2415,7 +2415,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -2425,7 +2425,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -2435,7 +2435,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -2445,7 +2445,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -2455,7 +2455,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_demócrata_unido_perú.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -2470,7 +2470,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -2480,7 +2480,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -2490,7 +2490,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -2500,7 +2500,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -2510,7 +2510,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -2520,7 +2520,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -2530,7 +2530,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -2540,7 +2540,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -2550,7 +2550,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -2560,7 +2560,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -2570,7 +2570,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -2580,7 +2580,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -2590,7 +2590,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -2600,7 +2600,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -2610,7 +2610,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -2620,7 +2620,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -2630,7 +2630,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -2640,7 +2640,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -2650,7 +2650,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -2660,7 +2660,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_frente_de_la_esperanza_2021.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -2675,7 +2675,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -2685,7 +2685,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -2695,7 +2695,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -2705,7 +2705,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -2715,7 +2715,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -2725,7 +2725,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -2735,7 +2735,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -2745,7 +2745,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -2755,7 +2755,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -2765,7 +2765,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -2775,7 +2775,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -2785,7 +2785,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -2795,7 +2795,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -2805,7 +2805,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -2815,7 +2815,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -2825,7 +2825,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -2835,7 +2835,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -2845,7 +2845,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -2855,7 +2855,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -2865,7 +2865,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.partido_patriótico_del_perú.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -2880,7 +2880,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -2890,7 +2890,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -2900,7 +2900,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -2910,7 +2910,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -2920,7 +2920,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -2930,7 +2930,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -2940,7 +2940,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -2950,7 +2950,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -2960,7 +2960,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -2970,7 +2970,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -2980,7 +2980,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -2990,7 +2990,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -3000,7 +3000,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -3010,7 +3010,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -3020,7 +3020,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -3030,7 +3030,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -3040,7 +3040,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -3050,7 +3050,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -3060,7 +3060,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -3070,7 +3070,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_moderno.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -3085,7 +3085,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -3095,7 +3095,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -3105,7 +3105,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -3115,7 +3115,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -3125,7 +3125,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -3135,7 +3135,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -3145,7 +3145,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -3155,7 +3155,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -3165,7 +3165,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -3175,7 +3175,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -3185,7 +3185,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -3195,7 +3195,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -3205,7 +3205,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -3215,7 +3215,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -3225,7 +3225,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -3235,7 +3235,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -3245,7 +3245,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -3255,7 +3255,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -3265,7 +3265,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -3275,7 +3275,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.progresemos.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -3290,7 +3290,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -3300,7 +3300,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -3310,7 +3310,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -3320,7 +3320,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -3330,7 +3330,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -3340,7 +3340,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -3350,7 +3350,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -3360,7 +3360,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -3370,7 +3370,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -3380,7 +3380,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -3390,7 +3390,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -3400,7 +3400,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -3410,7 +3410,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -3420,7 +3420,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -3430,7 +3430,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -3440,7 +3440,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -3450,7 +3450,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -3460,7 +3460,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -3470,7 +3470,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -3480,7 +3480,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.un_camino_diferente.derechos_humanos",
           "source": "Test.com"
         }
       }
@@ -3495,7 +3495,7 @@
           "topic_key": "topics.seguridad_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.seguridad_pública",
           "source": "Test.com"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -3505,7 +3505,7 @@
           "topic_key": "topics.corrupción",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.corrupción",
           "source": "Test.com"
         },
         "AFP: Todos deberían poder retirar sus fondos de la AFP a partir de los 45 años.": {
@@ -3515,7 +3515,7 @@
           "topic_key": "topics.afp",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.afp",
           "source": "Test.com"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -3525,7 +3525,7 @@
           "topic_key": "topics.aborto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.aborto",
           "source": "Test.com"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -3535,7 +3535,7 @@
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.impuestos_progresivos",
           "source": "Test.com"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -3545,7 +3545,7 @@
           "topic_key": "topics.pena_de_muerte",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.pena_de_muerte",
           "source": "Test.com"
         },
         "Militares: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -3555,7 +3555,7 @@
           "topic_key": "topics.militares",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.militares",
           "source": "Test.com"
         },
         "Deforestación: Impulsar el desarrollo económico es de una urgencia mayor que fortalecer las protecciones medioambientales de los bosques.": {
@@ -3565,7 +3565,7 @@
           "topic_key": "topics.deforestación",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.deforestación",
           "source": "Test.com"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -3575,7 +3575,7 @@
           "topic_key": "topics.salud_pública",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.salud_pública",
           "source": "Test.com"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar": {
@@ -3585,7 +3585,7 @@
           "topic_key": "topics.educación_sexual",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.educación_sexual",
           "source": "Test.com"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -3595,7 +3595,7 @@
           "topic_key": "topics.migración",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.migración",
           "source": "Test.com"
         },
         "Mega-prisión: Perú debería armar una mega-prisión, siguiendo el modelo de Bukele.": {
@@ -3605,7 +3605,7 @@
           "topic_key": "topics.megaprisión",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.megaprisión",
           "source": "Test.com"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -3615,7 +3615,7 @@
           "topic_key": "topics.pueblos_indígenas",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.pueblos_indígenas",
           "source": "Test.com"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -3625,7 +3625,7 @@
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.cambio_climático",
           "source": "Test.com"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -3635,7 +3635,7 @@
           "topic_key": "topics.inversión_extranjera",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.inversión_extranjera",
           "source": "Test.com"
         },
         "Eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
@@ -3645,7 +3645,7 @@
           "topic_key": "topics.eutanasia",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.eutanasia",
           "source": "Test.com"
         },
         "Gasto: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -3655,7 +3655,7 @@
           "topic_key": "topics.gasto",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.gasto",
           "source": "Test.com"
         },
         "Matrimonio: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -3665,7 +3665,7 @@
           "topic_key": "topics.matrimonio",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.matrimonio",
           "source": "Test.com"
         },
         "Pensiones: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -3675,7 +3675,7 @@
           "topic_key": "topics.pensiones",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.pensiones",
           "source": "Test.com"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -3685,7 +3685,7 @@
           "topic_key": "topics.derechos_humanos",
           "vote": 0.5,
           "comment": "Test",
-          "comment_key": "explanations.exp9",
+          "comment_key": "explanations.party.perú_primero.derechos_humanos",
           "source": "Test.com"
         }
       }
