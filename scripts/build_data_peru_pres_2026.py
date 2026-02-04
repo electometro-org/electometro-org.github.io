@@ -12,10 +12,6 @@ MISSING_SOURCE_DEFAULT = None
 
 number_of_topics = 20
 
-# Global counter and mapping for unique comments
-comment_to_key_map = {}
-comment_counter = 1
-
 def text_to_key(text):
     """Convert Spanish text to a translation key in snake_case."""
     if text is None:
@@ -26,20 +22,14 @@ def text_to_key(text):
     text = text.strip('_')
     return text
 
-def get_comment_key(comment):
-    """Get or create a translation key for a comment."""
-    global comment_counter, comment_to_key_map
-
-    if comment is None or comment == MISSING_COMMENT_DEFAULT:
+def build_comment_key(entity_type, entity_name, topic_key):
+    """Build a deterministic comment key based on entity and topic."""
+    if not entity_name or not topic_key:
         return None
-
-    if comment in comment_to_key_map:
-        return comment_to_key_map[comment]
-
-    key = f"exp{comment_counter}"
-    comment_to_key_map[comment] = key
-    comment_counter += 1
-    return key
+    entity_key = text_to_key(entity_name)
+    # topic_key is already in format "topics.xyz", extract just the topic part
+    topic_part = topic_key.replace("topics.", "") if topic_key.startswith("topics.") else text_to_key(topic_key)
+    return f"explanations.{entity_type}.{entity_key}.{topic_part}"
 
 def clean_text(s):
     if s is None:
@@ -166,8 +156,8 @@ def generate_from_new_structure():
 
             comment_key = None
             if comment_value and comment_value != MISSING_COMMENT_DEFAULT:
-                exp_key = get_comment_key(comment_value)
-                comment_key = f"explanations.{exp_key}" if exp_key else None
+                candidate_name = candidates_info[candidate_column]["name"]
+                comment_key = build_comment_key("candidate", candidate_name, topic_key)
 
             candidates_info[candidate_column]["votes"][question_identifier] = {
                 "tema": topic_text,
