@@ -3,8 +3,8 @@ import os
 import json
 import re
 
-NEW_STRUCTURE_FILE = os.getenv('PERU_FILE')
-OUTPUT_DIR = "json/"
+NEW_STRUCTURE_FILE = '../peru_preguntas_20250715.xlsx'
+OUTPUT_DIR = "../json/"
 
 MISSING_VOTE_DEFAULT = 0.5
 MISSING_COMMENT_DEFAULT = "No se encontró información pública sobre su posición."
@@ -96,10 +96,7 @@ def parse_cell_combined(cell_value):
     vote_mapped = map_vote_text_to_value(vote_part)
     return vote_mapped, comment_part, source_part
 
-def generate_from_new_structure():
-    missing_vote_default = 0.5
-    missing_comment_default = "No se encontró..."
-    missing_source_default = None
+def read_dataframe():
 
     raw_dataframe = pd.read_excel(
         NEW_STRUCTURE_FILE,
@@ -117,6 +114,17 @@ def generate_from_new_structure():
 
     if "Statement" not in data_frame.columns or "Tema" not in data_frame.columns:
         raise ValueError("Expected 'Tema' and 'Statement' columns in the sheet.")
+
+    return data_frame
+
+
+def candidate_extractor():
+
+    missing_vote_default = 0.5
+    missing_comment_default = "No se encontró..."
+    missing_source_default = None
+
+    data_frame = read_dataframe()
 
     candidate_columns = [col for col in data_frame.columns if col not in ("Tema", "Statement")]
 
@@ -177,13 +185,21 @@ def generate_from_new_structure():
             "votes": candidate_info["votes"]
         }
 
+    return combined_output
+
+def write_json_output():
+    """
+    Write data to a JSON file, creating the output directory if needed.
+    """
+    combined_output = candidate_extractor()
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     output_path = os.path.join(OUTPUT_DIR, "combined_votes_peru_pres_2026.json")
+
     with open(output_path, "w", encoding="utf-8") as file_handle:
         json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
 
     print(f"Wrote {output_path}")
 
-
 if __name__ == "__main__":
-    generate_from_new_structure()
+    write_json_output()
