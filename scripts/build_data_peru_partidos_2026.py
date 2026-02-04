@@ -80,12 +80,12 @@ def map_vote_text_to_value(vote_text):
     return None
 
 def parse_cell_combined(cell_value):
-    """Parse cell: "vote***comment***source" """
+    """Parse cell: "vote+++comment+++source" """
     raw = clean_text(cell_value)
     if raw is None:
         return MISSING_VOTE_DEFAULT, MISSING_COMMENT_DEFAULT, MISSING_SOURCE_DEFAULT
 
-    parts = raw.split('***', 2)
+    parts = raw.split('+++', 2)
     vote_part = clean_text(parts[0]) if len(parts) >= 1 else None
     comment_part = clean_text(parts[1]) if len(parts) >= 2 else None
     source_part = clean_text(parts[2]) if len(parts) >= 3 else None
