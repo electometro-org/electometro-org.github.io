@@ -68,11 +68,52 @@ def map_vote_text_to_value(vote_text):
 
     return None
 
+def load_structure_sheet(filepath, sheet_name, number_of_topics):
+    raw_df = pd.read_excel(
+        filepath,
+        sheet_name=sheet_name,
+        dtype=str,
+        header=None
+    )
+
+    raw_df = raw_df.head(number_of_topics + 1)
+    if raw_df.shape[0] < 1:
+        raise ValueError(f"Input sheet '{sheet_name}' appears empty or is missing the header row.")
+
+    raw_df.columns = raw_df.iloc[0]
+    df = raw_df.drop(index=0).reset_index(drop=True)
+
+    if "Statement" not in df.columns or "Tema" not in df.columns:
+        raise ValueError(f"Expected 'Tema' and 'Statement' columns in sheet '{sheet_name}'.")
+
+    return df
+
+
+def extract_party_from_candidate_header(col_name):
+    if col_name is None:
+        return None
+    s = str(col_name).strip()
+    m = re.search(r"\(([^)]+)\)\s*$", s)
+    return m.group(1).strip() if m else None
+
+
+def build_presidential_party_column_map(pres_df):
+    """
+    Map normalized party key -> presidential column name
+    """
+    pres_cols = [c for c in pres_df.columns if c not in ("Tema", "Statement")]
+    party_to_col = {}
+    for c in pres_cols:
+        party = extract_party_from_candidate_header(c)
+        if party:
+            party_to_col[text_to_key(party)] = c
+    return party_to_col
+
 def parse_cell_combined(cell_value):
-    """Parse 'vote+++comment+++source' format"""
+    """Parse 'vote+++comment+++source' format. Returns (None,None,None) if empty."""
     raw = clean_text(cell_value)
     if raw is None:
-        return MISSING_VOTE_DEFAULT, MISSING_COMMENT_DEFAULT, MISSING_SOURCE_DEFAULT
+        return None, None, None
 
     parts = raw.split('+++', 2)
     vote_part = clean_text(parts[0]) if len(parts) >= 1 else None
@@ -83,28 +124,25 @@ def parse_cell_combined(cell_value):
     return vote_mapped, comment_part, source_part
 
 def generate_from_new_structure():
-    missing_vote_default = 0.5
-    missing_comment_default = "No se encontró..."
-    missing_source_default = None
+    # Load both sheets
+    parl_df = load_structure_sheet(NEW_STRUCTURE_FILE, "parlamentaria", number_of_topics)
+    pres_df = load_structure_sheet(NEW_STRUCTURE_FILE, "presidencial", number_of_topics)
 
-    raw_dataframe = pd.read_excel(
-        NEW_STRUCTURE_FILE,
-        sheet_name="parlamentaria",
-        dtype=str,
-        header=None
-    )
+    # Identify party columns in parlamentaria
+    party_columns = [col for col in parl_df.columns if col not in ("Tema", "Statement")]
 
-    raw_dataframe = raw_dataframe.head(number_of_topics + 1)
-    if raw_dataframe.shape[0] < 1:
-        raise ValueError("Input sheet appears empty or is missing the header row.")
+    # Build presidential mapping: party -> candidate column
+    pres_party_to_col = build_presidential_party_column_map(pres_df)
 
-    raw_dataframe.columns = raw_dataframe.iloc[0]
-    data_frame = raw_dataframe.drop(index=0).reset_index(drop=True)
-
-    if "Statement" not in data_frame.columns or "Tema" not in data_frame.columns:
-        raise ValueError("Expected 'Tema' and 'Statement' columns in the sheet.")
-
-    party_columns = [col for col in data_frame.columns if col not in ("Tema", "Statement")]
+    # Build a fast lookup from (tema, statement) -> row index in presidencial
+    # This assumes the same "Tema"/"Statement" values exist in both sheets.
+    pres_index = {}
+    for i in range(pres_df.shape[0]):
+        t = clean_text(pres_df.at[i, "Tema"])
+        s = clean_text(pres_df.at[i, "Statement"])
+        if s is None:
+            continue
+        pres_index[(t, s)] = i
 
     parties_info = {}
     for party_column in party_columns:
@@ -114,31 +152,39 @@ def generate_from_new_structure():
             "votes": {}
         }
 
-    for row_index in range(data_frame.shape[0]):
-        topic_raw_value = data_frame.at[row_index, "Tema"] if "Tema" in data_frame.columns else None
-        statement_raw_value = data_frame.at[row_index, "Statement"] if "Statement" in data_frame.columns else None
-
-        topic_text = clean_text(topic_raw_value)
-        statement_text = clean_text(statement_raw_value)
+    # Iterate parlamentaria rows
+    for row_index in range(parl_df.shape[0]):
+        topic_text = clean_text(parl_df.at[row_index, "Tema"])
+        statement_text = clean_text(parl_df.at[row_index, "Statement"])
 
         if statement_text is None:
             continue
 
         question_identifier = f"{topic_text}: {statement_text}" if topic_text else statement_text
-        question_key = f"questions.{text_to_key(statement_text)}" if statement_text else None
+        question_key = f"questions.{text_to_key(statement_text)}"
         topic_key = f"topics.{text_to_key(topic_text)}" if topic_text else None
 
         for party_column in party_columns:
-            cell_value = data_frame.at[row_index, party_column] if party_column in data_frame.columns else None
+            # 1) Try parlamentaria cell
+            cell_value = parl_df.at[row_index, party_column] if party_column in parl_df.columns else None
             vote_value, comment_value, source_value = parse_cell_combined(cell_value)
 
+            # 2) If missing, fallback to presidential candidate column for that party
             if vote_value is None and comment_value is None and source_value is None:
-                vote_value = missing_vote_default
-                comment_value = missing_comment_default
-                source_value = missing_source_default
+                party_key = text_to_key(party_column)  # normalize party from parlamentaria header
+                pres_col = pres_party_to_col.get(party_key)
+
+                pres_row = pres_index.get((topic_text, statement_text))
+                if pres_col and pres_row is not None and pres_col in pres_df.columns:
+                    pres_cell_value = pres_df.at[pres_row, pres_col]
+                    vote_value, comment_value, source_value = parse_cell_combined(pres_cell_value)
+
+            # 3) If still missing, SKIP this statement for this party (do not write defaults)
+            if vote_value is None and comment_value is None and source_value is None:
+                continue
 
             comment_key = None
-            if comment_value and comment_value != MISSING_COMMENT_DEFAULT:
+            if comment_value:
                 comment_key = build_comment_key("party", party_column, topic_key)
 
             parties_info[party_column]["votes"][question_identifier] = {
@@ -165,7 +211,6 @@ def generate_from_new_structure():
         json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
 
     print(f"Wrote {output_path}")
-
 
 if __name__ == "__main__":
     generate_from_new_structure()
