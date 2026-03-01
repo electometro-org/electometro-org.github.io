@@ -10,9 +10,9 @@
           "question_key": "questions.el_estado_debería_priorizar_el_castigo_de_criminales_en_vez_de_su_reintegración_en_la_sociedad",
           "topic_key": "topics.seguridad_pública",
           "vote": 1.0,
-          "comment": "Ha prometido cárcel efectiva para hurtos y robos sin importar el monto, además de deportación de extranjeros que incumplan la ley, postura punitiva.",
+          "comment": "El candidato ha aseverado que mandará a políticos corruptos, así cómo a delincuentes capturadas en flagrancia, a la selva, en dónde se les colocará en una cárcel rodeada por Shushupes",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.seguridad_pública",
-          "source": "https://rpp.pe/politica/elecciones/somos-la-renovacion-que-necesita-el-peru-por-rafael-lopez-aliaga-noticia-1326574"
+          "source": "https://www.infobae.com/peru/2026/02/27/rafael-lopez-aliaga-propone-clausurar-el-penal-de-barbadillo-y-enviar-a-expresidentes-a-carcel-en-la-selva/"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
           "tema": "Educación sexual",
@@ -20,7 +20,7 @@
           "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
           "topic_key": "topics.educación_sexual",
           "vote": 0.0,
-          "comment": "Prometió “exterminar” la “doctrina de género” y se opone a la inclusión del enfoque de género en la educación.",
+          "comment": "En el 2021, el Rafael López Aliaga declaró que toda doctrina de género será eliminada de la educación pública.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.educación_sexual",
           "source": "https://elcomercio.pe/elecciones-2021/rafael-lopez-aliaga-toda-la-doctrina-de-genero-evidentemente-va-a-ser-exterminada-renovacion-popular-entrevista-elecciones-2021-noticia/"
         },
@@ -29,20 +29,20 @@
           "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
           "question_key": "questions.las_personas_con_sentencias_por_corrupción_deberían_ser_vetadas_de_por_vida_de_cargos_públicos",
           "topic_key": "topics.corrupción",
-          "vote": 1.0,
-          "comment": "Ha impulsado medidas punitivas muy duras contra corruptos (propone cadena perpetua/pena de muerte para funcionarios corruptos y ha promovido iniciativas para sanciones extremas).",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno denuncia la corrupción endémica en todos los niveles del aparato público, comentarios se centran en la corrupción dentro del sistema de justicia y la policía.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.corrupción",
-          "source": "https://elcomercio.pe/politica/rafael-lopez-aliaga-propone-pena-de-muerte-para-funcionarios-corruptos-noticia/ +++https://larepublica.pe/politica/2021/03/11/rafael-lopez-aliaga-asegura-que-corruptos-merecen-cadena-perpetua/"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
           "tema": "Minería informal",
           "question": "El Estado debería regularizar a la minería informal más activamente",
           "question_key": "questions.el_estado_debería_regularizar_a_la_minería_informal_más_activamente",
           "topic_key": "topics.minería_informal",
-          "vote": 0.0,
-          "comment": "Su bancada de Renovación Popular votó a favor de la ampliación del Registro Integral de Formalización Minera (Reinfo) hasta 2027, que beneficia a mineros informales e ilegales. Aunque López Aliaga niega públicamente vínculos con el sector propone la compra del oro informal por parte del Estado.",
+          "vote": 0.5,
+          "comment": "En Noviembre del 2025, el candidato declaró que considera que el congreso contiene a muchas personas ligadas a la minería ilegal.En relación a ello plantea que el ejército sea implementado para combatir estas economías ilegales. En Diciembre del mismo año declaró “¿Cuál es el problema? Perú es informal” al defender a Javier Bernal, candidato al congreso quien es investigado por presunto lavado de activos e relación a la minería ilegal.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.minería_informal",
-          "source": "https://elcomercio.pe/politica/rafael-lopez-aliaga-sobre-el-reinfo-la-ampliacion-debe-ser-solo-por-un-ano-ultimas-noticia/"
+          "source": "https://www.infobae.com/peru/2025/11/30/rafael-lopez-aliaga-afirma-que-el-congreso-tiene-mucha-gente-ligada-a-la-mineria-ilegal-y-plantea-que-el-ejercito-tome-la-pampa/;https://www.infobae.com/peru/2025/12/02/rafael-lopez-aliaga-defiende-a-vocero-de-mineros-informales-que-postula-por-su-partido-cual-es-el-problema-peru-es-informal/"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
           "tema": "Aborto",
@@ -50,9 +50,9 @@
           "question_key": "questions.el_aborto_debería_estar_permitido_en_casos_de_violación",
           "topic_key": "topics.aborto",
           "vote": 0.0,
-          "comment": "Rechaza la despenalización incluso en casos de violación; propuso hospedar a niñas violadas en un “hotel cinco estrellas” en lugar de permitir el aborto.",
+          "comment": "En Febrero del 2026, en relación a las acusaciones en contra de la congresista Milagros Jáuregui por administrar un refugio en dónde menores sobrevivientes de abusos sexuales son obligadas a dar a luz, el candidato insistió en negar el aborto en casos de violación a menores",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.aborto",
-          "source": "https://larepublica.pe/politica/2021/02/21/rafael-lopez-aliaga-perfil-del-candidato-presidencial-de-renovacion-popular-pltc"
+          "source": "https://www.infobae.com/peru/2026/02/10/rafael-lopez-aliaga-insiste-en-negar-aborto-legal-a-ninas-victimas-de-violacion-y-elogia-accion-buena-de-milagros-jauregui/"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
           "tema": "Impuestos progresivos",
@@ -60,9 +60,9 @@
           "question_key": "questions.las_personas_con_más_dinero_deberían_pagar_un_mayor_porcentaje_de_impuestos_sobre_sus_ingresos",
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.0,
-          "comment": "El plan de gobierno de Renovación Popular promueve reducción/simplificación regulatoria e incentivos económicos, no un enfoque de aumento de impuestos progresivos hacia los más ricos.",
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno describe la intención del partido de eliminar regímenes tributarios de uno solo. Asimismo describe la intención de reducir la tasa del IGV y finalmente comenta que se quiere reducir exoneraciones para ampliar la base tributaria. Estas posiciones indican una posición contraria a querer tener un sistema tributario progresivo",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.impuestos_progresivos",
-          "source": "https://www.actualidadambiental.pe/wp-content/uploads/2022/09/Plan-de-Gobierno-Renovacion-Popular-Elecciones-2022.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
           "tema": "Pena de muerte",
@@ -70,9 +70,9 @@
           "question_key": "questions.está_bien_que_exista_la_pena_de_muerte_en_el_perú",
           "topic_key": "topics.pena_de_muerte",
           "vote": 1.0,
-          "comment": "Respaldó abrir el debate para aplicar la pena de muerte a violadores de menores.",
+          "comment": "En Febrero del 2025, el candidato declaró estar a favor de la pena de muerte para funcionarios sentenciados por delitos de corrupción",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.pena_de_muerte",
-          "source": "https://www.infobae.com/peru/2024/12/10/rafael-lopez-aliaga-respalda-propuesta-de-abrir-el-debate-para-la-pena-de-muerte-a-violadores-de-menores/"
+          "source": "https://www.infobae.com/peru/2025/02/07/rafael-lopez-aliaga-coincide-con-idea-extremista-de-antauro-humala-y-propone-pena-de-muerte-para-funcionarios-corruptos/"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "tema": "Presencia militar",
@@ -80,19 +80,19 @@
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.presencia_militar",
           "vote": 1.0,
-          "comment": "Ha pedido formalmente el despliegue de militares para resguardar Lima (especialmente en horarios nocturnos) y ha reclamado mayor presencia militar/policial para enfrentar la inseguridad.",
+          "comment": "En Mayo del 2025, el candidato instó a la entonces presidenta Dina Boluarte a declarar al Perú en ‘conflicto armado interno’ y así posibilitar la entrada de las FFAA para la lucha contra la criminalidad.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.presencia_militar",
-          "source": "https://elcomercio.pe/politica/rafael-lopez-aliaga-sobre-la-delincuencia-estamos-en-guerra-lima-debe-ser-resguardada-como-el-callao-nndc-noticia/ +++https://rpp.pe/politica/elecciones/somos-la-renovacion-que-necesita-el-peru-por-rafael-lopez-aliaga-noticia-1326574"
+          "source": "https://www.infobae.com/peru/2025/05/18/rafael-lopez-aliaga-pide-a-dina-boluarte-declarar-conflicto-armado-interno-en-peru-siguiendo-el-ejemplo-de-ecuador/"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "tema": "Salud pública",
           "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
           "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
           "topic_key": "topics.salud_pública",
-          "vote": 1.0,
-          "comment": "Propone reestructurar el sistema mediante \"Hubs de Salud\" y asegurar cobertura universal a través de una gestión eficiente y participación de clínicas solidarias.",
+          "vote": 0.5,
+          "comment": "En febrero del 2026, el candidato describió sus propuestas en materia de salud, en dónde destacóa la necesidad de reestructurar al MINSA y ESSALUD debido a ineficiencias en su funcionamiento. Estas declaraciones no dejan en claro la posición del candidato en cuanto al enunciado",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.salud_pública",
-          "source": "https://www.youtube.com/watch?v=aSe6XiNxOZs"
+          "source": "https://canaln.pe/actualidad/rafael-lopez-aliaga-plantea-reestructurar-minsa-y-essalud-n490154"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
           "tema": "Migración",
@@ -100,19 +100,19 @@
           "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
           "topic_key": "topics.migración",
           "vote": 0.0,
-          "comment": "Mantiene una postura de \"tolerancia cero\" y propone la expulsión inmediata de extranjeros indocumentados, además del control militar de las fronteras.",
+          "comment": "En Enero del 2025, el candidato propuso la expulsión de extranjeros irregulares durante a una visita a Tumbes.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.migración",
-          "source": "https://www.youtube.com/watch?v=DXX3CpNF0FM"
+          "source": "https://caretas.pe/politica/lopez-aliaga-propone-expulsion-de-extranjeros-irregulares/"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
           "tema": "Pueblos indígenas",
           "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
           "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
           "topic_key": "topics.pueblos_indígenas",
-          "vote": 0.0,
-          "comment": "Se opone a que la consulta previa funcione como un derecho a veto; propone que las concesiones mineras inactivas reviertan al Estado para fomentar la inversión.",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno del partido no indica la posición del patido en cuanto a la minería informal concretamente. En noviembre del 2025, la bancada del partido votó a favor del dictamen que amplía el Reinfo hasta el 2027.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.pueblos_indígenas",
-          "source": "https://www.reporteminero.cl/noticia/noticias/2025/11/peru-elecciones-2025-lopez-aliaga-concesiones-mineras"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/11/19/fuerza-popular-app-podemos-peru-y-las-bancadas-que-votaron-a-favor-del-dictamen-que-amplia-el-reinfo-hasta-el-2027/"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
           "tema": "Cambio climático",
@@ -120,19 +120,19 @@
           "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
-          "comment": "Aunque su plan de gobierno incluye compromisos climáticos, en la práctica prioriza la industrialización masiva y grandes proyectos de infraestructura energética.",
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno indica que se controlarán las emisiones de gases de efecto invernadero, en el contexto del convenio de Kyoto y que el país es sumamente sensible a desastres naturales. El documento no deja en claro que prioridad tendrá esto en comparación a otros objetivos",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.cambio_climático",
-          "source": "https://www.actualidadambiental.pe/cuales-son-las-propuestas-ambientales-del-partido-liderado-por-rafael-lopez-aliaga/"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
           "tema": "Inversión extranjera",
           "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
           "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
           "topic_key": "topics.inversión_extranjera",
-          "vote": 1.0,
-          "comment": "Es un promotor activo de atraer capitales internacionales y fondos soberanos mediante la seguridad jurídica y la eliminación de la doble tributación.",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno describe la inversión en la infraestructura portuaria y aeroportuaria del país para incrementar el comercio. Se habla también de incrementar la inversión minera. No se especifica la procedencia de esta inversión. Sin embargo se asume que esto incluye a la inversión extranjera también",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.inversión_extranjera",
-          "source": "https://www.youtube.com/watch?v=Ve6JquNmTdI"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Derecho a la eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
           "tema": "Derecho a la eutanasia",
@@ -140,9 +140,9 @@
           "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
           "topic_key": "topics.derecho_a_la_eutanasia",
           "vote": 0.0,
-          "comment": "Rechaza tajantemente la eutanasia por convicciones religiosas, afirmando que el Estado no debe intervenir en decisiones que atenten contra la vida natural.",
+          "comment": "En Febrero del 2021, en el contexto del caso de Ana Estrada, quién se encontraba en búsqueda de tener una muerte digna, el cnadidato declaró “Si te quieres matar, busca un edificio y te tiras”",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.derecho_a_la_eutanasia",
-          "source": "https://www.youtube.com/watch?v=iXY5MrD0L9E"
+          "source": "https://www.tvperu.gob.pe/noticias/nacionales/lopez-aliaga-sobre-caso-de-ana-estrada-si-te-quieres-matar-buscas-un-edificio-y-te-tiras"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "tema": "Gasto estatal",
@@ -150,9 +150,9 @@
           "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
           "topic_key": "topics.gasto_estatal",
           "vote": 0.0,
-          "comment": "Propone una reducción drástica del aparato estatal, eliminando ministerios y consultorías para combatir lo que denomina la \"grasa estatal\".",
+          "comment": "En Septiembre del 2025, el candidato planteó reducir ministerios en el Ejecutivo.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.gasto_estatal",
-          "source": "https://www.youtube.com/watch?v=DXX3CpNF0FM"
+          "source": "https://rpp.pe/lima/actualidad/rafael-lopez-aliaga-plantea-al-congreso-propuesta-de-reducir-ministerios-para-destinar-esos-recursos-a-obras-noticia-1657216"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
           "tema": "Matrimonio igualitario",
@@ -160,19 +160,19 @@
           "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
           "topic_key": "topics.matrimonio_igualitario",
           "vote": 0.0,
-          "comment": "Se opone firmemente al matrimonio igualitario y a la unión civil, defendiendo la estructura de la familia tradicional basada en valores conservadores.",
+          "comment": "En Noviembre del 2024, aún siendo alcalde metropolitano de Lima, Rafael López Aliaga se unió a la convocatoria contra el dictamen que buscaca establecer la unión civil en el Perú.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.matrimonio_igualitario",
-          "source": "https://ojo-publico.com/politica/elecciones-2021/bancada-lopez-aliaga-se-opondra-enfoque-genero-y-derechos-lgtb"
+          "source": "https://www.infobae.com/peru/2024/11/24/rafael-lopez-aliaga-llama-a-sus-seguidores-a-marchar-contra-la-union-civil-el-7-de-diciembre/"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
           "tema": "Pensión pública",
           "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
           "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
           "topic_key": "topics.pensión_pública",
-          "vote": 0.0,
-          "comment": "Defiende el sistema privado de capitalización individual y propone que los trabajadores elijan libremente su entidad financiera sin comisiones fijas.",
+          "vote": 0.5,
+          "comment": "En febrero del 2026, al anunciar la presentación del plan de gobierno del partido, el candidato declaró que Pensión 65 subiría a 1000 soles en un eventual gobierno suyo. Esto contrasta sus declaraciones durante el CADE Ejecutivos 2025 en dónde habló de liberar los fondos permanentes de las AFP. La posición del candidato no queda completamente de un lado ni del otro.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.pensión_pública",
-          "source": "https://www.youtube.com/watch?v=aSe6XiNxOZs"
+          "source": "https://gestion.pe/peru/elecciones-2026-pension-65-subiria-a-s-1000-propone-rafael-lopez-aliaga-pension-minima-de-la-onp-a-cuanto-subira-noticia/?ref=gesr;https://gestion.pe/peru/politica/las-propuestas-de-lopez-aliaga-en-cade-eliminar-doble-tributacion-comprar-renuncias-y-tener-kpis-noticia/"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
           "tema": "Derechos humanos",
@@ -180,19 +180,19 @@
           "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
           "topic_key": "topics.derechos_humanos",
           "vote": 0.0,
-          "comment": "Promete retirar al Perú de la jurisdicción de la Corte IDH para recuperar soberanía judicial, incluso amenazando con disolver el Congreso si no se aprueba.",
+          "comment": "Durante el CADE Ejecutivos 2025, el candidato declaró su intención de retirar al Perú de la corte IDH.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.derechos_humanos",
-          "source": "https://lpderecho.pe/lopez-aliaga-promete-disolver-congreso-legisladores-no-aprueban-retirar-peru-corte-idh/"
+          "source": "https://gestion.pe/peru/politica/las-propuestas-de-lopez-aliaga-en-cade-eliminar-doble-tributacion-comprar-renuncias-y-tener-kpis-noticia/"
         },
         "Informalidad: Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.": {
           "tema": "Informalidad",
           "question": "Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.",
           "question_key": "questions.para_reducir_la_informalidad_se_deberían_bajar_los_impuestos_en_lugar_de_tener_programas_de_formalización",
           "topic_key": "topics.informalidad",
-          "vote": 1.0,
-          "comment": "Renovación Popular propone la reducción del IGV \"para así incentivar la formalización\" según su plan de gobierno presentado ante el JNE.",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno del partido indica que la reducción de impuestos se critican los impuestos excesivos que ahuyentan la formalización de negocios. Asimismo en el plan de gobierno en internet se indica que el partido propone apoyo crediticio y capacitación para apoyar al negocio informal. Estas aseveraciones no dejan en claro la posición del partido en cuanto al enunciado",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.informalidad",
-          "source": "https://gestion.pe/economia/elecciones-2026-candidatos-rafael-lopez-aliaga-keiko-fujimori-mario-vizcarra-y-otros-proponen-ajustes-en-igv-e-ir-que-cambios-en-impuestos-aplicarian-noticia/"
+          "source": "https://obrasperu.live/;https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
           "tema": "Nueva constitución",
@@ -200,9 +200,9 @@
           "question_key": "questions.debería_convocarse_a_una_asamblea_contituyente_para_cambiar_la_constitución_del_93",
           "topic_key": "topics.nueva_constitución",
           "vote": 0.0,
-          "comment": "Renovación Popular se ha pronunciado en contra de convocar a una Asamblea Constituyente y ha emitido comunicados rechazando esa vía.",
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. En enero del 2023, el congresista Jorge Montoya criticó a la entonces presidenta Dina Boluarte por querer promover una asamblea constituyente. Debido a las posiciones generales del partido, estas declaraciones describen esta posición también.",
           "comment_key": "explanations.candidate.rafael_lópez_aliaga.nueva_constitución",
-          "source": "https://gestion.pe/peru/politica/peru-renovacion-popular-rechaza-adelanto-de-elecciones-generales-en-el-pais-renovacion-popular-politica-noticia/"
+          "source": "https://www.infobae.com/peru/2023/01/31/jorge-montoya-critica-a-dina-boluarte-le-dimos-soporte-para-que-pueda-gobernar-y-sale-con-propuestas-sin-sentido/"
         }
       }
     },
@@ -215,10 +215,10 @@
           "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
           "question_key": "questions.el_estado_debería_priorizar_el_castigo_de_criminales_en_vez_de_su_reintegración_en_la_sociedad",
           "topic_key": "topics.seguridad_pública",
-          "vote": 0.5,
-          "comment": "Propone reorganizar la Policía 'de arriba hacia abajo', reinstalar la Policía de Investigación del Perú y dar prioridad a liderazgo y medidas para enfrentar la delincuencia organizada; no hay declaración explícita que priorice castigo sobre reintegración.",
+          "vote": 0.0,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno formula la necesidad de la reinserción social de presos desde una necesidad penitenciaria para que funcione cómo herramiento de lucha contra el crimen. También se formula la reinserción social desde una perspectiva de derechos humanos.",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.seguridad_pública",
-          "source": "https://ojo-publico.com/entrevistas/alfonso-lopez-chau-creo-que-necesitamos-una-nueva-constitucion"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
           "tema": "Educación sexual",
@@ -226,9 +226,59 @@
           "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
           "topic_key": "topics.educación_sexual",
           "vote": 1.0,
-          "comment": "Apoya la educación sexual integral desde primaria, basada en derechos y sin sesgos.",
+          "comment": "En una columna de opinión en el diario La República de Julio del 2025, el candidato López Chau declaró que se necesita impulsar la educación sexual integral basada en derechos desde la primaria. Esta mención la hace en el contexto de una búsqueda de “atender a nuetras niñas z prevenir el abuso sexual”,",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.educación_sexual",
           "source": "https://larepublica.pe/opinion/2025/07/24/por-ellas-por-el-peru-por-alfonso-lopez-chau-nava-hnews-2399664"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "question_key": "questions.las_personas_con_sentencias_por_corrupción_deberían_ser_vetadas_de_por_vida_de_cargos_públicos",
+          "topic_key": "topics.corrupción",
+          "vote": 1.0,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno formula cómo objetivo tener leyes que inhabiliten el trabajo con el estado de personas con sentencias de corrupción.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.corrupción",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
+          "tema": "Minería informal",
+          "question": "El Estado debería regularizar a la minería informal más activamente",
+          "question_key": "questions.el_estado_debería_regularizar_a_la_minería_informal_más_activamente",
+          "topic_key": "topics.minería_informal",
+          "vote": 1.0,
+          "comment": "En Noviembre del 2025, el candidato declaró la intención de dialogar con mineros informales para poder intergrarlos en la economía nacional. Asimismo declaró que de poder establecer un proceso de diálogo, no dudaría en reincorporar a mineros como parte del REINFO.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.minería_informal",
+          "source": "https://canaln.pe/actualidad/lopez-chau-afirma-izquierda-democratica-y-plantea-reinscribir-informales-reinfo-n488093"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "question_key": "questions.el_aborto_debería_estar_permitido_en_casos_de_violación",
+          "topic_key": "topics.aborto",
+          "vote": 0.5,
+          "comment": "En Noviembre del 2025 declaró que como cristiano el cree en la libertad del ser humano, y que por tanto no tiene por qué meterse con las decisiones personales. Estas declaraciones no responden al contenido del enunciado por completo sin embargo.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.aborto",
+          "source": "https://ojo-publico.com/entrevistas/alfonso-lopez-chau-creo-que-necesitamos-una-nueva-constitucion"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "question_key": "questions.las_personas_con_más_dinero_deberían_pagar_un_mayor_porcentaje_de_impuestos_sobre_sus_ingresos",
+          "topic_key": "topics.impuestos_progresivos",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. Ante la prevalencia del subempleo y trabajo precario el plan de gobierno propone crear un régimen tributatio, laboral y municipal simplificado. En cuanto al sentido del enunciado, la posición del partido es ambigua.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.impuestos_progresivos",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que exista la pena de muerte en el Perú.",
+          "question_key": "questions.está_bien_que_exista_la_pena_de_muerte_en_el_perú",
+          "topic_key": "topics.pena_de_muerte",
+          "vote": 0.0,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno no hace referencia directa a la pena de muerte, pero la propuesta de acatar todas las decisiones de la CIDH hace a la posición del partido incompatible con la \nPena de muerte.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.pena_de_muerte",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "tema": "Presencia militar",
@@ -236,9 +286,9 @@
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.presencia_militar",
           "vote": 0.0,
-          "comment": "Ha planteado reorganizar y fortalecer la Policía y la investigación policial; no propone mayor presencia militar en las calles.",
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno no menciona del uso de militares para la seguridad ciudadana. Sólo se hace mención de la PNP y otras instituciones relacionadas, especialmente en inteligencia.",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.presencia_militar",
-          "source": "https://ojo-publico.com/entrevistas/alfonso-lopez-chau-creo-que-necesitamos-una-nueva-constitucion"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "tema": "Salud pública",
@@ -246,9 +296,29 @@
           "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
           "topic_key": "topics.salud_pública",
           "vote": 1.0,
-          "comment": "Propone una reforma para que \"la vida de un peruano no dependa del dinero ni del distrito donde nació\" y fortalecer la capacidad sanadora del Estado.",
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno habla de universalizar la salud, y de incrementar el financiamiento del SIS. Se mencionan el uso de recursos privados también, pero no se discute si se debería fomentar más a uno que al otro. La inversión estatal es descrita cómo central, aunque las metas solo conciernen a acceso de ciudadanos y la renovación de hospitales.",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.salud_pública",
-          "source": "https://www.youtube.com/watch?v=tWccyz12vu8"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. La posición del partido no es del todo clara. El plan de gobierno no tematiza la migración, pero declara que todo reglamente relacionado a la CIDH será acatado.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.migración",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno sólo se refiere a los pueblos indígenas en cuanto a su participación en la transición ecológica justa. La posición no es del todo clara en cuanto al enunciado.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.pueblos_indígenas",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
           "tema": "Cambio climático",
@@ -256,19 +326,29 @@
           "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
           "topic_key": "topics.cambio_climático",
           "vote": 1.0,
-          "comment": "Impulsa la industrialización del \"hidrógeno verde\" y energías limpias como el motor de la cuarta revolución industrial y el desarrollo sostenible del país.",
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno tematiza el cambio climático cómo precupación central. Los indicadores y metas 1.1, 1.2 y 1.3 lo presentan cómo prioridad accionable.",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.cambio_climático",
-          "source": "https://www.youtube.com/watch?v=tWccyz12vu8"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
           "tema": "Inversión extranjera",
           "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
           "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
           "topic_key": "topics.inversión_extranjera",
-          "vote": 1.0,
-          "comment": "Considera necesaria la inversión extranjera, pero propone subordinarla a la sostenibilidad de la cuenta corriente y a la generación de valor agregado nacional.",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan habla de inversión público privada, y privada en diferentes formatos. No se habla de la inversión extranjera. También se declara la necesidad de lograr una mayor presencia de las empresas peruanas en la región. En general, se describe a la inversión privada como buen complemento a la pública",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.inversión_extranjera",
-          "source": "https://www.youtube.com/watch?v=BNayDWuZLTw"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Derecho a la eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Derecho a la eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.derecho_a_la_eutanasia",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno no se refiere al contenido de este enunciado",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.derecho_a_la_eutanasia",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "tema": "Gasto estatal",
@@ -276,19 +356,29 @@
           "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
           "topic_key": "topics.gasto_estatal",
           "vote": 1.0,
-          "comment": "Aboga por un \"Estado fuerte\", transparente y meritocrático que asuma la responsabilidad en servicios básicos y la reconstrucción de la nación.",
+          "comment": "En el plan de gobierno del partido Ahora Nación se declara una priorización de las inversiones públicas por parte del gobierno sin querer desmedrar las privadas. El candidato López Chau sin embargo firmó una demanda ante el TC en Febrero del 2026 para derogar el decreto que privatiza Petroperú. Esta acción plantea una posición que prioriza la inversión estatal también.",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.gasto_estatal",
-          "source": "https://www.youtube.com/watch?v=BNayDWuZLTw"
+          "source": "https://larepublica.pe/economia/2026/02/11/alfonso-lopez-chau-firma-demanda-ante-el-tc-para-derogar-el-decreto-que-privatiza-petroperu-hnews-153263"
+        },
+        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio igualitario",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio_igualitario",
+          "vote": 0.5,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno no se refiere al contenido de este enunciado",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.matrimonio_igualitario",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
           "tema": "Pensión pública",
           "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
           "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
           "topic_key": "topics.pensión_pública",
-          "vote": 0.0,
-          "comment": "Ha declarado explícitamente que defiende el sistema de las AFP (fondos privados), aunque sostiene que requiere ser reformado para ser más democrático y plural.",
+          "vote": 1.0,
+          "comment": "En una columna de opinión en el diario La República en Septiembre del 2025, el candidato explicó su posición en cuanto al sistema de pensiones peruano. Aquí describe cómo una verdadera reforma, una que priorice una pensión básica universal, pero que también contenga un componente privado, aunque este es reducido. Esta posición lo presenta cómo partidario de querer priorizar un sistema estatal de pensiones más que uno netamente privado.",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.pensión_pública",
-          "source": "https://www.youtube.com/watch?v=tWccyz12vu8"
+          "source": "https://larepublica.pe/opinion/2025/09/17/la-estafa-de-las-afp-y-el-pacto-mafioso-por-alfonso-lopez-chau-nava-hnews-748986"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
           "tema": "Derechos humanos",
@@ -296,9 +386,29 @@
           "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
           "topic_key": "topics.derechos_humanos",
           "vote": 1.0,
-          "comment": "El partido se define como defensor del orden democrático y de los tratados internacionales de derechos humanos, lo que implica reconocimiento de la Corte IDH.",
+          "comment": "En una columna de opinión en el diario La República en Septiembre del 2025, el candidato explicó su posición en cuanto al sistema de pensiones peruano. Aquí describe cómo una verdadera reforma, una que priorice una pensión básica universal, pero que también contenga un componente privado, aunque este es reducido. Esta posición lo presenta cómo partidario de querer priorizar un sistema estatal de pensiones más que uno netamente privado.",
           "comment_key": "explanations.candidate.alfonso_lópez_chau.derechos_humanos",
-          "source": "https://es.wikipedia.org/wiki/Ahora_Naci%C3%B3n"
+          "source": "https://larepublica.pe/opinion/2025/09/17/la-estafa-de-las-afp-y-el-pacto-mafioso-por-alfonso-lopez-chau-nava-hnews-748986"
+        },
+        "Informalidad: Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.": {
+          "tema": "Informalidad",
+          "question": "Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.",
+          "question_key": "questions.para_reducir_la_informalidad_se_deberían_bajar_los_impuestos_en_lugar_de_tener_programas_de_formalización",
+          "topic_key": "topics.informalidad",
+          "vote": 0.0,
+          "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno menciona la creación de innovación y transferencia tecnológica para Mipymes. Se dice: “Esto nos llevará a un país más competitivo, innovador y con menores grados de informalidad, generando empleo de calidad y crecimiento económico en los sectores más vulnerables de nuestra sociedad.”. Asimismo se describe a la informalidad de empresas como resultado de baja productividad y financiamiento limitado.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.informalidad",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
+          "tema": "Nueva constitución",
+          "question": "Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.",
+          "question_key": "questions.debería_convocarse_a_una_asamblea_contituyente_para_cambiar_la_constitución_del_93",
+          "topic_key": "topics.nueva_constitución",
+          "vote": 1.0,
+          "comment": "En Mayo del 2025, el candidato declaró durante una entrevista que está a favor de una nueva constitución. No declara si para obtenerla llamaría a una asamblea constituyente, sin embargo esta declaración presenta una posición positiva en cuanto al enunciado.",
+          "comment_key": "explanations.candidate.alfonso_lópez_chau.nueva_constitución",
+          "source": "https://ojo-publico.com/entrevistas/alfonso-lopez-chau-creo-que-necesitamos-una-nueva-constitucion"
         }
       }
     },
@@ -2018,9 +2128,9 @@
           "question_key": "questions.el_aborto_debería_estar_permitido_en_casos_de_violación",
           "topic_key": "topics.aborto",
           "vote": 1.0,
-          "comment": "El Partido Morado y candidatos morados se han manifestado a favor de despenalizar el aborto por violación (propuestas públicas durante el periodo electoral).",
+          "comment": "En una entrevista del 27.02.2026, Mesías Guevara se posicionó a favor del aborto terapéutico y del aborto en casos de violación.",
           "comment_key": "explanations.candidate.mesías_guevara.aborto",
-          "source": "https://promsex.org/candidatos-al-congreso-se-comprometieron-en-trabajar-por-el-enfoque-de-genero-en-las-politicas/ ; https://factual.afp.com/el-partido-morado-de-peru-esta-favor-del-aborto-pero-no-hay-registros-de-que-el-afiche-sea-de-su"
+          "source": "https://www.youtube.com/watch?v=RtRXVv9QUow (min 7-8)"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
           "tema": "Impuestos progresivos",
@@ -2028,19 +2138,19 @@
           "question_key": "questions.las_personas_con_más_dinero_deberían_pagar_un_mayor_porcentaje_de_impuestos_sobre_sus_ingresos",
           "topic_key": "topics.impuestos_progresivos",
           "vote": 1.0,
-          "comment": "El partido propone una reforma tributaria integral y la eliminación/reducción de beneficios tributarios/exoneraciones para mejorar la recaudación y equidad fiscal.",
+          "comment": "TV Perú destacó la propuesta del Partido Morado de llevar a cabo una \"reforma tributaria progresiva\".",
           "comment_key": "explanations.candidate.mesías_guevara.impuestos_progresivos",
-          "source": "https://partidomorado.pe/files/pdf/partido-morado_240601_212441.pdf ; https://larepublica.pe/verificador/2021/02/23/no-es-seguro-que-se-podra-realizar-una-reforma-tributaria-inmediata-como-afirmo-julio-guzman/"
+          "source": "https://www.youtube.com/watch?v=MT7Vkw-npVQ (min. 3)"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
           "tema": "Pena de muerte",
           "question": "Está bien que exista la pena de muerte en el Perú.",
           "question_key": "questions.está_bien_que_exista_la_pena_de_muerte_en_el_perú",
           "topic_key": "topics.pena_de_muerte",
-          "vote": 0.0,
-          "comment": "Voceros morados (ej. Daniel Olivares) han rechazado la pena de muerte como solución estructural y la describen como un 'fuego artificial'.",
+          "vote": 1.0,
+          "comment": "El Partido Morado se opone a la pena de muerte, como lo evidencia entre otras cosas su adhesión al Pacto de San José.",
           "comment_key": "explanations.candidate.mesías_guevara.pena_de_muerte",
-          "source": "https://www.atv.pe/noticia/daniel-olivares-revela-si-el-partido-morado-impulsara-la-pena-de-muerte/"
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf (págs. 247, 254, 264); https://peru21.pe/politica/alberto-de-belaunde-iniciativa-de-martin-vizcarra-para-debatir-pena-de-muerte-es-poco-prudente-noticia/#:~:text=Vuelve%20a%20la%20pol%C3%A9mica%20y%20al%20giro,a%20quienes%20cometan%20cr%C3%ADmenes%20contra%20las%20mujeres%2C"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "tema": "Presencia militar",
@@ -2058,9 +2168,9 @@
           "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
           "topic_key": "topics.salud_pública",
           "vote": 1.0,
-          "comment": "El programa propone un sistema de salud universal/único y aumento progresivo de financiamiento público en salud, priorizando fortalecimiento del sector público por sobre la dependencia exclusiva en salud privada.",
+          "comment": "El plan de gobierno del Partido Morado prevee un mayor rol para la salud pública, lo que incluye la expansión de servicios de salud preventivos.",
           "comment_key": "explanations.candidate.mesías_guevara.salud_pública",
-          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1595/ARCHIVO/FIRMADO/5314.PDF"
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf 9-10, 26-7"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
           "tema": "Migración",
@@ -2128,9 +2238,9 @@
           "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
           "topic_key": "topics.matrimonio_igualitario",
           "vote": 1.0,
-          "comment": "A ver...",
+          "comment": "En 2020 y 2021, el Partido Morado tomó postura a favor del matrimonio igualitario. Sin embargo, en lo que va de la actual campaña electoral, el partido no le ha dedicado mayor atención a este tema.",
           "comment_key": "explanations.candidate.mesías_guevara.matrimonio_igualitario",
-          "source": "Test.com"
+          "source": "https://diariocorreo.pe/politica/flor-borja-propone-el-matrimonio-igualitario-nosotros-no-negamos-que-existen-lesbianas-y-homosexuales-partido-morado-congreso-de-la-republica-elecciones-2020-noticia/;https://elcomercio.pe/politica/congreso/congreso-de-la-republica-presentan-proyecto-de-ley-sobre-el-matrimonio-igualitario-entre-personas-del-mismo-sexo-juntos-por-el-peru-somos-peru-partido-morado-nndc-noticia/#:~:text=Diversos%20congresistas%20de%20las%20bancadas%20de%20Juntos,matrimonio%20igualitario%20entre%20personas%20del%20mismo%20sexo."
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
           "tema": "Pensión pública",
@@ -2266,7 +2376,7 @@
           "vote": 0.0,
           "comment": "Salir de Corte IDH.",
           "comment_key": "explanations.candidate.paul_jaimes.derechos_humanos",
-          "source": "https://progresemos.pe/plan-gobierno"
+          "source": "https://larepublica.pe/politica/2026/01/14/avanza-pais-y-progresemos-proponen-salir-de-la-corte-idh-en-sus-planes-de-gobierno-populismo-hnews-1246616"
         },
         "Informalidad: Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.": {
           "tema": "Informalidad",
@@ -2300,9 +2410,9 @@
           "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
           "topic_key": "topics.educación_sexual",
           "vote": 1.0,
-          "comment": "Apoyan educación sexual integral y un enfoque de género e interculturalidad en la educación pública; proponen políticas públicas para educación con enfoque de derechos y prevención de violencia sexual.",
+          "comment": "\"\".",
           "comment_key": "explanations.candidate.roberto_sánchez.educación_sexual",
-          "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
+          "source": "PlanDeG (pág. 56)"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
           "tema": "Minería informal",
@@ -2330,9 +2440,19 @@
           "question_key": "questions.las_personas_con_más_dinero_deberían_pagar_un_mayor_porcentaje_de_impuestos_sobre_sus_ingresos",
           "topic_key": "topics.impuestos_progresivos",
           "vote": 1.0,
-          "comment": "Proponen una reforma tributaria redistributiva que incluya impuestos a las grandes fortunas y medidas progresivas.",
+          "comment": "\"\".",
           "comment_key": "explanations.candidate.roberto_sánchez.impuestos_progresivos",
-          "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
+          "source": "PlanDeG (págs. 11, 39, 67)"
+        },
+        "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que exista la pena de muerte en el Perú.",
+          "question_key": "questions.está_bien_que_exista_la_pena_de_muerte_en_el_perú",
+          "topic_key": "topics.pena_de_muerte",
+          "vote": 1.0,
+          "comment": "El plan de gobierno propone un sistema tributario progresivo donde las personas y grupos con mayores ingresos paguen más.",
+          "comment_key": "explanations.candidate.roberto_sánchez.pena_de_muerte",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "tema": "Presencia militar",
@@ -2350,9 +2470,19 @@
           "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
           "topic_key": "topics.salud_pública",
           "vote": 1.0,
-          "comment": "El programa plantea fortalecer el sistema público de salud, aumentar inversión pública en salud y crear mecanismos para abastecimiento y acceso universal; prioriza la salud pública sobre impulsar la privatización.",
+          "comment": "\"\".",
           "comment_key": "explanations.candidate.roberto_sánchez.salud_pública",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
+          "source": null
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se menciona.",
+          "comment_key": "explanations.candidate.roberto_sánchez.migración",
+          "source": null
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
           "tema": "Pueblos indígenas",
@@ -2360,9 +2490,9 @@
           "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
           "topic_key": "topics.pueblos_indígenas",
           "vote": 1.0,
-          "comment": "El programa plantea institucionalizar mecanismos vinculantes de participación (referéndum, consulta popular y representación de pueblos originarios) y propone la vinculancia de la consulta previa/decisiones territoriales y medidas de protección de cabeceras de cuenca; en la práctica esto respalda que pueblos indígenas tengan capacidad vinculante para decisiones sobre proyectos extractivos.",
+          "comment": "\"\".",
           "comment_key": "explanations.candidate.roberto_sánchez.pueblos_indígenas",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
+          "source": "PlanDeG (págs. 70-71)"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
           "tema": "Cambio climático",
@@ -2383,6 +2513,16 @@
           "comment": "El programa critica el modelo extractivista y plantea control estatal y renegociación de tratados; no muestra una línea que diga que la inversión extranjera es \"necesaria\" como prioridad única para el desarrollo, más bien apuesta a soberanía y al rol del Estado; por tanto discrepa con la premisa tal como está formulada.",
           "comment_key": "explanations.candidate.roberto_sánchez.inversión_extranjera",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
+        },
+        "Derecho a la eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Derecho a la eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.derecho_a_la_eutanasia",
+          "vote": 0.5,
+          "comment": "No se menciona.",
+          "comment_key": "explanations.candidate.roberto_sánchez.derecho_a_la_eutanasia",
+          "source": null
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "tema": "Gasto estatal",
@@ -2440,9 +2580,9 @@
           "question_key": "questions.debería_convocarse_a_una_asamblea_contituyente_para_cambiar_la_constitución_del_93",
           "topic_key": "topics.nueva_constitución",
           "vote": 1.0,
-          "comment": "El programa establece explícitamente que la reforma constitucional debe hacerse mediante una Asamblea Constituyente convocada para ese fin; por tanto apoya convocar una asamblea constituyente para cambiar la Constitución de 1993.",
+          "comment": "\"\".",
           "comment_key": "explanations.candidate.roberto_sánchez.nueva_constitución",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
+          "source": "PlanDeG (pág. 10)"
         }
       }
     },
@@ -2878,6 +3018,16 @@
           "comment_key": "explanations.candidate.josé_daniel_williams.seguridad_pública",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf"
         },
+        "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
+          "tema": "Educación sexual",
+          "question": "La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.",
+          "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
+          "topic_key": "topics.educación_sexual",
+          "vote": 0.0,
+          "comment": "\"\".",
+          "comment_key": "explanations.candidate.josé_daniel_williams.educación_sexual",
+          "source": "https://ojo-publico.com/5988/presion-ultraconservadora-bloquea-la-educacion-sexual-los-colegios#:~:text=Proyectos%20de%20ley%20contra%20la,sobre%20educaci%C3%B3n%20sexual%20e%20historia."
+        },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
           "tema": "Minería informal",
           "question": "El Estado debería regularizar a la minería informal más activamente",
@@ -2944,9 +3094,9 @@
           "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
           "topic_key": "topics.derechos_humanos",
           "vote": 0.0,
-          "comment": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "comment": "\"\".",
           "comment_key": "explanations.candidate.josé_daniel_williams.derechos_humanos",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf"
+          "source": "https://larepublica.pe/politica/2026/01/14/avanza-pais-y-progresemos-proponen-salir-de-la-corte-idh-en-sus-planes-de-gobierno-populismo-hnews-1246616"
         },
         "Informalidad: Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.": {
           "tema": "Informalidad",
@@ -3789,6 +3939,16 @@
           "comment": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
           "comment_key": "explanations.candidate.armando_masse.seguridad_pública",
           "source": "https://perufederal.pe/armando-masse-a-los-reclusos-de-65-anos-los-mando-a-sus-casas-con-grilletes/"
+        },
+        "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
+          "tema": "Educación sexual",
+          "question": "La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.",
+          "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
+          "topic_key": "topics.educación_sexual",
+          "vote": 0.0,
+          "comment": "El Partido Democrático Federal muy probablemente no apoyaría la afirmación de que la educación sexual integral con enfoque de género debe ser obligatoria en el currículo. Aunque no lo declara explícitamente, su identidad cristiana, su énfasis en el rol de los padres como supervisores del contenido educativo, su concepto acotado de igualdad de género (solo laboral/meritocrática) y su rechazo a estándares internacionales de derechos humanos apuntan en una dirección conservadora en este",
+          "comment_key": "explanations.candidate.armando_masse.educación_sexual",
+          "source": null
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
           "tema": "Minería informal",

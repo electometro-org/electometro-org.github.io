@@ -574,9 +574,9 @@
           "question_key": "questions.el_estado_debería_priorizar_el_castigo_de_criminales_en_vez_de_su_reintegración_en_la_sociedad",
           "topic_key": "topics.seguridad_pública",
           "vote": 1.0,
-          "comment": "El plan de gobierno y propuestas de la bancada de Renovación Popular insisten en medidas de seguridad contundentes (patrullaje integrado, mayor actuación policial y proyectos para penas más severas), lo que indica prioridad al castigo.",
+          "comment": "Las propuestas del partido describen la obligación de reos de tener que trabjar para poder comer y de retirar al Perú de la CIDH para imponer la pena de muerte o la cadena perpetua",
           "comment_key": "explanations.party.renovación_popular.seguridad_pública",
-          "source": "https://www.actualidadambiental.pe/wp-content/uploads/2022/09/Plan-de-Gobierno-Renovacion-Popular-Elecciones-2022.pdf"
+          "source": "https://www.youtube.com/watch?v=DXX3CpNF0FM"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
           "tema": "Educación sexual",
@@ -584,29 +584,29 @@
           "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
           "topic_key": "topics.educación_sexual",
           "vote": 0.0,
-          "comment": "Renovación Popular (congresista Milagros Jáuregui) presentó proyectos para eliminar la Educación Sexual Integral y reemplazarla por una educación sexual 'científica, biológica y ética', lo que muestra oposición a mandatar ESI.",
+          "comment": "El plan de gobierno define al partido como organización política cristiana y que persigue el desarrollo intgral de la persona y familia como bien común del pueblo peruano. La congresista Milagros Jáuregui además describe la elimincación del enfoque de género cómo una victoria cristiana",
           "comment_key": "explanations.party.renovación_popular.educación_sexual",
-          "source": "https://comunicaciones.congreso.gob.pe/damos-cuenta/proponen-eliminar-la-educacion-sexual-integral-y-reemplazarla-por-la-educacion-sexual-cientifica-biologica-y-etica/"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/11/25/milagros-jauregui-celebra-eliminacion-del-enfoque-de-genero-esto-es-una-victoria-cristiana/"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
           "tema": "Corrupción",
           "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
           "question_key": "questions.las_personas_con_sentencias_por_corrupción_deberían_ser_vetadas_de_por_vida_de_cargos_públicos",
           "topic_key": "topics.corrupción",
-          "vote": 1.0,
-          "comment": "Miembros de Renovación Popular (congresistas de la bancada) presentaron proyectos que proponen 'muerte civil' o inhabilitación perpetua para sentenciados por corrupción (Proyecto N°10344 por Cheryl Trigozo), lo que coincide con vetos permanentes.",
+          "vote": 0.5,
+          "comment": "El plan de gobierno denuncia la corrupción endémica en todos los niveles del aparato público, comentarios se centran en la corrupción dentro del sistema de justicia y la policía.",
           "comment_key": "explanations.party.renovación_popular.corrupción",
-          "source": "https://willax.pe/politica/cheryl-trigozo-congresista-de-renovacion-popular-propone-muerte-civil-para-sentenciados-por-corrupcion"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
           "tema": "Minería informal",
           "question": "El Estado debería regularizar a la minería informal más activamente",
           "question_key": "questions.el_estado_debería_regularizar_a_la_minería_informal_más_activamente",
           "topic_key": "topics.minería_informal",
-          "vote": 1.0,
-          "comment": "Al menos siete representantes de la Confederación Nacional de Pequeña Minería (Confemin) se afiliaron a Renovación Popular en 2024, incluyendo a Javier Bernal Salas quien encabeza la lista de precandidatos a diputados por Puno.",
+          "vote": 0.0,
+          "comment": "En el plan de gobierno, el partido indica que fomentará la intervención de las FFAA para luchar contra la minería ilegal. En su plan de gobierno online, aidiciona la intención de la eleiminación total, no la regulación",
           "comment_key": "explanations.party.renovación_popular.minería_informal",
-          "source": "https://elcomercio.pe/politica/elecciones/elecciones-2026-vocero-de-mineros-informales-encabeza-lista-de-precandidatos-para-renovacion-popular-confemin-reinfo-noticia/"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://obrasperu.live/"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
           "tema": "Aborto",
@@ -614,9 +614,9 @@
           "question_key": "questions.el_aborto_debería_estar_permitido_en_casos_de_violación",
           "topic_key": "topics.aborto",
           "vote": 0.0,
-          "comment": "Renovación Popular y su líder Rafael López Aliaga mantienen una postura 'pro-vida' y crítican los movimientos que piden legalizar o ampliar el acceso al aborto; en general se oponen a ampliar causales.",
+          "comment": "La congresista Milagros Jáuregui ha fomentado la polémica propuesta que obliga a niñas a ser madres y que veta el aborto terapéutico. En el plan de gobierno no se menciona este tema, pero se hace énfasis en la definición del partido como organización cristiana. Este hecho apoyo las opiniones de la congresista Jáuregui.",
           "comment_key": "explanations.party.renovación_popular.aborto",
-          "source": "https://elcomercio.pe/elecciones-2021/rafael-lopez-aliaga-toda-la-doctrina-de-genero-evidentemente-va-a-ser-exterminada-renovacion-popular-entrevista-elecciones-2021-noticia/"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/06/25/congresista-milagros-jauregui-celebra-su-polemica-propuesta-que-obliga-a-ninas-a-ser-madres-y-veta-el-aborto-terapeutico/"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
           "tema": "Impuestos progresivos",
@@ -624,19 +624,19 @@
           "question_key": "questions.las_personas_con_más_dinero_deberían_pagar_un_mayor_porcentaje_de_impuestos_sobre_sus_ingresos",
           "topic_key": "topics.impuestos_progresivos",
           "vote": 0.0,
-          "comment": "El plan de gobierno de Renovación Popular promueve reducción/simplificación regulatoria e incentivos económicos, no un enfoque de aumento de impuestos progresivos hacia los más ricos.",
+          "comment": "El plan de gobierno describe la intención del partido de eliminar regímenes tributarios de uno solo. Asimismo describe la intención de reducir la tasa del IGV y finalmente comenta que se quiere reducir exoneraciones para ampliar la base tributaria. Estas posiciones indican una posición contraria a querer tener un sistema tributario progresivo",
           "comment_key": "explanations.party.renovación_popular.impuestos_progresivos",
-          "source": "https://www.actualidadambiental.pe/wp-content/uploads/2022/09/Plan-de-Gobierno-Renovacion-Popular-Elecciones-2022.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
           "tema": "Pena de muerte",
           "question": "Está bien que exista la pena de muerte en el Perú.",
           "question_key": "questions.está_bien_que_exista_la_pena_de_muerte_en_el_perú",
           "topic_key": "topics.pena_de_muerte",
-          "vote": 1.0,
-          "comment": "El líder y documentos del partido han respaldado públicamente la aplicación de penas máximas (incluidas propuestas de pena de muerte/medidas extremas para delitos graves), mostrando acuerdo con la pena de muerte.",
+          "vote": 0.0,
+          "comment": "Durante legislaturas anteriores, la bancada del partido ha mostrado una posición en favor de la pena de muerte en el Perú, especialmente en relación a personas con sentencia por feminicidio o violación.",
           "comment_key": "explanations.party.renovación_popular.pena_de_muerte",
-          "source": "https://rpp.pe/politica/actualidad/rafael-lopez-aliaga-se-pronuncia-a-favor-de-pena-de-muerte-para-violadores-de-ninos-feminicidas-y-politicos-corruptos-noticia-1480311"
+          "source": "https://www.infobae.com/peru/2023/03/31/renovacion-popular-busca-pena-de-muerte-para-feminicidas-y-violadores-y-propone-cambiar-nombre-al-ministerio-de-la-mujer/"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "tema": "Presencia militar",
@@ -644,19 +644,19 @@
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.presencia_militar",
           "vote": 1.0,
-          "comment": "Renovación Popular ha propuesto que las Fuerzas Armadas y otras medidas excepcionales asuman papeles más activos en seguridad (por ejemplo propuestas para usar cuarteles como cárceles y llamados a que las FF.AA. se hagan cargo de la seguridad), lo que muestra apoyo a mayor presencia militar.",
+          "comment": "El candidato al Senado por Lima Jaime Delgado ha declarado que el partiedo quiere mejores condiciones legales y operativas para una mejorada cooperación de la PNP y las FFAA en relación al combate de la criminalidad. Este mismo indica el interés de usar las FFAA en las calles con un marco legal más ‘adecuado’",
           "comment_key": "explanations.party.renovación_popular.presencia_militar",
-          "source": "https://www.infobae.com/peru/2024/10/22/proponen-usar-cuarteles-de-las-fuerzas-armadas-como-carceles-proyecto-de-ley-fue-presentado-por-renovacion-popular/"
+          "source": "https://www.youtube.com/watch?v=yaFs_6iL_Xw"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "tema": "Salud pública",
           "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
           "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
           "topic_key": "topics.salud_pública",
-          "vote": 1.0,
-          "comment": "El plan incluye fortalecimiento de centros de atención primaria y mejora de servicios públicos de salud; el partido prioriza inversión en salud pública dentro de su programa.",
+          "vote": 0.5,
+          "comment": "En el plan de gobierno no hay referencia directa. Se habla de extender la cobertura y mejorar la infrastructura de postas médicas, así cómo expandir hospitales del formato de hospitales de la solidaridad. El plan en general plantea la exoneración de impuestos sin embargo, queriendo fomentar la inversión privada. No es claro entonces si se prioriza lo uno o lo otro.",
           "comment_key": "explanations.party.renovación_popular.salud_pública",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Renovacion-Popular-Plan-de-Gobierno-LP.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
           "tema": "Migración",
@@ -664,19 +664,19 @@
           "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
           "topic_key": "topics.migración",
           "vote": 0.0,
-          "comment": "El liderazgo de Renovación Popular ha propuesto deportaciones y medidas estrictas contra migrantes en situación irregular; promueven control y expulsión antes que regularización.",
+          "comment": "En un video del partido Renovación popular en el que se describen sus principales propuestas, se indica que se tiene la intención de “expulsar de manera inmediata a extranjeros sin flagrancia”",
           "comment_key": "explanations.party.renovación_popular.migración",
-          "source": "https://www.infobae.com/peru/2026/01/16/rafael-lopez-aliaga-todo-venezolano-que-el-28-de-julio-no-este-con-papeles-en-regla-sera-enviado-en-barco-a-su-pais/"
+          "source": "https://www.youtube.com/watch?v=DXX3CpNF0FM"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
           "tema": "Pueblos indígenas",
           "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
           "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
           "topic_key": "topics.pueblos_indígenas",
-          "vote": 0.0,
-          "comment": "El partido apoya la explotación y formalización minera y no plantea explícitamente poder de veto indígena; la orientación del programa favorece proyectos extractivos con formalización, no vetos.",
+          "vote": 0.5,
+          "comment": "El plan de gobierno del partido no indica la posición del patido en cuanto a la minería informal concretamente. En noviembre del 2025, la bancada del partido votó a favor del dictamen que amplía el Reinfo hasta el 2027.",
           "comment_key": "explanations.party.renovación_popular.pueblos_indígenas",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Renovacion-Popular-Plan-de-Gobierno-LP.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/11/19/fuerza-popular-app-podemos-peru-y-las-bancadas-que-votaron-a-favor-del-dictamen-que-amplia-el-reinfo-hasta-el-2027/"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
           "tema": "Cambio climático",
@@ -684,9 +684,9 @@
           "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
           "topic_key": "topics.cambio_climático",
           "vote": 0.5,
-          "comment": "Aunque su plan de gobierno incluye compromisos climáticos, en la práctica prioriza la industrialización masiva y grandes proyectos de infraestructura energética.",
+          "comment": "El plan de gobierno indica que se controlarán las emisiones de gases de efecto invernadero, en el contexto del convenio de Kyoto y que el país es sumamente sensible a desastres naturales. El documento no deja en claro que prioridad tendrá esto en comparación a otros objetivos",
           "comment_key": "explanations.party.renovación_popular.cambio_climático",
-          "source": "https://www.actualidadambiental.pe/cuales-son-las-propuestas-ambientales-del-partido-liderado-por-rafael-lopez-aliaga/"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
           "tema": "Inversión extranjera",
@@ -694,9 +694,9 @@
           "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
           "topic_key": "topics.inversión_extranjera",
           "vote": 1.0,
-          "comment": "El plan y discursos del partido favorecen y buscan atraer inversión (incluida extranjera) como motor del desarrollo económico.",
+          "comment": "El plan de gobierno describe la inversión en la infraestructura portuaria y aeroportuaria del país para incrementar el comercio. Se habla también de incrementar la inversión minera. No se especifica la procedencia de esta inversión. Sin embargo se asume que esto incluye a la inversión extranjera también",
           "comment_key": "explanations.party.renovación_popular.inversión_extranjera",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Renovacion-Popular-Plan-de-Gobierno-LP.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Derecho a la eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
           "tema": "Derecho a la eutanasia",
@@ -704,19 +704,19 @@
           "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
           "topic_key": "topics.derecho_a_la_eutanasia",
           "vote": 0.0,
-          "comment": "El partido y su liderazgo se oponen a la legalización de la eutanasia/muerte asistida y promueven valores conservadores en torno a la vida (no hay respaldo público a eutanasia).",
+          "comment": "En diciembre del 2025, el pleno del congreso aprobó la ley de cuidados paliativos, con la que se intenta proteger a las personas con enfermades terminales. La medida recibió la oposición de la bancada de Renovación popular, desde donde se alegó que esto encubre la legalización de la eutanasia. Esto describe la posición del partido.",
           "comment_key": "explanations.party.renovación_popular.derecho_a_la_eutanasia",
-          "source": "https://es.wikipedia.org/wiki/Rafael_L%C3%B3pez-Aliaga"
+          "source": "https://gestion.pe/peru/no-es-la-eutanasia-la-ley-para-calmar-dolencias-en-mas-de-59000-pacientes-al-ano-segun-la-asociacion-medica-peruana-de-cuidados-paliativos-noticia/"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "tema": "Gasto estatal",
           "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
           "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
           "topic_key": "topics.gasto_estatal",
-          "vote": 1.0,
-          "comment": "El plan y declaraciones públicas plantean fortalecer instituciones públicas y servicios básicos (educación, salud, seguridad) y reordenar el Estado; hay énfasis en invertir en capacidades estatales.",
+          "vote": 0.5,
+          "comment": "El plan de gobierno describe la intención de fortalecer la institucionalidad del gobierno. Sin embargo, también se indica la reducción de ciertos sectores.",
           "comment_key": "explanations.party.renovación_popular.gasto_estatal",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Renovacion-Popular-Plan-de-Gobierno-LP.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
           "tema": "Matrimonio igualitario",
@@ -724,19 +724,19 @@
           "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
           "topic_key": "topics.matrimonio_igualitario",
           "vote": 0.0,
-          "comment": "El partido y su líder se han manifestado en contra del matrimonio igualitario y no promueven su reconocimiento (postura conservadora y pública de rechazo).",
+          "comment": "En Noviembre del 2024, la comisión de Justicia y Derechos Humanos del congreso aprobó el dictamen que plantea establecer la unión civil en el Perú. El congresista Muñante Barrios de Renovación Popular indicó que la propuesta vulnera la constitución y equipara los derechos de la institución del matrimonio y otro tipo de uniones, cosa a la que se opone. Junto a la declaración cómo organización cristiana en el plan de gobierno resume la posición del partido.",
           "comment_key": "explanations.party.renovación_popular.matrimonio_igualitario",
-          "source": "https://larepublica.pe/sociedad/2022/10/03/rafael-lopez-aliaga-plan-de-gobierno-no-menciona-a-la-comunidad-lgbtiq-renovacion-popular/"
+          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-aprueba-dictamen-que-plantea-establecer-la-union-civil-en-el-peru/"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
           "tema": "Pensión pública",
           "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
           "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
           "topic_key": "topics.pensión_pública",
-          "vote": 0.0,
-          "comment": "Defiende el sistema privado de capitalización individual y propone que los trabajadores elijan libremente su entidad financiera sin comisiones fijas.",
+          "vote": 0.5,
+          "comment": "En el plan de gobierno online del partido Renovación popular, se indica que se duplicará el monto de Pensión 65 y se fortalecerá el programa Juntos. Sin embargo, en septiembre del 2025, la bancada del congreso de Renovación Popular planteó reformas orientadas a corregir excesos de la ley pro AFP entre las que se incluyen la restitución de la jubilación aniticipada, así cómo la eliminación de restricciones que impidan la libre disposición de fondos acumulados. La liberación de restricciones y el declarado incremento de la pensión pública no dejan concluir una posición concreta por parte del partido.",
           "comment_key": "explanations.party.renovación_popular.pensión_pública",
-          "source": "https://www.youtube.com/watch?v=aSe6XiNxOZs"
+          "source": "https://obrasperu.live/#obrashttps://obrasperu.live/#obras;https://comunicaciones.congreso.gob.pe/damos-cuenta/renovacion-popular-plantea-nuevas-reformas-orientadas-a-corregir-los-excesos-de-la-ley-pro-afp/"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
           "tema": "Derechos humanos",
@@ -744,19 +744,19 @@
           "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
           "topic_key": "topics.derechos_humanos",
           "vote": 0.0,
-          "comment": "La bancada y el liderazgo han pedido retirar al Perú de la Corte IDH y critican su influencia; esto indica desacuerdo con mantener la autoridad plena de la Corte IDH.",
+          "comment": "En maro del 2025, la bancada del congreso de Renovación Popular instó al gobierno a retirar al Perú de la CIDH para combatir la delincuencia de manera más eficaz. Asimismo, en un video que describe las principales posiciones del partido, se describe la intención de retirar al partido.",
           "comment_key": "explanations.party.renovación_popular.derechos_humanos",
-          "source": "https://www.infobae.com/peru/2025/03/25/renovacion-popular-exhorta-a-dina-boluarte-a-retirar-al-peru-de-la-corte-interamericana-de-derechos-humanos/"
+          "source": "https://lpderecho.pe/dina-boluarte-promover-retiro-corte-idh-pena-de-muerte/;https://www.youtube.com/watch?v=DXX3CpNF0FM"
         },
         "Informalidad: Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.": {
           "tema": "Informalidad",
           "question": "Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.",
           "question_key": "questions.para_reducir_la_informalidad_se_deberían_bajar_los_impuestos_en_lugar_de_tener_programas_de_formalización",
           "topic_key": "topics.informalidad",
-          "vote": 1.0,
-          "comment": "Renovación Popular propone la reducción del IGV \"para así incentivar la formalización\" según su plan de gobierno presentado ante el JNE.",
+          "vote": 0.5,
+          "comment": "El plan de gobierno del partido indica que la reducción de impuestos se critican los impuestos excesivos que ahuyentan la formalización de negocios. Asimismo en el plan de gobierno en internet se indica que el partido propone apoyo crediticio y capacitación para apoyar al negocio informal. Estas aseveraciones no dejan en claro la posición del partido en cuanto al enunciado",
           "comment_key": "explanations.party.renovación_popular.informalidad",
-          "source": "https://gestion.pe/economia/elecciones-2026-candidatos-rafael-lopez-aliaga-keiko-fujimori-mario-vizcarra-y-otros-proponen-ajustes-en-igv-e-ir-que-cambios-en-impuestos-aplicarian-noticia/"
+          "source": "https://obrasperu.live/;https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
           "tema": "Nueva constitución",
@@ -764,9 +764,9 @@
           "question_key": "questions.debería_convocarse_a_una_asamblea_contituyente_para_cambiar_la_constitución_del_93",
           "topic_key": "topics.nueva_constitución",
           "vote": 0.0,
-          "comment": "Renovación Popular se ha pronunciado en contra de convocar a una Asamblea Constituyente y ha emitido comunicados rechazando esa vía.",
+          "comment": "En enero del 2023, el congresista Jorge Montoya criticó a la entonces presidenta Dina Boluarte por querer promover una asamblea constituyente. Debido a las posiciones generales del partido, estas declaraciones describen esta posición también",
           "comment_key": "explanations.party.renovación_popular.nueva_constitución",
-          "source": "https://gestion.pe/peru/politica/peru-renovacion-popular-rechaza-adelanto-de-elecciones-generales-en-el-pais-renovacion-popular-politica-noticia/"
+          "source": "https://www.infobae.com/peru/2023/01/31/jorge-montoya-critica-a-dina-boluarte-le-dimos-soporte-para-que-pueda-gobernar-y-sale-con-propuestas-sin-sentido/"
         }
       }
     },
@@ -823,6 +823,16 @@
           "comment_key": "explanations.party.juntos_por_el_perú.impuestos_progresivos",
           "source": "Plan de Gobierno Juntos por el Perú (2021) - https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1587/ARCHIVO/FIRMADO/5262.PDF"
         },
+        "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que exista la pena de muerte en el Perú.",
+          "question_key": "questions.está_bien_que_exista_la_pena_de_muerte_en_el_perú",
+          "topic_key": "topics.pena_de_muerte",
+          "vote": 1.0,
+          "comment": "El plan de gobierno propone un sistema tributario progresivo donde las personas y grupos con mayores ingresos paguen más.",
+          "comment_key": "explanations.party.juntos_por_el_perú.pena_de_muerte",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
+        },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "tema": "Presencia militar",
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
@@ -842,6 +852,16 @@
           "comment": "El programa plantea fortalecer el sistema público de salud, aumentar inversión pública en salud y crear mecanismos para abastecimiento y acceso universal; prioriza la salud pública sobre impulsar la privatización.",
           "comment_key": "explanations.party.juntos_por_el_perú.salud_pública",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "No se menciona.",
+          "comment_key": "explanations.party.juntos_por_el_perú.migración",
+          "source": null
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
           "tema": "Pueblos indígenas",
@@ -872,6 +892,16 @@
           "comment": "El programa critica el modelo extractivista y plantea control estatal y renegociación de tratados; no muestra una línea que diga que la inversión extranjera es \"necesaria\" como prioridad única para el desarrollo, más bien apuesta a soberanía y al rol del Estado; por tanto discrepa con la premisa tal como está formulada.",
           "comment_key": "explanations.party.juntos_por_el_perú.inversión_extranjera",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
+        },
+        "Derecho a la eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Derecho a la eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.derecho_a_la_eutanasia",
+          "vote": 0.5,
+          "comment": "No se menciona.",
+          "comment_key": "explanations.party.juntos_por_el_perú.derecho_a_la_eutanasia",
+          "source": null
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "tema": "Gasto estatal",
@@ -1548,10 +1578,10 @@
           "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
           "question_key": "questions.el_estado_debería_priorizar_el_castigo_de_criminales_en_vez_de_su_reintegración_en_la_sociedad",
           "topic_key": "topics.seguridad_pública",
-          "vote": 0.5,
-          "comment": "Propone reorganizar la Policía 'de arriba hacia abajo', reinstalar la Policía de Investigación del Perú y dar prioridad a liderazgo y medidas para enfrentar la delincuencia organizada; no hay declaración explícita que priorice castigo sobre reintegración.",
+          "vote": 0.0,
+          "comment": "El plan de gobierno formula la necesidad de la reinserción social de presos desde una necesidad penitenciaria para que funcione cómo herramiento de lucha contra el crimen. También se formula la reinserción social desde una perspectiva de derechos humanos.",
           "comment_key": "explanations.party.ahora_nación.seguridad_pública",
-          "source": "https://ojo-publico.com/entrevistas/alfonso-lopez-chau-creo-que-necesitamos-una-nueva-constitucion"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
           "tema": "Educación sexual",
@@ -1559,9 +1589,59 @@
           "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
           "topic_key": "topics.educación_sexual",
           "vote": 1.0,
-          "comment": "Apoya la educación sexual integral desde primaria, basada en derechos y sin sesgos.",
+          "comment": "Plan de gobierno formula la necesidad de la educación sexual explícitamente cómo parte de la educación primaria cómo objetivo general en cuanto a los estudiantes, pero también a los docentes durante su formación.",
           "comment_key": "explanations.party.ahora_nación.educación_sexual",
-          "source": "https://larepublica.pe/opinion/2025/07/24/por-ellas-por-el-peru-por-alfonso-lopez-chau-nava-hnews-2399664"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "question_key": "questions.las_personas_con_sentencias_por_corrupción_deberían_ser_vetadas_de_por_vida_de_cargos_públicos",
+          "topic_key": "topics.corrupción",
+          "vote": 1.0,
+          "comment": "El plan de gobierno formula cómo objetivo tener leyes que inhabiliten el trabajo con el estado de personas con sentencias de corrupción.",
+          "comment_key": "explanations.party.ahora_nación.corrupción",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
+          "tema": "Minería informal",
+          "question": "El Estado debería regularizar a la minería informal más activamente",
+          "question_key": "questions.el_estado_debería_regularizar_a_la_minería_informal_más_activamente",
+          "topic_key": "topics.minería_informal",
+          "vote": 1.0,
+          "comment": "El plan de gobierno propone crear centros regionales de formalización minera, que integren asistencia técnica, de ambiente, legal y financiera.",
+          "comment_key": "explanations.party.ahora_nación.minería_informal",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "question_key": "questions.el_aborto_debería_estar_permitido_en_casos_de_violación",
+          "topic_key": "topics.aborto",
+          "vote": 0.5,
+          "comment": "El plan de gobierno no se refiere al contenido de este enunciado",
+          "comment_key": "explanations.party.ahora_nación.aborto",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "question_key": "questions.las_personas_con_más_dinero_deberían_pagar_un_mayor_porcentaje_de_impuestos_sobre_sus_ingresos",
+          "topic_key": "topics.impuestos_progresivos",
+          "vote": 0.5,
+          "comment": "Ante la prevalencia del subempleo y trabajo precario el plan de gobierno propone crear un régimen tributatio, laboral y municipal simplificado. En cuanto al sentido del enunciado, la posición del partido es ambigua.",
+          "comment_key": "explanations.party.ahora_nación.impuestos_progresivos",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
+          "tema": "Pena de muerte",
+          "question": "Está bien que exista la pena de muerte en el Perú.",
+          "question_key": "questions.está_bien_que_exista_la_pena_de_muerte_en_el_perú",
+          "topic_key": "topics.pena_de_muerte",
+          "vote": 0.0,
+          "comment": "El plan de gobierno no hace referencia directa a la pena de muerte, pero la propuesta de acatar todas las decisiones de la CIDH hace a la posición del partido incompatible con la",
+          "comment_key": "explanations.party.ahora_nación.pena_de_muerte",
+          "source": null
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "tema": "Presencia militar",
@@ -1569,9 +1649,9 @@
           "question_key": "questions.debería_haber_una_mayor_presencia_militar_en_las_calles_para_combatir_la_criminalidad",
           "topic_key": "topics.presencia_militar",
           "vote": 0.0,
-          "comment": "Ha planteado reorganizar y fortalecer la Policía y la investigación policial; no propone mayor presencia militar en las calles.",
+          "comment": "El plan de gobierno no menciona del uso de militares para la seguridad ciudadana. Sólo se hace mención de la PNP y otras instituciones relacionadas, especialmente en inteligencia.",
           "comment_key": "explanations.party.ahora_nación.presencia_militar",
-          "source": "https://ojo-publico.com/entrevistas/alfonso-lopez-chau-creo-que-necesitamos-una-nueva-constitucion"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "tema": "Salud pública",
@@ -1579,9 +1659,29 @@
           "question_key": "questions.el_estado_debería_incrementar_el_presupuesto_para_la_salud_pública_en_vez_de_fomentar_la_salud_privada",
           "topic_key": "topics.salud_pública",
           "vote": 1.0,
-          "comment": "El programa plantea el fortalecimiento de un sistema de salud pública universal y de acceso garantizado por el Estado.",
+          "comment": "El plan de gobierno habla de universalizar la salud, y de incrementar el financiamiento del SIS. Se mencionan el uso de recursos privados también, pero no se discute si se debería fomentar más a uno que al otro. La inversión estatal es descrita cómo central, aunque las metas solo conciernen a acceso de ciudadanos y la renovación de hospitales.",
           "comment_key": "explanations.party.ahora_nación.salud_pública",
-          "source": "https://www.ahoranacioncallao.com/pdf/PLAN%20DE%20GOBIERNO%20AHORA%20NACION_VF_25.04.25.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.el_estado_debería_priorizar_el_reconocimiento_legal_de_las_personas_con_situación_migratoria_irregular_en_vez_de_su_deportación",
+          "topic_key": "topics.migración",
+          "vote": 0.5,
+          "comment": "La posición del partido no es del todo clara. El plan de gobierno no tematiza la migración, pero declara que todo reglamente relacionado a la CIDH será acatado.",
+          "comment_key": "explanations.party.ahora_nación.migración",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.los_pueblos_indígenas_deberían_poder_vetar_proyectos_extractivos_minería_petróleo_en_sus_tierras",
+          "topic_key": "topics.pueblos_indígenas",
+          "vote": 0.5,
+          "comment": "El plan de gobierno sólo se refiere a los pueblos indígenas en cuanto a su participación en la transición ecológica justa. La posición no es del todo clara en cuanto al enunciado.",
+          "comment_key": "explanations.party.ahora_nación.pueblos_indígenas",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
           "tema": "Cambio climático",
@@ -1589,19 +1689,29 @@
           "question_key": "questions.tomar_medidas_contra_el_cambio_climático_debería_ser_una_de_las_principales_obligaciones_del_gobierno",
           "topic_key": "topics.cambio_climático",
           "vote": 1.0,
-          "comment": "El programa incluye el desarrollo sostenible y la protección del medio ambiente como responsabilidades centrales del Estado.",
+          "comment": "El plan de gobierno tematiza el cambio climático cómo precupación central. Los indicadores y metas 1.1, 1.2 y 1.3 lo presentan cómo prioridad accionable.",
           "comment_key": "explanations.party.ahora_nación.cambio_climático",
-          "source": "https://www.ahoranacioncallao.com/pdf/PLAN%20DE%20GOBIERNO%20AHORA%20NACION_VF_25.04.25.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
           "tema": "Inversión extranjera",
           "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
           "question_key": "questions.la_inversión_extranjera_es_necesaria_para_el_desarrollo_económico_del_país",
           "topic_key": "topics.inversión_extranjera",
-          "vote": 1.0,
-          "comment": "Considera necesaria la inversión extranjera, pero propone subordinarla a la sostenibilidad de la cuenta corriente y a la generación de valor agregado nacional.",
+          "vote": 0.5,
+          "comment": "El plan habla de inversión público privada, y privada en diferentes formatos. No se habla de la Inversión extranjera. También se declara la necesidad de lograr una mayor presencia de las empresas peruanas en la región. En general, se describe a la inversión privada como buen complemento a la pública",
           "comment_key": "explanations.party.ahora_nación.inversión_extranjera",
-          "source": "https://www.youtube.com/watch?v=BNayDWuZLTw"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Derecho a la eutanasia: Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.": {
+          "tema": "Derecho a la eutanasia",
+          "question": "Cuando una persona tiene una enfermedad que no tiene cura, debería poder elegir acabar con su vida.",
+          "question_key": "questions.cuando_una_persona_tiene_una_enfermedad_que_no_tiene_cura_debería_poder_elegir_acabar_con_su_vida",
+          "topic_key": "topics.derecho_a_la_eutanasia",
+          "vote": 0.5,
+          "comment": "El plan de gobierno no se refiere al contenido de este enunciado",
+          "comment_key": "explanations.party.ahora_nación.derecho_a_la_eutanasia",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "tema": "Gasto estatal",
@@ -1609,19 +1719,29 @@
           "question_key": "questions.el_gobierno_debería_invertir_más_en_instituciones_estatales_en_vez_de_reducir_gastos",
           "topic_key": "topics.gasto_estatal",
           "vote": 1.0,
-          "comment": "El programa enfatiza el fortalecimiento del Estado y de sus instituciones para garantizar derechos y servicios públicos.",
+          "comment": "El plan formula prioridades para la inversión pública en cuanto al sistema de salud, así cómo presenta un enfoque estatal en cuanto al sistema de pensiones. Sin embargo, se habla de una cooperación con el sector privado un varios ámbitos. La posición del partido prioriza más la inversión estatal sin desechar la privada.",
           "comment_key": "explanations.party.ahora_nación.gasto_estatal",
-          "source": "https://www.ahoranacioncallao.com/pdf/PLAN%20DE%20GOBIERNO%20AHORA%20NACION_VF_25.04.25.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "tema": "Matrimonio igualitario",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.así_como_a_las_parejas_heterosexuales_a_las_parejas_homosexuales_se_les_debería_reconocer_el_derecho_al_matrimonio_igualitario",
+          "topic_key": "topics.matrimonio_igualitario",
+          "vote": 0.5,
+          "comment": "El plan de gobierno no se refiere al contenido de este enunciado",
+          "comment_key": "explanations.party.ahora_nación.matrimonio_igualitario",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
           "tema": "Pensión pública",
           "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
           "question_key": "questions.el_estado_debería_priorizar_el_sistema_de_pensiones_públicas_en_vez_de_fomentar_las_pensiones_privadas",
           "topic_key": "topics.pensión_pública",
-          "vote": 0.0,
-          "comment": "Ha declarado explícitamente que defiende el sistema de las AFP (fondos privados), aunque sostiene que requiere ser reformado para ser más democrático y plural.",
+          "vote": 0.5,
+          "comment": "El plan de gobierno menciona: “Reforma del sistema de pensiones, mejorando el diseño del esquema de beneficios, reglas de juego y gobernanza, en el ámbito, público y privado.”",
           "comment_key": "explanations.party.ahora_nación.pensión_pública",
-          "source": "https://www.youtube.com/watch?v=tWccyz12vu8"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
           "tema": "Derechos humanos",
@@ -1629,9 +1749,29 @@
           "question_key": "questions.es_importante_que_para_defender_los_derechos_humanos_el_perú_siga_reconociendo_la_autoridad_de_la_corte_interamericana_de_derechos_humanos_corte_idh",
           "topic_key": "topics.derechos_humanos",
           "vote": 1.0,
-          "comment": "El partido se define como defensor del orden democrático y de los tratados internacionales de derechos humanos, lo que implica reconocimiento de la Corte IDH.",
+          "comment": "El plan de gobierno describe repetidas veces el uso de referencia y reconocimiento de la CIDH y sus decisiones cómo un eje central.",
           "comment_key": "explanations.party.ahora_nación.derechos_humanos",
-          "source": "https://es.wikipedia.org/wiki/Ahora_Naci%C3%B3n"
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Informalidad: Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.": {
+          "tema": "Informalidad",
+          "question": "Para reducir la informalidad, se deberían bajar los impuestos en lugar de tener programas de formalización.",
+          "question_key": "questions.para_reducir_la_informalidad_se_deberían_bajar_los_impuestos_en_lugar_de_tener_programas_de_formalización",
+          "topic_key": "topics.informalidad",
+          "vote": 0.0,
+          "comment": "El plan de gobierno menciona la creación de innovación y transferencia tecnológica para Mipymes. Se dice: “Esto nos llevará a un país más competitivo, innovador y con menores grados de informalidad, generando empleo de calidad y crecimiento económico en los sectores más vulnerables de nuestra sociedad.”. Asimismo se describe a la informalidad de empresas como resultado de baja productividad y financiamiento limitado.",
+          "comment_key": "explanations.party.ahora_nación.informalidad",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
+        },
+        "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
+          "tema": "Nueva constitución",
+          "question": "Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.",
+          "question_key": "questions.debería_convocarse_a_una_asamblea_contituyente_para_cambiar_la_constitución_del_93",
+          "topic_key": "topics.nueva_constitución",
+          "vote": 0.5,
+          "comment": "El plan de gobierno no se refiere al contenido de este enunciado",
+          "comment_key": "explanations.party.ahora_nación.nueva_constitución",
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         }
       }
     },
@@ -2858,6 +2998,16 @@
           "comment_key": "explanations.party.avanza_país.seguridad_pública",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf"
         },
+        "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
+          "tema": "Educación sexual",
+          "question": "La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.",
+          "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
+          "topic_key": "topics.educación_sexual",
+          "vote": 0.0,
+          "comment": "\"\".",
+          "comment_key": "explanations.party.avanza_país.educación_sexual",
+          "source": "https://ojo-publico.com/5988/presion-ultraconservadora-bloquea-la-educacion-sexual-los-colegios#:~:text=Proyectos%20de%20ley%20contra%20la,sobre%20educaci%C3%B3n%20sexual%20e%20historia."
+        },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
           "tema": "Minería informal",
           "question": "El Estado debería regularizar a la minería informal más activamente",
@@ -3862,6 +4012,16 @@
           "comment": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
           "comment_key": "explanations.party.partido_democrático_federal.seguridad_pública",
           "source": "https://perufederal.pe/armando-masse-a-los-reclusos-de-65-anos-los-mando-a-sus-casas-con-grilletes/"
+        },
+        "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
+          "tema": "Educación sexual",
+          "question": "La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.",
+          "question_key": "questions.la_educación_sexual_integral_con_enfoque_de_género_debe_ser_una_parte_obligatoria_del_currículo_escolar",
+          "topic_key": "topics.educación_sexual",
+          "vote": 0.0,
+          "comment": "El Partido Democrático Federal muy probablemente no apoyaría la afirmación de que la educación sexual integral con enfoque de género debe ser obligatoria en el currículo. Aunque no lo declara explícitamente, su identidad cristiana, su énfasis en el rol de los padres como supervisores del contenido educativo, su concepto acotado de igualdad de género (solo laboral/meritocrática) y su rechazo a estándares internacionales de derechos humanos apuntan en una dirección conservadora en este",
+          "comment_key": "explanations.party.partido_democrático_federal.educación_sexual",
+          "source": null
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente": {
           "tema": "Minería informal",
