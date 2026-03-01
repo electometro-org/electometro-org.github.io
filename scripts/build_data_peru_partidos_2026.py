@@ -31,8 +31,20 @@ def build_comment_key(entity_type, entity_name, topic_key):
     return f"explanations.{entity_type}.{entity_key}.{topic_part}"
 
 def clean_text(s):
+    # Handle pandas objects that are not scalars (Series/DataFrame)
+    if isinstance(s, pd.Series):
+        # if it's a 1-element series, unwrap; otherwise treat as missing (or raise)
+        if len(s) == 1:
+            s = s.iloc[0]
+        else:
+            return None
+    if isinstance(s, pd.DataFrame):
+        return None
+
     if s is None:
         return None
+
+    # pd.isna works fine for scalars (including numpy.nan)
     if pd.isna(s):
         return None
     s = str(s).strip()
