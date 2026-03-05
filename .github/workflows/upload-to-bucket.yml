@@ -1,0 +1,33 @@
+name: Upload JSON to Bucket
+
+on:
+  workflow_run:
+    workflows: ["Parse XLSX to JSON and commit"]
+    types:
+      - completed
+
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install wrangler
+        run: npm install -g wrangler
+
+      - name: Upload JSONs to R2
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          for file in json/*.json; do
+            filename=$(basename "$file")
+            country_year=$(echo "$filename" | sed -E 's/combined_votes_([a-z]+)_[a-z]+_([0-9]+)\.json/\1_\2/')
+            echo "Uploading $filename to elections/$country_year/"
+            wrangler r2 object put "${{ vars.R2_BUCKET }}/elections/$country_year/$filename" --file "$file"
+          done
