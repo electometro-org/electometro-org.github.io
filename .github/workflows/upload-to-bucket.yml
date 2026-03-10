@@ -26,9 +26,14 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           R2_BUCKET: ${{ secrets.R2_BUCKET }}
         run: |
-          for file in json/*.json; do
-            filename=$(basename "$file")
-            country_year=$(echo "$filename" | sed -E 's/combined_votes_([a-z]+)_[a-z]+_([0-9]+)\.json/\1_\2/')
-            echo "Uploading $filename to elections/$country_year/"
-            wrangler r2 object put "$R2_BUCKET/elections/$country_year/$filename" --file "$file" --remote
+          # Upload from json/latest/ directory, stripping version suffix
+          for file in json/latest/*.json; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              # Strip version suffix: combined_votes_peru_partidos_2026_v1.2.3.json -> combined_votes_peru_partidos_2026.json
+              base_filename=$(echo "$filename" | sed -E 's/_v[0-9]+\.[0-9]+\.[0-9]+\.json/.json/')
+              country_year=$(echo "$base_filename" | sed -E 's/combined_votes_([a-z]+)_[a-z]+_([0-9]+)\.json/\1_\2/')
+              echo "Uploading $filename as $base_filename to elections/$country_year/"
+              wrangler r2 object put "$R2_BUCKET/elections/$country_year/$base_filename" --file "$file" --remote
+            fi
           done

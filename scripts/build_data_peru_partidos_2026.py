@@ -5,6 +5,24 @@ import re
 
 NEW_STRUCTURE_FILE = os.getenv('PERU_FILE')
 OUTPUT_DIR = "json/"
+OUTPUT_DIR_LATEST = "json/latest/"
+
+
+def get_version_from_excel(filepath):
+    """
+    Read version from 'version' sheet, cell B1. Format: x.x.x
+    Returns the version string if valid, raises ValueError if invalid.
+    """
+    try:
+        version_df = pd.read_excel(filepath, sheet_name="version", header=None)
+        version_str = str(version_df.iloc[0, 1]).strip()  # B1 = row 0, col 1
+
+        if not re.match(r'^(\d+)\.(\d+)\.(\d+)$', version_str):
+            raise ValueError(f"Invalid version format: {version_str}")
+
+        return version_str
+    except Exception as e:
+        raise ValueError(f"Failed to read version from Excel: {e}")
 
 MISSING_VOTE_DEFAULT = 0.5
 MISSING_COMMENT_DEFAULT = "No se encontró información pública sobre su posición."
@@ -210,19 +228,41 @@ def generate_from_new_structure():
                 "source": source_value
             }
 
+    # Get version from Excel
+    try:
+        version = get_version_from_excel(NEW_STRUCTURE_FILE)
+        print(f"Found version: {version}")
+    except ValueError as e:
+        print(f"Warning: {e}")
+        version = None
+
     combined_output = {"parties": {}}
-    for party_column, party_info in parties_info.items():
-        combined_output["parties"][party_info["header"]] = {
-            "name": party_info["name"],
-            "votes": party_info["votes"]
+    if version:
+        combined_output["version"] = version
+
+    for party_column, pinfo in parties_info.items():
+        combined_output["parties"][pinfo["header"]] = {
+            "name": pinfo["name"],
+            "votes": pinfo["votes"]
         }
 
+    # Ensure output directories exist
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs(OUTPUT_DIR_LATEST, exist_ok=True)
+
+    # Write to main output directory
     output_path = os.path.join(OUTPUT_DIR, "combined_votes_peru_partidos_2026.json")
     with open(output_path, "w", encoding="utf-8") as file_handle:
         json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
-
     print(f"Wrote {output_path}")
+
+    # Write versioned file to latest directory
+    if version:
+        versioned_filename = f"combined_votes_peru_partidos_2026_v{version}.json"
+        versioned_path = os.path.join(OUTPUT_DIR_LATEST, versioned_filename)
+        with open(versioned_path, "w", encoding="utf-8") as file_handle:
+            json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
+        print(f"Wrote {versioned_path}")
 
 if __name__ == "__main__":
     generate_from_new_structure()
