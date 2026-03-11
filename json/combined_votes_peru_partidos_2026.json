@@ -76,9 +76,9 @@
           "question_key": "questions.t7",
           "topic_key": "topics.t7",
           "vote": 0.0,
-          "comment": "El plan de gobierno no hace referencia directa a la pena de muerte, pero la propuesta de acatar todas las decisiones de la CIDH hace a la posición del partido incompatible con la",
+          "comment": "El plan de gobierno no hace referencia directa a la pena de muerte, pero la propuesta de acatar todas las decisiones de la CIDH hace a la posición del partido incompatible con la tesis.",
           "comment_key": "explanations.party.p1.t7",
-          "source": null
+          "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "id_tema": "t8",
@@ -4117,6 +4117,17 @@
           "comment_key": "explanations.party.p23.t4",
           "source": "https://mpesije.jne.gob.pe/docs/f4e5c2c2-b0df-4033-adda-6617af774154.pdf"
         },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "id_tema": "t5",
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "question_key": "questions.t5",
+          "topic_key": "topics.t5",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En 2016, se reportó que Cerrón había tenido declaraciones apoyando la despenalización del aborto para proteger la integridad física de las mujeres.",
+          "comment_key": "explanations.candidate.c23.t5",
+          "source": "https://larepublica.pe/politica/735315-vladimir-cerron-favor-de-despenalizar-el-aborto"
+        },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
           "id_tema": "t6",
           "tema": "Impuestos progresivos",
@@ -4172,6 +4183,28 @@
           "comment_key": "explanations.party.p23.t10",
           "source": "https://mpesije.jne.gob.pe/docs/f4e5c2c2-b0df-4033-adda-6617af774154.pdf"
         },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "id_tema": "t11",
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.t11",
+          "topic_key": "topics.t11",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno para las elecciones 2026 contempla medidas para incrementar la participación de los pueblos indígenas en la toma de decisiones sobre asuntos públicos y de gobernanza (pág. 19), reconociendo su autodeterminación (pág. 36) y protegiéndolos especialmente de la minería ilegal (pág. 55). Esto es consistente con la postura del ideario de 2020, que enfatizaba la necesidad de respetar la consulta previa y la autodeterminación de los pueblos indígenas.",
+          "comment_key": "explanations.candidate.c23.t11",
+          "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "id_tema": "t12",
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.t12",
+          "topic_key": "topics.t12",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Perú Libre contempla varias metas de gobernanza medioambiental, incluyendo la reducción de la deforestación, una estrategia de transición ecológica y resiliencia climática.",
+          "comment_key": "explanations.candidate.c23.t12",
+          "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
+        },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
           "id_tema": "t13",
           "tema": "Inversión extranjera",
@@ -4194,6 +4227,28 @@
           "comment_key": "explanations.party.p23.t14",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Accion-Plan-de-Gobierno-LP.pdf"
         },
+        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "id_tema": "t15",
+          "tema": "Matrimonio igualitario",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.t15",
+          "topic_key": "topics.t15",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Cerrón se ha manifestado en contra del matrimonio igualitario y de otras demandas políticas del colectivo LGBT en múltiples declaraciones.",
+          "comment_key": "explanations.candidate.c23.t15",
+          "source": "https://www.bbc.com/mundo/noticias-america-latina-58287173"
+        },
+        "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "id_tema": "t16",
+          "tema": "Pensión pública",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.t16",
+          "topic_key": "topics.t16",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno plantea fortalecer significativamente el sistema previsional y condena la \"mercantilización\" de la seguridad social.",
+          "comment_key": "explanations.candidate.c23.t16",
+          "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
+        },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
           "id_tema": "t17",
           "tema": "Derechos humanos",
@@ -4215,6 +4270,17 @@
           "comment": "Propone reformas puntuales a la Constitución vigente y someterlas a referéndums, no convocar una asamblea constituyente para cambiar la Constitución del 93.",
           "comment_key": "explanations.party.p23.t19",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Accion-Plan-de-Gobierno-LP.pdf"
+        },
+        "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
+          "id_tema": "t20",
+          "tema": "Reelección",
+          "question": "Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.",
+          "question_key": "questions.t20",
+          "topic_key": "topics.t20",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En declaraciones de 2022, Cerrón se posicionó a favor de la reelección de autoridades en todos los niveles de gobierno.",
+          "comment_key": "explanations.candidate.c23.t20",
+          "source": "https://peru21.pe/politica/vladimir-cerron-a-favor-de-reeleccion-presidencial-de-congresistas-gobernadores-regionales-y-alcaldes-asamblea-constituyente-peru-libre-rmmn-noticia/"
         }
       }
     },
@@ -4232,27 +4298,16 @@
           "comment_key": "explanations.party.p24.t1",
           "source": "https://declara.jne.gob.pe/assets/plangobierno/fileplangobierno/16542.pdf"
         },
-        "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
-          "id_tema": "t2",
-          "tema": "Educación sexual",
-          "question": "La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.",
-          "question_key": "questions.t2",
-          "topic_key": "topics.t2",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Durante su tiempo como gobernante de Junín, se difundieron diversas declaraciones de él en contra del enfoque o \"ideología\" de género.",
-          "comment_key": "explanations.candidate.c24.t2",
-          "source": "https://www.facebook.com/waykaperu/photos/este-es-vladimir-cerr%C3%B3n-el-gobernador-regional-de-jun%C3%ADn-que-est%C3%A1-en-contra-del-e/2089352091149180/"
-        },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
           "id_tema": "t3",
           "tema": "Corrupción",
           "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
           "question_key": "questions.t3",
           "topic_key": "topics.t3",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Vladimir Cerrón ha estado involucrado en varios escándalos de corrupción y actualmente se encuentra prófugo de la justicia.",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Perú Moderno centra su discurso en lucha anticorrupción con sanciones duras",
           "comment_key": "explanations.candidate.c24.t3",
-          "source": "https://www.gob.pe/institucion/mpfn/noticias/520789-ministerio-publico-solicito-5-anos-y-4-meses-de-prision-para-vladimir-cerron-por-adelanto-directo-en-obra-de-mejoramiento-vial/+++https://cnnespanol.cnn.com/2023/10/07/vladimir-cerron-partido-peru-libre-condena-carcel-corrupcion-orix+++https://www.dw.com/es/vladimir-cerr%C3%B3n-cumple-un-a%C3%B1o-pr%C3%B3fugo-de-la-justicia-de-per%C3%BA/a-70418949"
+          "source": "https://perumoderno.pe/ideario"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
           "id_tema": "t4",
@@ -4286,17 +4341,6 @@
           "comment": "El plan de gobierno de Perú Libre contempla la incrementación de los impuestos directos \"a grandes rentas y patrimonios\".",
           "comment_key": "explanations.party.p24.t6",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
-        },
-        "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
-          "id_tema": "t7",
-          "tema": "Pena de muerte",
-          "question": "Está bien que exista la pena de muerte en el Perú.",
-          "question_key": "questions.t7",
-          "topic_key": "topics.t7",
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Durante le campaña de 2016, Cerrón propuso la pena de muerte para delitos relacionados al narcotráfico.",
-          "comment_key": "explanations.candidate.c24.t7",
-          "source": "https://larepublica.pe/politica/735304-vladimir-cerron-propone-la-pena-de-muerte-para-delitos-de-narcotrafico"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "id_tema": "t9",
@@ -4353,17 +4397,6 @@
           "comment_key": "explanations.party.p24.t14",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
         },
-        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
-          "id_tema": "t15",
-          "tema": "Matrimonio igualitario",
-          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
-          "question_key": "questions.t15",
-          "topic_key": "topics.t15",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Cerrón se ha manifestado en contra del matrimonio igualitario y de otras demandas políticas del colectivo LGBT en múltiples declaraciones.",
-          "comment_key": "explanations.candidate.c24.t15",
-          "source": "https://www.bbc.com/mundo/noticias-america-latina-58287173"
-        },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
           "id_tema": "t16",
           "tema": "Pensión pública",
@@ -4396,17 +4429,6 @@
           "comment": "El programa propone explícitamente Asamblea Constituyente y nueva Constitución para reemplazar el marco de 1993.",
           "comment_key": "explanations.party.p24.t19",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
-        },
-        "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
-          "id_tema": "t20",
-          "tema": "Reelección",
-          "question": "Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.",
-          "question_key": "questions.t20",
-          "topic_key": "topics.t20",
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En declaraciones de 2022, Cerrón se posicionó a favor de la reelección de autoridades en todos los niveles de gobierno.",
-          "comment_key": "explanations.candidate.c24.t20",
-          "source": "https://peru21.pe/politica/vladimir-cerron-a-favor-de-reeleccion-presidencial-de-congresistas-gobernadores-regionales-y-alcaldes-asamblea-constituyente-peru-libre-rmmn-noticia/"
         }
       }
     },
@@ -4424,6 +4446,17 @@
           "comment_key": "explanations.party.p25.t1",
           "source": "https://mpesije.jne.gob.pe/docs/12de1a7b-008b-43c5-9159-c62c9b45eab1.pdf"
         },
+        "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
+          "id_tema": "t2",
+          "tema": "Educación sexual",
+          "question": "La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.",
+          "question_key": "questions.t2",
+          "topic_key": "topics.t2",
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: Respecto al proyecto de ley que propone eliminar enfoque de igualdad de género, Mario Vizcarra declara ser respetuoso de decisiones sobre relaciones entre personas del mismo sexo y cuestiona por qué oponerse a asuntos que considera derechos fundamentales, pero no afirma explícitamente apoyo a obligatoriedad de educación sexual integral con enfoque de género en currículo.",
+          "comment_key": "explanations.candidate.c25.t2",
+          "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
+        },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
           "id_tema": "t3",
           "tema": "Corrupción",
@@ -4435,6 +4468,50 @@
           "comment_key": "explanations.party.p25.t3",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-jaico-plantea-muerte-civil-funcionarios-corruptos-condenados-1063930.aspx"
         },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "id_tema": "t5",
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "question_key": "questions.t5",
+          "topic_key": "topics.t5",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En entrevista, Mario Vizcarra sostuvo que el aborto “debe ser una decisión de la mujer” y agregó que estaría a favor “más aún en temas de violación”.",
+          "comment_key": "explanations.candidate.c25.t5",
+          "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "id_tema": "t6",
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "question_key": "questions.t6",
+          "topic_key": "topics.t6",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra critica explícitamente la \"Ley Chlimper\" (Ley 32434) que exonera a grandes agroexportadores por 10 años más, causando pérdida de 200 millones de soles. Arremetió \"contra la extensión de beneficios tributarios para los grandes agroexportadores\" como demanda clara de que personas con más dinero paguen más impuestos.",
+          "comment_key": "explanations.candidate.c25.t6",
+          "source": "https://elbuho.pe/2025/12/el-plan-de-los-vizcarra-asi-busca-mario-heredar-los-votos-del-sur-tras-la-condena-de-martin/"
+        },
+        "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
+          "id_tema": "t7",
+          "tema": "Pena de muerte",
+          "question": "Está bien que exista la pena de muerte en el Perú.",
+          "question_key": "questions.t7",
+          "topic_key": "topics.t7",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El candidato ha argumentado que la pena de muerte es un mecanismo inefectivo para controlar el crimen. Además, ha declarado que la pena de muerte en el Perú es inviable, aludiendo a los límites constitucionales y compromisos internacionales, por lo que descarta su implementación como política pública.",
+          "comment_key": "explanations.candidate.c25.t7",
+          "source": "https://www.instagram.com/reel/DTPACQDjjeR/"
+        },
+        "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "id_tema": "t8",
+          "tema": "Presencia militar",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "question_key": "questions.t8",
+          "topic_key": "topics.t8",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Su plan (según revisión de planes de gobierno) propone una “intervención real de las Fuerzas Armadas en el ordenamiento de la seguridad interna” para combatir la delincuencia.",
+          "comment_key": "explanations.candidate.c25.t8",
+          "source": "https://gestion.pe/peru/politica/elecciones-2026-las-medidas-mas-radicales-que-los-partidos-plantean-contra-la-inseguridad-noticia/"
+        },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "id_tema": "t9",
           "tema": "Salud pública",
@@ -4445,6 +4522,28 @@
           "comment": "El programa prioriza el fortalecimiento, modernización y ampliación de la salud pública como responsabilidad central del Estado.",
           "comment_key": "explanations.party.p25.t9",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "id_tema": "t11",
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.t11",
+          "topic_key": "topics.t11",
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra declara que la solución a la minería es \"facilitar la formalización\" de pequeña minería y minería artesanal, separando estos sectores de la minería ilegal. Reconoce que \"hay familias que viven de la minería artesanal\", pero su enfoque es en simplificar requisitos para formalizar, no en otorgar poder de veto",
+          "comment_key": "explanations.candidate.c25.t11",
+          "source": "https://www.youtube.com/watch?v=IynQN-QhXkE"
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "id_tema": "t12",
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.t12",
+          "topic_key": "topics.t12",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En entrevista QUBO (diciembre 2025), Mario Vizcarra afirma que \"el derecho por el medio ambiente también\" es fundamental.",
+          "comment_key": "explanations.candidate.c25.t12",
+          "source": "https://youtu.be/0pp_EkaFO7Q?t=588"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
           "id_tema": "t13",
@@ -4467,6 +4566,17 @@
           "comment": "El plan plantea reducción y racionalización del Estado antes que una expansión general del gasto institucional.",
           "comment_key": "explanations.party.p25.t14",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
+        },
+        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "id_tema": "t15",
+          "tema": "Matrimonio igualitario",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.t15",
+          "topic_key": "topics.t15",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En entrevistas ha señalado que “no se debe discriminar a nadie por su orientación sexual” y que el Estado debe reconocer derechos civiles sin distinción, mostrando apertura al reconocimiento legal de parejas del mismo sexo.",
+          "comment_key": "explanations.candidate.c25.t15",
+          "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
           "id_tema": "t16",
@@ -4536,7 +4646,7 @@
           "topic_key": "topics.t1",
           "vote": 0.0,
           "comment": "El plan critica el “enfoque punitivo” y señala que se debe priorizar la reinserción y rehabilitación (al menos para adolescentes en conflicto con la ley), en lugar de enfocarse solo en castigo.",
-          "comment_key": "explanations.party.p27.t1",
+          "comment_key": "explanations.party.p26.t1",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
@@ -4547,7 +4657,7 @@
           "topic_key": "topics.t2",
           "vote": 1.0,
           "comment": "El plan incluye educación sexual para niñez/adolescencia y propone incluir contenidos de igualdad en la currícula y enfoque de género en políticas públicas.",
-          "comment_key": "explanations.party.p27.t2",
+          "comment_key": "explanations.party.p26.t2",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -4558,7 +4668,7 @@
           "topic_key": "topics.t3",
           "vote": 0.0,
           "comment": "Menciona el problema de corrupción, pero no propone vetar a políticos condenados por corrupción.",
-          "comment_key": "explanations.party.p27.t3",
+          "comment_key": "explanations.party.p26.t3",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -4569,7 +4679,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "El plan propone una “ley que formalice la minería informal” y habla de formalización como parte del enfoque contra economías ilegales.",
-          "comment_key": "explanations.party.p27.t4",
+          "comment_key": "explanations.party.p26.t4",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -4580,7 +4690,7 @@
           "topic_key": "topics.t5",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Podemos Perú es un partido conservador en materias de género, y en su plan de gobierno afirma que \"sí podemos defender la vida y la dignidad humana desde su concepción\". En otras palabras, se oponen al aborto.",
-          "comment_key": "explanations.candidate.c27.t5",
+          "comment_key": "explanations.candidate.c26.t5",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (pág. 9); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -4591,7 +4701,7 @@
           "topic_key": "topics.t6",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: Podemos Perú no propone aumentar las tasas del impuesto a la renta que pagan los mayores ingresos. Sin embargo, propone \"revisar y eliminar beneficios tributarios regresivos que favorecen a grupos económicos concentrados\".",
-          "comment_key": "explanations.candidate.c27.t6",
+          "comment_key": "explanations.candidate.c26.t6",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (p. 24)"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -4602,7 +4712,7 @@
           "topic_key": "topics.t7",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios; apoya pena capital en público.",
-          "comment_key": "explanations.candidate.c27.t7",
+          "comment_key": "explanations.candidate.c26.t7",
           "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels)"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -4613,7 +4723,7 @@
           "topic_key": "topics.t8",
           "vote": 1.0,
           "comment": "El plan plantea reformas para permitir la participación/intervención legal de las FFAA en la lucha contra la inseguridad y medidas asociadas (p. ej., cárceles bajo control de FFAA).",
-          "comment_key": "explanations.party.p27.t8",
+          "comment_key": "explanations.party.p26.t8",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -4624,7 +4734,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "El plan propone incrementar el presupuesto y mejorar eficiencia del gasto público en salud, y enfatiza la salud pública como eje programático central.",
-          "comment_key": "explanations.party.p27.t9",
+          "comment_key": "explanations.party.p26.t9",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -4635,7 +4745,7 @@
           "topic_key": "topics.t10",
           "vote": 1.0,
           "comment": "El documento reclama respuestas inclusivas para población migrante y menciona la necesidad de protección y regularización de migrantes. No menciona una expulsión indiscriminada de migrantes irregulares.",
-          "comment_key": "explanations.party.p27.t10",
+          "comment_key": "explanations.party.p26.t10",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -4646,7 +4756,7 @@
           "topic_key": "topics.t11",
           "vote": 1.0,
           "comment": "El plan menciona como un problema a las \"políticas nacionales sin consulta indígena.\"",
-          "comment_key": "explanations.party.p27.t11",
+          "comment_key": "explanations.party.p26.t11",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -4657,7 +4767,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El plan afirma que se deben tomar medidas frente al cambio climático y dedica un eje programático a cambio climático.",
-          "comment_key": "explanations.party.p27.t12",
+          "comment_key": "explanations.party.p26.t12",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -4668,7 +4778,7 @@
           "topic_key": "topics.t13",
           "vote": 0.5,
           "comment": "El plan impulsa la reactivación de la inversión pública-privada y metas de inversión privada, pero no menciona directamente la inversión extranjera.",
-          "comment_key": "explanations.party.p27.t13",
+          "comment_key": "explanations.party.p26.t13",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -4679,7 +4789,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "El plan propone fortalecer/modernizar el Estado (servicio civil, meritocracia, digitalización) y promover inversión pública, consistente con invertir más en instituciones estatales.",
-          "comment_key": "explanations.party.p27.t14",
+          "comment_key": "explanations.party.p26.t14",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -4690,7 +4800,7 @@
           "topic_key": "topics.t15",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: La bancada de Podemos Perú es conservadora en lo que se refiere a los derechos de las personas LGBT+ y se opone al matrimonio igualitario.",
-          "comment_key": "explanations.candidate.c27.t15",
+          "comment_key": "explanations.candidate.c26.t15",
           "source": "https://www.facebook.com/SiPodemosPeru/posts/urgente-%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%92-%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%91%F0%9D%90%94%CC%81-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%85%F0%9D%90%88%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%84-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%95%F0%9D%90%88%F0%9D%90%83%F0%9D%90%80-%F0%9D%90%98-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%85%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%80-desde-podemos-per%C3%BA-reafirmam/1123816709102814/"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -4701,7 +4811,7 @@
           "topic_key": "topics.t16",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Podemos Perú, si bien no propone deshacerse de las pensiones privadas o algo similar,  prioriza la expansión de las pensiones públicas, al menos en lo que se refiere a \"establecer una pensión mínima universal digna\" para expandir el porcentaje de la población cubierta por una pensión.",
-          "comment_key": "explanations.candidate.c27.t16",
+          "comment_key": "explanations.candidate.c26.t16",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (págs. 51-2)"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -4712,7 +4822,7 @@
           "topic_key": "topics.t17",
           "vote": 1.0,
           "comment": "El plan señala adhesión del Perú al Sistema Interamericano y menciona la Comisión y Corte Interamericana de DD. HH.",
-          "comment_key": "explanations.party.p27.t17",
+          "comment_key": "explanations.party.p26.t17",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -4723,7 +4833,7 @@
           "topic_key": "topics.t18",
           "vote": 0.0,
           "comment": "El plan prioriza programas e incentivos de formalización y no plantea bajar impuestos como sustituto de la formalización.",
-          "comment_key": "explanations.party.p27.t18",
+          "comment_key": "explanations.party.p26.t18",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -4734,7 +4844,7 @@
           "topic_key": "topics.t19",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Podemos Perú propone un par de reformas constitucionales, mas en ningún momento sugiere que sea necesario convocar a una Asamblea Constituyente o cambiar significativamente la Constitución actual.",
-          "comment_key": "explanations.candidate.c27.t19",
+          "comment_key": "explanations.candidate.c26.t19",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (págs. 5, 11-2, 15)"
         },
         "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
@@ -4745,7 +4855,7 @@
           "topic_key": "topics.t20",
           "vote": 1.0,
           "comment": "El plan critica la ley de 2024 sobre reelección parlamentaria (y bicameralidad) señalando que en el referéndum 2018 se votó “no” a la reelección.",
-          "comment_key": "explanations.party.p27.t20",
+          "comment_key": "explanations.party.p26.t20",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         }
       }
@@ -4761,7 +4871,7 @@
           "topic_key": "topics.t1",
           "vote": 0.0,
           "comment": "El programa enfatiza la rehabilitación y la reinserción penitenciaria (producción/empleo para reos) y propone reorganización penitenciaria en lugar de un enfoque exclusivamente punitivo.",
-          "comment_key": "explanations.party.p28.t1",
+          "comment_key": "explanations.party.p27.t1",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
@@ -4772,7 +4882,7 @@
           "topic_key": "topics.t2",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Declara que debe garantizarse educación sexual integral y que negarla es un retroceso.",
-          "comment_key": "explanations.candidate.c28.t2",
+          "comment_key": "explanations.candidate.c27.t2",
           "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -4783,7 +4893,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "El plan propone una reforma minera y metas explícitas para formalizar a la minería informal (meta: ≥90% de mineros informales a la actividad formal).",
-          "comment_key": "explanations.party.p28.t4",
+          "comment_key": "explanations.party.p27.t4",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -4794,7 +4904,7 @@
           "topic_key": "topics.t5",
           "vote": 0.0,
           "comment": "El ideario del partido afirma la defensa de la \"vida desde su concepción\", postura que implica oposición al aborto incluso en casos de violación.",
-          "comment_key": "explanations.party.p28.t5",
+          "comment_key": "explanations.party.p27.t5",
           "source": "https://podemosperu.org.pe/ideario/+++https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -4805,7 +4915,7 @@
           "topic_key": "topics.t7",
           "vote": 1.0,
           "comment": "Congresistas vinculados a Podemos Perú suscribieron iniciativas relacionadas con restablecer la pena de muerte y la salida de tratados que lo impiden; hay respaldo parlamentario dentro del grupo.",
-          "comment_key": "explanations.party.p28.t7",
+          "comment_key": "explanations.party.p27.t7",
           "source": "https://ojo-publico.com/politica/extremos-del-congreso-buscan-retirar-al-peru-convencion-ddhh"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -4816,7 +4926,7 @@
           "topic_key": "topics.t8",
           "vote": 1.0,
           "comment": "El plan plantea la creación del \"Comando Perú\" y el despliegue de las Fuerzas Armadas en apoyo a la Policía para enfrentar la inseguridad.",
-          "comment_key": "explanations.party.p28.t8",
+          "comment_key": "explanations.party.p27.t8",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -4827,7 +4937,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "El programa declara \"Salud como derecho humano\" y propone fortalecer atención primaria, aumentar presupuesto y un sistema de salud público fuerte.",
-          "comment_key": "explanations.party.p28.t9",
+          "comment_key": "explanations.party.p27.t9",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -4838,7 +4948,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El plan incluye ejes ambientales y plantea gestión sostenible de recursos, protección del ambiente y prioridad en sierra y Amazonía; la acción climática aparece como obligación gubernamental.",
-          "comment_key": "explanations.party.p28.t12",
+          "comment_key": "explanations.party.p27.t12",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -4849,7 +4959,7 @@
           "topic_key": "topics.t13",
           "vote": 1.0,
           "comment": "El programa impulsa un \"shock de inversiones privadas y públicas\" y asegura la complementariedad inversión pública-privada; promueve la atracción de inversión (incluida extranjera) para desarrollo.",
-          "comment_key": "explanations.party.p28.t13",
+          "comment_key": "explanations.party.p27.t13",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -4860,7 +4970,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "El plan apuesta por un Estado fuerte y financiamiento para servicios públicos (salud, educación, infraestructura) y por fortalecer instituciones estatales en lugar de recortes generalizados.",
-          "comment_key": "explanations.party.p28.t14",
+          "comment_key": "explanations.party.p27.t14",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -4871,7 +4981,7 @@
           "topic_key": "topics.t15",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: Indica consenso partidario en unión civil y debate interno sobre matrimonio igualitario; no fija apoyo explícito al matrimonio igualitario como tal.",
-          "comment_key": "explanations.candidate.c28.t15",
+          "comment_key": "explanations.candidate.c27.t15",
           "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -4882,7 +4992,7 @@
           "topic_key": "topics.t16",
           "vote": 1.0,
           "comment": "El plan propone una \"Reforma previsional con Pensión Digna para Todos\" e inclusión previsional del sector informal, priorizando un sistema público de pensiones.",
-          "comment_key": "explanations.party.p28.t16",
+          "comment_key": "explanations.party.p27.t16",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -4893,7 +5003,7 @@
           "topic_key": "topics.t17",
           "vote": 0.0,
           "comment": "Periodistas e investigación muestran que parlamentarios de Podemos Perú suscribieron proyectos para desvincular al Perú de la Convención Americana/Corte IDH; esto indica una postura contraria a mantener su plena autoridad.",
-          "comment_key": "explanations.party.p28.t17",
+          "comment_key": "explanations.party.p27.t17",
           "source": "https://ojo-publico.com/politica/extremos-del-congreso-buscan-retirar-al-peru-convencion-ddhh"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -4904,7 +5014,7 @@
           "topic_key": "topics.t18",
           "vote": 0.0,
           "comment": "El plan prioriza programas de formalización (créditos, asistencia técnica, simplificación administrativa) y estímulos dirigidos a MYPEs para formalizar, no la reducción generalizada de impuestos como principal herramienta.",
-          "comment_key": "explanations.party.p28.t18",
+          "comment_key": "explanations.party.p27.t18",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -4915,7 +5025,7 @@
           "topic_key": "topics.t19",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Dirigente de Primero la Gente (Del Castillo) descarta asamblea constituyente.",
-          "comment_key": "explanations.candidate.c28.t19",
+          "comment_key": "explanations.candidate.c27.t19",
           "source": "https://canaln.pe/actualidad/primero-gente-castillo-descarta-asamblea-constituyente-n485532"
         },
         "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
@@ -4926,7 +5036,7 @@
           "topic_key": "topics.t20",
           "vote": 1.0,
           "comment": "En el eje de reforma política el plan propone mecanismos de rendición de cuentas (revocatoria, paridad y alternancia) y reformas para evitar la captura; el documento apoya limitaciones a la continuidad parlamentaria (alternancia/controles), es coherente con prohibir reelección.",
-          "comment_key": "explanations.party.p28.t20",
+          "comment_key": "explanations.party.p27.t20",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         }
       }
@@ -4942,7 +5052,7 @@
           "topic_key": "topics.t1",
           "vote": 0.0,
           "comment": "En el plan resumen priorizan prevención/estrategia y “salidas alternativas” (no un enfoque exclusivamente punitivo) y plantean que >60% de internos participe en educación/capacitación/trabajo.",
-          "comment_key": "explanations.party.p29.t1",
+          "comment_key": "explanations.party.p28.t1",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -4953,7 +5063,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Propone incorporar la pequeña minería y minería artesanal a cadenas productivas mineras formales (y erradicar la minería ilegal), lo que equivale a una estrategia activa de formalización/regularización del segmento informal-artesanal.",
-          "comment_key": "explanations.candidate.c29.t4",
+          "comment_key": "explanations.candidate.c28.t4",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -4964,7 +5074,7 @@
           "topic_key": "topics.t6",
           "vote": 1.0,
           "comment": "Plantean “hacer el sistema tributario más progresivo y eficiente” y racionalizar exoneraciones/ampliar base del Impuesto a la Renta.",
-          "comment_key": "explanations.party.p29.t6",
+          "comment_key": "explanations.party.p28.t6",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -4975,7 +5085,7 @@
           "topic_key": "topics.t8",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato propone “estado de excepción” y reorganización policial/MP/INPE, pero no hallé una propuesta explícita de “mayor presencia militar en las calles” como política general.",
-          "comment_key": "explanations.candidate.c29.t8",
+          "comment_key": "explanations.candidate.c28.t8",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-walter-chirinos-del-prin-propone-estado-excepcion-contra-criminalidad-1061053.aspx (andina.pe)"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -4986,7 +5096,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "Enfatizan “salud pública articulada y de calidad” (unificar el sistema nacional de salud) y regular el sistema privado de seguros/medicamentos limitando prácticas abusivas.",
-          "comment_key": "explanations.party.p29.t9",
+          "comment_key": "explanations.party.p28.t9",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -4997,7 +5107,7 @@
           "topic_key": "topics.t10",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En migración enfatiza control fronterizo (tecnología biométrica) y propone que el Ejército asuma temporalmente el control de fronteras; no prioriza regularización de situación migratoria irregular.",
-          "comment_key": "explanations.candidate.c29.t10",
+          "comment_key": "explanations.candidate.c28.t10",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-walter-chirinos-del-prin-propone-estado-excepcion-contra-criminalidad-1061053.aspx (andina.pe)"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -5008,7 +5118,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "Incluyen un eje/tema específico de “Cambio climático, transición energética y economía circular” y metas para incorporar cambio climático en planificación/gestión del riesgo.",
-          "comment_key": "explanations.party.p29.t12",
+          "comment_key": "explanations.party.p28.t12",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -5019,7 +5129,7 @@
           "topic_key": "topics.t13",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Plantea “atraer inversión/atraer capitales” y mejorar la confianza de inversores, incluyendo referencia a “capitales… extranjeros”.",
-          "comment_key": "explanations.candidate.c29.t13",
+          "comment_key": "explanations.candidate.c28.t13",
           "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-walter-chirinos-purizaga-del-partido-politico-prin (TVPerú)"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -5030,7 +5140,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "El plan se centra en fortalecer capacidades estatales (p.ej., centro de gobierno/modernización, integridad, sistemas públicos) y no en recortes como eje principal.",
-          "comment_key": "explanations.party.p29.t14",
+          "comment_key": "explanations.party.p28.t14",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -5041,7 +5151,7 @@
           "topic_key": "topics.t18",
           "vote": 0.0,
           "comment": "Para reducir informalidad proponen ampliar base tributaria e incorporar progresivamente independientes/MYPES a regímenes formales y reducir evasión; no plantean “bajar impuestos” como alternativa principal.",
-          "comment_key": "explanations.party.p29.t18",
+          "comment_key": "explanations.party.p28.t18",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -5052,7 +5162,7 @@
           "topic_key": "topics.t19",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El plan señala que no ve necesidad de “grandes cambios refundacionales” y enfatiza respeto a Constitución vigente; por tanto, no apunta a una asamblea constituyente.",
-          "comment_key": "explanations.candidate.c29.t19",
+          "comment_key": "explanations.candidate.c28.t19",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
         }
       }
@@ -5068,7 +5178,7 @@
           "topic_key": "topics.t1",
           "vote": 1.0,
           "comment": "El plan plantea “salida de la Corte IDH”, “cárceles de máxima seguridad”, “penas severas” y hasta “restablecimiento de la pena de muerte”; aunque menciona trabajo penitenciario como resocialización, el énfasis general es claramente punitivo/represivo.",
-          "comment_key": "explanations.party.p30.t1",
+          "comment_key": "explanations.party.p29.t1",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -5079,7 +5189,7 @@
           "topic_key": "topics.t3",
           "vote": 1.0,
           "comment": "El plan propone “Muerte Civil” definitiva para funcionarios/servidores sentenciados por corrupción y también “inhabilitadas de por vida” (muerte civil empresarial) para proveedores con antecedentes.",
-          "comment_key": "explanations.party.p30.t3",
+          "comment_key": "explanations.party.p29.t3",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -5090,7 +5200,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "El plan dedica una sección a “Economías ilegales y REINFO” proponiendo endurecer requisitos, trazabilidad, fiscalización y sanciones/revocación acelerada, lo que implica una regulación más activa de la minería informal (vía REINFO).",
-          "comment_key": "explanations.party.p30.t4",
+          "comment_key": "explanations.party.p29.t4",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -5101,7 +5211,7 @@
           "topic_key": "topics.t7",
           "vote": 1.0,
           "comment": "El plan propone el “Restablecimiento de la pena de muerte para delitos de extrema gravedad”.",
-          "comment_key": "explanations.party.p30.t7",
+          "comment_key": "explanations.party.p29.t7",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -5112,7 +5222,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "El plan afirma que el acceso a salud es un derecho, propone fortalecer el sistema público (primer nivel) y blinda presupuestos de salud (“no puedan ser recortados”) como “Inversión Social Protegida”.",
-          "comment_key": "explanations.party.p30.t9",
+          "comment_key": "explanations.party.p29.t9",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -5123,7 +5233,7 @@
           "topic_key": "topics.t10",
           "vote": 0.0,
           "comment": "El plan prioriza control migratorio y “expulsión inmediata” de extranjeros que cometan delitos; no prioriza regularización de situación migratoria irregular sobre deportación/expulsión.",
-          "comment_key": "explanations.party.p30.t10",
+          "comment_key": "explanations.party.p29.t10",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -5134,7 +5244,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El plan reconoce al Perú como altamente vulnerable al cambio climático y propone medidas ambientales (p. ej., reducción de huella de carbono con incentivos, economía circular/aire limpio), tratándolo como eje (“Perú ambientalista”).",
-          "comment_key": "explanations.party.p30.t12",
+          "comment_key": "explanations.party.p29.t12",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -5145,7 +5255,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "El plan propone fortalecer capacidades del Estado (digitalizar trámites al 100%, interoperabilidad, meritocracia) y proteger inversión social; no es un enfoque de “reducir el Estado”, sino de invertir y hacerlo más eficiente.",
-          "comment_key": "explanations.party.p30.t14",
+          "comment_key": "explanations.party.p29.t14",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -5156,7 +5266,7 @@
           "topic_key": "topics.t17",
           "vote": 0.0,
           "comment": "El plan propone explícitamente la “salida de la Corte Interamericana de Derechos Humanos (Corte IDH)”.",
-          "comment_key": "explanations.party.p30.t17",
+          "comment_key": "explanations.party.p29.t17",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -5167,7 +5277,7 @@
           "topic_key": "topics.t18",
           "vote": 0.0,
           "comment": "Para reducir informalidad, el plan prioriza ventanilla única digital de formalización, reforma tributaria simplificada e incentivos/subsidios; no plantea que la vía principal sea “bajar impuestos” en lugar de formalizar.",
-          "comment_key": "explanations.party.p30.t18",
+          "comment_key": "explanations.party.p29.t18",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         }
       }
@@ -5183,7 +5293,7 @@
           "topic_key": "topics.t1",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Creación de un Consejo de Guerra para combatir el crimen. Esta medida resalta el enfoque en la lucha contra la delincuencia que en su prevención o reinserción.",
-          "comment_key": "explanations.candidate.c31.t1",
+          "comment_key": "explanations.candidate.c30.t1",
           "source": "https://youtu.be/6jYjs_1LaQE?t=565"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
@@ -5194,7 +5304,7 @@
           "topic_key": "topics.t2",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: Propone eliminar las concesiones mineras y organizar a la minería informal en micro y pequeñas empresas para formalizarlas, con intervención estatal.",
-          "comment_key": "explanations.candidate.c31.t2",
+          "comment_key": "explanations.candidate.c30.t2",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-napoleon-becerra-plantea-eliminar-las-concesiones-mineras-1061121.aspx"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -5205,7 +5315,7 @@
           "topic_key": "topics.t3",
           "vote": 1.0,
           "comment": "El plan del PTE-PERÚ plantea “inhabilitación perpetua” para políticos o funcionarios comprobados en corrupción (equivalente a veto de por vida).",
-          "comment_key": "explanations.party.p31.t3",
+          "comment_key": "explanations.party.p30.t3",
           "source": "https://peruvotoinformado.com/img/2026/partido/plan-partido-de-los-trabajadores-y-emprendedores-pte-peru.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -5216,7 +5326,7 @@
           "topic_key": "topics.t4",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Propuso \"eliminar las concesiones mineras\" y organizar a los 600,000 mineros informales en micro y pequeñas empresas, con el Estado como comprador directo del mineral.",
-          "comment_key": "explanations.candidate.c31.t4",
+          "comment_key": "explanations.candidate.c30.t4",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-napoleon-becerra-plantea-eliminar-las-concesiones-mineras-1061121.aspx"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -5227,7 +5337,7 @@
           "topic_key": "topics.t6",
           "vote": 1.0,
           "comment": "El plan del PTE-PERÚ propone una reforma tributaria donde “los que ganan más paguen más” (impuestos progresivos).",
-          "comment_key": "explanations.party.p31.t6",
+          "comment_key": "explanations.party.p30.t6",
           "source": "https://peruvotoinformado.com/img/2026/partido/plan-partido-de-los-trabajadores-y-emprendedores-pte-peru.pdf"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -5238,7 +5348,7 @@
           "topic_key": "topics.t8",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato ha propuesto convocar a 200.000 licenciados de las FF.AA. a regiones con áltos índices de violencia.",
-          "comment_key": "explanations.candidate.c31.t8",
+          "comment_key": "explanations.candidate.c30.t8",
           "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-napoleon-becerra-del-partido-de-los-trabajadores-y-emprendedores-del-peru"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -5249,7 +5359,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "El plan del PTE-PERÚ plantea fortalecer lo público (salud universal/gratuita) y fija como meta destinar a educación y salud un presupuesto no menor al 6% del PBI.",
-          "comment_key": "explanations.party.p31.t9",
+          "comment_key": "explanations.party.p30.t9",
           "source": "https://peruvotoinformado.com/img/2026/partido/plan-partido-de-los-trabajadores-y-emprendedores-pte-peru.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -5260,7 +5370,7 @@
           "topic_key": "topics.t10",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Propone un control estrictamente riguroso de fronteras mediante el retorno de la Guardia Republicana y cuestiona la permanencia de extranjeros indocumentados que no trabajan.",
-          "comment_key": "explanations.candidate.c31.t10",
+          "comment_key": "explanations.candidate.c30.t10",
           "source": "https://youtu.be/6jYjs_1LaQE?t=3056"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -5271,7 +5381,7 @@
           "topic_key": "topics.t11",
           "vote": 1.0,
           "comment": "El plan del PTE-PERÚ reivindica la consulta previa y la “decisión soberana” de comunidades y agricultores “para cualquier proyecto de inversión” (compatible con poder de veto en sus territorios).",
-          "comment_key": "explanations.party.p31.t11",
+          "comment_key": "explanations.party.p30.t11",
           "source": "https://peruvotoinformado.com/img/2026/partido/plan-partido-de-los-trabajadores-y-emprendedores-pte-peru.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -5282,7 +5392,7 @@
           "topic_key": "topics.t13",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato se ha opuesto a que \"extranjeros hagan y deshagan de nuestra riqueza\" y propone eliminar concesiones con extranjeros.",
-          "comment_key": "explanations.candidate.c31.t13",
+          "comment_key": "explanations.candidate.c30.t13",
           "source": "https://youtu.be/K2EBmlu6t1k?t=1832"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -5293,7 +5403,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "El plan plantea “recuperar el rol dirigente del Estado” y critica el modelo neoliberal, lo que es consistente con invertir/fortalecer instituciones estatales en vez de reducir gastos.",
-          "comment_key": "explanations.party.p31.t14",
+          "comment_key": "explanations.party.p30.t14",
           "source": "https://peruvotoinformado.com/img/2026/partido/plan-partido-de-los-trabajadores-y-emprendedores-pte-peru.pdf"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -5304,7 +5414,7 @@
           "topic_key": "topics.t17",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Plantea la aplicación de la pena de muerte para funcionarios corruptos y traidores a la patria, lo cual contraviene los marcos actuales de la Corte IDH.",
-          "comment_key": "explanations.candidate.c31.t17",
+          "comment_key": "explanations.candidate.c30.t17",
           "source": "https://youtu.be/6jYjs_1LaQE?t=1413"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -5315,7 +5425,7 @@
           "topic_key": "topics.t18",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Propone la simplificación de trámites para reducir la informalidad y crear un \"Fondo Emprendedor\" manejado por la banca estatal para dar soporte financiero al sector informal.",
-          "comment_key": "explanations.candidate.c31.t18",
+          "comment_key": "explanations.candidate.c30.t18",
           "source": "https://tucambista.pe/noticias/napoleon-becerra-candidato-presidencial-elecciones-2026"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -5326,7 +5436,7 @@
           "topic_key": "topics.t19",
           "vote": 1.0,
           "comment": "PTE-PERÚ firmó un pronunciamiento de partidos de izquierda para instaurar una asamblea constituyente que redacte una nueva Constitución.",
-          "comment_key": "explanations.party.p31.t19",
+          "comment_key": "explanations.party.p30.t19",
           "source": "https://elcomercio.pe/politica/cuatro-partidos-de-izquierda-se-unen-por-una-asamblea-constituyente-constitucion-politica-del-peru-ultimas-noticia/"
         }
       }
@@ -5342,7 +5452,7 @@
           "topic_key": "topics.t1",
           "vote": 1.0,
           "comment": "Las propuestas del partido describen la obligación de reos de tener que trabjar para poder comer y de retirar al Perú de la CIDH para imponer la pena de muerte o la cadena perpetua",
-          "comment_key": "explanations.party.p32.t1",
+          "comment_key": "explanations.party.p31.t1",
           "source": "https://www.youtube.com/watch?v=DXX3CpNF0FM"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
@@ -5353,7 +5463,7 @@
           "topic_key": "topics.t2",
           "vote": 0.0,
           "comment": "El plan de gobierno define al partido como organización política cristiana y que persigue el desarrollo intgral de la persona y familia como bien común del pueblo peruano. La congresista Milagros Jáuregui además describe la elimincación del enfoque de género cómo una victoria cristiana",
-          "comment_key": "explanations.party.p32.t2",
+          "comment_key": "explanations.party.p31.t2",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/11/25/milagros-jauregui-celebra-eliminacion-del-enfoque-de-genero-esto-es-una-victoria-cristiana/"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -5364,7 +5474,7 @@
           "topic_key": "topics.t3",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno denuncia la corrupción endémica en todos los niveles del aparato público, comentarios se centran en la corrupción dentro del sistema de justicia y la policía.",
-          "comment_key": "explanations.candidate.c32.t3",
+          "comment_key": "explanations.candidate.c31.t3",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -5375,7 +5485,7 @@
           "topic_key": "topics.t4",
           "vote": 0.0,
           "comment": "En el plan de gobierno, el partido indica que fomentará la intervención de las FFAA para luchar contra la minería ilegal. En su plan de gobierno online, aidiciona la intención de la eliminación total, no la regulación",
-          "comment_key": "explanations.party.p32.t4",
+          "comment_key": "explanations.party.p31.t4",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://obrasperu.live/"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -5386,7 +5496,7 @@
           "topic_key": "topics.t5",
           "vote": 0.0,
           "comment": "La congresista Milagros Jáuregui ha fomentado la polémica propuesta que obliga a niñas a ser madres y que veta el aborto terapéutico. En el plan de gobierno no se menciona este tema, pero se hace énfasis en la definición del partido como organización cristiana. Este hecho apoyo las opiniones de la congresista Jáuregui.",
-          "comment_key": "explanations.party.p32.t5",
+          "comment_key": "explanations.party.p31.t5",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/06/25/congresista-milagros-jauregui-celebra-su-polemica-propuesta-que-obliga-a-ninas-a-ser-madres-y-veta-el-aborto-terapeutico/"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -5397,7 +5507,7 @@
           "topic_key": "topics.t6",
           "vote": 0.0,
           "comment": "El plan de gobierno describe la intención del partido de eliminar regímenes tributarios de uno solo. Asimismo describe la intención de reducir la tasa del IGV y finalmente comenta que se quiere reducir exoneraciones para ampliar la base tributaria. Estas posiciones indican una posición contraria a querer tener un sistema tributario progresivo",
-          "comment_key": "explanations.party.p32.t6",
+          "comment_key": "explanations.party.p31.t6",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -5408,7 +5518,7 @@
           "topic_key": "topics.t7",
           "vote": 0.0,
           "comment": "Durante legislaturas anteriores, la bancada del partido ha mostrado una posición en favor de la pena de muerte en el Perú, especialmente en relación a personas con sentencia por feminicidio o violación.",
-          "comment_key": "explanations.party.p32.t7",
+          "comment_key": "explanations.party.p31.t7",
           "source": "https://www.infobae.com/peru/2023/03/31/renovacion-popular-busca-pena-de-muerte-para-feminicidas-y-violadores-y-propone-cambiar-nombre-al-ministerio-de-la-mujer/"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -5419,7 +5529,7 @@
           "topic_key": "topics.t8",
           "vote": 1.0,
           "comment": "El candidato al Senado por Lima Jaime Delgado ha declarado que el partiedo quiere mejores condiciones legales y operativas para una mejorada cooperación de la PNP y las FFAA en relación al combate de la criminalidad. Este mismo indica el interés de usar las FFAA en las calles con un marco legal más ‘adecuado’",
-          "comment_key": "explanations.party.p32.t8",
+          "comment_key": "explanations.party.p31.t8",
           "source": "https://www.youtube.com/watch?v=yaFs_6iL_Xw"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -5430,7 +5540,7 @@
           "topic_key": "topics.t9",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: En febrero del 2026, el candidato describió sus propuestas en materia de salud, en dónde destacóa la necesidad de reestructurar al MINSA y ESSALUD debido a ineficiencias en su funcionamiento. Estas declaraciones no dejan en claro la posición del candidato en cuanto al enunciado",
-          "comment_key": "explanations.candidate.c32.t9",
+          "comment_key": "explanations.candidate.c31.t9",
           "source": "https://canaln.pe/actualidad/rafael-lopez-aliaga-plantea-reestructurar-minsa-y-essalud-n490154"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -5441,7 +5551,7 @@
           "topic_key": "topics.t10",
           "vote": 0.0,
           "comment": "En un video del partido Renovación popular en el que se describen sus principales propuestas, se indica que se tiene la intención de “expulsar de manera inmediata a extranjeros sin flagrancia”",
-          "comment_key": "explanations.party.p32.t10",
+          "comment_key": "explanations.party.p31.t10",
           "source": "https://www.youtube.com/watch?v=DXX3CpNF0FM"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -5452,7 +5562,7 @@
           "topic_key": "topics.t11",
           "vote": 0.5,
           "comment": "El plan de gobierno del partido no indica la posición del patido en cuanto a la minería informal concretamente. En noviembre del 2025, la bancada del partido votó a favor del dictamen que amplía el Reinfo hasta el 2027.",
-          "comment_key": "explanations.party.p32.t11",
+          "comment_key": "explanations.party.p31.t11",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/11/19/fuerza-popular-app-podemos-peru-y-las-bancadas-que-votaron-a-favor-del-dictamen-que-amplia-el-reinfo-hasta-el-2027/"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -5463,7 +5573,7 @@
           "topic_key": "topics.t12",
           "vote": 0.5,
           "comment": "El plan de gobierno indica que se controlarán las emisiones de gases de efecto invernadero, en el contexto del convenio de Kyoto y que el país es sumamente sensible a desastres naturales. El documento no deja en claro que prioridad tendrá esto en comparación a otros objetivos",
-          "comment_key": "explanations.party.p32.t12",
+          "comment_key": "explanations.party.p31.t12",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -5474,7 +5584,7 @@
           "topic_key": "topics.t13",
           "vote": 1.0,
           "comment": "El plan de gobierno describe la inversión en la infraestructura portuaria y aeroportuaria del país para incrementar el comercio. Se habla también de incrementar la inversión minera. No se especifica la procedencia de esta inversión. Sin embargo se asume que esto incluye a la inversión extranjera también",
-          "comment_key": "explanations.party.p32.t13",
+          "comment_key": "explanations.party.p31.t13",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -5485,7 +5595,7 @@
           "topic_key": "topics.t14",
           "vote": 0.5,
           "comment": "El plan de gobierno describe la intención de fortalecer la institucionalidad del gobierno. Sin embargo, también se indica la reducción de ciertos sectores.",
-          "comment_key": "explanations.party.p32.t14",
+          "comment_key": "explanations.party.p31.t14",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -5496,7 +5606,7 @@
           "topic_key": "topics.t15",
           "vote": 0.0,
           "comment": "En Noviembre del 2024, la comisión de Justicia y Derechos Humanos del congreso aprobó el dictamen que plantea establecer la unión civil en el Perú. El congresista Muñante Barrios de Renovación Popular indicó que la propuesta vulnera la constitución y equipara los derechos de la institución del matrimonio y otro tipo de uniones, cosa a la que se opone. Junto a la declaración cómo organización cristiana en el plan de gobierno resume la posición del partido.",
-          "comment_key": "explanations.party.p32.t15",
+          "comment_key": "explanations.party.p31.t15",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-aprueba-dictamen-que-plantea-establecer-la-union-civil-en-el-peru/"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -5507,7 +5617,7 @@
           "topic_key": "topics.t16",
           "vote": 0.5,
           "comment": "En el plan de gobierno online del partido Renovación popular, se indica que se duplicará el monto de Pensión 65 y se fortalecerá el programa Juntos. Sin embargo, en septiembre del 2025, la bancada del congreso de Renovación Popular planteó reformas orientadas a corregir excesos de la ley pro AFP entre las que se incluyen la restitución de la jubilación aniticipada, así cómo la eliminación de restricciones que impidan la libre disposición de fondos acumulados. La liberación de restricciones y el declarado incremento de la pensión pública no dejan concluir una posición concreta por parte del partido.",
-          "comment_key": "explanations.party.p32.t16",
+          "comment_key": "explanations.party.p31.t16",
           "source": "https://obrasperu.live/#obrashttps://obrasperu.live/#obras;https://comunicaciones.congreso.gob.pe/damos-cuenta/renovacion-popular-plantea-nuevas-reformas-orientadas-a-corregir-los-excesos-de-la-ley-pro-afp/"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -5518,7 +5628,7 @@
           "topic_key": "topics.t17",
           "vote": 0.0,
           "comment": "En maro del 2025, la bancada del congreso de Renovación Popular instó al gobierno a retirar al Perú de la CIDH para combatir la delincuencia de manera más eficaz. Asimismo, en un video que describe las principales posiciones del partido, se describe la intención de retirar al partido.",
-          "comment_key": "explanations.party.p32.t17",
+          "comment_key": "explanations.party.p31.t17",
           "source": "https://lpderecho.pe/dina-boluarte-promover-retiro-corte-idh-pena-de-muerte/;https://www.youtube.com/watch?v=DXX3CpNF0FM"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -5529,7 +5639,7 @@
           "topic_key": "topics.t18",
           "vote": 0.5,
           "comment": "El plan de gobierno del partido indica que la reducción de impuestos se critican los impuestos excesivos que ahuyentan la formalización de negocios. Asimismo en el plan de gobierno en internet se indica que el partido propone apoyo crediticio y capacitación para apoyar al negocio informal. Estas aseveraciones no dejan en claro la posición del partido en cuanto al enunciado",
-          "comment_key": "explanations.party.p32.t18",
+          "comment_key": "explanations.party.p31.t18",
           "source": "https://obrasperu.live/;https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -5540,7 +5650,7 @@
           "topic_key": "topics.t19",
           "vote": 0.0,
           "comment": "En enero del 2023, el congresista Jorge Montoya criticó a la entonces presidenta Dina Boluarte por querer promover una asamblea constituyente. Debido a las posiciones generales del partido, estas declaraciones describen esta posición también",
-          "comment_key": "explanations.party.p32.t19",
+          "comment_key": "explanations.party.p31.t19",
           "source": "https://www.infobae.com/peru/2023/01/31/jorge-montoya-critica-a-dina-boluarte-le-dimos-soporte-para-que-pueda-gobernar-y-sale-con-propuestas-sin-sentido/"
         },
         "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
@@ -5551,7 +5661,7 @@
           "topic_key": "topics.t20",
           "vote": 0.0,
           "comment": "En Julio del 2024, la bancada del partido Renovación Popular junto a otras bancadas votaron a favor de la reforma que reinstauró la bicameralidad en el Perú. Esta reforma permitió la reelección de congresistas a la política",
-          "comment_key": "explanations.party.p32.t20",
+          "comment_key": "explanations.party.p31.t20",
           "source": "https://larepublica.pe/politica/2024/03/07/congreso-implantan-la-bicameralidad-con-reeleccion-fuerza-popular-ejecutivo-326459"
         }
       }
@@ -5567,7 +5677,7 @@
           "topic_key": "topics.t1",
           "vote": 1.0,
           "comment": "El Plan de Gobierno enfatiza aumentar penas y años de cárcel efectiva (enfoque punitivo) y no plantea medidas claras de reinserción; por eso coincide con “priorizar castigo en vez de reintegración”.",
-          "comment_key": "explanations.party.p33.t1",
+          "comment_key": "explanations.party.p32.t1",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
@@ -5578,7 +5688,7 @@
           "topic_key": "topics.t2",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El Plan menciona políticas con “enfoque … de género”.",
-          "comment_key": "explanations.candidate.c33.t2",
+          "comment_key": "explanations.candidate.c32.t2",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf (mpesije.jne.gob.pe)"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -5589,7 +5699,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "El Plan de Gobierno 2026–2031 plantea reducir costos de formalización de la pequeña minería y minería artesanal, lo que apunta a una regularización más activa.",
-          "comment_key": "explanations.party.p33.t4",
+          "comment_key": "explanations.party.p32.t4",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -5600,7 +5710,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El Plan prioriza fortalecer el sistema público (MINSA–SIS, abastecimiento público de medicamentos, redes integradas) y la “salud primaria y preventiva”, lo que es consistente con priorizar presupuesto/fortalecimiento de salud pública por sobre fomentar salud privada.",
-          "comment_key": "explanations.candidate.c33.t9",
+          "comment_key": "explanations.candidate.c32.t9",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf (mpesije.jne.gob.pe)"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -5611,7 +5721,7 @@
           "topic_key": "topics.t10",
           "vote": 1.0,
           "comment": "El Plan de Gobierno 2026–2031 propone registrar y regularizar a migrantes (con control de antecedentes) con respeto a DD. HH., en lugar de priorizar deportación.",
-          "comment_key": "explanations.party.p33.t10",
+          "comment_key": "explanations.party.p32.t10",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -5622,7 +5732,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El Plan de Gobierno 2026–2031 incluye adaptación frente al cambio climático y sostenibilidad ambiental como ejes (amenazas al desarrollo; resiliencia climática).",
-          "comment_key": "explanations.party.p33.t12",
+          "comment_key": "explanations.party.p32.t12",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -5633,7 +5743,7 @@
           "topic_key": "topics.t13",
           "vote": 1.0,
           "comment": "El Plan de Gobierno 2026–2031 defiende economía social de mercado/libertad de empresa y menciona la entrada de capital extranjero y la inversión privada como componentes del desarrollo.",
-          "comment_key": "explanations.party.p33.t13",
+          "comment_key": "explanations.party.p32.t13",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -5644,7 +5754,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El Plan enfatiza fortalecer capacidad del Estado y aumentar recursos/gestión en sectores públicos (salud pública, seguridad, fiscalización laboral, etc.), más consistente con invertir más en instituciones estatales que con recortar gasto.",
-          "comment_key": "explanations.candidate.c33.t14",
+          "comment_key": "explanations.candidate.c32.t14",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf (mpesije.jne.gob.pe)"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -5655,7 +5765,7 @@
           "topic_key": "topics.t18",
           "vote": 0.0,
           "comment": "El Plan de Gobierno 2026–2031 plantea una estrategia integral de formalización (simplificación, incentivos, inspección, etc.), lo que contradice “bajar impuestos en lugar de programas de formalización”.",
-          "comment_key": "explanations.party.p33.t18",
+          "comment_key": "explanations.party.p32.t18",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -5666,7 +5776,7 @@
           "topic_key": "topics.t19",
           "vote": 0.0,
           "comment": "El Plan de Gobierno 2026–2031 enfatiza el respeto a la Constitución y no propone convocar una asamblea constituyente para cambiar la Constitución de 1993.",
-          "comment_key": "explanations.party.p33.t19",
+          "comment_key": "explanations.party.p32.t19",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         }
       }
@@ -5682,7 +5792,7 @@
           "topic_key": "topics.t1",
           "vote": 0.0,
           "comment": "El plan prioriza prevención/reinserción y reforma policial (no un enfoque exclusivamente punitivo), por lo que no prioriza el castigo sobre la reintegración.",
-          "comment_key": "explanations.party.p34.t1",
+          "comment_key": "explanations.party.p33.t1",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -5693,7 +5803,7 @@
           "topic_key": "topics.t4",
           "vote": 0.0,
           "comment": "El plan retrata la minería ilegal/informal como amenaza y propone control e interdicción (p.ej., rastreo de insumos como mercurio) más que “regularizar” activamente; por tanto no apoya la regularización activa de la minería informal.",
-          "comment_key": "explanations.party.p34.t4",
+          "comment_key": "explanations.party.p33.t4",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -5704,7 +5814,7 @@
           "topic_key": "topics.t6",
           "vote": 0.0,
           "comment": "Plantea reducción/simplificación tributaria (eliminar impuestos “antitécnicos”, reducir tasas) y no un esquema de mayor progresividad; por tanto no respalda que “los que tienen más paguen mayor %” como principio central.",
-          "comment_key": "explanations.party.p34.t6",
+          "comment_key": "explanations.party.p33.t6",
           "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-carlos-espa-del-partido-si-creo"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -5715,7 +5825,7 @@
           "topic_key": "topics.t7",
           "vote": 0.0,
           "comment": "El candidato/líder Carlos Espá (SíCreo) se muestra en contra de la pena de muerte (la califica de “cortina de humo”); por tanto no está de acuerdo con que “está bien que exista la pena de muerte”.",
-          "comment_key": "explanations.party.p34.t7",
+          "comment_key": "explanations.party.p33.t7",
           "source": "https://peru21.pe/politica/carlos-espa-vs-carlos-alvarez-cuales-son-sus-propuestas-en-temas-de-seguridad/"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -5726,7 +5836,7 @@
           "topic_key": "topics.t9",
           "vote": 0.0,
           "comment": "El plan enfatiza eficiencia y participación privada (p.ej., privatización/participación privada en servicios), no prioriza explícitamente “más presupuesto a salud pública en vez de fomentar la privada”; por tanto no respalda esa prioridad.",
-          "comment_key": "explanations.party.p34.t9",
+          "comment_key": "explanations.party.p33.t9",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -5737,7 +5847,7 @@
           "topic_key": "topics.t10",
           "vote": 0.0,
           "comment": "El plan plantea frenar la migración ilegal con fortalecimiento de FF.AA./PNP y control fronterizo, no prioriza regularizar a irregulares sobre deportación/control; por tanto no está de acuerdo con esa prioridad.",
-          "comment_key": "explanations.party.p34.t10",
+          "comment_key": "explanations.party.p33.t10",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -5748,7 +5858,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El plan incluye “adaptación al cambio climático”, “transición energética” y cumplimiento de compromisos ambientales; por tanto sí respalda que combatir el cambio climático sea una obligación principal del gobierno.",
-          "comment_key": "explanations.party.p34.t12",
+          "comment_key": "explanations.party.p33.t12",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -5759,7 +5869,7 @@
           "topic_key": "topics.t13",
           "vote": 1.0,
           "comment": "El plan promueve inversión privada y menciona explícitamente inversión “nacional y extranjera”; por tanto sí considera necesaria la inversión extranjera para el desarrollo.",
-          "comment_key": "explanations.party.p34.t13",
+          "comment_key": "explanations.party.p33.t13",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -5770,7 +5880,7 @@
           "topic_key": "topics.t14",
           "vote": 0.0,
           "comment": "El plan enfatiza recorte de erogaciones superfluas, eficiencia y mayor rol privado, no “invertir más en instituciones estatales en vez de reducir gastos”; por tanto no respalda esa prioridad.",
-          "comment_key": "explanations.party.p34.t14",
+          "comment_key": "explanations.party.p33.t14",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -5781,7 +5891,7 @@
           "topic_key": "topics.t18",
           "vote": 1.0,
           "comment": "El plan plantea bajar costos de legalidad/formalidad vía simplificación tributaria y reducción de tasas, más que depender de “programas de formalización”; por tanto sí está de acuerdo.",
-          "comment_key": "explanations.party.p34.t18",
+          "comment_key": "explanations.party.p33.t18",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         }
       }
@@ -5797,7 +5907,7 @@
           "topic_key": "topics.t1",
           "vote": 0.0,
           "comment": "El plan de gobierno de Somos Perú pone énfasis en prevención, reforma policial y medidas integrales de seguridad, incluyendo la meta de \"procurar que las cárceles dejen de ser centros de operación criminal y cumplan su función de contención, rehabilitación y reinserción\" con propuestas de reinserción efectiva.",
-          "comment_key": "explanations.party.p35.t1",
+          "comment_key": "explanations.party.p34.t1",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
@@ -5808,7 +5918,7 @@
           "topic_key": "topics.t2",
           "vote": 1.0,
           "comment": "El plan de gobierno de Somos Perú para las elecciones de 2026 incluye la propuesta de \"brindar atención y consejería especializada a adolescentes y jóvenes, en salud sexual y reproductiva libre de violencia\".",
-          "comment_key": "explanations.party.p35.t2",
+          "comment_key": "explanations.party.p34.t2",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -5819,7 +5929,7 @@
           "topic_key": "topics.t3",
           "vote": 1.0,
           "comment": "La inhabilitación vitalicia de cargos públicos tras condenas por corrupción está contemplada en el plan de gobierno actual de Somos Perú.",
-          "comment_key": "explanations.party.p35.t3",
+          "comment_key": "explanations.party.p34.t3",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -5830,7 +5940,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "El plan de gobierno de Somos Perú contempla una lucha frontal con recursos incrementados contra la minería ilegal, sin embargo dejando la opción de acompañamiento técnico a mineros que deseen formalizarse cumpliendo estándares básicos. El plan de gobierno para las elecciones de 2021 de su anterior partido, Victoria Nacional, también contemplaba ese horizonte.",
-          "comment_key": "explanations.party.p35.t4",
+          "comment_key": "explanations.party.p34.t4",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf+++https://larepublica.pe/elecciones/2021/03/26/elecciones-2021-impulsaran-mineria-pero-con-respeto-ambiental-pltc"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -5841,7 +5951,7 @@
           "topic_key": "topics.t5",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Durante la campaña presidencial de 2021, el candidato se pronunció a favor de la despenalización del aborto exclusivamente en casos de violación o riesgo de vida para la madre. No hay mención del tema en su plan de gobierno actual.",
-          "comment_key": "explanations.candidate.c35.t5",
+          "comment_key": "explanations.candidate.c34.t5",
           "source": "https://canaln.pe/actualidad/george-forsyth-sobre-aborto-solo-casos-violacion-cuando-madre-este-peligro-n432360"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -5852,7 +5962,7 @@
           "topic_key": "topics.t6",
           "vote": 0.5,
           "comment": "Ni el candidato ni el plan de gobierno de partido han expuesto una postura pública a favor ni en contra de impuestos mayores a la riqueza. Sin embargo, en 2021 instó públicamente a Rafael López Aliaga a pagar una alta suma de impuestos que debía.",
-          "comment_key": "explanations.party.p35.t6",
+          "comment_key": "explanations.party.p34.t6",
           "source": "https://rpp.pe/politica/gobierno/elecciones-2021-george-forsyth-con-la-plata-que-rafael-lopez-aliaga-le-da-a-los-candidatos-que-le-pague-los-impuestos-al-peru-noticia-1326070"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -5863,7 +5973,7 @@
           "topic_key": "topics.t8",
           "vote": 0.5,
           "comment": "Ni el candidato ni el plan de gobierno han expuesto una postura pública a favor o en contra del despliegue de las FFAA para combatir la delincuencia urbana. Sin embargo, el plan de gobierno  sugiere que en el caso de los estados de emergencia, las \"exigencias estratégicas (a las FFAA) contrastan con el deterioro crítico de las capacidades operativas de las FFAA\".",
-          "comment_key": "explanations.party.p35.t8",
+          "comment_key": "explanations.party.p34.t8",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -5874,7 +5984,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "El plan de gobierno propone fortalecer el sistema público de salud, ampliar cobertura, fortalecer el SIS y priorizar financiamiento público para salud.",
-          "comment_key": "explanations.party.p35.t9",
+          "comment_key": "explanations.party.p34.t9",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -5885,7 +5995,7 @@
           "topic_key": "topics.t10",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: Como alcalde de La Victoria y posteriormente candidato presidencial en 2021, Forsyth dio declaraciones matizadas sobre su postura frente al tema de regularización migratoria. En 2019, firmó un convenio entre la municipalidad de La Victoria y Migraciones para fortalecer el control migratorio en pro de una \"migración ordenada y segura\", subrayando que Perú es un país solidario y que los venezolanos son recibidos \"con brazos abiertos\".  Sin embargo, en 2021 también enfatizó la necesidad de expulsar a todos los migrantes involucrados en actos delictivos.",
-          "comment_key": "explanations.candidate.c35.t10",
+          "comment_key": "explanations.candidate.c34.t10",
           "source": "https://peru21.pe/lima/george-forsyth-venezolanos-migraciones-y-municipalidad-de-la-victoria-firman-convenio-para-fortalecer-control-migratorio-noticia/?utm_+++https://rpp.pe/lima/seguridad/la-victoria-george-forsyth-denuncia-la-presencia-de-mafias-venezolanas-se-tienen-que-largar-noticia-1242830?ref=rpp"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -5896,7 +6006,7 @@
           "topic_key": "topics.t11",
           "vote": 1.0,
           "comment": "El plan de gobierno de Somos Perú no hace mención específica a la política de consulta previa, pero especifica la necesidad de diálogo con pueblos indígenas y cumplimiento de la ley de Consulta Previa para el relanzamiento del proyecto Hidrovía Amazónica. En 2021, el plan de gobierno de Victoria Nacional, entonces partido de Forsyth, también proponía empoderar a las comunidades indígenas para involucrarlas en el aprovechamiento de recursos naturales, aunque sin especificar el cumplimiento de mecanismos de consulta.",
-          "comment_key": "explanations.party.p35.t11",
+          "comment_key": "explanations.party.p34.t11",
           "source": "https://www.actualidadambiental.pe/elecciones-2021-son-tomados-en-cuenta-los-pueblos-indigenas-en-los-planes-de-gobierno/#:~:text=%5BElecciones%202021:%20%C2%BFQu%C3%A9%20proponen%20los%20partidos%20en,en%20al%20menos%2075%25%20de%20comunidades%20nativas%E2%80%9D."
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -5907,7 +6017,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El plan de gobierno plantea una serie de medidas concretas para frenar la contaminación medioambiental, promover el desarrollo sostenible y crear una estrategia nacional de resiliencia climática,  expuestas en la sección \"B: Dimensión ambiental\" (págs. 56 a 71).",
-          "comment_key": "explanations.party.p35.t12",
+          "comment_key": "explanations.party.p34.t12",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -5918,7 +6028,7 @@
           "topic_key": "topics.t13",
           "vote": 1.0,
           "comment": "El plan de gobierno de Somos Perú para 2026 no especifica una priorización de la inversión extranjera, más enfatiza la necesidad de mantener al Perú como un país atractivo para inversiones privadas en ciertos rubros, como la activación de zonas industriales.",
-          "comment_key": "explanations.party.p35.t13",
+          "comment_key": "explanations.party.p34.t13",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -5929,7 +6039,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "El plan de gobierno de Somos Perú muestra una postura generalmente favorable al incremento del gasto público, sobre todo en el sector salud y en la inversión en infraestructura, que aún considera demasiado poco competitiva en comparación a la inversión privada.",
-          "comment_key": "explanations.party.p35.t14",
+          "comment_key": "explanations.party.p34.t14",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -5940,7 +6050,7 @@
           "topic_key": "topics.t15",
           "vote": 0.0,
           "comment": "No hay apoyo explícito en el programa al matrimonio igualitario; además declaraciones públicas del exidente del Congreso y excandidato Daniel Salaverry han expresado reticencia y prefieren pasos intermedios (unión civil) antes que matrimonio igualitario.",
-          "comment_key": "explanations.party.p35.t15",
+          "comment_key": "explanations.party.p34.t15",
           "source": "https://larepublica.pe/politica/2019/09/22/daniel-salaverry-sobre-matrimonio-igualitario-como-sociedad-aun-no-estamos-preparados-congreso-union-civil"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -5951,7 +6061,7 @@
           "topic_key": "topics.t16",
           "vote": 0.5,
           "comment": "El plan de gobierno de Somos Perú contempla transformar al sistema previsional en un \"incentivo real para la formalización\", aunque permitiendo la transferencia de fondos entre ONP y AFPs según preferencia personal.",
-          "comment_key": "explanations.party.p35.t16",
+          "comment_key": "explanations.party.p34.t16",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -5962,7 +6072,7 @@
           "topic_key": "topics.t18",
           "vote": 1.0,
           "comment": "En una entrevista televisada de febrero de 2026, Forsyth propuso un programa de exoneración de impuestos oor 3 años a emprendedores que elijan formalizarse. Sin embargo, esta propuesta no aparece en el plan de gobierno.",
-          "comment_key": "explanations.party.p35.t18",
+          "comment_key": "explanations.party.p34.t18",
           "source": "https://www.atv.pe/noticia/forsyth-promete-cero-impuestos-por-3-anos-para-emprendedores-que-se-formalicen/"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -5973,7 +6083,7 @@
           "topic_key": "topics.t19",
           "vote": 0.5,
           "comment": "El plan de gobierno contempla múltiples reformas constitucionales, mas no sugiere la necesidad de una Asamblea Constituyente que reemplace la Constitución vigente.",
-          "comment_key": "explanations.party.p35.t19",
+          "comment_key": "explanations.party.p34.t19",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
@@ -5984,7 +6094,7 @@
           "topic_key": "topics.t20",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Durante la campaña presidencial de 2021, Forsyth se posicionó a favor de permitir la reelección de congresistas y autoridades locales para permitir continuidad en el trabajo.",
-          "comment_key": "explanations.candidate.c35.t20",
+          "comment_key": "explanations.candidate.c34.t20",
           "source": "https://rpp.pe/politica/elecciones/george-forsyth-se-muestra-a-favor-de-regresar-a-la-reeleccion-de-congresistas-y-alcaldes-noticia-1327554"
         }
       }
@@ -6000,7 +6110,7 @@
           "topic_key": "topics.t1",
           "vote": 1.0,
           "comment": "El plan de gobierno propone un enfoque fuertemente punitivo/militarizado contra la delincuencia (p.ej., fusionar Defensa e Interior en un “ministerio de GUERRA”, grupos de inteligencia con apoyo de FF.AA., “Ley de Amparo al Policía”), y no plantea medidas de reinserción como eje central.",
-          "comment_key": "explanations.party.p36.t1",
+          "comment_key": "explanations.party.p35.t1",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -6011,7 +6121,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "El plan plantea “Solución definitiva al REINFO y formalización minera” y también “Formalización de la minería artesanal”, lo que implica una postura a favor de regularizar/impulsar formalización de la minería informal.",
-          "comment_key": "explanations.party.p36.t4",
+          "comment_key": "explanations.party.p35.t4",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -6022,7 +6132,7 @@
           "topic_key": "topics.t5",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En contra del aborto.",
-          "comment_key": "explanations.candidate.c36.t5",
+          "comment_key": "explanations.candidate.c35.t5",
           "source": "https://rpp.pe/politica/actualidad/ministra-fernandez-en-contra-de-despenalizacion-del-consumo-de-drogas-noticia-331378"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -6033,7 +6143,7 @@
           "topic_key": "topics.t8",
           "vote": 1.0,
           "comment": "El plan propone integrar Interior y Defensa (FF.AA.) en un solo “ministerio de GUERRA” y crear escuadrones/grupos de inteligencia con apoyo de FF.AA., lo que es consistente con mayor presencia/rol militar en seguridad interna.",
-          "comment_key": "explanations.party.p36.t8",
+          "comment_key": "explanations.party.p35.t8",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -6044,7 +6154,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "El plan prioriza expansión/fortalecimiento de servicios públicos (p.ej., campañas gratuitas, creación de postas, atención 24/7; además “Unificación ESSALUD y MINSA”), sin un énfasis en fomentar salud privada.",
-          "comment_key": "explanations.party.p36.t9",
+          "comment_key": "explanations.party.p35.t9",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -6055,7 +6165,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El plan incluye, en el enfoque ambiental, control de contaminación/gestión de residuos, economía circular y “gestión del riesgo climático” (incluyendo reducción de emisiones de GEI), consistente con priorizar medidas frente al cambio climático.",
-          "comment_key": "explanations.party.p36.t12",
+          "comment_key": "explanations.party.p35.t12",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -6066,7 +6176,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "El plan plantea fortalecimiento/expansión institucional y de servicios públicos (p.ej., reestructuración de la Junta Nacional de Justicia, creación de Oficina Nacional Anticorrupción, unificación ESSALUD-MINSA), lo que es consistente con invertir más en instituciones estatales en vez de recortar gastos.",
-          "comment_key": "explanations.party.p36.t14",
+          "comment_key": "explanations.party.p35.t14",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -6077,7 +6187,7 @@
           "topic_key": "topics.t18",
           "vote": 0.0,
           "comment": "El plan propone “programas de empleo temporal y formalización laboral” e “incentivos” para formalizar, y también formalización minera (REINFO/minería artesanal); por tanto no respalda la idea de reducir impuestos *en lugar de* programas de formalización.",
-          "comment_key": "explanations.party.p36.t18",
+          "comment_key": "explanations.party.p35.t18",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         }
       }
@@ -6093,7 +6203,7 @@
           "topic_key": "topics.t1",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Propuso incomunicar a los reclusos en penales mediante bloqueo de celulares para frenar extorsiones, fortalecer brigadas de policía militar para recuperar control territorial, y crear 500 comisarías nuevas enfocadas en control y seguridad, sin mencionar programas de reinserción social.",
-          "comment_key": "explanations.candidate.c37.t1",
+          "comment_key": "explanations.candidate.c36.t1",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-chiabra-plantea-estrategia-integral-nacional-contra-inseguridad-1061247.aspx"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
@@ -6104,7 +6214,7 @@
           "topic_key": "topics.t2",
           "vote": 0.0,
           "comment": "El plan rechaza la “educación sexual integral con enfoque de género” y plantea sustituirla por educación basada en valores y biología; por tanto NO está de acuerdo con que sea obligatoria.",
-          "comment_key": "explanations.party.p37.t2",
+          "comment_key": "explanations.party.p36.t2",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -6115,7 +6225,7 @@
           "topic_key": "topics.t3",
           "vote": 0.0,
           "comment": "Chiabra plantea “muerte civil” por corrupción por un periodo (al menos 5 años), no un veto de por vida; por tanto NO coincide con “vetadas de por vida”.",
-          "comment_key": "explanations.party.p37.t3",
+          "comment_key": "explanations.party.p36.t3",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-chiabra-plantea-reducir-burocracia-para-combatir-corrupcion-1061223.aspx"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -6126,7 +6236,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "El plan propone corregir el REINFO y destrabar/tramitar la formalización del pequeño minero (crítica a tramitología y enfoque de formalización), lo que coincide con regularizar más activamente.",
-          "comment_key": "explanations.party.p37.t4",
+          "comment_key": "explanations.party.p36.t4",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -6137,7 +6247,7 @@
           "topic_key": "topics.t5",
           "vote": 0.0,
           "comment": "Un líder clave del bloque (PPC) se pronunció contra despenalizar el aborto en casos de violación (debate/archivamiento del proyecto); por tanto NO está de acuerdo con permitirlo.",
-          "comment_key": "explanations.party.p37.t5",
+          "comment_key": "explanations.party.p36.t5",
           "source": "https://www.americaeconomia.com/politica-sociedad/politica/peru-archivan-proyecto-para-despenalizar-aborto-en-casos-de-violacion-sex"
         },
         "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
@@ -6148,7 +6258,7 @@
           "topic_key": "topics.t7",
           "vote": 0.0,
           "comment": "Chiabra calificó la pena de muerte como “populista”/inviable (marcando distancia); por tanto NO está de acuerdo con que “está bien que exista”.",
-          "comment_key": "explanations.party.p37.t7",
+          "comment_key": "explanations.party.p36.t7",
           "source": "https://larepublica.pe/politica/2026/01/29/roberto-chiabra-pena-de-muerte-es-una-medida-populista-que-no-se-va-a-cumplir-hnews-1174123"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
@@ -6159,7 +6269,7 @@
           "topic_key": "topics.t8",
           "vote": 1.0,
           "comment": "El plan propone un “comando unificado” con FF.AA. y PNP y refuerza el rol de FF.AA. en apoyo al orden interno en regímenes de excepción; en la práctica respalda mayor presencia/participación militar para seguridad.",
-          "comment_key": "explanations.party.p37.t8",
+          "comment_key": "explanations.party.p36.t8",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -6170,7 +6280,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Propuso implementar el control médico anual por distrito como \"atención primaria en la salud\" señalando que \"no todas las personas tienen un seguro de salud\", enfocándose en un enfoque integral de salud pública vinculada a seguridad alimentaria, anemia y desnutrición crónica.",
-          "comment_key": "explanations.candidate.c37.t9",
+          "comment_key": "explanations.candidate.c36.t9",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-roberto-chiabra-propone-implementar-control-medico-anual-distrito-1061253.aspx"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
@@ -6181,7 +6291,7 @@
           "topic_key": "topics.t11",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato ha declarado \"destrabar proyectos paralizados e impulsar nuevas obras, especialmente en minería\", lo que indica una postura en contra del derecho a veto de regiones mineras.",
-          "comment_key": "explanations.candidate.c37.t11",
+          "comment_key": "explanations.candidate.c36.t11",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-roberto-chiabra-plantea-seguridad-y-mejor-gestion-foro-academico-1056318.aspx"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -6192,7 +6302,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El plan incluye compromisos ambientales (reforestación, “bonos de carbono”, y turismo “carbono negativo”), lo que indica que sí prioriza medidas vinculadas a cambio climático/sostenibilidad.",
-          "comment_key": "explanations.party.p37.t12",
+          "comment_key": "explanations.party.p36.t12",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
@@ -6203,7 +6313,7 @@
           "topic_key": "topics.t13",
           "vote": 1.0,
           "comment": "El plan promueve atraer inversión privada (APP) y menciona colaboración con fondos/inversores internacionales; en conjunto, coincide con que la inversión extranjera es necesaria para el desarrollo.",
-          "comment_key": "explanations.party.p37.t13",
+          "comment_key": "explanations.party.p36.t13",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -6214,7 +6324,7 @@
           "topic_key": "topics.t14",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato plantea reducir la cantidad de ministerios en el Estado a 14.",
-          "comment_key": "explanations.candidate.c37.t14",
+          "comment_key": "explanations.candidate.c36.t14",
           "source": "https://cosas.pe/de-fondo/348980/roberto-chiabra-presenta-su-plan-de-gobierno-y-propone-reducir-el-gabinete-a-14-ministerios/"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -6225,7 +6335,7 @@
           "topic_key": "topics.t15",
           "vote": 0.0,
           "comment": "Una lideresa histórica asociada a Unidad Nacional/PPC se pronunció contra el matrimonio gay (“no a matrimonios gays”); por tanto NO está de acuerdo con matrimonio igualitario.",
-          "comment_key": "explanations.party.p37.t15",
+          "comment_key": "explanations.party.p36.t15",
           "source": "https://rpp.pe/politica/actualidad/flores-nano-le-dice-no-a-matrimonios-gays-en-peru-noticia-280671"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -6236,7 +6346,7 @@
           "topic_key": "topics.t17",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Unidad Nacional señala que \"ese órgano jurisdiccional se ha politizado de manera desmesurada y, por tanto, sesgado en muchas de sus decisiones por consideraciones ideológicas o políticas de sus miembros\", pero no plantea una salida sino que \"propiciará al interior de la OEA el debate pertinente sobre la actuación de la Corte IDH y liderará las necesarias reformas\".",
-          "comment_key": "explanations.candidate.c37.t17",
+          "comment_key": "explanations.candidate.c36.t17",
           "source": "https://larepublica.pe/politica/2026/01/09/cinco-partidos-prometen-revision-y-salida-de-corte-idh-y-otros-tres-defienden-permanencia-en-planes-de-gobierno-hnews-305037"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -6247,7 +6357,7 @@
           "topic_key": "topics.t18",
           "vote": 0.5,
           "comment": "Por falta de información, se tomó la posición del candidato: Declaró que su plan busca \"dar reglas de juego precisas inamovibles para garantizar la inversión privada y promover la formalización\", sin especificar si prioriza reducción de impuestos o programas de formalización.",
-          "comment_key": "explanations.candidate.c37.t18",
+          "comment_key": "explanations.candidate.c36.t18",
           "source": "https://elcomercio.pe/elecciones/roberto-chiabra-propone-reforma-del-mp-si-ellos-no-hacen-su-reestructuracion-lo-tiene-que-hacer-el-gobierno-ultimas-noticia/"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -6258,7 +6368,7 @@
           "topic_key": "topics.t19",
           "vote": 0.0,
           "comment": "El plan reivindica el marco constitucional vigente (economía social de mercado, referencia a Constitución de 1993) y no plantea asamblea constituyente para reemplazarla; por tanto NO está de acuerdo con convocarla para cambiar la del 93.",
-          "comment_key": "explanations.party.p37.t19",
+          "comment_key": "explanations.party.p36.t19",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
@@ -6269,7 +6379,7 @@
           "topic_key": "topics.t20",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El propio Roberto Chiabra postula simultáneamente como candidato presidencial y al Senado en las elecciones 2026, evidenciando aceptación de la reelección parlamentaria.",
-          "comment_key": "explanations.candidate.c37.t20",
+          "comment_key": "explanations.candidate.c36.t20",
           "source": "https://www.infobae.com/peru/2026/02/08/roberto-chiabra-perfil-y-hoja-de-vida-del-candidato-del-partido-alianza-unidad-nacional-para-las-elecciones-2026/"
         }
       }
@@ -6285,7 +6395,7 @@
           "topic_key": "topics.t1",
           "vote": 0.0,
           "comment": "El plan de gobierno plantea “cárceles seguras… con un enfoque genuino en la resocialización” y programas de justicia juvenil restaurativa; no prioriza un enfoque exclusivamente punitivo.",
-          "comment_key": "explanations.party.p38.t1",
+          "comment_key": "explanations.party.p37.t1",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
@@ -6296,7 +6406,7 @@
           "topic_key": "topics.t2",
           "vote": 1.0,
           "comment": "El plan propone fortalecer la Educación Sexual Integral (ESI) en todos los niveles, con enfoque de género y para enfrentar violencias y discriminación.",
-          "comment_key": "explanations.party.p38.t2",
+          "comment_key": "explanations.party.p37.t2",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -6307,7 +6417,7 @@
           "topic_key": "topics.t3",
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: el candidato no hace alusión a éste enunciado",
-          "comment_key": "explanations.candidate.c38.t3",
+          "comment_key": "explanations.candidate.c37.t3",
           "source": null
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
@@ -6318,7 +6428,7 @@
           "topic_key": "topics.t4",
           "vote": 1.0,
           "comment": "El plan habla de “compromiso con los pequeños mineros y artesanales en su proceso de formalización y de un “pacto social” para facilitar el tránsito a la legalidad.",
-          "comment_key": "explanations.party.p38.t4",
+          "comment_key": "explanations.party.p37.t4",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -6329,7 +6439,7 @@
           "topic_key": "topics.t5",
           "vote": 1.0,
           "comment": "Aunque el plan menciona fortalecer el aborto terapéutico, encontré además un video donde se afirma estar “a favor de la despenalización del aborto… en casos de violación”.",
-          "comment_key": "explanations.party.p38.t5",
+          "comment_key": "explanations.party.p37.t5",
           "source": "https://www.facebook.com/MAXUYTV.canal12/videos/gahela-cari-es-confrontada-candidato-de-derecha-versus-candidata-de-izquierdaest/1276555397714380/ (Facebook)"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -6340,7 +6450,7 @@
           "topic_key": "topics.t6",
           "vote": 1.0,
           "comment": "El plan propone ampliar impuesto a la renta para altos ingresos, impuesto a bienes de lujo e impuesto a grandes fortunas; es una postura progresiva (más paga más).",
-          "comment_key": "explanations.party.p38.t6",
+          "comment_key": "explanations.party.p37.t6",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -6351,7 +6461,7 @@
           "topic_key": "topics.t9",
           "vote": 1.0,
           "comment": "El plan impulsa un sistema público de salud universal/gratuito y critica la baja asignación; prioriza reforzar lo público antes que fomentar lo privado.",
-          "comment_key": "explanations.party.p38.t9",
+          "comment_key": "explanations.party.p37.t9",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
@@ -6362,7 +6472,7 @@
           "topic_key": "topics.t10",
           "vote": 1.0,
           "comment": "El plan plantea “política migratoria con enfoque de derechos” y procesos de regularización (aunque también expulsión para extranjeros con sentencias).",
-          "comment_key": "explanations.party.p38.t10",
+          "comment_key": "explanations.party.p37.t10",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
@@ -6373,7 +6483,7 @@
           "topic_key": "topics.t12",
           "vote": 1.0,
           "comment": "El plan propone “transición ecológica justa” y “enfrentar el cambio climático”, con medidas e institucionalidad de transición socioecológica.",
-          "comment_key": "explanations.party.p38.t12",
+          "comment_key": "explanations.party.p37.t12",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
@@ -6384,7 +6494,7 @@
           "topic_key": "topics.t14",
           "vote": 1.0,
           "comment": "El plan plantea mayores prioridades de gasto (salud, educación, protección social, etc.) y construcción/fortalecimiento de instituciones públicas; no un enfoque de recorte.",
-          "comment_key": "explanations.party.p38.t14",
+          "comment_key": "explanations.party.p37.t14",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
@@ -6395,7 +6505,7 @@
           "topic_key": "topics.t16",
           "vote": 1.0,
           "comment": "El plan propone un nuevo sistema de pensiones con reforma del sistema público y ruptura del oligopolio AFP; orientación solidaria (reparto/capitalización colectiva) antes que privatización.",
-          "comment_key": "explanations.party.p38.t16",
+          "comment_key": "explanations.party.p37.t16",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -6406,7 +6516,7 @@
           "topic_key": "topics.t17",
           "vote": 1.0,
           "comment": "El plan dice explícitamente: “Impedir la salida de la Corte Interamericana de DDHH y restaurar el compromiso del Perú” con el sistema interamericano.",
-          "comment_key": "explanations.party.p38.t17",
+          "comment_key": "explanations.party.p37.t17",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -6417,7 +6527,7 @@
           "topic_key": "topics.t18",
           "vote": 0.0,
           "comment": "El plan enfatiza programas de formalización e incentivos (y además propone más impuestos a altos patrimonios), no una estrategia basada en bajar impuestos para formalizar.",
-          "comment_key": "explanations.party.p38.t18",
+          "comment_key": "explanations.party.p37.t18",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
@@ -6428,7 +6538,7 @@
           "topic_key": "topics.t19",
           "vote": 1.0,
           "comment": "El plan plantea convocar Asamblea Constituyente (incluso “el primer día de gobierno” activar procedimientos vía referéndum).",
-          "comment_key": "explanations.party.p38.t19",
+          "comment_key": "explanations.party.p37.t19",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         }
       }
