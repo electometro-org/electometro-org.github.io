@@ -4,13 +4,10 @@ import json
 import re
 
 NEW_STRUCTURE_FILE = os.getenv("PERU_FILE")
+NEW_STRUCTURE_FILE = r"C:\Users\josev\OneDrive\Proyectos\Votometro\Peru\Votaciones parlamentarias 2026\peru_preguntas_20250715.xlsx"
 
 OUTPUT_DIR = "json/"
 OUTPUT_DIR_LATEST = "json/latest/"
-
-MISSING_VOTE_DEFAULT = 0.5
-MISSING_COMMENT_DEFAULT = "No se encontró información pública sobre su posición."
-MISSING_SOURCE_DEFAULT = None
 
 number_of_topics = 20
 
@@ -67,7 +64,6 @@ def clean_text(s):
     if s is None:
         return None
 
-    # pd.isna is safe for scalars
     if pd.isna(s):
         return None
 
@@ -98,7 +94,7 @@ def build_question_key_from_id(id_tema_value):
     base_id = normalize_id(id_tema_value)
     if not base_id:
         return None
-    return f"questions.{base_id}_question"
+    return f"questions.{base_id}"
 
 
 def build_comment_key(entity_type, entity_id, question_key):
@@ -302,7 +298,6 @@ def generate_from_new_structure():
         }
 
     # Row index lookups by ID_tema for both sheets
-    # We use ID_tema as canonical ID for topic/question generation.
     pres_index = {}
     for i in range(pres_df.shape[0]):
         id_tema = clean_text(pres_df.at[i, "ID_tema"])
@@ -343,6 +338,7 @@ def generate_from_new_structure():
         for candidate_column in candidate_columns:
             candidate_meta = candidates_info[candidate_column]
             candidate_id = candidate_meta["id"]
+            party_id = candidate_meta["party_id"]
 
             # 1) Try candidate cell in presidencial
             cell_value = pres_df.at[pres_row, candidate_column]
@@ -369,8 +365,11 @@ def generate_from_new_structure():
 
                     if vote_value is not None or comment_value is not None or source_value is not None:
                         value_origin = "party_fallback"
-                        party_id = party_ids_by_column.get(parl_col)
                         if comment_value:
+                            comment_value = (
+                                "Por falta de información, se tomó la posición del partido: "
+                                f"{comment_value}"
+                            )
                             comment_key = build_comment_key("party", party_id, question_key)
 
             # 3) If still missing, SKIP this statement for this candidate
@@ -405,10 +404,8 @@ def generate_from_new_structure():
         candidate_output_key = candidate_info["id"] if candidate_info["id"] else candidate_info["header"]
 
         combined_output["candidates"][candidate_output_key] = {
-            "id": candidate_info["id"],
             "name": candidate_info["name"],
             "party": candidate_info["party"],
-            "party_id": candidate_info["party_id"],
             "header": candidate_info["header"],
             "votes": candidate_info["votes"]
         }

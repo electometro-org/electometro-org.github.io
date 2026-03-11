@@ -4,13 +4,10 @@ import json
 import re
 
 NEW_STRUCTURE_FILE = os.getenv("PERU_FILE")
+NEW_STRUCTURE_FILE = r"C:\Users\josev\OneDrive\Proyectos\Votometro\Peru\Votaciones parlamentarias 2026\peru_preguntas_20250715.xlsx"
 
 OUTPUT_DIR = "json/"
 OUTPUT_DIR_LATEST = "json/latest/"
-
-MISSING_VOTE_DEFAULT = 0.5
-MISSING_COMMENT_DEFAULT = "No se encontró información pública sobre su posición."
-MISSING_SOURCE_DEFAULT = None
 
 number_of_topics = 20
 
@@ -42,6 +39,19 @@ def text_to_key(text):
     text = text.strip("_")
     return text
 
+def party_id_to_candidate_id(party_id):
+    """
+    Convert parlamentaria party ID like 'p37' to presidencial candidate ID like 'c37'.
+    """
+    pid = normalize_id(party_id)
+    if not pid:
+        return None
+
+    m = re.fullmatch(r"p(\d+)", pid)
+    if not m:
+        return None
+
+    return f"c{m.group(1)}"
 
 def clean_text(s):
     # Handle pandas objects that are not scalars (Series/DataFrame)
@@ -116,23 +126,47 @@ def parse_cell_combined(cell_value):
     vote_mapped = map_vote_text_to_value(vote_part)
     return vote_mapped, comment_part, source_part
 
+def build_party_id_to_column_map(df, metadata_row_name="ID_party"):
+    row = get_row_by_id_tema(df, metadata_row_name)
+    if row is None:
+        return {}
+
+    entity_columns = get_entity_columns(df)
+    out = {}
+    for col in entity_columns:
+        entity_id = normalize_id(row.get(col))
+        if entity_id:
+            out[entity_id] = col
+    return out
 
 def build_question_key_from_id(id_tema_value):
     """
-    question_key comes from ID_tema, with '_question' added to separate it from topic_key.
     Example:
       ID_tema = 'seguridad'
-      question_key = 'questions.seguridad_question'
+      question_key = 'questions.seguridad'
       topic_key    = 'topics.seguridad'
     """
     base_id = normalize_id(id_tema_value)
     if not base_id:
         return None, None
 
-    question_key = f"questions.{base_id}_question"
+    question_key = f"questions.{base_id}"
     topic_key = f"topics.{base_id}"
     return question_key, topic_key
 
+def build_candidate_id_to_column_map(df):
+    row = get_row_by_id_tema(df, "ID_candidate")
+    if row is None:
+        raise ValueError("Missing 'ID_candidate' row in presidencial sheet.")
+
+    entity_columns = get_entity_columns(df)
+    out = {}
+    for col in entity_columns:
+        candidate_id = normalize_id(row.get(col))
+        if candidate_id:
+            out[candidate_id] = col
+
+    return out
 
 def build_comment_key(entity_type, entity_id, question_key):
     """
@@ -297,7 +331,7 @@ def generate_from_new_structure():
     pres_candidate_ids = build_entity_id_map(pres_raw_df, "ID_candidate")
 
     # Build presidential mapping: party_id -> candidate column
-    pres_party_to_col = build_presidential_party_column_map(pres_raw_df)
+    pres_candidate_to_col = build_candidate_id_to_column_map(pres_raw_df)
 
     # Build a fast lookup from ID_tema -> row index in presidencial
     pres_index = build_question_lookup(pres_df)
@@ -336,6 +370,7 @@ def generate_from_new_structure():
 
             comment_key = None
 
+
             if vote_value is not None or comment_value is not None or source_value is not None:
                 # Data came from parlamentaria -> identify entity with ID_party
                 if comment_value:
@@ -343,15 +378,43 @@ def generate_from_new_structure():
 
             else:
                 # 2) If missing, fallback to presidential candidate column for that party
-                pres_col = pres_party_to_col.get(party_id)
+                candidate_id_for_party = party_id_to_candidate_id(party_id)
+                pres_col = pres_candidate_to_col.get(candidate_id_for_party)
                 pres_row = pres_index.get(normalize_id(id_tema_value))
+
+                print("-----")
+                print("party_column:", party_column)
+                print("party_id:", party_id)
+                print("id_tema_value:", id_tema_value)
+                print("parl cell:", cell_value)
+                print("parl parsed:", vote_value, comment_value, source_value)
+
+                candidate_id_for_party = party_id_to_candidate_id(party_id)
+                pres_col = pres_candidate_to_col.get(candidate_id_for_party)
+                pres_row = pres_index.get(normalize_id(id_tema_value))
+
+                print("mapped pres_col:", pres_col)
+                print("mapped pres_row:", pres_row)
+
+                if pres_col in pres_raw_df.columns:
+                    print("pres raw cell:", pres_raw_df.at[pres_row + 1 if pres_row is not None else 0, pres_col] if pres_row is not None else None)
+
+                if pres_col and pres_row is not None and pres_col in pres_df.columns:
+                    pres_cell_value = pres_df.at[pres_row, pres_col]
+                    print("pres cell:", pres_cell_value)
+                    print("pres parsed:", parse_cell_combined(pres_cell_value))
 
                 if pres_col and pres_row is not None and pres_col in pres_df.columns:
                     pres_cell_value = pres_df.at[pres_row, pres_col]
                     vote_value, comment_value, source_value = parse_cell_combined(pres_cell_value)
 
+                    candidate_id = pres_candidate_ids.get(pres_col)
+
                     if comment_value:
-                        candidate_id = pres_candidate_ids.get(pres_col)
+                        comment_value = (
+                            f"Por falta de información, se tomó la posición del candidato: "
+                            f"{comment_value}"
+                        )
                         comment_key = build_comment_key("candidate", candidate_id, question_key)
 
             # 3) If still missing, SKIP this statement for this party
@@ -385,7 +448,6 @@ def generate_from_new_structure():
     for party_column, pinfo in parties_info.items():
         combined_output["parties"][pinfo["header"]] = {
             "name": pinfo["name"],
-            "party_id": pinfo["party_id"],
             "votes": pinfo["votes"]
         }
 
