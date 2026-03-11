@@ -4527,7 +4527,228 @@
     },
     "Perú Primero": {
       "name": "Perú Primero",
-      "votes": {}
+      "votes": {
+        "Seguridad pública: El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.": {
+          "id_tema": "t1",
+          "tema": "Seguridad pública",
+          "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
+          "question_key": "questions.t1",
+          "topic_key": "topics.t1",
+          "vote": 0.0,
+          "comment": "El plan critica el “enfoque punitivo” y señala que se debe priorizar la reinserción y rehabilitación (al menos para adolescentes en conflicto con la ley), en lugar de enfocarse solo en castigo.",
+          "comment_key": "explanations.party.p27.t1",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
+          "id_tema": "t2",
+          "tema": "Educación sexual",
+          "question": "La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.",
+          "question_key": "questions.t2",
+          "topic_key": "topics.t2",
+          "vote": 1.0,
+          "comment": "El plan incluye educación sexual para niñez/adolescencia y propone incluir contenidos de igualdad en la currícula y enfoque de género en políticas públicas.",
+          "comment_key": "explanations.party.p27.t2",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "id_tema": "t3",
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "question_key": "questions.t3",
+          "topic_key": "topics.t3",
+          "vote": 0.0,
+          "comment": "Menciona el problema de corrupción, pero no propone vetar a políticos condenados por corrupción.",
+          "comment_key": "explanations.party.p27.t3",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
+          "id_tema": "t4",
+          "tema": "Minería informal",
+          "question": "El Estado debería regularizar a la minería informal más activamente.",
+          "question_key": "questions.t4",
+          "topic_key": "topics.t4",
+          "vote": 1.0,
+          "comment": "El plan propone una “ley que formalice la minería informal” y habla de formalización como parte del enfoque contra economías ilegales.",
+          "comment_key": "explanations.party.p27.t4",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Aborto: El aborto debería estar permitido en casos de violación.": {
+          "id_tema": "t5",
+          "tema": "Aborto",
+          "question": "El aborto debería estar permitido en casos de violación.",
+          "question_key": "questions.t5",
+          "topic_key": "topics.t5",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Podemos Perú es un partido conservador en materias de género, y en su plan de gobierno afirma que \"sí podemos defender la vida y la dignidad humana desde su concepción\". En otras palabras, se oponen al aborto.",
+          "comment_key": "explanations.candidate.c27.t5",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (pág. 9); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
+        },
+        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
+          "id_tema": "t6",
+          "tema": "Impuestos progresivos",
+          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
+          "question_key": "questions.t6",
+          "topic_key": "topics.t6",
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: Podemos Perú no propone aumentar las tasas del impuesto a la renta que pagan los mayores ingresos. Sin embargo, propone \"revisar y eliminar beneficios tributarios regresivos que favorecen a grupos económicos concentrados\".",
+          "comment_key": "explanations.candidate.c27.t6",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (p. 24)"
+        },
+        "Pena de muerte: Está bien que exista la pena de muerte en el Perú.": {
+          "id_tema": "t7",
+          "tema": "Pena de muerte",
+          "question": "Está bien que exista la pena de muerte en el Perú.",
+          "question_key": "questions.t7",
+          "topic_key": "topics.t7",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios; apoya pena capital en público.",
+          "comment_key": "explanations.candidate.c27.t7",
+          "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels)"
+        },
+        "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "id_tema": "t8",
+          "tema": "Presencia militar",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "question_key": "questions.t8",
+          "topic_key": "topics.t8",
+          "vote": 1.0,
+          "comment": "El plan plantea reformas para permitir la participación/intervención legal de las FFAA en la lucha contra la inseguridad y medidas asociadas (p. ej., cárceles bajo control de FFAA).",
+          "comment_key": "explanations.party.p27.t8",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
+          "id_tema": "t9",
+          "tema": "Salud pública",
+          "question": "El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.",
+          "question_key": "questions.t9",
+          "topic_key": "topics.t9",
+          "vote": 1.0,
+          "comment": "El plan propone incrementar el presupuesto y mejorar eficiencia del gasto público en salud, y enfatiza la salud pública como eje programático central.",
+          "comment_key": "explanations.party.p27.t9",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "id_tema": "t10",
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.t10",
+          "topic_key": "topics.t10",
+          "vote": 1.0,
+          "comment": "El documento reclama respuestas inclusivas para población migrante y menciona la necesidad de protección y regularización de migrantes. No menciona una expulsión indiscriminada de migrantes irregulares.",
+          "comment_key": "explanations.party.p27.t10",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "id_tema": "t11",
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.t11",
+          "topic_key": "topics.t11",
+          "vote": 1.0,
+          "comment": "El plan menciona como un problema a las \"políticas nacionales sin consulta indígena.\"",
+          "comment_key": "explanations.party.p27.t11",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "id_tema": "t12",
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.t12",
+          "topic_key": "topics.t12",
+          "vote": 1.0,
+          "comment": "El plan afirma que se deben tomar medidas frente al cambio climático y dedica un eje programático a cambio climático.",
+          "comment_key": "explanations.party.p27.t12",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "id_tema": "t13",
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.t13",
+          "topic_key": "topics.t13",
+          "vote": 0.5,
+          "comment": "El plan impulsa la reactivación de la inversión pública-privada y metas de inversión privada, pero no menciona directamente la inversión extranjera.",
+          "comment_key": "explanations.party.p27.t13",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "id_tema": "t14",
+          "tema": "Gasto estatal",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.t14",
+          "topic_key": "topics.t14",
+          "vote": 1.0,
+          "comment": "El plan propone fortalecer/modernizar el Estado (servicio civil, meritocracia, digitalización) y promover inversión pública, consistente con invertir más en instituciones estatales.",
+          "comment_key": "explanations.party.p27.t14",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "id_tema": "t15",
+          "tema": "Matrimonio igualitario",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.t15",
+          "topic_key": "topics.t15",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: La bancada de Podemos Perú es conservadora en lo que se refiere a los derechos de las personas LGBT+ y se opone al matrimonio igualitario.",
+          "comment_key": "explanations.candidate.c27.t15",
+          "source": "https://www.facebook.com/SiPodemosPeru/posts/urgente-%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%92-%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%91%F0%9D%90%94%CC%81-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%85%F0%9D%90%88%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%84-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%95%F0%9D%90%88%F0%9D%90%83%F0%9D%90%80-%F0%9D%90%98-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%85%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%80-desde-podemos-per%C3%BA-reafirmam/1123816709102814/"
+        },
+        "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "id_tema": "t16",
+          "tema": "Pensión pública",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.t16",
+          "topic_key": "topics.t16",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Podemos Perú, si bien no propone deshacerse de las pensiones privadas o algo similar,  prioriza la expansión de las pensiones públicas, al menos en lo que se refiere a \"establecer una pensión mínima universal digna\" para expandir el porcentaje de la población cubierta por una pensión.",
+          "comment_key": "explanations.candidate.c27.t16",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (págs. 51-2)"
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "id_tema": "t17",
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.t17",
+          "topic_key": "topics.t17",
+          "vote": 1.0,
+          "comment": "El plan señala adhesión del Perú al Sistema Interamericano y menciona la Comisión y Corte Interamericana de DD. HH.",
+          "comment_key": "explanations.party.p27.t17",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
+          "id_tema": "t18",
+          "tema": "Informalidad",
+          "question": "Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.",
+          "question_key": "questions.t18",
+          "topic_key": "topics.t18",
+          "vote": 0.0,
+          "comment": "El plan prioriza programas e incentivos de formalización y no plantea bajar impuestos como sustituto de la formalización.",
+          "comment_key": "explanations.party.p27.t18",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        },
+        "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
+          "id_tema": "t19",
+          "tema": "Nueva constitución",
+          "question": "Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.",
+          "question_key": "questions.t19",
+          "topic_key": "topics.t19",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Podemos Perú propone un par de reformas constitucionales, mas en ningún momento sugiere que sea necesario convocar a una Asamblea Constituyente o cambiar significativamente la Constitución actual.",
+          "comment_key": "explanations.candidate.c27.t19",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (págs. 5, 11-2, 15)"
+        },
+        "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
+          "id_tema": "t20",
+          "tema": "Reelección",
+          "question": "Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.",
+          "question_key": "questions.t20",
+          "topic_key": "topics.t20",
+          "vote": 1.0,
+          "comment": "El plan critica la ley de 2024 sobre reelección parlamentaria (y bicameralidad) señalando que en el referéndum 2018 se votó “no” a la reelección.",
+          "comment_key": "explanations.party.p27.t20",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+        }
+      }
     },
     "Podemos Perú": {
       "name": "Podemos Perú",

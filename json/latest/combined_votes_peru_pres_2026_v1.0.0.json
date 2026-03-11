@@ -4379,6 +4379,17 @@
           "source": "https://www.infobae.com/peru/2025/08/14/hermano-de-martin-vizcarra-sobre-prision-preventiva-contra-el-expresidente-el-pacto-mafioso-se-mantiene-en-el-pais/",
           "source_type": "candidate"
         },
+        "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
+          "tema": "Minería informal",
+          "question": "El Estado debería regularizar a la minería informal más activamente.",
+          "question_key": "questions.t4",
+          "topic_key": "topics.t4",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan propone una “ley que formalice la minería informal” y habla de formalización como parte del enfoque contra economías ilegales.",
+          "comment_key": "explanations.party.p27.t4",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf",
+          "source_type": "party_fallback"
+        },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
           "tema": "Aborto",
           "question": "El aborto debería estar permitido en casos de violación.",
@@ -4434,6 +4445,17 @@
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf",
           "source_type": "candidate"
         },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.t10",
+          "topic_key": "topics.t10",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El documento reclama respuestas inclusivas para población migrante y menciona la necesidad de protección y regularización de migrantes. No menciona una expulsión indiscriminada de migrantes irregulares.",
+          "comment_key": "explanations.party.p27.t10",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf",
+          "source_type": "party_fallback"
+        },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
           "tema": "Pueblos indígenas",
           "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
@@ -4466,6 +4488,17 @@
           "comment_key": "explanations.candidate.c26.t13",
           "source": "https://youtu.be/0pp_EkaFO7Q?t=524",
           "source_type": "candidate"
+        },
+        "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
+          "tema": "Gasto estatal",
+          "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
+          "question_key": "questions.t14",
+          "topic_key": "topics.t14",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan propone fortalecer/modernizar el Estado (servicio civil, meritocracia, digitalización) y promover inversión pública, consistente con invertir más en instituciones estatales.",
+          "comment_key": "explanations.party.p27.t14",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf",
+          "source_type": "party_fallback"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
           "tema": "Matrimonio igualitario",
@@ -4510,6 +4543,17 @@
           "comment_key": "explanations.candidate.c26.t18",
           "source": "https://gestion.pe/economia/elecciones-2026-candidatos-rafael-lopez-aliaga-keiko-fujimori-mario-vizcarra-y-otros-proponen-ajustes-en-igv-e-ir-que-cambios-en-impuestos-aplicarian-noticia/",
           "source_type": "candidate"
+        },
+        "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
+          "tema": "Reelección",
+          "question": "Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.",
+          "question_key": "questions.t20",
+          "topic_key": "topics.t20",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan critica la ley de 2024 sobre reelección parlamentaria (y bicameralidad) señalando que en el referéndum 2018 se votó “no” a la reelección.",
+          "comment_key": "explanations.party.p27.t20",
+          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf",
+          "source_type": "party_fallback"
         }
       }
     },

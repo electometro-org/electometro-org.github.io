@@ -381,28 +381,9 @@ def generate_from_new_structure():
                 candidate_id_for_party = party_id_to_candidate_id(party_id)
                 pres_col = pres_candidate_to_col.get(candidate_id_for_party)
                 pres_row = pres_index.get(normalize_id(id_tema_value))
-
-                print("-----")
-                print("party_column:", party_column)
-                print("party_id:", party_id)
-                print("id_tema_value:", id_tema_value)
-                print("parl cell:", cell_value)
-                print("parl parsed:", vote_value, comment_value, source_value)
-
                 candidate_id_for_party = party_id_to_candidate_id(party_id)
                 pres_col = pres_candidate_to_col.get(candidate_id_for_party)
                 pres_row = pres_index.get(normalize_id(id_tema_value))
-
-                print("mapped pres_col:", pres_col)
-                print("mapped pres_row:", pres_row)
-
-                if pres_col in pres_raw_df.columns:
-                    print("pres raw cell:", pres_raw_df.at[pres_row + 1 if pres_row is not None else 0, pres_col] if pres_row is not None else None)
-
-                if pres_col and pres_row is not None and pres_col in pres_df.columns:
-                    pres_cell_value = pres_df.at[pres_row, pres_col]
-                    print("pres cell:", pres_cell_value)
-                    print("pres parsed:", parse_cell_combined(pres_cell_value))
 
                 if pres_col and pres_row is not None and pres_col in pres_df.columns:
                     pres_cell_value = pres_df.at[pres_row, pres_col]
