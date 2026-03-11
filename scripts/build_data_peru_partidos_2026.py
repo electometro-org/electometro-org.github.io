@@ -3,9 +3,16 @@ import os
 import json
 import re
 
-NEW_STRUCTURE_FILE = os.getenv('PERU_FILE')
+NEW_STRUCTURE_FILE = os.getenv("PERU_FILE")
+
 OUTPUT_DIR = "json/"
 OUTPUT_DIR_LATEST = "json/latest/"
+
+MISSING_VOTE_DEFAULT = 0.5
+MISSING_COMMENT_DEFAULT = "No se encontró información pública sobre su posición."
+MISSING_SOURCE_DEFAULT = None
+
+number_of_topics = 20
 
 
 def get_version_from_excel(filepath):
@@ -17,41 +24,28 @@ def get_version_from_excel(filepath):
         version_df = pd.read_excel(filepath, sheet_name="version", header=None)
         version_str = str(version_df.iloc[0, 1]).strip()  # B1 = row 0, col 1
 
-        if not re.match(r'^(\d+)\.(\d+)\.(\d+)$', version_str):
+        if not re.match(r"^(\d+)\.(\d+)\.(\d+)$", version_str):
             raise ValueError(f"Invalid version format: {version_str}")
 
         return version_str
     except Exception as e:
         raise ValueError(f"Failed to read version from Excel: {e}")
 
-MISSING_VOTE_DEFAULT = 0.5
-MISSING_COMMENT_DEFAULT = "No se encontró información pública sobre su posición."
-MISSING_SOURCE_DEFAULT = None
-
-number_of_topics = 20
 
 def text_to_key(text):
     """Spanish text -> snake_case key"""
     if text is None:
         return None
     text = str(text).strip().lower()
-    text = re.sub(r'[^\w\sáéíóúñü]', '', text, flags=re.UNICODE)
-    text = re.sub(r'\s+', '_', text)
-    text = text.strip('_')
+    text = re.sub(r"[^\w\sáéíóúñü]", "", text, flags=re.UNICODE)
+    text = re.sub(r"\s+", "_", text)
+    text = text.strip("_")
     return text
 
-def build_comment_key(entity_type, entity_name, topic_key):
-    """explanations.{type}.{entity}.{topic}"""
-    if not entity_name or not topic_key:
-        return None
-    entity_key = text_to_key(entity_name)
-    topic_part = topic_key.replace("topics.", "") if topic_key.startswith("topics.") else text_to_key(topic_key)
-    return f"explanations.{entity_type}.{entity_key}.{topic_part}"
 
 def clean_text(s):
     # Handle pandas objects that are not scalars (Series/DataFrame)
     if isinstance(s, pd.Series):
-        # if it's a 1-element series, unwrap; otherwise treat as missing (or raise)
         if len(s) == 1:
             s = s.iloc[0]
         else:
@@ -62,11 +56,20 @@ def clean_text(s):
     if s is None:
         return None
 
-    # pd.isna works fine for scalars (including numpy.nan)
     if pd.isna(s):
         return None
+
     s = str(s).strip()
     return s if s != "" else None
+
+
+def normalize_id(value):
+    """Normalize IDs from Excel so they are safe and consistent in keys."""
+    cleaned = clean_text(value)
+    if cleaned is None:
+        return None
+    return text_to_key(cleaned)
+
 
 def map_vote_text_to_value(vote_text):
     """'A favor' -> 1.0, 'En contra' -> 0.0, 'Neutral' -> 0.5"""
@@ -78,7 +81,7 @@ def map_vote_text_to_value(vote_text):
         return None
 
     try:
-        num = float(vt.replace(',', '.'))
+        num = float(vt.replace(",", "."))
         return num
     except Exception:
         pass
@@ -87,7 +90,7 @@ def map_vote_text_to_value(vote_text):
 
     if "a favor" in vt_low or vt_low == "favor":
         return 1.0
-    if "en contra" in vt_low or "contra" == vt_low:
+    if "en contra" in vt_low or vt_low == "contra":
         return 0.0
     if "neutral" in vt_low:
         return 0.5
@@ -98,46 +101,6 @@ def map_vote_text_to_value(vote_text):
 
     return None
 
-def load_structure_sheet(filepath, sheet_name, number_of_topics):
-    raw_df = pd.read_excel(
-        filepath,
-        sheet_name=sheet_name,
-        dtype=str,
-        header=None
-    )
-
-    raw_df = raw_df.head(number_of_topics + 1)
-    if raw_df.shape[0] < 1:
-        raise ValueError(f"Input sheet '{sheet_name}' appears empty or is missing the header row.")
-
-    raw_df.columns = raw_df.iloc[0]
-    df = raw_df.drop(index=0).reset_index(drop=True)
-
-    if "Statement" not in df.columns or "Tema" not in df.columns:
-        raise ValueError(f"Expected 'Tema' and 'Statement' columns in sheet '{sheet_name}'.")
-
-    return df
-
-
-def extract_party_from_candidate_header(col_name):
-    if col_name is None:
-        return None
-    s = str(col_name).strip()
-    m = re.search(r"\(([^)]+)\)\s*$", s)
-    return m.group(1).strip() if m else None
-
-
-def build_presidential_party_column_map(pres_df):
-    """
-    Map normalized party key -> presidential column name
-    """
-    pres_cols = [c for c in pres_df.columns if c not in ("Tema", "Statement")]
-    party_to_col = {}
-    for c in pres_cols:
-        party = extract_party_from_candidate_header(c)
-        if party:
-            party_to_col[text_to_key(party)] = c
-    return party_to_col
 
 def parse_cell_combined(cell_value):
     """Parse 'vote+++comment+++source' format. Returns (None,None,None) if empty."""
@@ -145,7 +108,7 @@ def parse_cell_combined(cell_value):
     if raw is None:
         return None, None, None
 
-    parts = raw.split('+++', 2)
+    parts = raw.split("+++", 2)
     vote_part = clean_text(parts[0]) if len(parts) >= 1 else None
     comment_part = clean_text(parts[1]) if len(parts) >= 2 else None
     source_part = clean_text(parts[2]) if len(parts) >= 3 else None
@@ -153,71 +116,250 @@ def parse_cell_combined(cell_value):
     vote_mapped = map_vote_text_to_value(vote_part)
     return vote_mapped, comment_part, source_part
 
+
+def build_question_key_from_id(id_tema_value):
+    """
+    question_key comes from ID_tema, with '_question' added to separate it from topic_key.
+    Example:
+      ID_tema = 'seguridad'
+      question_key = 'questions.seguridad_question'
+      topic_key    = 'topics.seguridad'
+    """
+    base_id = normalize_id(id_tema_value)
+    if not base_id:
+        return None, None
+
+    question_key = f"questions.{base_id}_question"
+    topic_key = f"topics.{base_id}"
+    return question_key, topic_key
+
+
+def build_comment_key(entity_type, entity_id, question_key):
+    """
+    explanations.{entity_type}.{entity_id}.{question_id_question}
+    Example:
+      explanations.party.apra.seguridad_question
+      explanations.candidate.keiko_fujimori.seguridad_question
+    """
+    entity_id_norm = normalize_id(entity_id)
+    if not entity_id_norm or not question_key:
+        return None
+
+    question_part = question_key.replace("questions.", "") if question_key.startswith("questions.") else normalize_id(question_key)
+    if not question_part:
+        return None
+
+    return f"explanations.{entity_type}.{entity_id_norm}.{question_part}"
+
+
+def load_structure_sheet(filepath, sheet_name, number_of_topics):
+    """
+    Reads the sheet and preserves all metadata rows.
+
+    Expected first row in the Excel sheet: headers.
+    Expected first column header: ID_tema
+    Other expected columns include: Tema, Statement, plus entity columns.
+    """
+    raw_df = pd.read_excel(
+        filepath,
+        sheet_name=sheet_name,
+        dtype=str,
+        header=None
+    )
+
+    if raw_df.shape[0] < 1:
+        raise ValueError(f"Input sheet '{sheet_name}' appears empty or is missing the header row.")
+
+    raw_df.columns = raw_df.iloc[0]
+    df = raw_df.drop(index=0).reset_index(drop=True)
+
+    if "ID_tema" not in df.columns:
+        raise ValueError(f"Expected 'ID_tema' column in sheet '{sheet_name}'.")
+    if "Statement" not in df.columns or "Tema" not in df.columns:
+        raise ValueError(f"Expected 'Tema' and 'Statement' columns in sheet '{sheet_name}'.")
+
+    # Keep the metadata rows too (ID_party / ID_candidate), but limit question rows later.
+    return df
+
+
+def get_row_by_id_tema(df, row_id):
+    """
+    Return the first row whose ID_tema equals row_id, normalized.
+    """
+    row_id_norm = normalize_id(row_id)
+    matches = df[df["ID_tema"].apply(normalize_id) == row_id_norm]
+    if matches.empty:
+        return None
+    return matches.iloc[0]
+
+
+def get_question_rows(df, max_questions):
+    """
+    Return only the real question rows, excluding metadata rows such as ID_party / ID_candidate.
+    Limit to max_questions question rows.
+    """
+    metadata_ids = {"id_party", "id_candidate"}
+
+    question_df = df[~df["ID_tema"].apply(normalize_id).isin(metadata_ids)].copy()
+    question_df = question_df.head(max_questions).reset_index(drop=True)
+    return question_df
+
+
+def get_entity_columns(df):
+    """
+    Entity columns are all columns except the known structural columns.
+    """
+    excluded = {"ID_tema", "Tema", "Statement"}
+    return [col for col in df.columns if col not in excluded]
+
+
+def build_entity_id_map(df, metadata_row_name):
+    """
+    Build map: column_name -> entity_id
+    using the row whose ID_tema == metadata_row_name.
+
+    Example:
+      metadata_row_name = 'ID_party'      on parlamentaria
+      metadata_row_name = 'ID_candidate'  on presidencial
+    """
+    row = get_row_by_id_tema(df, metadata_row_name)
+    if row is None:
+        return {}
+
+    entity_columns = get_entity_columns(df)
+    out = {}
+    for col in entity_columns:
+        out[col] = normalize_id(row.get(col))
+    return out
+
+
+def build_presidential_party_column_map(pres_df):
+    """
+    Map party_id -> presidential candidate column name.
+
+    This assumes presidential candidate column names contain the party in parentheses,
+    e.g. 'Pedro Pérez (Partido X)', and that the normalized extracted party text
+    matches the ID_party values used in parlamentaria.
+
+    If that assumption fails, you can replace this with a direct metadata-based mapping.
+    """
+    pres_cols = get_entity_columns(pres_df)
+    party_to_col = {}
+
+    for c in pres_cols:
+        s = clean_text(c)
+        if not s:
+            continue
+
+        m = re.search(r"\(([^)]+)\)\s*$", s)
+        if not m:
+            continue
+
+        party_text = clean_text(m.group(1))
+        party_id = normalize_id(party_text)
+        if party_id:
+            party_to_col[party_id] = c
+
+    return party_to_col
+
+
+def build_question_lookup(df):
+    """
+    Build lookup from normalized ID_tema -> row index.
+    This is now the canonical cross-sheet question matcher.
+    """
+    lookup = {}
+    for i in range(df.shape[0]):
+        id_tema = normalize_id(df.at[i, "ID_tema"])
+        if id_tema is None:
+            continue
+        lookup[id_tema] = i
+    return lookup
+
+
 def generate_from_new_structure():
     # Load both sheets
-    parl_df = load_structure_sheet(NEW_STRUCTURE_FILE, "parlamentaria", number_of_topics)
-    pres_df = load_structure_sheet(NEW_STRUCTURE_FILE, "presidencial", number_of_topics)
+    parl_raw_df = load_structure_sheet(NEW_STRUCTURE_FILE, "parlamentaria", number_of_topics)
+    pres_raw_df = load_structure_sheet(NEW_STRUCTURE_FILE, "presidencial", number_of_topics)
+
+    # Separate metadata rows from question rows
+    parl_df = get_question_rows(parl_raw_df, number_of_topics)
+    pres_df = get_question_rows(pres_raw_df, number_of_topics)
 
     # Identify party columns in parlamentaria
-    party_columns = [col for col in parl_df.columns if col not in ("Tema", "Statement")]
+    party_columns = get_entity_columns(parl_raw_df)
 
-    # Build presidential mapping: party -> candidate column
-    pres_party_to_col = build_presidential_party_column_map(pres_df)
+    # Build metadata maps
+    # parlamentaria: column -> party_id
+    parl_party_ids = build_entity_id_map(parl_raw_df, "ID_party")
 
-    # Build a fast lookup from (tema, statement) -> row index in presidencial
-    # This assumes the same "Tema"/"Statement" values exist in both sheets.
-    pres_index = {}
-    for i in range(pres_df.shape[0]):
-        t = clean_text(pres_df.at[i, "Tema"])
-        s = clean_text(pres_df.at[i, "Statement"])
-        if s is None:
-            continue
-        pres_index[(t, s)] = i
+    # presidencial: column -> candidate_id
+    pres_candidate_ids = build_entity_id_map(pres_raw_df, "ID_candidate")
+
+    # Build presidential mapping: party_id -> candidate column
+    pres_party_to_col = build_presidential_party_column_map(pres_raw_df)
+
+    # Build a fast lookup from ID_tema -> row index in presidencial
+    pres_index = build_question_lookup(pres_df)
 
     parties_info = {}
     for party_column in party_columns:
+        party_id = parl_party_ids.get(party_column)
         parties_info[party_column] = {
             "header": party_column,
             "name": party_column,
+            "party_id": party_id,
             "votes": {}
         }
 
-    # Iterate parlamentaria rows
+    # Iterate parlamentaria question rows
     for row_index in range(parl_df.shape[0]):
+        id_tema_value = clean_text(parl_df.at[row_index, "ID_tema"])
         topic_text = clean_text(parl_df.at[row_index, "Tema"])
         statement_text = clean_text(parl_df.at[row_index, "Statement"])
 
-        if statement_text is None:
+        if statement_text is None or id_tema_value is None:
             continue
 
         question_identifier = f"{topic_text}: {statement_text}" if topic_text else statement_text
-        question_key = f"questions.{text_to_key(statement_text)}"
-        topic_key = f"topics.{text_to_key(topic_text)}" if topic_text else None
+        question_key, topic_key = build_question_key_from_id(id_tema_value)
+
+        if question_key is None or topic_key is None:
+            continue
 
         for party_column in party_columns:
-            # 1) Try parlamentaria cell
+            party_id = parl_party_ids.get(party_column)
+
+            # 1) Try parlamentaria cell first
             cell_value = parl_df.at[row_index, party_column] if party_column in parl_df.columns else None
             vote_value, comment_value, source_value = parse_cell_combined(cell_value)
 
-            # 2) If missing, fallback to presidential candidate column for that party
-            if vote_value is None and comment_value is None and source_value is None:
-                party_key = text_to_key(party_column)  # normalize party from parlamentaria header
-                pres_col = pres_party_to_col.get(party_key)
+            comment_key = None
 
-                pres_row = pres_index.get((topic_text, statement_text))
+            if vote_value is not None or comment_value is not None or source_value is not None:
+                # Data came from parlamentaria -> identify entity with ID_party
+                if comment_value:
+                    comment_key = build_comment_key("party", party_id, question_key)
+
+            else:
+                # 2) If missing, fallback to presidential candidate column for that party
+                pres_col = pres_party_to_col.get(party_id)
+                pres_row = pres_index.get(normalize_id(id_tema_value))
+
                 if pres_col and pres_row is not None and pres_col in pres_df.columns:
                     pres_cell_value = pres_df.at[pres_row, pres_col]
                     vote_value, comment_value, source_value = parse_cell_combined(pres_cell_value)
 
-            # 3) If still missing, SKIP this statement for this party (do not write defaults)
+                    if comment_value:
+                        candidate_id = pres_candidate_ids.get(pres_col)
+                        comment_key = build_comment_key("candidate", candidate_id, question_key)
+
+            # 3) If still missing, SKIP this statement for this party
             if vote_value is None and comment_value is None and source_value is None:
                 continue
 
-            comment_key = None
-            if comment_value:
-                comment_key = build_comment_key("party", party_column, topic_key)
-
             parties_info[party_column]["votes"][question_identifier] = {
+                "id_tema": id_tema_value,
                 "tema": topic_text,
                 "question": statement_text,
                 "question_key": question_key,
@@ -243,6 +385,7 @@ def generate_from_new_structure():
     for party_column, pinfo in parties_info.items():
         combined_output["parties"][pinfo["header"]] = {
             "name": pinfo["name"],
+            "party_id": pinfo["party_id"],
             "votes": pinfo["votes"]
         }
 
@@ -263,6 +406,7 @@ def generate_from_new_structure():
         with open(versioned_path, "w", encoding="utf-8") as file_handle:
             json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
         print(f"Wrote {versioned_path}")
+
 
 if __name__ == "__main__":
     generate_from_new_structure()
