@@ -125,11 +125,15 @@ def convert_to_new_format(input_data, entity_type="parties"):
                 "source": vote_data.get("source")
             }
 
-        new_entities[entity_id] = {
+        entity_entry = {
             "id": entity_id,
             "name": entity_data.get("name", entity_name),
             "votes": new_votes
         }
+        # Store party info for candidates (will be enriched later with party ID)
+        if entity_type == "candidates" and entity_data.get("party"):
+            entity_entry["party"] = {"name": entity_data.get("party")}
+        new_entities[entity_id] = entity_entry
 
     # Build output
     output = {
@@ -148,39 +152,70 @@ def main():
     # Ensure directory exists
     os.makedirs(OUTPUT_DIR_LATEST, exist_ok=True)
 
-    # Files to convert (no version suffix in latest/)
-    files_to_convert = [
-        ("combined_votes_peru_partidos_2026.json", "parties"),
-        ("combined_votes_peru_pres_2026.json", "candidates"),
-    ]
+    # Input files
+    parties_input = os.path.join(OUTPUT_DIR_LATEST, "combined_votes_peru_partidos_2026.json")
+    candidates_input = os.path.join(OUTPUT_DIR_LATEST, "combined_votes_peru_pres_2026.json")
 
-    for filename, entity_type in files_to_convert:
-        input_path = os.path.join(OUTPUT_DIR_LATEST, filename)
+    # Convert both files
+    parties_data = None
+    candidates_data = None
 
-        if not os.path.exists(input_path):
-            print(f"Skipping {filename}: file not found")
-            continue
+    if os.path.exists(parties_input):
+        print("Converting parties...")
+        with open(parties_input, "r", encoding="utf-8") as f:
+            parties_data = convert_to_new_format(json.load(f), "parties")
+        print(f"  -> {len(parties_data.get('quiz', {}))} topics, {len(parties_data.get('parties', {}))} parties")
 
-        print(f"Converting {filename}...")
+    if os.path.exists(candidates_input):
+        print("Converting candidates...")
+        with open(candidates_input, "r", encoding="utf-8") as f:
+            candidates_data = convert_to_new_format(json.load(f), "candidates")
+        print(f"  -> {len(candidates_data.get('quiz', {}))} topics, {len(candidates_data.get('candidates', {}))} candidates")
 
-        with open(input_path, "r", encoding="utf-8") as f:
-            input_data = json.load(f)
+    # Cross-reference parties and candidates
+    if parties_data and candidates_data:
+        print("Cross-referencing parties and candidates...")
 
-        output_data = convert_to_new_format(input_data, entity_type)
+        # Build party name -> party info mapping
+        party_name_to_info = {}
+        for party_id, party_info in parties_data.get("parties", {}).items():
+            party_name = party_info.get("name", "")
+            party_name_to_info[party_name] = {"id": party_id, "name": party_name}
 
-        # Output filename (add _compact before .json)
-        output_filename = filename.replace(".json", "_compact.json")
-        output_path = os.path.join(OUTPUT_DIR_LATEST, output_filename)
+        # Build party name -> candidate info mapping
+        party_to_candidate = {}
+        for candidate_id, candidate_info in candidates_data.get("candidates", {}).items():
+            party_obj = candidate_info.get("party", {})
+            party_name = party_obj.get("name", "") if isinstance(party_obj, dict) else ""
+            if party_name:
+                party_to_candidate[party_name] = {"id": candidate_id, "name": candidate_info.get("name", "")}
 
+        # Enrich candidates with party ID
+        for candidate_id, candidate_info in candidates_data.get("candidates", {}).items():
+            party_obj = candidate_info.get("party", {})
+            if isinstance(party_obj, dict):
+                party_name = party_obj.get("name", "")
+                if party_name in party_name_to_info:
+                    candidate_info["party"] = party_name_to_info[party_name]
+
+        # Enrich parties with candidate info
+        for party_id, party_info in parties_data.get("parties", {}).items():
+            party_name = party_info.get("name", "")
+            if party_name in party_to_candidate:
+                party_info["candidate"] = party_to_candidate[party_name]
+
+    # Write output files
+    if parties_data:
+        output_path = os.path.join(OUTPUT_DIR_LATEST, "combined_votes_peru_partidos_2026_compact.json")
         with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(output_data, f, ensure_ascii=False, indent=2)
-
+            json.dump(parties_data, f, ensure_ascii=False, indent=2)
         print(f"  -> Wrote {output_path}")
 
-        # Print stats
-        topics_count = len(output_data.get("quiz", {}))
-        entities_count = len(output_data.get(entity_type, {}))
-        print(f"  -> {topics_count} topics, {entities_count} {entity_type}")
+    if candidates_data:
+        output_path = os.path.join(OUTPUT_DIR_LATEST, "combined_votes_peru_pres_2026_compact.json")
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(candidates_data, f, ensure_ascii=False, indent=2)
+        print(f"  -> Wrote {output_path}")
 
 
 if __name__ == "__main__":
