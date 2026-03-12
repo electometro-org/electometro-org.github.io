@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  download-and-commit:
+  convert-and-commit:
     runs-on: ubuntu-latest
     environment: csv_to_json
     env:
