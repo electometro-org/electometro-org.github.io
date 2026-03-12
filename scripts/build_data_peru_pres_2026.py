@@ -4,10 +4,9 @@ import json
 import re
 
 NEW_STRUCTURE_FILE = os.getenv("PERU_FILE")
-NEW_STRUCTURE_FILE = r"C:\Users\josev\OneDrive\Proyectos\Votometro\Peru\Votaciones parlamentarias 2026\peru_preguntas_20250715.xlsx"
 
-OUTPUT_DIR = "json/"
 OUTPUT_DIR_LATEST = "json/latest/"
+OUTPUT_DIR_HISTORY = "json/history/"
 
 number_of_topics = 20
 
@@ -102,8 +101,8 @@ def build_comment_key(entity_type, entity_id, question_key):
     explanations.{entity_type}.{entity_id}.{question_part}
 
     Example:
-      question_key = questions.salud_question
-      -> explanations.candidate.some_candidate_id.salud_question
+      explanations.parties.p1.t1
+      explanations.candidates.c1.t1
     """
     entity_id_key = normalize_id(entity_id)
     if not entity_id_key or not question_key:
@@ -350,7 +349,7 @@ def generate_from_new_structure():
             if vote_value is not None or comment_value is not None or source_value is not None:
                 value_origin = "candidate"
                 if comment_value:
-                    comment_key = build_comment_key("candidate", candidate_id, question_key)
+                    comment_key = build_comment_key("candidates", candidate_id, question_key)
 
             # 2) If missing, fallback to the candidate's party cell in parlamentaria
             if vote_value is None and comment_value is None and source_value is None:
@@ -370,13 +369,14 @@ def generate_from_new_structure():
                                 "Por falta de información, se tomó la posición del partido: "
                                 f"{comment_value}"
                             )
-                            comment_key = build_comment_key("party", party_id, question_key)
+                            comment_key = build_comment_key("candidates", candidate_id, question_key)
 
             # 3) If still missing, SKIP this statement for this candidate
             if vote_value is None and comment_value is None and source_value is None:
                 continue
 
             candidate_meta["votes"][question_identifier] = {
+                "id_tema": id_tema_raw,
                 "tema": topic_text,
                 "question": statement_text,
                 "question_key": question_key,
@@ -411,22 +411,26 @@ def generate_from_new_structure():
         }
 
     # Ensure output directories exist
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(OUTPUT_DIR_LATEST, exist_ok=True)
 
-    # Write to main output directory
-    output_path = os.path.join(OUTPUT_DIR, "combined_votes_peru_pres_2026.json")
-    with open(output_path, "w", encoding="utf-8") as file_handle:
+    # Write to latest directory (always replaced, no version suffix)
+    latest_path = os.path.join(OUTPUT_DIR_LATEST, "combined_votes_peru_pres_2026.json")
+    with open(latest_path, "w", encoding="utf-8") as file_handle:
         json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
-    print(f"Wrote {output_path}")
+    print(f"Wrote {latest_path}")
 
-    # Write versioned file to latest directory
+    # Write to history directory (versioned folder with versioned filename)
     if version:
-        versioned_filename = f"combined_votes_peru_pres_2026_v{version}.json"
-        versioned_path = os.path.join(OUTPUT_DIR_LATEST, versioned_filename)
-        with open(versioned_path, "w", encoding="utf-8") as file_handle:
+        version_underscored = version.replace('.', '_')
+        version_folder = f"v{version_underscored}"
+        history_version_dir = os.path.join(OUTPUT_DIR_HISTORY, version_folder)
+        os.makedirs(history_version_dir, exist_ok=True)
+
+        history_filename = f"combined_votes_peru_pres_2026_{version_underscored}.json"
+        history_path = os.path.join(history_version_dir, history_filename)
+        with open(history_path, "w", encoding="utf-8") as file_handle:
             json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
-        print(f"Wrote {versioned_path}")
+        print(f"Wrote {history_path}")
 
 
 if __name__ == "__main__":

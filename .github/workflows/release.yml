@@ -1,4 +1,4 @@
-name: Upload JSON to Bucket
+name: Release to Bucket
 
 on:
   workflow_run:

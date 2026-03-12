@@ -1,4 +1,4 @@
-name: Parse XLSX to JSON and commit
+name: Parse master data into JSON
 
 on:
   workflow_dispatch:

@@ -4,10 +4,9 @@ import json
 import re
 
 NEW_STRUCTURE_FILE = os.getenv("PERU_FILE")
-NEW_STRUCTURE_FILE = r"C:\Users\josev\OneDrive\Proyectos\Votometro\Peru\Votaciones parlamentarias 2026\peru_preguntas_20250715.xlsx"
 
-OUTPUT_DIR = "json/"
 OUTPUT_DIR_LATEST = "json/latest/"
+OUTPUT_DIR_HISTORY = "json/history/"
 
 number_of_topics = 20
 
@@ -172,8 +171,8 @@ def build_comment_key(entity_type, entity_id, question_key):
     """
     explanations.{entity_type}.{entity_id}.{question_id_question}
     Example:
-      explanations.party.apra.seguridad_question
-      explanations.candidate.keiko_fujimori.seguridad_question
+      explanations.parties.p1.t1
+      explanations.candidates.c1.t1
     """
     entity_id_norm = normalize_id(entity_id)
     if not entity_id_norm or not question_key:
@@ -369,18 +368,16 @@ def generate_from_new_structure():
             vote_value, comment_value, source_value = parse_cell_combined(cell_value)
 
             comment_key = None
-
+            value_origin = None
 
             if vote_value is not None or comment_value is not None or source_value is not None:
                 # Data came from parlamentaria -> identify entity with ID_party
+                value_origin = "party"
                 if comment_value:
-                    comment_key = build_comment_key("party", party_id, question_key)
+                    comment_key = build_comment_key("parties", party_id, question_key)
 
             else:
                 # 2) If missing, fallback to presidential candidate column for that party
-                candidate_id_for_party = party_id_to_candidate_id(party_id)
-                pres_col = pres_candidate_to_col.get(candidate_id_for_party)
-                pres_row = pres_index.get(normalize_id(id_tema_value))
                 candidate_id_for_party = party_id_to_candidate_id(party_id)
                 pres_col = pres_candidate_to_col.get(candidate_id_for_party)
                 pres_row = pres_index.get(normalize_id(id_tema_value))
@@ -389,14 +386,14 @@ def generate_from_new_structure():
                     pres_cell_value = pres_df.at[pres_row, pres_col]
                     vote_value, comment_value, source_value = parse_cell_combined(pres_cell_value)
 
-                    candidate_id = pres_candidate_ids.get(pres_col)
-
-                    if comment_value:
-                        comment_value = (
-                            f"Por falta de información, se tomó la posición del candidato: "
-                            f"{comment_value}"
-                        )
-                        comment_key = build_comment_key("candidate", candidate_id, question_key)
+                    if vote_value is not None or comment_value is not None or source_value is not None:
+                        value_origin = "candidate_fallback"
+                        if comment_value:
+                            comment_value = (
+                                f"Por falta de información, se tomó la posición del candidato: "
+                                f"{comment_value}"
+                            )
+                            comment_key = build_comment_key("parties", party_id, question_key)
 
             # 3) If still missing, SKIP this statement for this party
             if vote_value is None and comment_value is None and source_value is None:
@@ -411,7 +408,8 @@ def generate_from_new_structure():
                 "vote": vote_value,
                 "comment": comment_value,
                 "comment_key": comment_key,
-                "source": source_value
+                "source": source_value,
+                "source_type": value_origin
             }
 
     # Get version from Excel
@@ -433,22 +431,26 @@ def generate_from_new_structure():
         }
 
     # Ensure output directories exist
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(OUTPUT_DIR_LATEST, exist_ok=True)
 
-    # Write to main output directory
-    output_path = os.path.join(OUTPUT_DIR, "combined_votes_peru_partidos_2026.json")
-    with open(output_path, "w", encoding="utf-8") as file_handle:
+    # Write to latest directory (always replaced, no version suffix)
+    latest_path = os.path.join(OUTPUT_DIR_LATEST, "combined_votes_peru_partidos_2026.json")
+    with open(latest_path, "w", encoding="utf-8") as file_handle:
         json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
-    print(f"Wrote {output_path}")
+    print(f"Wrote {latest_path}")
 
-    # Write versioned file to latest directory
+    # Write to history directory (versioned folder with versioned filename)
     if version:
-        versioned_filename = f"combined_votes_peru_partidos_2026_v{version}.json"
-        versioned_path = os.path.join(OUTPUT_DIR_LATEST, versioned_filename)
-        with open(versioned_path, "w", encoding="utf-8") as file_handle:
+        version_underscored = version.replace('.', '_')
+        version_folder = f"v{version_underscored}"
+        history_version_dir = os.path.join(OUTPUT_DIR_HISTORY, version_folder)
+        os.makedirs(history_version_dir, exist_ok=True)
+
+        history_filename = f"combined_votes_peru_partidos_2026_{version_underscored}.json"
+        history_path = os.path.join(history_version_dir, history_filename)
+        with open(history_path, "w", encoding="utf-8") as file_handle:
             json.dump(combined_output, file_handle, ensure_ascii=False, indent=2)
-        print(f"Wrote {versioned_path}")
+        print(f"Wrote {history_path}")
 
 
 if __name__ == "__main__":
