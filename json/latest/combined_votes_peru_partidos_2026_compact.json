@@ -207,6 +207,10 @@
           "comment": "El plan de gobierno no se refiere al contenido de este enunciado",
           "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         }
+      },
+      "candidate": {
+        "id": "c1",
+        "name": "Alfonso López Chau"
       }
     },
     "p2": {
@@ -303,6 +307,10 @@
           "comment": "La bancada y voceros oficiales de APP han expresado público respaldo a permitir la reelección (dejar que el elector decida) y/o presentar proyectos para permitirla; por tanto el partido no apoya prohibir la reelección de parlamentarios.",
           "source": "https://www.infobae.com/peru/2023/08/13/alianza-para-el-progreso-apoya-reeleccion-inmediata-de-congresistas-alcaldes-y-gobernadores/ (infobae)"
         }
+      },
+      "candidate": {
+        "id": "c2",
+        "name": "César Acuña"
       }
     },
     "p3": {
@@ -399,6 +407,10 @@
           "comment": "El Plan 2026 recomienda permitir la reelección de alcaldes y gobernadores (una vez); no encontré una propuesta de prohibir reelección parlamentaria y el espíritu del documento no es de prohibición general de reelección.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Aprista-Peruano-Plan-de-Gobierno-LP.pdf"
         }
+      },
+      "candidate": {
+        "id": "c3",
+        "name": "Pitter Valderrama"
       }
     },
     "p4": {
@@ -490,6 +502,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de Avanza País votó unánimemente a favor.",
           "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187 ; https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2023-2024 -> Segunda Legislatura Ordinaria -> 03/06/2024, pág. 9)"
         }
+      },
+      "candidate": {
+        "id": "c4",
+        "name": "José Daniel Williams"
       }
     },
     "p5": {
@@ -591,6 +607,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: Declaró que la bicameralidad (retorno al Congreso bicameral con Senado y Cámara de Diputados) \"es una gran pendejada\" y que está en desacuerdo con el escenario político actual del Congreso, sin pronunciarse específicamente sobre reelección parlamentaria.",
           "source": "https://elbuho.pe/2024/03/exalcalde-de-la-molina-presenta-su-partido-fe-en-el-peru-la-bicameralidad-es-un-pendejada/"
         }
+      },
+      "candidate": {
+        "id": "c5",
+        "name": "Álvaro Paz de la Barra"
       }
     },
     "p6": {
@@ -824,6 +844,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: La candidata ha criticado al actual congreso por la modificación de artículos constitucionales y por según ella no defender la constitución. Esta posición muestra la importancia que le da la candidata a la constitución actual y por consiguiente la oposición a una asamblea constituyente que modifique eventualmente esta.",
           "source": "https://www.instagram.com/reels/DTJhLjkj3Te/"
         }
+      },
+      "candidate": {
+        "id": "c8",
+        "name": "Fiorella Molinelli"
       }
     },
     "p9": {
@@ -930,6 +954,10 @@
           "comment": "No se menciona.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
         }
+      },
+      "candidate": {
+        "id": "c9",
+        "name": "Roberto Sánchez"
       }
     },
     "p10": {
@@ -1036,6 +1064,10 @@
           "comment": "El plan propone un Congreso bicameral con “periodo de 2.5 años con capacidad de ser renovados por reelección inmediata consecutiva”, por lo que se opone a prohibir la reelección parlamentaria.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Libertad-Popular-Plan-de-Gobierno-LP-derecho.pdf"
         }
+      },
+      "candidate": {
+        "id": "c10",
+        "name": "Rafael Belaúnde"
       }
     },
     "p11": {
@@ -1137,6 +1169,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista de 2025, Álvarez aseguró que debía respetarse el resultado del referéndum sobre la bicameralidad y la reelección, en el que ganó la opción en contra de las mismas.",
           "source": "https://www.facebook.com/PaisParaTodosPe/videos/el-pueblo-es-soberano-y-se-le-respeta-carlos-%C3%A1lvarez-lo-dice-claro-y-sin-rodeos-/829235983415164/"
         }
+      },
+      "candidate": {
+        "id": "c11",
+        "name": "Carlos Álvarez"
       }
     },
     "p12": {
@@ -1228,6 +1264,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: Ricardo Belmont fue alcalde de Lima entre 1990-1992 y buscó activamente su reelección, siendo reelegido en 1993 para el periodo 1993-1995, evidenciando una posición favorable a la reelección de autoridades electas.",
           "source": "https://www.infobae.com/peru/2026/02/04/ricardo-belmont-en-carrera-electoral-perfil-completo-del-candidato-presidencial-del-partido-civico-obras/"
         }
+      },
+      "candidate": {
+        "id": "c12",
+        "name": "Ricardo Belmont"
       }
     },
     "p13": {
@@ -1324,6 +1364,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista de 2021, Nieto se expresó en contra de la idea de una Asamblea Constituyente para una nueva Constitución.",
           "source": "https://larepublica.pe/elecciones/2021/07/18/elecciones-2021-jorge-nieto-rechaza-formacion-de-asamblea-constituyente-las-prioridades-son-otras-pltc?utm_source=chatgpt.com"
         }
+      },
+      "candidate": {
+        "id": "c13",
+        "name": "Jorge Nieto"
       }
     },
     "p14": {
@@ -1380,6 +1424,10 @@
           "comment": "El plan plantea “Retiro de la Convención Americana de Derechos Humanos… será sometido a referéndum”.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf"
         }
+      },
+      "candidate": {
+        "id": "c14",
+        "name": "Charlie Carrasco"
       }
     },
     "p15": {
@@ -1471,6 +1519,10 @@
           "comment": "Propone una reforma constitucional menor para incorporar el principio de planificación territorial vinculante",
           "source": "https://mpesije.jne.gob.pe/docs/3f2a939b-edf2-4505-b709-df775a5e0038.pdf"
         }
+      },
+      "candidate": {
+        "id": "c15",
+        "name": "Alex Gonzales"
       }
     },
     "p16": {
@@ -1557,6 +1609,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: Propone una reforma estructural para convertir al Perú en un Estado Federal, calificando la actual descentralización como un \"fraude constitucional\".",
           "source": "https://www.youtube.com/watch?v=3f_2cIdLfqs"
         }
+      },
+      "candidate": {
+        "id": "c16",
+        "name": "Armando Masse"
       }
     },
     "p17": {
@@ -1653,6 +1709,10 @@
           "comment": "El plan no propone una asamblea constituyente. Más bien formula reformas puntuales dentro del marco vigente, incluyendo la derogatoria del segundo párrafo del artículo 62 de la Constitución.",
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         }
+      },
+      "candidate": {
+        "id": "c17",
+        "name": "Fernando Olivera"
       }
     },
     "p18": {
@@ -1754,6 +1814,10 @@
           "comment": "El plan propone reformas constitucionales y consulta ciudadana (referéndum) para decidir si se elabora un nuevo texto o se hacen reformas parciales; no promueve de forma directa convocar a una asamblea constituyente como método único — plantea referéndum y comisión de expertos para evaluar cambios.",
           "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1595/ARCHIVO/FIRMADO/5314.PDF"
         }
+      },
+      "candidate": {
+        "id": "c18",
+        "name": "Mesías Guevara"
       }
     },
     "p19": {
@@ -1825,6 +1889,10 @@
           "comment": "Para reducir informalidad, el ideario propone “Crédito MYPE… impulsando la formalización de los emprendedores informales”; no plantea bajar impuestos “en lugar de” formalizar; por tanto no coincide con la afirmación.",
           "source": "https://partidopatrioticodelperu.pe/ideario/"
         }
+      },
+      "candidate": {
+        "id": "c19",
+        "name": "Herbert Caller"
       }
     },
     "p20": {
@@ -1896,6 +1964,10 @@
           "comment": "Propone “Aprobación de una nueva Constitución a través de una Asamblea Constituyente o el Congreso” y remitir proyecto para instalarla.",
           "source": "https://mpesije.jne.gob.pe/docs/582e0d55-19ee-4a7f-85ef-c254be5bada6.pdf"
         }
+      },
+      "candidate": {
+        "id": "c20",
+        "name": "Yonhy Lescano"
       }
     },
     "p21": {
@@ -1972,6 +2044,10 @@
           "comment": "El plan de gobierno propone reformas muy puntuales, pero enfatiza que \"toda la acción gubernamental se sustentará en el marco jurídico vigente, incluyendo la Constitución Política.\"",
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
         }
+      },
+      "candidate": {
+        "id": "c21",
+        "name": "Wolfgang Grozo"
       }
     },
     "p22": {
@@ -2134,6 +2210,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: En declaraciones de 2022, Cerrón se posicionó a favor de la reelección de autoridades en todos los niveles de gobierno.",
           "source": "https://peru21.pe/politica/vladimir-cerron-a-favor-de-reeleccion-presidencial-de-congresistas-gobernadores-regionales-y-alcaldes-asamblea-constituyente-peru-libre-rmmn-noticia/"
         }
+      },
+      "candidate": {
+        "id": "c22",
+        "name": "Francisco Diez-Canseco"
       }
     },
     "p24": {
@@ -2205,6 +2285,10 @@
           "comment": "El programa propone explícitamente Asamblea Constituyente y nueva Constitución para reemplazar el marco de 1993.",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
         }
+      },
+      "candidate": {
+        "id": "c23",
+        "name": "Vladimir Cerrón"
       }
     },
     "p25": {
@@ -2301,6 +2385,10 @@
           "comment": "El plan propone prohibir la reelección de autoridades electas, lo que incluye a los parlamentarios.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         }
+      },
+      "candidate": {
+        "id": "c24",
+        "name": "Carlos Jaico"
       }
     },
     "p26": {
@@ -2407,6 +2495,10 @@
           "comment": "El plan critica la ley de 2024 sobre reelección parlamentaria (y bicameralidad) señalando que en el referéndum 2018 se votó “no” a la reelección.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         }
+      },
+      "candidate": {
+        "id": "c25",
+        "name": "Mario Vizcarra"
       }
     },
     "p27": {
@@ -2493,6 +2585,10 @@
           "comment": "En el eje de reforma política el plan propone mecanismos de rendición de cuentas (revocatoria, paridad y alternancia) y reformas para evitar la captura; el documento apoya limitaciones a la continuidad parlamentaria (alternancia/controles), es coherente con prohibir reelección.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         }
+      },
+      "candidate": {
+        "id": "c26",
+        "name": "José Luna Gálvez"
       }
     },
     "p28": {
@@ -2559,6 +2655,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: El plan señala que no ve necesidad de “grandes cambios refundacionales” y enfatiza respeto a Constitución vigente; por tanto, no apunta a una asamblea constituyente.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
         }
+      },
+      "candidate": {
+        "id": "c27",
+        "name": "María Soledad Pérez Tello"
       }
     },
     "p29": {
@@ -2615,6 +2715,10 @@
           "comment": "Para reducir informalidad, el plan prioriza ventanilla única digital de formalización, reforma tributaria simplificada e incentivos/subsidios; no plantea que la vía principal sea “bajar impuestos” en lugar de formalizar.",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         }
+      },
+      "candidate": {
+        "id": "c29",
+        "name": "Paul Jaimes"
       }
     },
     "p30": {
@@ -2701,6 +2805,10 @@
           "comment": "PTE-PERÚ firmó un pronunciamiento de partidos de izquierda para instaurar una asamblea constituyente que redacte una nueva Constitución.",
           "source": "https://elcomercio.pe/politica/cuatro-partidos-de-izquierda-se-unen-por-una-asamblea-constituyente-constitucion-politica-del-peru-ultimas-noticia/"
         }
+      },
+      "candidate": {
+        "id": "c30",
+        "name": "Napoleón Becerra"
       }
     },
     "p31": {
@@ -2807,6 +2915,10 @@
           "comment": "En Julio del 2024, la bancada del partido Renovación Popular junto a otras bancadas votaron a favor de la reforma que reinstauró la bicameralidad en el Perú. Esta reforma permitió la reelección de congresistas a la política",
           "source": "https://larepublica.pe/politica/2024/03/07/congreso-implantan-la-bicameralidad-con-reeleccion-fuerza-popular-ejecutivo-326459"
         }
+      },
+      "candidate": {
+        "id": "c31",
+        "name": "Rafael López Aliaga"
       }
     },
     "p32": {
@@ -2863,6 +2975,10 @@
           "comment": "El Plan de Gobierno 2026–2031 enfatiza el respeto a la Constitución y no propone convocar una asamblea constituyente para cambiar la Constitución de 1993.",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         }
+      },
+      "candidate": {
+        "id": "c32",
+        "name": "Antonio Ortiz"
       }
     },
     "p33": {
@@ -2939,6 +3055,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: Ha señalado que “no es necesario modificar la Constitución de 1993” porque el crecimiento del Perú se ha dado bajo ese marco y que sus reformas estructurales pueden hacerse sin cambiar la Carta vigente, por lo que no promueve convocar una asamblea constituyente para reemplazar la Constitución del 93.",
           "source": "https://www.infobae.com/peru/2026/03/10/carlos-espa-indica-disposicion-a-disolver-la-camara-de-diputados-si-el-congreso-bloquea-reformas/"
         }
+      },
+      "candidate": {
+        "id": "c33",
+        "name": "Alfonso Carlos Espá"
       }
     },
     "p34": {
@@ -3035,6 +3155,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: Durante la campaña presidencial de 2021, Forsyth se posicionó a favor de permitir la reelección de congresistas y autoridades locales para permitir continuidad en el trabajo.",
           "source": "https://rpp.pe/politica/elecciones/george-forsyth-se-muestra-a-favor-de-regresar-a-la-reeleccion-de-congresistas-y-alcaldes-noticia-1327554"
         }
+      },
+      "candidate": {
+        "id": "c34",
+        "name": "George Forsyth"
       }
     },
     "p35": {
@@ -3081,6 +3205,10 @@
           "comment": "El plan propone “programas de empleo temporal y formalización laboral” e “incentivos” para formalizar, y también formalización minera (REINFO/minería artesanal); por tanto no respalda la idea de reducir impuestos *en lugar de* programas de formalización.",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         }
+      },
+      "candidate": {
+        "id": "c35",
+        "name": "Rosario Fernández"
       }
     },
     "p36": {
@@ -3172,6 +3300,10 @@
           "comment": "Por falta de información, se tomó la posición del candidato: El propio Roberto Chiabra postula simultáneamente como candidato presidencial y al Senado en las elecciones 2026, evidenciando aceptación de la reelección parlamentaria.",
           "source": "https://www.infobae.com/peru/2026/02/08/roberto-chiabra-perfil-y-hoja-de-vida-del-candidato-del-partido-alianza-unidad-nacional-para-las-elecciones-2026/"
         }
+      },
+      "candidate": {
+        "id": "c36",
+        "name": "Roberto Chiabra"
       }
     },
     "p37": {
@@ -3248,6 +3380,10 @@
           "comment": "El plan plantea convocar Asamblea Constituyente (incluso “el primer día de gobierno” activar procedimientos vía referéndum).",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         }
+      },
+      "candidate": {
+        "id": "c37",
+        "name": "Ronald Atencio"
       }
     }
   }

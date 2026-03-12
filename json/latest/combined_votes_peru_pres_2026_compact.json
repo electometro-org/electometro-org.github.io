@@ -207,6 +207,10 @@
           "comment": "Ante falta de declaraciones encontradas del candidato relacionadas a este enunciado se toma la posición del partido. El plan de gobierno no se refiere al contenido de este enunciado",
           "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         }
+      },
+      "party": {
+        "id": "p1",
+        "name": "Ahora Nación"
       }
     },
     "c2": {
@@ -303,6 +307,10 @@
           "comment": "El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de Alianza Para el Progreso votó unánimemente a favor.",
           "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187 ; https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2023-2024 -> Segunda Legislatura Ordinaria -> 03/06/2024, pág. 9)"
         }
+      },
+      "party": {
+        "id": "p2",
+        "name": "Alianza para el Progreso"
       }
     },
     "c3": {
@@ -399,6 +407,10 @@
           "comment": "Figuras del APRA como Jorge del Castillo y Luis Wilson Ugarte buscan reelegirse, evidenciando aceptación de la reelección parlamentaria.",
           "source": "https://larepublica.pe/politica/2025/12/01/enrique-valderrama-el-candidato-del-apra-al-2026-los-senadores-y-diputados-que-lo-acompanaran-hnews-93769"
         }
+      },
+      "party": {
+        "id": "p3",
+        "name": "APRA"
       }
     },
     "c4": {
@@ -490,6 +502,10 @@
           "comment": "El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de Avanza País votó unánimemente a favor.",
           "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187 ; https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2023-2024 -> Segunda Legislatura Ordinaria -> 03/06/2024, pág. 9)"
         }
+      },
+      "party": {
+        "id": "p4",
+        "name": "Avanza País"
       }
     },
     "c5": {
@@ -591,6 +607,10 @@
           "comment": "Declaró que la bicameralidad (retorno al Congreso bicameral con Senado y Cámara de Diputados) \"es una gran pendejada\" y que está en desacuerdo con el escenario político actual del Congreso, sin pronunciarse específicamente sobre reelección parlamentaria.",
           "source": "https://elbuho.pe/2024/03/exalcalde-de-la-molina-presenta-su-partido-fe-en-el-peru-la-bicameralidad-es-un-pendejada/"
         }
+      },
+      "party": {
+        "id": "p5",
+        "name": "Fe en el Perú"
       }
     },
     "c7": {
@@ -697,6 +717,9 @@
           "comment": "El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de Fuerza Popular votó unánimemente a favor.",
           "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187 ; https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2023-2024 -> Segunda Legislatura Ordinaria -> 03/06/2024, pág. 9)"
         }
+      },
+      "party": {
+        "name": "Fuerza Popular"
       }
     },
     "c8": {
@@ -773,6 +796,10 @@
           "comment": "La candidata ha criticado al actual congreso por la modificación de artículos constitucionales y por según ella no defender la constitución. Esta posición muestra la importancia que le da la candidata a la constitución actual y por consiguiente la oposición a una asamblea constituyente que modifique eventualmente esta.",
           "source": "https://www.instagram.com/reels/DTJhLjkj3Te/"
         }
+      },
+      "party": {
+        "id": "p8",
+        "name": "Fuerza y Libertad"
       }
     },
     "c9": {
@@ -879,6 +906,10 @@
           "comment": "El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de \"\" votó no unánimemente (8 votos en contra, 1 a favor) en contra.",
           "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187 ; https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2023-2024 -> Segunda Legislatura Ordinaria -> 03/06/2024, pág. 9)"
         }
+      },
+      "party": {
+        "id": "p9",
+        "name": "Juntos por el Perú"
       }
     },
     "c10": {
@@ -985,6 +1016,10 @@
           "comment": "Respaldó la reelección de alcaldes y gobernadores que demuestren buen desempeño, argumentando que \"el desempeño de los funcionarios es limitado\" sin continuidad.",
           "source": "https://www.infobae.com/peru/2024/05/30/reeleccion-de-alcaldes-y-gobernadores-pros-y-contras-de-la-reforma-aprobada-por-el-congreso/"
         }
+      },
+      "party": {
+        "id": "p10",
+        "name": "Libertad Popular"
       }
     },
     "c11": {
@@ -1086,6 +1121,10 @@
           "comment": "En una entrevista de 2025, Álvarez aseguró que debía respetarse el resultado del referéndum sobre la bicameralidad y la reelección, en el que ganó la opción en contra de las mismas.",
           "source": "https://www.facebook.com/PaisParaTodosPe/videos/el-pueblo-es-soberano-y-se-le-respeta-carlos-%C3%A1lvarez-lo-dice-claro-y-sin-rodeos-/829235983415164/"
         }
+      },
+      "party": {
+        "id": "p11",
+        "name": "País para Todos"
       }
     },
     "c12": {
@@ -1177,6 +1216,10 @@
           "comment": "Ricardo Belmont fue alcalde de Lima entre 1990-1992 y buscó activamente su reelección, siendo reelegido en 1993 para el periodo 1993-1995, evidenciando una posición favorable a la reelección de autoridades electas.",
           "source": "https://www.infobae.com/peru/2026/02/04/ricardo-belmont-en-carrera-electoral-perfil-completo-del-candidato-presidencial-del-partido-civico-obras/"
         }
+      },
+      "party": {
+        "id": "p12",
+        "name": "Partido Cívico OBRAS"
       }
     },
     "c13": {
@@ -1273,6 +1316,10 @@
           "comment": "En una entrevista de 2021, Nieto se expresó en contra de la idea de una Asamblea Constituyente para una nueva Constitución.",
           "source": "https://larepublica.pe/elecciones/2021/07/18/elecciones-2021-jorge-nieto-rechaza-formacion-de-asamblea-constituyente-las-prioridades-son-otras-pltc?utm_source=chatgpt.com"
         }
+      },
+      "party": {
+        "id": "p13",
+        "name": "Partido del Buen Gobierno"
       }
     },
     "c14": {
@@ -1329,6 +1376,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: El plan plantea “Retiro de la Convención Americana de Derechos Humanos… será sometido a referéndum”.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf"
         }
+      },
+      "party": {
+        "id": "p14",
+        "name": "Partido Demócrata Unido Perú"
       }
     },
     "c15": {
@@ -1420,6 +1471,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: Propone una reforma constitucional menor para incorporar el principio de planificación territorial vinculante",
           "source": "https://mpesije.jne.gob.pe/docs/3f2a939b-edf2-4505-b709-df775a5e0038.pdf"
         }
+      },
+      "party": {
+        "id": "p15",
+        "name": "Partido Demócrata Verde"
       }
     },
     "c16": {
@@ -1506,6 +1561,10 @@
           "comment": "Propone una reforma estructural para convertir al Perú en un Estado Federal, calificando la actual descentralización como un \"fraude constitucional\".",
           "source": "https://www.youtube.com/watch?v=3f_2cIdLfqs"
         }
+      },
+      "party": {
+        "id": "p16",
+        "name": "Partido Democrático Federal"
       }
     },
     "c17": {
@@ -1602,6 +1661,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: El plan no propone una asamblea constituyente. Más bien formula reformas puntuales dentro del marco vigente, incluyendo la derogatoria del segundo párrafo del artículo 62 de la Constitución.",
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         }
+      },
+      "party": {
+        "id": "p17",
+        "name": "Partido Frente de la Esperanza 2021"
       }
     },
     "c18": {
@@ -1703,6 +1766,10 @@
           "comment": "Si bien propone algunas reformas constitucionales, en su plan de gobierno el Partido Morado defiende varias veces al orden constitucional actual.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf (págs. 21, 86, 91-92)"
         }
+      },
+      "party": {
+        "id": "p18",
+        "name": "Partido Morado"
       }
     },
     "c19": {
@@ -1774,6 +1841,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: Para reducir informalidad, el ideario propone “Crédito MYPE… impulsando la formalización de los emprendedores informales”; no plantea bajar impuestos “en lugar de” formalizar; por tanto no coincide con la afirmación.",
           "source": "https://partidopatrioticodelperu.pe/ideario/"
         }
+      },
+      "party": {
+        "id": "p19",
+        "name": "Partido Patriótico del Perú"
       }
     },
     "c20": {
@@ -1845,6 +1916,10 @@
           "comment": "Declaró que convocará un cambio de la Constitución de 1993 aclarando que \"yo no digo estrictamente Asamblea Constituyente, si se puede, a través de una asamblea; si no se puede, el Congreso lo puede hacer\".",
           "source": "https://larepublica.pe/politica/2026/01/18/yonhy-lescano-no-estoy-de-acuerdo-con-la-postulacion-de-carlos-torres-caro-por-cooperacion-popular-hnews-1777122"
         }
+      },
+      "party": {
+        "id": "p20",
+        "name": "Partido Político Cooperación Popular"
       }
     },
     "c21": {
@@ -1921,6 +1996,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno propone reformas muy puntuales, pero enfatiza que \"toda la acción gubernamental se sustentará en el marco jurídico vigente, incluyendo la Constitución Política.\"",
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
         }
+      },
+      "party": {
+        "id": "p21",
+        "name": "Partido Político Integridad Democrática"
       }
     },
     "c22": {
@@ -1992,6 +2071,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: Propone reformas puntuales a la Constitución vigente y someterlas a referéndums, no convocar una asamblea constituyente para cambiar la Constitución del 93.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Accion-Plan-de-Gobierno-LP.pdf"
         }
+      },
+      "party": {
+        "id": "p23",
+        "name": "Perú Acción"
       }
     },
     "c23": {
@@ -2083,6 +2166,10 @@
           "comment": "En declaraciones de 2022, Cerrón se posicionó a favor de la reelección de autoridades en todos los niveles de gobierno.",
           "source": "https://peru21.pe/politica/vladimir-cerron-a-favor-de-reeleccion-presidencial-de-congresistas-gobernadores-regionales-y-alcaldes-asamblea-constituyente-peru-libre-rmmn-noticia/"
         }
+      },
+      "party": {
+        "id": "p24",
+        "name": "Perú Libre"
       }
     },
     "c24": {
@@ -2139,6 +2226,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: El plan propone prohibir la reelección de autoridades electas, lo que incluye a los parlamentarios.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         }
+      },
+      "party": {
+        "id": "p25",
+        "name": "Perú Moderno"
       }
     },
     "c25": {
@@ -2240,6 +2331,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: El plan critica la ley de 2024 sobre reelección parlamentaria (y bicameralidad) señalando que en el referéndum 2018 se votó “no” a la reelección.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         }
+      },
+      "party": {
+        "id": "p26",
+        "name": "Perú Primero"
       }
     },
     "c26": {
@@ -2341,6 +2436,10 @@
           "comment": "El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de Podemos Perú votó unánimemente a favor.",
           "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187 ; https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2023-2024 -> Segunda Legislatura Ordinaria -> 03/06/2024, pág. 10)"
         }
+      },
+      "party": {
+        "id": "p27",
+        "name": "Podemos Perú"
       }
     },
     "c27": {
@@ -2422,6 +2521,10 @@
           "comment": "Dirigente de Primero la Gente (Del Castillo) descarta asamblea constituyente.",
           "source": "https://canaln.pe/actualidad/primero-gente-castillo-descarta-asamblea-constituyente-n485532"
         }
+      },
+      "party": {
+        "id": "p28",
+        "name": "Primero La Gente"
       }
     },
     "c28": {
@@ -2478,6 +2581,9 @@
           "comment": "El plan señala que no ve necesidad de “grandes cambios refundacionales” y enfatiza respeto a Constitución vigente; por tanto, no apunta a una asamblea constituyente.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
         }
+      },
+      "party": {
+        "name": "PRIN"
       }
     },
     "c29": {
@@ -2534,6 +2640,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: Para reducir informalidad, el plan prioriza ventanilla única digital de formalización, reforma tributaria simplificada e incentivos/subsidios; no plantea que la vía principal sea “bajar impuestos” en lugar de formalizar.",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         }
+      },
+      "party": {
+        "id": "p29",
+        "name": "Progresemos"
       }
     },
     "c30": {
@@ -2620,6 +2730,10 @@
           "comment": "El candidato propone realizar un referendum para consultar por el cambio de Constitución.",
           "source": "https://youtu.be/K2EBmlu6t1k?t=1783"
         }
+      },
+      "party": {
+        "id": "p30",
+        "name": "PTE Perú"
       }
     },
     "c31": {
@@ -2726,6 +2840,10 @@
           "comment": "En Noviembre del 2025, el candidato declaró oponerse al retorno a la bicameralidad. Esta ha permitido la relección a la política. Sin embargo, la bancada de su partido votó en favor del retorno. La posición del candidato no queda clara.",
           "source": "https://rpp.pe/politica/elecciones/bicameralidad-rafael-lopez-aliaga-se-opone-al-retorno-del-senado-que-su-bancada-respaldo-noticia-1663185#:~:text=*%20Pol%C3%ADtica.%20*%20Actualidad.%20*%20Deportes"
         }
+      },
+      "party": {
+        "id": "p31",
+        "name": "Renovación Popular"
       }
     },
     "c32": {
@@ -2782,6 +2900,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: El Plan de Gobierno 2026–2031 enfatiza el respeto a la Constitución y no propone convocar una asamblea constituyente para cambiar la Constitución de 1993.",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         }
+      },
+      "party": {
+        "id": "p32",
+        "name": "Salvemos al Perú"
       }
     },
     "c33": {
@@ -2858,6 +2980,10 @@
           "comment": "Ha señalado que “no es necesario modificar la Constitución de 1993” porque el crecimiento del Perú se ha dado bajo ese marco y que sus reformas estructurales pueden hacerse sin cambiar la Carta vigente, por lo que no promueve convocar una asamblea constituyente para reemplazar la Constitución del 93.",
           "source": "https://www.infobae.com/peru/2026/03/10/carlos-espa-indica-disposicion-a-disolver-la-camara-de-diputados-si-el-congreso-bloquea-reformas/"
         }
+      },
+      "party": {
+        "id": "p33",
+        "name": "SíCreo"
       }
     },
     "c34": {
@@ -2954,6 +3080,10 @@
           "comment": "Durante la campaña presidencial de 2021, Forsyth se posicionó a favor de permitir la reelección de congresistas y autoridades locales para permitir continuidad en el trabajo.",
           "source": "https://rpp.pe/politica/elecciones/george-forsyth-se-muestra-a-favor-de-regresar-a-la-reeleccion-de-congresistas-y-alcaldes-noticia-1327554"
         }
+      },
+      "party": {
+        "id": "p34",
+        "name": "Somos Perú"
       }
     },
     "c35": {
@@ -3000,6 +3130,10 @@
           "comment": "Por falta de información, se tomó la posición del partido: El plan propone “programas de empleo temporal y formalización laboral” e “incentivos” para formalizar, y también formalización minera (REINFO/minería artesanal); por tanto no respalda la idea de reducir impuestos *en lugar de* programas de formalización.",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         }
+      },
+      "party": {
+        "id": "p35",
+        "name": "Un Camino Diferente"
       }
     },
     "c36": {
@@ -3091,6 +3225,10 @@
           "comment": "El propio Roberto Chiabra postula simultáneamente como candidato presidencial y al Senado en las elecciones 2026, evidenciando aceptación de la reelección parlamentaria.",
           "source": "https://www.infobae.com/peru/2026/02/08/roberto-chiabra-perfil-y-hoja-de-vida-del-candidato-del-partido-alianza-unidad-nacional-para-las-elecciones-2026/"
         }
+      },
+      "party": {
+        "id": "p36",
+        "name": "Unidad Nacional"
       }
     },
     "c37": {
@@ -3167,6 +3305,10 @@
           "comment": "Lo indica en el minuto 15:00-17:00 y plan de Gobierno Venceremos",
           "source": "https://www.youtube.com/watch?v=5nWLWiCMMy8&t=2s"
         }
+      },
+      "party": {
+        "id": "p37",
+        "name": "Venceremos"
       }
     }
   }
