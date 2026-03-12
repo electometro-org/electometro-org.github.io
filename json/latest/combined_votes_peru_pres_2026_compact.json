@@ -437,7 +437,7 @@
         },
         "t8": {
           "vote": 0.0,
-          "comment": "En una entrevista que le dió al periodista Diego Acuña, Williams propuso reforzar los equipos SUAT  de la policía, así como también propuso reestructurar la PNP. Mas no propuso que el ejército combata el crimen en las calles.",
+          "comment": "En una entrevista que le dió al periodista Diego Acuña, Williams propuso reforzar los equipos SUAT de la policía, así como también propuso reestructurar la PNP. Mas no propuso que el ejército combata el crimen en las calles.",
           "source": "https://www.youtube.com/watch?v=0ena1xJz9Ro (min. 6-10)"
         },
         "t9": {
@@ -467,8 +467,8 @@
         },
         "t14": {
           "vote": 0.0,
-          "comment": "Si bien el plan de gobierno de Podemos Perú promete mayor inversión pública, prioriza claramente la inversión privada. El énfasis en el caso de la inversión pública es puesto en la \"ejecución\", es decir, en llevar a cabo gran parte de los gastos previstos según el presupuesto estatal. Además, el crecimiento de la inversión estatal es atado a que se cumpla la condición del crecimiento económico.(algo como este;Williams habla de \"asistencialismo\")",
-          "source": "Plan, págs. 10, 18;https://www.instagram.com/reel/DC9uGyMxgu4/;https://www.youtube.com/watch?v=0ena1xJz9Ro (minuto 0-1)"
+          "comment": "Williams se considera \"liberal en lo económico\" e incluso califica negativamente (lo llama \"asistencialismo\") al gasto social del estado.",
+          "source": "Plan, págs. 10, 18;https://www.instagram.com/reel/DC9uGyMxgu4/;https://www.youtube.com/watch?v=0ena1xJz9Ro (minuto 0-1); entrevista de acuña"
         },
         "t15": {
           "vote": 0.0,
@@ -2407,6 +2407,11 @@
           "comment": "Indica consenso partidario en unión civil y debate interno sobre matrimonio igualitario; no fija apoyo explícito al matrimonio igualitario como tal.",
           "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
         },
+        "t17": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: Se compromete a fortalecer la reputación del país en derechos humanos y mejorar su posición en el ranking global de derechos fundamentales",
+          "source": "https://primerolagente.pe/wp-content/uploads/2025/12/PRIMERO-LA-GENTE-Programa-de-gobierno-2026.pdf2"
+        },
         "t18": {
           "vote": 0.0,
           "comment": "Su planteamiento enfatiza formalización mediante incentivos/desincentivos, no “bajar impuestos en lugar de formalizar”.",
@@ -2580,6 +2585,11 @@
           "comment": "El candidato propone dentro de los 100 primeros de su gobierno derogar las leyes que concecionan rios y bosques. Esta posición demuestra la importancia del candidato en la regulación y autodeterminación de conceciones mineras.",
           "source": "https://youtu.be/6jYjs_1LaQE?t=580"
         },
+        "t12": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: Asume como objetivo estratégico la protección del medio ambiente y el desarrollo en armonía con la naturaleza",
+          "source": "https://pte.pe/documentos/"
+        },
         "t13": {
           "vote": 0.0,
           "comment": "El candidato se ha opuesto a que \"extranjeros hagan y deshagan de nuestra riqueza\" y propone eliminar concesiones con extranjeros.",
@@ -2589,6 +2599,11 @@
           "vote": 1.0,
           "comment": "Propone elevar el presupuesto para educación al 10% del PBI y utilizar los recursos que las instituciones devuelven al tesoro por incapacidad de gasto para financiar bonos de juventud.",
           "source": "https://youtu.be/YNBKUvqLg3M?t=2149"
+        },
+        "t16": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: Propone recuperar el rol dirigente del Estado social y rechaza la tercerización de los servicios públicos",
+          "source": "https://pte.pe/documentos/"
         },
         "t17": {
           "vote": 0.0,
@@ -2774,24 +2789,34 @@
       "name": "Alfonso Carlos Espá",
       "votes": {
         "t1": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan prioriza prevención/reinserción y reforma policial (no un enfoque exclusivamente punitivo), por lo que no prioriza el castigo sobre la reintegración.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
+          "vote": 1.0,
+          "comment": "Propuso construir seis penales de máxima seguridad en lugares inhóspitos para 200 cabecillas de organizaciones criminales cada uno, \"sin beneficios penitenciarios\" y \"sin privilegios de visitas\", enfocándose en castigo y control sin mencionar programas de reinserción social.",
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-espa-propone-crear-cinco-penales-maxima-seguridad-1061084.aspx"
+        },
+        "t3": {
+          "vote": 0.5,
+          "comment": "No ha mencionado directamente el veto de por vida de personas sentenciadas. Sin embargo, declaró que su principal bandera es \"secar el pozo de la corrupción\" y propuso \"una lucha frontal contra la corrupción en la administración pública\", señalando que \"cuando el Estado no combate la criminalidad es porque la criminalidad ha penetrado el Estado\".",
+          "source": "https://cosas.pe/actualidad/355614/carlos-espa-precandidato-presidencial-propone-un-cambio-profundo-queremos-secar-el-pozo-de-la-corrupcion/"
         },
         "t4": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan retrata la minería ilegal/informal como amenaza y propone control e interdicción (p.ej., rastreo de insumos como mercurio) más que “regularizar” activamente; por tanto no apoya la regularización activa de la minería informal.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
+          "vote": 1.0,
+          "comment": "Declaró que \"la solución no pasa por el Reinfo\" porque \"fue creado como un instrumento temporal, pero se ha convertido en permanente a través de las mafias que están en el Congreso\", rechazando la extensión del registro de formalización minera y señalando que \"eso tiene que terminar con una ley integral, generada producto del consenso\".",
+          "source": "https://rpp.pe/politica/elecciones/elecciones-2026-carlos-espa-rechaza-ubicarse-en-la-derecha-izquierda-o-centro-noticia-1667699"
         },
         "t6": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: Plantea reducción/simplificación tributaria (eliminar impuestos “antitécnicos”, reducir tasas) y no un esquema de mayor progresividad; por tanto no respalda que “los que tienen más paguen mayor %” como principio central.",
-          "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-carlos-espa-del-partido-si-creo"
+          "comment": "Propuso reducir el Impuesto a la Renta de 30% a 25%, eliminar 35 impuestos \"antitécnicos\", y devolver un punto del IGV a los ciudadanos, evidenciando una posición favorable a la reducción de la carga tributaria en lugar de impuestos progresivos.",
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-espa-propone-eliminar-35-impuestos-antitecnicos-1061618.aspx"
         },
         "t7": {
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del partido: El candidato/líder Carlos Espá (SíCreo) se muestra en contra de la pena de muerte (la califica de “cortina de humo”); por tanto no está de acuerdo con que “está bien que exista la pena de muerte”.",
           "source": "https://peru21.pe/politica/carlos-espa-vs-carlos-alvarez-cuales-son-sus-propuestas-en-temas-de-seguridad/"
+        },
+        "t8": {
+          "vote": 1.0,
+          "comment": "Infobae señaló que \"el candidato habla de mano dura contra organizaciones criminales y el uso de las Fuerzas Armadas para pacificar el país\" y que \"su plan de seguridad se ejecutará con el apoyo conjunto de las Fuerzas Armadas, la Policía Nacional y las rondas urbanas y campesinas\".",
+          "source": "https://www.infobae.com/peru/2025/12/27/carlos-espa-se-pronuncia-tras-rechazo-en-el-sur-no-le-cerramos-la-puerta-a-nadie-pese-a-rechazo-por-incorporacion-de-jorge-montoya/"
         },
         "t9": {
           "vote": 0.0,
@@ -2799,9 +2824,9 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t10": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea frenar la migración ilegal con fortalecimiento de FF.AA./PNP y control fronterizo, no prioriza regularizar a irregulares sobre deportación/control; por tanto no está de acuerdo con esa prioridad.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
+          "vote": 0.5,
+          "comment": "Al responder sobre migración venezolana, Espá pide tratar bien a los extranjeros que llegaron “con dolor”, rechaza la xenofobia y señala que muchos venezolanos son “buenas personas” que se han incorporado al país, pero ante la pregunta sobre expulsiones solo afirma que a los delincuentes hay que aplicarles todo el rigor de la ley y encarcelarlos según la gravedad del delito, sin plantear una política clara de regularización masiva ni de deportación sistemática.",
+          "source": "https://youtu.be/ruO2PhztLmg?t=3279"
         },
         "t12": {
           "vote": 1.0,
@@ -2810,18 +2835,28 @@
         },
         "t13": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan promueve inversión privada y menciona explícitamente inversión “nacional y extranjera”; por tanto sí considera necesaria la inversión extranjera para el desarrollo.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
+          "comment": "Plantea crear zonas económicas especiales fronterizas para que “ingresen las grandes empresas internacionales” y generen cinco millones de empleos.",
+          "source": "https://elperuano.pe/noticia/289353-carlos-espa-promoveremos-un-crecimiento-economico-de-abajo-hacia-arriba-entrevista"
         },
         "t14": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan enfatiza recorte de erogaciones superfluas, eficiencia y mayor rol privado, no “invertir más en instituciones estatales en vez de reducir gastos”; por tanto no respalda esa prioridad.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
+          "comment": "Ha propuesto crear “super ministerios”, fusionar carteras y absorber otras (por ejemplo, que Cultura sea absorbido por Educación, crear un gran ministerio de obras públicas y “eliminar” algunos ministerios), además de cuestionar el incremento del presupuesto del Congreso, lo que apunta a recortar y reorganizar gasto estatal antes que a una apuesta explícita por invertir más en instituciones públicas en lugar de reducir gastos.",
+          "source": "https://diariocorreo.pe/politica/carlos-espa-hay-ministerios-que-efectivamente-vamos-a-eliminar-noticia/"
+        },
+        "t15": {
+          "vote": 0.0,
+          "comment": "En entrevista sobre derechos LGBTIQ+ afirmó que está “a favor de la no discriminación” y de que el Estado garantice derechos patrimoniales para que nadie sea discriminado por su orientación sexual, pero añadió expresamente: “no estamos a favor de la unión civil”, rechazando incluso esta figura limitada; en consecuencia, se opone también a reconocer el matrimonio igualitario para parejas del mismo sexo.",
+          "source": "https://elcomercio.pe/politica/carlos-espa-preferimos-presentar-una-lista-de-candidatos-autentica-y-no-aparentar-que-tenemos-una-estructura-que-no-tenemos-entrevista-elecciones-2026-noticia/"
         },
         "t18": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea bajar costos de legalidad/formalidad vía simplificación tributaria y reducción de tasas, más que depender de “programas de formalización”; por tanto sí está de acuerdo.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
+          "comment": "Argumentó que hoy “el Estado genera tantos trámites, tantas barreras burocráticas… y sigue inventando y aumentando impuestos” y que eliminar impuestos y trabas hará que “la formalización no sea un castigo”; es decir, vincula explícitamente la reducción de informalidad con bajar impuestos y cargas, más que con nuevos programas de formalización.",
+          "source": "https://youtu.be/KJoHGWm932g?t=311"
+        },
+        "t19": {
+          "vote": 0.0,
+          "comment": "Ha señalado que “no es necesario modificar la Constitución de 1993” porque el crecimiento del Perú se ha dado bajo ese marco y que sus reformas estructurales pueden hacerse sin cambiar la Carta vigente, por lo que no promueve convocar una asamblea constituyente para reemplazar la Constitución del 93.",
+          "source": "https://www.infobae.com/peru/2026/03/10/carlos-espa-indica-disposicion-a-disolver-la-camara-de-diputados-si-el-congreso-bloquea-reformas/"
         }
       }
     },

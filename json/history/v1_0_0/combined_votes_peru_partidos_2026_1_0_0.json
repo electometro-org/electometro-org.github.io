@@ -769,9 +769,9 @@
           "question_key": "questions.t8",
           "topic_key": "topics.t8",
           "vote": 0.0,
-          "comment": "El plan insiste en fortalecer Policía, inteligencia, cooperación internacional y presencia territorial policial, pero no hay una propuesta explícita de militarizar las calles.",
+          "comment": "El plan insiste en fortalecer y reformar a la Policía (PNP), pero no no propone militarizar la seguridad pública.",
           "comment_key": "explanations.parties.p4.t8",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 27-28)",
           "source_type": "party"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -841,9 +841,9 @@
           "question_key": "questions.t14",
           "topic_key": "topics.t14",
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Si bien el plan de gobierno de Podemos Perú promete mayor inversión pública, prioriza claramente la inversión privada. El énfasis en el caso de la inversión pública es puesto en la \"ejecución\", es decir, en llevar a cabo gran parte de los gastos previstos según el presupuesto estatal. Además, el crecimiento de la inversión estatal es atado a que se cumpla la condición del crecimiento económico.(algo como este;Williams habla de \"asistencialismo\")",
+          "comment": "Por falta de información, se tomó la posición del candidato: Williams se considera \"liberal en lo económico\" e incluso califica negativamente (lo llama \"asistencialismo\") al gasto social del estado.",
           "comment_key": "explanations.parties.p4.t14",
-          "source": "Plan, págs. 10, 18;https://www.instagram.com/reel/DC9uGyMxgu4/;https://www.youtube.com/watch?v=0ena1xJz9Ro (minuto 0-1)",
+          "source": "Plan, págs. 10, 18;https://www.instagram.com/reel/DC9uGyMxgu4/;https://www.youtube.com/watch?v=0ena1xJz9Ro (minuto 0-1); entrevista de acuña",
           "source_type": "candidate_fallback"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
@@ -4029,7 +4029,7 @@
           "question_key": "questions.t8",
           "topic_key": "topics.t8",
           "vote": 1.0,
-          "comment": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.: Propone “control territorial disuasivo” por PNP y FFAA; y Lescano plantea apoyo de FFAA junto a PNP/serenazgo/juntas vecinales para seguridad.",
+          "comment": "Propone “control territorial disuasivo” por PNP y FFAA; y Lescano plantea apoyo de FFAA junto a PNP/serenazgo/juntas vecinales para seguridad.",
           "comment_key": "explanations.parties.p20.t8",
           "source": "https://mpesije.jne.gob.pe/docs/3f2a939b-edf2-4505-b709-df775a5e0038.pdf",
           "source_type": "party"
@@ -5532,11 +5532,11 @@
           "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
           "question_key": "questions.t8",
           "topic_key": "topics.t8",
-          "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: El candidato propone “estado de excepción” y reorganización policial/MP/INPE, pero no hallé una propuesta explícita de “mayor presencia militar en las calles” como política general.",
+          "vote": 0.0,
+          "comment": "Asegura que el empleo de las FF.AA. para el orden interno debe ser excepcional y estar subordinado a la conducción civil",
           "comment_key": "explanations.parties.p28.t8",
-          "source": "https://andina.pe/agencia/noticia-elecciones-2026-walter-chirinos-del-prin-propone-estado-excepcion-contra-criminalidad-1061053.aspx (andina.pe)",
-          "source_type": "candidate_fallback"
+          "source": "https://primerolagente.pe/wp-content/uploads/2025/12/PRIMERO-LA-GENTE-Programa-de-gobierno-2026.pdf",
+          "source_type": "party"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "id_tema": "t9",
@@ -5581,10 +5581,10 @@
           "question_key": "questions.t13",
           "topic_key": "topics.t13",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Plantea “atraer inversión/atraer capitales” y mejorar la confianza de inversores, incluyendo referencia a “capitales… extranjeros”.",
+          "comment": "Busca restablecer la predictibilidad para actores económicos y reducir controversias con inversionistas internacionales para atraer capitales",
           "comment_key": "explanations.parties.p28.t13",
-          "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-walter-chirinos-purizaga-del-partido-politico-prin (TVPerú)",
-          "source_type": "candidate_fallback"
+          "source": "https://primerolagente.pe/wp-content/uploads/2025/12/PRIMERO-LA-GENTE-Programa-de-gobierno-2026.pdf",
+          "source_type": "party"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "id_tema": "t14",
@@ -5596,6 +5596,18 @@
           "comment": "El plan se centra en fortalecer capacidades estatales (p.ej., centro de gobierno/modernización, integridad, sistemas públicos) y no en recortes como eje principal.",
           "comment_key": "explanations.parties.p28.t14",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf",
+          "source_type": "party"
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "id_tema": "t17",
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.t17",
+          "topic_key": "topics.t17",
+          "vote": 1.0,
+          "comment": "Se compromete a fortalecer la reputación del país en derechos humanos y mejorar su posición en el ranking global de derechos fundamentales",
+          "comment_key": "explanations.parties.p28.t17",
+          "source": "https://primerolagente.pe/wp-content/uploads/2025/12/PRIMERO-LA-GENTE-Programa-de-gobierno-2026.pdf2",
           "source_type": "party"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -5860,17 +5872,29 @@
           "source": "https://peruvotoinformado.com/img/2026/partido/plan-partido-de-los-trabajadores-y-emprendedores-pte-peru.pdf",
           "source_type": "party"
         },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "id_tema": "t12",
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.t12",
+          "topic_key": "topics.t12",
+          "vote": 1.0,
+          "comment": "Asume como objetivo estratégico la protección del medio ambiente y el desarrollo en armonía con la naturaleza",
+          "comment_key": "explanations.parties.p30.t12",
+          "source": "https://pte.pe/documentos/",
+          "source_type": "party"
+        },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
           "id_tema": "t13",
           "tema": "Inversión extranjera",
           "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
           "question_key": "questions.t13",
           "topic_key": "topics.t13",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El candidato se ha opuesto a que \"extranjeros hagan y deshagan de nuestra riqueza\" y propone eliminar concesiones con extranjeros.",
+          "vote": 1.0,
+          "comment": "Propone promover la inversión pública y privada para aprovechar competitivamente las oportunidades de la economía mundial",
           "comment_key": "explanations.parties.p30.t13",
-          "source": "https://youtu.be/K2EBmlu6t1k?t=1832",
-          "source_type": "candidate_fallback"
+          "source": "https://pte.pe/documentos/",
+          "source_type": "party"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "id_tema": "t14",
@@ -5882,6 +5906,18 @@
           "comment": "El plan plantea “recuperar el rol dirigente del Estado” y critica el modelo neoliberal, lo que es consistente con invertir/fortalecer instituciones estatales en vez de reducir gastos.",
           "comment_key": "explanations.parties.p30.t14",
           "source": "https://peruvotoinformado.com/img/2026/partido/plan-partido-de-los-trabajadores-y-emprendedores-pte-peru.pdf",
+          "source_type": "party"
+        },
+        "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
+          "id_tema": "t16",
+          "tema": "Pensión pública",
+          "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.",
+          "question_key": "questions.t16",
+          "topic_key": "topics.t16",
+          "vote": 1.0,
+          "comment": "Propone recuperar el rol dirigente del Estado social y rechaza la tercerización de los servicios públicos",
+          "comment_key": "explanations.parties.p30.t16",
+          "source": "https://pte.pe/documentos/",
           "source_type": "party"
         },
         "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
@@ -6307,6 +6343,18 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party"
         },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "id_tema": "t3",
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "question_key": "questions.t3",
+          "topic_key": "topics.t3",
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: No ha mencionado directamente el veto de por vida de personas sentenciadas. Sin embargo, declaró que su principal bandera es \"secar el pozo de la corrupción\" y propuso \"una lucha frontal contra la corrupción en la administración pública\", señalando que \"cuando el Estado no combate la criminalidad es porque la criminalidad ha penetrado el Estado\".",
+          "comment_key": "explanations.parties.p33.t3",
+          "source": "https://cosas.pe/actualidad/355614/carlos-espa-precandidato-presidencial-propone-un-cambio-profundo-queremos-secar-el-pozo-de-la-corrupcion/",
+          "source_type": "candidate_fallback"
+        },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
           "id_tema": "t4",
           "tema": "Minería informal",
@@ -6342,6 +6390,18 @@
           "comment_key": "explanations.parties.p33.t7",
           "source": "https://peru21.pe/politica/carlos-espa-vs-carlos-alvarez-cuales-son-sus-propuestas-en-temas-de-seguridad/",
           "source_type": "party"
+        },
+        "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
+          "id_tema": "t8",
+          "tema": "Presencia militar",
+          "question": "Debería haber una mayor presencia militar en las calles para combatir la criminalidad.",
+          "question_key": "questions.t8",
+          "topic_key": "topics.t8",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Infobae señaló que \"el candidato habla de mano dura contra organizaciones criminales y el uso de las Fuerzas Armadas para pacificar el país\" y que \"su plan de seguridad se ejecutará con el apoyo conjunto de las Fuerzas Armadas, la Policía Nacional y las rondas urbanas y campesinas\".",
+          "comment_key": "explanations.parties.p33.t8",
+          "source": "https://www.infobae.com/peru/2025/12/27/carlos-espa-se-pronuncia-tras-rechazo-en-el-sur-no-le-cerramos-la-puerta-a-nadie-pese-a-rechazo-por-incorporacion-de-jorge-montoya/",
+          "source_type": "candidate_fallback"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "id_tema": "t9",
@@ -6403,6 +6463,18 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party"
         },
+        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "id_tema": "t15",
+          "tema": "Matrimonio igualitario",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.t15",
+          "topic_key": "topics.t15",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En entrevista sobre derechos LGBTIQ+ afirmó que está “a favor de la no discriminación” y de que el Estado garantice derechos patrimoniales para que nadie sea discriminado por su orientación sexual, pero añadió expresamente: “no estamos a favor de la unión civil”, rechazando incluso esta figura limitada; en consecuencia, se opone también a reconocer el matrimonio igualitario para parejas del mismo sexo.",
+          "comment_key": "explanations.parties.p33.t15",
+          "source": "https://elcomercio.pe/politica/carlos-espa-preferimos-presentar-una-lista-de-candidatos-autentica-y-no-aparentar-que-tenemos-una-estructura-que-no-tenemos-entrevista-elecciones-2026-noticia/",
+          "source_type": "candidate_fallback"
+        },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
           "id_tema": "t18",
           "tema": "Informalidad",
@@ -6414,6 +6486,18 @@
           "comment_key": "explanations.parties.p33.t18",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party"
+        },
+        "Nueva constitución: Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.": {
+          "id_tema": "t19",
+          "tema": "Nueva constitución",
+          "question": "Debería convocarse a una asamblea contituyente para cambiar la constitución del 93.",
+          "question_key": "questions.t19",
+          "topic_key": "topics.t19",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Ha señalado que “no es necesario modificar la Constitución de 1993” porque el crecimiento del Perú se ha dado bajo ese marco y que sus reformas estructurales pueden hacerse sin cambiar la Carta vigente, por lo que no promueve convocar una asamblea constituyente para reemplazar la Constitución del 93.",
+          "comment_key": "explanations.parties.p33.t19",
+          "source": "https://www.infobae.com/peru/2026/03/10/carlos-espa-indica-disposicion-a-disolver-la-camara-de-diputados-si-el-congreso-bloquea-reformas/",
+          "source_type": "candidate_fallback"
         }
       }
     },
