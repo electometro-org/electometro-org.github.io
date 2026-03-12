@@ -7,6 +7,15 @@ on:
       - completed
 
   workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Upload destination'
+        required: true
+        type: choice
+        default: 'qa'
+        options:
+          - 'qa'
+          - 'production'
 
 jobs:
   upload:
@@ -26,14 +35,22 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           R2_BUCKET: ${{ secrets.R2_BUCKET }}
         run: |
+          # Determine path prefix based on environment (default to qa for workflow_run triggers)
+          if [ "${{ inputs.environment }}" = "production" ]; then
+            PATH_PREFIX=""
+          else
+            PATH_PREFIX="qa/"
+          fi
+          echo "Uploading to: ${PATH_PREFIX}elections/..."
+
           # Upload from json/latest/ directory, stripping version suffix
           for file in json/latest/*.json; do
             if [ -f "$file" ]; then
               filename=$(basename "$file")
               # Strip version suffix: combined_votes_peru_partidos_2026_v1.2.3.json -> combined_votes_peru_partidos_2026.json
               base_filename=$(echo "$filename" | sed -E 's/_v[0-9]+\.[0-9]+\.[0-9]+\.json/.json/')
-              country_year=$(echo "$base_filename" | sed -E 's/combined_votes_([a-z]+)_[a-z]+_([0-9]+)\.json/\1_\2/')
-              echo "Uploading $filename as $base_filename to elections/$country_year/"
-              wrangler r2 object put "$R2_BUCKET/elections/$country_year/$base_filename" --file "$file" --remote
+              country_year=$(echo "$base_filename" | sed -E 's/combined_votes_([a-z]+)_[a-z]+_([0-9]+)(_compact)?\.json/\1_\2/')
+              echo "Uploading $filename as $base_filename to elections/${PATH_PREFIX}$country_year/"
+              wrangler r2 object put "$R2_BUCKET/elections/${PATH_PREFIX}$country_year/$base_filename" --file "$file" --remote
             fi
           done
