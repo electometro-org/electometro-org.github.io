@@ -1702,7 +1702,7 @@
           "source": "https://www.youtube.com/watch?v=MT7Vkw-npVQ (min. 3)"
         },
         "t7": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El Partido Morado se opone a la pena de muerte, como lo evidencia entre otras cosas su adhesión al Pacto de San José.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf (págs. 247, 254, 264); https://peru21.pe/politica/alberto-de-belaunde-iniciativa-de-martin-vizcarra-para-debatir-pena-de-muerte-es-poco-prudente-noticia/#:~:text=Vuelve%20a%20la%20pol%C3%A9mica%20y%20al%20giro,a%20quienes%20cometan%20cr%C3%ADmenes%20contra%20las%20mujeres%2C"
         },
@@ -2033,8 +2033,8 @@
         },
         "t7": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: Busca la salida de la CIDH para instaurar la pena de muerte para presidentes corruptos, asesinos, sicarios y violadores.",
-          "source": "https://mpesije.jne.gob.pe/docs/f4e5c2c2-b0df-4033-adda-6617af774154.pdf"
+          "comment": "En una entrevista, el candidate Francisco Diez-Canseco sostiene que es necesario aplicar la pena de muerte para sicarios,",
+          "source": null
         },
         "t8": {
           "vote": 1.0,
@@ -2177,29 +2177,44 @@
       "name": "Carlos Jaico",
       "votes": {
         "t1": {
-          "vote": 1.0,
-          "comment": "Perú Moderno define la criminalidad como problema central y propone endurecer sanciones",
-          "source": "https://perumoderno.pe/ideario"
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del partido: No hay evidencia en sus documentos públicos de propuestas significativas de rehabilitación o reintegración social de criminales. El enfoque está orientado al control, la represión del crimen organizado y el fortalecimiento policial, sin un enfoque punitivo ni de rehabilitación.",
+          "source": "https://mpesije.jne.gob.pe/docs/12de1a7b-008b-43c5-9159-c62c9b45eab1.pdf"
         },
         "t3": {
           "vote": 1.0,
-          "comment": "Perú Moderno centra su discurso en lucha anticorrupción con sanciones duras",
-          "source": "https://perumoderno.pe/ideario"
+          "comment": "Carlos Jaico tiene como propuesta \"muerte civil\" para políticos condenados por corrupción.",
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-jaico-plantea-muerte-civil-funcionarios-corruptos-condenados-1063930.aspx"
         },
         "t9": {
           "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del partido: El programa prioriza el fortalecimiento, modernización y ampliación de la salud pública como responsabilidad central del Estado.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
-        "t13": {
+        "t10": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea controles intensivos de fronteras, “reconducciones”, eliminar “privilegios a migrantes irregulares” y sancionar a quienes colaboren con ellos o los contraten.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
+        },
+        "t11": {
           "vote": 0.5,
-          "comment": "Economía social de mercado; no mención directa a IED",
-          "source": "https://perumoderno.pe/ideario"
+          "comment": "Por falta de información, se tomó la posición del partido: El plan sí habla de respeto al medio ambiente y coordinación con comunidades indígenas para proteger territorios, pero no hay una propuesta de derecho de veto sobre proyectos extractivos.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
+        },
+        "t12": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye varias medidas climáticas y ambientales: adaptación al cambio climático, alertas tempranas, restauración de zonas degradadas, manejo de cuencas, prevención de incendios y protección ecosistémica.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
+        },
+        "t13": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan promueve activamente la atracción de inversión extranjera como motor del desarrollo económico.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
         "t14": {
           "vote": 0.0,
-          "comment": "Ideario de Estado subsidiario y disciplina fiscal",
-          "source": "https://perumoderno.pe/ideario"
+          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea reducción y racionalización del Estado antes que una expansión general del gasto institucional.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
         "t16": {
           "vote": 0.0,
@@ -2932,7 +2947,7 @@
         },
         "t7": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El candidato/líder Carlos Espá (SíCreo) se muestra en contra de la pena de muerte (la califica de “cortina de humo”); por tanto no está de acuerdo con que “está bien que exista la pena de muerte”.",
+          "comment": "Se muestra en contra de la pena de muerte (la califica de “cortina de humo”).",
           "source": "https://peru21.pe/politica/carlos-espa-vs-carlos-alvarez-cuales-son-sus-propuestas-en-temas-de-seguridad/"
         },
         "t8": {
@@ -2942,7 +2957,7 @@
         },
         "t9": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan enfatiza eficiencia y participación privada (p.ej., privatización/participación privada en servicios), no prioriza explícitamente “más presupuesto a salud pública en vez de fomentar la privada”; por tanto no respalda esa prioridad.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan enfatiza eficiencia y participación privada.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t10": {
@@ -2952,7 +2967,7 @@
         },
         "t12": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye “adaptación al cambio climático”, “transición energética” y cumplimiento de compromisos ambientales; por tanto sí respalda que combatir el cambio climático sea una obligación principal del gobierno.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye “adaptación al cambio climático”, “transición energética” y cumplimiento de compromisos ambientales.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t13": {
@@ -3092,13 +3107,23 @@
       "votes": {
         "t1": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno propone un enfoque fuertemente punitivo/militarizado contra la delincuencia (p.ej., fusionar Defensa e Interior en un “ministerio de GUERRA”, grupos de inteligencia con apoyo de FF.AA., “Ley de Amparo al Policía”), y no plantea medidas de reinserción como eje central.",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+          "comment": "En febrero del 2026, la candidata propuso crear un “ministerio de guerra”, derogar “leyes pro-crimen” y enfrentar la inseguridad con una lógica de mano dura.",
+          "source": "https://elperuano.pe/noticia/289119-rosario-del-pilar-fernandez-proponemos-un-ministerio-de-guerra-para-enfrentar-el-crimen"
+        },
+        "t2": {
+          "vote": 0.5,
+          "comment": "En marzo del 2026, el resumen oficial de su plan de gobierno difundido por El Peruano no incluyó propuestas sobre educación sexual integral ni sobre enfoque de género en el currículo escolar. No queda clara su posición frente a este enunciado.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
+        },
+        "t3": {
+          "vote": 0.0,
+          "comment": "En enero del 2026, la candidata habló de una “lucha frontal contra la corrupción” y de democratizar la justicia, pero no planteó de manera explícita una inhabilitación de por vida para personas con sentencias por corrupción.",
+          "source": "https://www.rcrperu.com/candidata-rosario-del-pilar-fernandez-de-un-camino-diferente-propone-democratizar-la-justicia-y-una-lucha-frontal-contra-la-corrupcion/"
         },
         "t4": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea “Solución definitiva al REINFO y formalización minera” y también “Formalización de la minería artesanal”, lo que implica una postura a favor de regularizar/impulsar formalización de la minería informal.",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+          "comment": "En febrero del 2026, Rosario Fernández sostuvo que había que “facilitar el camino a la formalización” de la minería y destrabar el Reinfo para que los pequeños mineros puedan formalizarse, mientras se sanciona a quienes contaminan.",
+          "source": "https://elperuano.pe/noticia/289119-rosario-del-pilar-fernandez-proponemos-un-ministerio-de-guerra-para-enfrentar-el-crimen"
         },
         "t5": {
           "vote": 0.0,
@@ -3107,28 +3132,43 @@
         },
         "t8": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan propone integrar Interior y Defensa (FF.AA.) en un solo “ministerio de GUERRA” y crear escuadrones/grupos de inteligencia con apoyo de FF.AA., lo que es consistente con mayor presencia/rol militar en seguridad interna.",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+          "comment": "En febrero del 2026, la candidata propuso fusionar Defensa e Interior en un “ministerio de guerra” y articular a las Fuerzas Armadas con la Policía para combatir el crimen organizado. Esto la ubica a favor de una mayor presencia militar en la lucha contra la criminalidad.",
+          "source": "https://www.rcrperu.com/candidata-rosario-del-pilar-fernandez-de-un-camino-diferente-propone-democratizar-la-justicia-y-una-lucha-frontal-contra-la-corrupcion/"
         },
         "t9": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan prioriza expansión/fortalecimiento de servicios públicos (p.ej., campañas gratuitas, creación de postas, atención 24/7; además “Unificación ESSALUD y MINSA”), sin un énfasis en fomentar salud privada.",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+          "comment": "En enero del 2026, Rosario Fernández planteó fortalecer la salud preventiva, ampliar postas médicas, mejorar el acceso a medicamentos e implementar más infraestructura y atención pública. Estas propuestas la ubican a favor de reforzar la salud pública antes que priorizar la salud privada.",
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-rosario-fernandez-plantea-impulso-de-salud-preventiva-la-poblacion-1061240.aspx"
+        },
+        "t11": {
+          "vote": 0.0,
+          "comment": "El resumen oficial de su plan de gobierno no incluyó una propuesta que otorgue a los pueblos indígenas poder de veto sobre proyectos extractivos en sus territorios.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
         },
         "t12": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye, en el enfoque ambiental, control de contaminación/gestión de residuos, economía circular y “gestión del riesgo climático” (incluyendo reducción de emisiones de GEI), consistente con priorizar medidas frente al cambio climático.",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+          "vote": 0.0,
+          "comment": "El resumen oficial de su plan de gobierno no desarrolló de forma específica una agenda climática.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
+        },
+        "t13": {
+          "vote": 0.0,
+          "comment": "El resumen del plan oficial no formula de manera explícita una defensa de la inversión extranjera como condición necesaria para el desarrollo del país.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
         },
         "t14": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea fortalecimiento/expansión institucional y de servicios públicos (p.ej., reestructuración de la Junta Nacional de Justicia, creación de Oficina Nacional Anticorrupción, unificación ESSALUD-MINSA), lo que es consistente con invertir más en instituciones estatales en vez de recortar gastos.",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+          "vote": 0.0,
+          "comment": "En marzo del 2026, el resumen oficial de su plan de gobierno señaló que la candidata propone “reducir el aparato estatal pasando de 19 a 8 ministerios”.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
+        },
+        "t17": {
+          "vote": 0.5,
+          "comment": "En marzo del 2026, el resumen oficial de su plan de gobierno no incluyó una postura expresa sobre la autoridad de la Corte Interamericana de Derechos Humanos ni sobre la permanencia del Perú bajo su jurisdicción. Con la información pública revisada, no queda clara su posición frente a este enunciado.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
         },
         "t18": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan propone “programas de empleo temporal y formalización laboral” e “incentivos” para formalizar, y también formalización minera (REINFO/minería artesanal); por tanto no respalda la idea de reducir impuestos *en lugar de* programas de formalización.",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+          "comment": "En febrero del 2026, Rosario Fernández defendió “facilitar el camino a la formalización” de la minería y destrabar los obstáculos del Reinfo, en lugar de plantear la rebaja de impuestos como principal herramienta contra la informalidad. Esto la ubica en contra del enunciado tal como está formulado.",
+          "source": "https://elperuano.pe/noticia/289119-rosario-del-pilar-fernandez-proponemos-un-ministerio-de-guerra-para-enfrentar-el-crimen"
         }
       },
       "party": {
@@ -3147,7 +3187,7 @@
         },
         "t2": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan rechaza la “educación sexual integral con enfoque de género” y plantea sustituirla por educación basada en valores y biología; por tanto NO está de acuerdo con que sea obligatoria.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan rechaza la “educación sexual integral con enfoque de género” y plantea sustituirla por educación basada en valores y biología.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t3": {
@@ -3162,7 +3202,7 @@
         },
         "t5": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: Un líder clave del bloque (PPC) se pronunció contra despenalizar el aborto en casos de violación (debate/archivamiento del proyecto); por tanto NO está de acuerdo con permitirlo.",
+          "comment": "Por falta de información, se tomó la posición del partido: Un líder clave del bloque (PPC) se pronunció contra despenalizar el aborto en casos de violación (debate/archivamiento del proyecto).",
           "source": "https://www.americaeconomia.com/politica-sociedad/politica/peru-archivan-proyecto-para-despenalizar-aborto-en-casos-de-violacion-sex"
         },
         "t7": {
@@ -3187,7 +3227,7 @@
         },
         "t12": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye compromisos ambientales (reforestación, “bonos de carbono”, y turismo “carbono negativo”), lo que indica que sí prioriza medidas vinculadas a cambio climático/sostenibilidad.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye compromisos ambientales (reforestación, “bonos de carbono”, y turismo “carbono negativo”).",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t13": {
@@ -3202,7 +3242,7 @@
         },
         "t15": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: Una lideresa histórica asociada a Unidad Nacional/PPC se pronunció contra el matrimonio gay (“no a matrimonios gays”); por tanto NO está de acuerdo con matrimonio igualitario.",
+          "comment": "Por falta de información, se tomó la posición del partido: Una lideresa histórica asociada a Unidad Nacional/PPC se pronunció contra el matrimonio gay (“no a matrimonios gays”).",
           "source": "https://rpp.pe/politica/actualidad/flores-nano-le-dice-no-a-matrimonios-gays-en-peru-noticia-280671"
         },
         "t17": {
@@ -3217,7 +3257,7 @@
         },
         "t19": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan reivindica el marco constitucional vigente (economía social de mercado, referencia a Constitución de 1993) y no plantea asamblea constituyente para reemplazarla; por tanto NO está de acuerdo con convocarla para cambiar la del 93.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan reivindica el marco constitucional vigente (economía social de mercado, referencia a Constitución de 1993) y no plantea asamblea constituyente para reemplazarla.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t20": {

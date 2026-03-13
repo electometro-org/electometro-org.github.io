@@ -3567,7 +3567,7 @@
           "question": "Está bien que exista la pena de muerte en el Perú.",
           "question_key": "questions.t7",
           "topic_key": "topics.t7",
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El Partido Morado se opone a la pena de muerte, como lo evidencia entre otras cosas su adhesión al Pacto de San José.",
           "comment_key": "explanations.candidates.c18.t7",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf (págs. 247, 254, 264); https://peru21.pe/politica/alberto-de-belaunde-iniciativa-de-martin-vizcarra-para-debatir-pena-de-muerte-es-poco-prudente-noticia/#:~:text=Vuelve%20a%20la%20pol%C3%A9mica%20y%20al%20giro,a%20quienes%20cometan%20cr%C3%ADmenes%20contra%20las%20mujeres%2C",
@@ -4292,10 +4292,10 @@
           "question_key": "questions.t7",
           "topic_key": "topics.t7",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: Busca la salida de la CIDH para instaurar la pena de muerte para presidentes corruptos, asesinos, sicarios y violadores.",
+          "comment": "En una entrevista, el candidate Francisco Diez-Canseco sostiene que es necesario aplicar la pena de muerte para sicarios,",
           "comment_key": "explanations.candidates.c22.t7",
-          "source": "https://mpesije.jne.gob.pe/docs/f4e5c2c2-b0df-4033-adda-6617af774154.pdf",
-          "source_type": "party_fallback"
+          "source": null,
+          "source_type": "candidate"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "id_tema": "t8",
@@ -4605,11 +4605,11 @@
           "question": "El estado debería priorizar el castigo de criminales en vez de su reintegración en la sociedad.",
           "question_key": "questions.t1",
           "topic_key": "topics.t1",
-          "vote": 1.0,
-          "comment": "Perú Moderno define la criminalidad como problema central y propone endurecer sanciones",
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del partido: No hay evidencia en sus documentos públicos de propuestas significativas de rehabilitación o reintegración social de criminales. El enfoque está orientado al control, la represión del crimen organizado y el fortalecimiento policial, sin un enfoque punitivo ni de rehabilitación.",
           "comment_key": "explanations.candidates.c24.t1",
-          "source": "https://perumoderno.pe/ideario",
-          "source_type": "candidate"
+          "source": "https://mpesije.jne.gob.pe/docs/12de1a7b-008b-43c5-9159-c62c9b45eab1.pdf",
+          "source_type": "party_fallback"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
           "id_tema": "t3",
@@ -4618,9 +4618,9 @@
           "question_key": "questions.t3",
           "topic_key": "topics.t3",
           "vote": 1.0,
-          "comment": "Perú Moderno centra su discurso en lucha anticorrupción con sanciones duras",
+          "comment": "Carlos Jaico tiene como propuesta \"muerte civil\" para políticos condenados por corrupción.",
           "comment_key": "explanations.candidates.c24.t3",
-          "source": "https://perumoderno.pe/ideario",
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-jaico-plantea-muerte-civil-funcionarios-corruptos-condenados-1063930.aspx",
           "source_type": "candidate"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
@@ -4635,17 +4635,53 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf",
           "source_type": "party_fallback"
         },
+        "Migración: El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.": {
+          "id_tema": "t10",
+          "tema": "Migración",
+          "question": "El Estado debería priorizar el reconocimiento legal de las personas con situación migratoria irregular en vez de su deportación.",
+          "question_key": "questions.t10",
+          "topic_key": "topics.t10",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea controles intensivos de fronteras, “reconducciones”, eliminar “privilegios a migrantes irregulares” y sancionar a quienes colaboren con ellos o los contraten.",
+          "comment_key": "explanations.candidates.c24.t10",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf",
+          "source_type": "party_fallback"
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "id_tema": "t11",
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.t11",
+          "topic_key": "topics.t11",
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan sí habla de respeto al medio ambiente y coordinación con comunidades indígenas para proteger territorios, pero no hay una propuesta de derecho de veto sobre proyectos extractivos.",
+          "comment_key": "explanations.candidates.c24.t11",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf",
+          "source_type": "party_fallback"
+        },
+        "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
+          "id_tema": "t12",
+          "tema": "Cambio climático",
+          "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
+          "question_key": "questions.t12",
+          "topic_key": "topics.t12",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye varias medidas climáticas y ambientales: adaptación al cambio climático, alertas tempranas, restauración de zonas degradadas, manejo de cuencas, prevención de incendios y protección ecosistémica.",
+          "comment_key": "explanations.candidates.c24.t12",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf",
+          "source_type": "party_fallback"
+        },
         "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
           "id_tema": "t13",
           "tema": "Inversión extranjera",
           "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
           "question_key": "questions.t13",
           "topic_key": "topics.t13",
-          "vote": 0.5,
-          "comment": "Economía social de mercado; no mención directa a IED",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: El plan promueve activamente la atracción de inversión extranjera como motor del desarrollo económico.",
           "comment_key": "explanations.candidates.c24.t13",
-          "source": "https://perumoderno.pe/ideario",
-          "source_type": "candidate"
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf",
+          "source_type": "party_fallback"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "id_tema": "t14",
@@ -4654,10 +4690,10 @@
           "question_key": "questions.t14",
           "topic_key": "topics.t14",
           "vote": 0.0,
-          "comment": "Ideario de Estado subsidiario y disciplina fiscal",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea reducción y racionalización del Estado antes que una expansión general del gasto institucional.",
           "comment_key": "explanations.candidates.c24.t14",
-          "source": "https://perumoderno.pe/ideario",
-          "source_type": "candidate"
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf",
+          "source_type": "party_fallback"
         },
         "Pensión pública: El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas.": {
           "id_tema": "t16",
@@ -6265,10 +6301,10 @@
           "question_key": "questions.t7",
           "topic_key": "topics.t7",
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El candidato/líder Carlos Espá (SíCreo) se muestra en contra de la pena de muerte (la califica de “cortina de humo”); por tanto no está de acuerdo con que “está bien que exista la pena de muerte”.",
+          "comment": "Se muestra en contra de la pena de muerte (la califica de “cortina de humo”).",
           "comment_key": "explanations.candidates.c33.t7",
           "source": "https://peru21.pe/politica/carlos-espa-vs-carlos-alvarez-cuales-son-sus-propuestas-en-temas-de-seguridad/",
-          "source_type": "party_fallback"
+          "source_type": "candidate"
         },
         "Presencia militar: Debería haber una mayor presencia militar en las calles para combatir la criminalidad.": {
           "id_tema": "t8",
@@ -6289,7 +6325,7 @@
           "question_key": "questions.t9",
           "topic_key": "topics.t9",
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan enfatiza eficiencia y participación privada (p.ej., privatización/participación privada en servicios), no prioriza explícitamente “más presupuesto a salud pública en vez de fomentar la privada”; por tanto no respalda esa prioridad.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan enfatiza eficiencia y participación privada.",
           "comment_key": "explanations.candidates.c33.t9",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party_fallback"
@@ -6313,7 +6349,7 @@
           "question_key": "questions.t12",
           "topic_key": "topics.t12",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye “adaptación al cambio climático”, “transición energética” y cumplimiento de compromisos ambientales; por tanto sí respalda que combatir el cambio climático sea una obligación principal del gobierno.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye “adaptación al cambio climático”, “transición energética” y cumplimiento de compromisos ambientales.",
           "comment_key": "explanations.candidates.c33.t12",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party_fallback"
@@ -6615,10 +6651,34 @@
           "question_key": "questions.t1",
           "topic_key": "topics.t1",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno propone un enfoque fuertemente punitivo/militarizado contra la delincuencia (p.ej., fusionar Defensa e Interior en un “ministerio de GUERRA”, grupos de inteligencia con apoyo de FF.AA., “Ley de Amparo al Policía”), y no plantea medidas de reinserción como eje central.",
+          "comment": "En febrero del 2026, la candidata propuso crear un “ministerio de guerra”, derogar “leyes pro-crimen” y enfrentar la inseguridad con una lógica de mano dura.",
           "comment_key": "explanations.candidates.c35.t1",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf",
-          "source_type": "party_fallback"
+          "source": "https://elperuano.pe/noticia/289119-rosario-del-pilar-fernandez-proponemos-un-ministerio-de-guerra-para-enfrentar-el-crimen",
+          "source_type": "candidate"
+        },
+        "Educación sexual: La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.": {
+          "id_tema": "t2",
+          "tema": "Educación sexual",
+          "question": "La educación sexual integral con enfoque de género debe ser una parte obligatoria del currículo escolar.",
+          "question_key": "questions.t2",
+          "topic_key": "topics.t2",
+          "vote": 0.5,
+          "comment": "En marzo del 2026, el resumen oficial de su plan de gobierno difundido por El Peruano no incluyó propuestas sobre educación sexual integral ni sobre enfoque de género en el currículo escolar. No queda clara su posición frente a este enunciado.",
+          "comment_key": "explanations.candidates.c35.t2",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan",
+          "source_type": "candidate"
+        },
+        "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
+          "id_tema": "t3",
+          "tema": "Corrupción",
+          "question": "Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.",
+          "question_key": "questions.t3",
+          "topic_key": "topics.t3",
+          "vote": 0.0,
+          "comment": "En enero del 2026, la candidata habló de una “lucha frontal contra la corrupción” y de democratizar la justicia, pero no planteó de manera explícita una inhabilitación de por vida para personas con sentencias por corrupción.",
+          "comment_key": "explanations.candidates.c35.t3",
+          "source": "https://www.rcrperu.com/candidata-rosario-del-pilar-fernandez-de-un-camino-diferente-propone-democratizar-la-justicia-y-una-lucha-frontal-contra-la-corrupcion/",
+          "source_type": "candidate"
         },
         "Minería informal: El Estado debería regularizar a la minería informal más activamente.": {
           "id_tema": "t4",
@@ -6627,10 +6687,10 @@
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea “Solución definitiva al REINFO y formalización minera” y también “Formalización de la minería artesanal”, lo que implica una postura a favor de regularizar/impulsar formalización de la minería informal.",
+          "comment": "En febrero del 2026, Rosario Fernández sostuvo que había que “facilitar el camino a la formalización” de la minería y destrabar el Reinfo para que los pequeños mineros puedan formalizarse, mientras se sanciona a quienes contaminan.",
           "comment_key": "explanations.candidates.c35.t4",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf",
-          "source_type": "party_fallback"
+          "source": "https://elperuano.pe/noticia/289119-rosario-del-pilar-fernandez-proponemos-un-ministerio-de-guerra-para-enfrentar-el-crimen",
+          "source_type": "candidate"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
           "id_tema": "t5",
@@ -6651,10 +6711,10 @@
           "question_key": "questions.t8",
           "topic_key": "topics.t8",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan propone integrar Interior y Defensa (FF.AA.) en un solo “ministerio de GUERRA” y crear escuadrones/grupos de inteligencia con apoyo de FF.AA., lo que es consistente con mayor presencia/rol militar en seguridad interna.",
+          "comment": "En febrero del 2026, la candidata propuso fusionar Defensa e Interior en un “ministerio de guerra” y articular a las Fuerzas Armadas con la Policía para combatir el crimen organizado. Esto la ubica a favor de una mayor presencia militar en la lucha contra la criminalidad.",
           "comment_key": "explanations.candidates.c35.t8",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf",
-          "source_type": "party_fallback"
+          "source": "https://www.rcrperu.com/candidata-rosario-del-pilar-fernandez-de-un-camino-diferente-propone-democratizar-la-justicia-y-una-lucha-frontal-contra-la-corrupcion/",
+          "source_type": "candidate"
         },
         "Salud pública: El Estado debería incrementar el presupuesto para la salud pública en vez de fomentar la salud privada.": {
           "id_tema": "t9",
@@ -6663,10 +6723,22 @@
           "question_key": "questions.t9",
           "topic_key": "topics.t9",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan prioriza expansión/fortalecimiento de servicios públicos (p.ej., campañas gratuitas, creación de postas, atención 24/7; además “Unificación ESSALUD y MINSA”), sin un énfasis en fomentar salud privada.",
+          "comment": "En enero del 2026, Rosario Fernández planteó fortalecer la salud preventiva, ampliar postas médicas, mejorar el acceso a medicamentos e implementar más infraestructura y atención pública. Estas propuestas la ubican a favor de reforzar la salud pública antes que priorizar la salud privada.",
           "comment_key": "explanations.candidates.c35.t9",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf",
-          "source_type": "party_fallback"
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-rosario-fernandez-plantea-impulso-de-salud-preventiva-la-poblacion-1061240.aspx",
+          "source_type": "candidate"
+        },
+        "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
+          "id_tema": "t11",
+          "tema": "Pueblos indígenas",
+          "question": "Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.",
+          "question_key": "questions.t11",
+          "topic_key": "topics.t11",
+          "vote": 0.0,
+          "comment": "El resumen oficial de su plan de gobierno no incluyó una propuesta que otorgue a los pueblos indígenas poder de veto sobre proyectos extractivos en sus territorios.",
+          "comment_key": "explanations.candidates.c35.t11",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan",
+          "source_type": "candidate"
         },
         "Cambio climático: Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.": {
           "id_tema": "t12",
@@ -6674,11 +6746,23 @@
           "question": "Tomar medidas contra el cambio climático debería ser una de las principales obligaciones del gobierno.",
           "question_key": "questions.t12",
           "topic_key": "topics.t12",
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye, en el enfoque ambiental, control de contaminación/gestión de residuos, economía circular y “gestión del riesgo climático” (incluyendo reducción de emisiones de GEI), consistente con priorizar medidas frente al cambio climático.",
+          "vote": 0.0,
+          "comment": "El resumen oficial de su plan de gobierno no desarrolló de forma específica una agenda climática.",
           "comment_key": "explanations.candidates.c35.t12",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf",
-          "source_type": "party_fallback"
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan",
+          "source_type": "candidate"
+        },
+        "Inversión extranjera: La inversión extranjera es necesaria para el desarrollo económico del país.": {
+          "id_tema": "t13",
+          "tema": "Inversión extranjera",
+          "question": "La inversión extranjera es necesaria para el desarrollo económico del país.",
+          "question_key": "questions.t13",
+          "topic_key": "topics.t13",
+          "vote": 0.0,
+          "comment": "El resumen del plan oficial no formula de manera explícita una defensa de la inversión extranjera como condición necesaria para el desarrollo del país.",
+          "comment_key": "explanations.candidates.c35.t13",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan",
+          "source_type": "candidate"
         },
         "Gasto estatal: El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.": {
           "id_tema": "t14",
@@ -6686,11 +6770,23 @@
           "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos.",
           "question_key": "questions.t14",
           "topic_key": "topics.t14",
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan plantea fortalecimiento/expansión institucional y de servicios públicos (p.ej., reestructuración de la Junta Nacional de Justicia, creación de Oficina Nacional Anticorrupción, unificación ESSALUD-MINSA), lo que es consistente con invertir más en instituciones estatales en vez de recortar gastos.",
+          "vote": 0.0,
+          "comment": "En marzo del 2026, el resumen oficial de su plan de gobierno señaló que la candidata propone “reducir el aparato estatal pasando de 19 a 8 ministerios”.",
           "comment_key": "explanations.candidates.c35.t14",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf",
-          "source_type": "party_fallback"
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan",
+          "source_type": "candidate"
+        },
+        "Derechos humanos: Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)": {
+          "id_tema": "t17",
+          "tema": "Derechos humanos",
+          "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "question_key": "questions.t17",
+          "topic_key": "topics.t17",
+          "vote": 0.5,
+          "comment": "En marzo del 2026, el resumen oficial de su plan de gobierno no incluyó una postura expresa sobre la autoridad de la Corte Interamericana de Derechos Humanos ni sobre la permanencia del Perú bajo su jurisdicción. Con la información pública revisada, no queda clara su posición frente a este enunciado.",
+          "comment_key": "explanations.candidates.c35.t17",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan",
+          "source_type": "candidate"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
           "id_tema": "t18",
@@ -6699,10 +6795,10 @@
           "question_key": "questions.t18",
           "topic_key": "topics.t18",
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan propone “programas de empleo temporal y formalización laboral” e “incentivos” para formalizar, y también formalización minera (REINFO/minería artesanal); por tanto no respalda la idea de reducir impuestos *en lugar de* programas de formalización.",
+          "comment": "En febrero del 2026, Rosario Fernández defendió “facilitar el camino a la formalización” de la minería y destrabar los obstáculos del Reinfo, en lugar de plantear la rebaja de impuestos como principal herramienta contra la informalidad. Esto la ubica en contra del enunciado tal como está formulado.",
           "comment_key": "explanations.candidates.c35.t18",
-          "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf",
-          "source_type": "party_fallback"
+          "source": "https://elperuano.pe/noticia/289119-rosario-del-pilar-fernandez-proponemos-un-ministerio-de-guerra-para-enfrentar-el-crimen",
+          "source_type": "candidate"
         }
       }
     },
@@ -6730,7 +6826,7 @@
           "question_key": "questions.t2",
           "topic_key": "topics.t2",
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan rechaza la “educación sexual integral con enfoque de género” y plantea sustituirla por educación basada en valores y biología; por tanto NO está de acuerdo con que sea obligatoria.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan rechaza la “educación sexual integral con enfoque de género” y plantea sustituirla por educación basada en valores y biología.",
           "comment_key": "explanations.candidates.c36.t2",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party_fallback"
@@ -6766,7 +6862,7 @@
           "question_key": "questions.t5",
           "topic_key": "topics.t5",
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: Un líder clave del bloque (PPC) se pronunció contra despenalizar el aborto en casos de violación (debate/archivamiento del proyecto); por tanto NO está de acuerdo con permitirlo.",
+          "comment": "Por falta de información, se tomó la posición del partido: Un líder clave del bloque (PPC) se pronunció contra despenalizar el aborto en casos de violación (debate/archivamiento del proyecto).",
           "comment_key": "explanations.candidates.c36.t5",
           "source": "https://www.americaeconomia.com/politica-sociedad/politica/peru-archivan-proyecto-para-despenalizar-aborto-en-casos-de-violacion-sex",
           "source_type": "party_fallback"
@@ -6826,7 +6922,7 @@
           "question_key": "questions.t12",
           "topic_key": "topics.t12",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye compromisos ambientales (reforestación, “bonos de carbono”, y turismo “carbono negativo”), lo que indica que sí prioriza medidas vinculadas a cambio climático/sostenibilidad.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan incluye compromisos ambientales (reforestación, “bonos de carbono”, y turismo “carbono negativo”).",
           "comment_key": "explanations.candidates.c36.t12",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party_fallback"
@@ -6862,7 +6958,7 @@
           "question_key": "questions.t15",
           "topic_key": "topics.t15",
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: Una lideresa histórica asociada a Unidad Nacional/PPC se pronunció contra el matrimonio gay (“no a matrimonios gays”); por tanto NO está de acuerdo con matrimonio igualitario.",
+          "comment": "Por falta de información, se tomó la posición del partido: Una lideresa histórica asociada a Unidad Nacional/PPC se pronunció contra el matrimonio gay (“no a matrimonios gays”).",
           "comment_key": "explanations.candidates.c36.t15",
           "source": "https://rpp.pe/politica/actualidad/flores-nano-le-dice-no-a-matrimonios-gays-en-peru-noticia-280671",
           "source_type": "party_fallback"
@@ -6898,7 +6994,7 @@
           "question_key": "questions.t19",
           "topic_key": "topics.t19",
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan reivindica el marco constitucional vigente (economía social de mercado, referencia a Constitución de 1993) y no plantea asamblea constituyente para reemplazarla; por tanto NO está de acuerdo con convocarla para cambiar la del 93.",
+          "comment": "Por falta de información, se tomó la posición del partido: El plan reivindica el marco constitucional vigente (economía social de mercado, referencia a Constitución de 1993) y no plantea asamblea constituyente para reemplazarla.",
           "comment_key": "explanations.candidates.c36.t19",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party_fallback"

@@ -449,7 +449,7 @@
         },
         "t8": {
           "vote": 0.0,
-          "comment": "El plan insiste en fortalecer y reformar a la Policía (PNP), pero no no propone militarizar la seguridad pública.",
+          "comment": "El plan insiste en fortalecer y reformar a la Policía (PNP), pero no propone militarizar la seguridad pública.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 27-28)"
         },
         "t9": {
@@ -617,6 +617,11 @@
       "id": "p6",
       "name": "FREPAP",
       "votes": {
+        "t1": {
+          "vote": 0.5,
+          "comment": "El plan de gobierno de 2021 enfatiza “derrotar” la delincuencia, recuperar el principio de autoridad y usar inteligencia y agentes encubiertos. No hay menciones de reintegración ni castigo.",
+          "source": null
+        },
         "t2": {
           "vote": 0.0,
           "comment": "Dirigentes/bancada del FREPAP han declarado que no apoyarán el “enfoque de género”.",
@@ -629,33 +634,38 @@
         },
         "t9": {
           "vote": 1.0,
-          "comment": "El plan prioriza el fortalecimiento del sistema público (p. ej., “Emplearemos el presupuesto de salud prioritariamente hacia la población más pobre” y mejoras de atención primaria), no el fomento de salud privada.",
+          "comment": "El plan del 2021 prioriza el fortalecimiento del sistema público (p. ej., “Emplearemos el presupuesto de salud prioritariamente hacia la población más pobre” y mejoras de atención primaria), no el fomento de salud privada.",
           "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1494/ARCHIVO/FIRMADO/5717.PDF"
         },
         "t10": {
           "vote": 1.0,
-          "comment": "El plan propone “Regularización de Extranjeros en situación irregular” (darles una calidad migratoria, eliminar trabas burocráticas), lo que prioriza regularizar sobre deportar.",
+          "comment": "El plan del 2021 propone “Regularización de Extranjeros en situación irregular” (darles una calidad migratoria, eliminar trabas burocráticas), lo que prioriza regularizar sobre deportar.",
           "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1494/ARCHIVO/FIRMADO/5717.PDF"
         },
         "t12": {
           "vote": 1.0,
-          "comment": "El plan incluye acciones contra cambio climático (reducción de GEI, mecanismos obligatorios para evitar contaminación/vertimientos), consistente con priorizar medidas climáticas como obligación estatal.",
+          "comment": "El plan del 2021 incluye acciones contra cambio climático (reducción de GEI, mecanismos obligatorios para evitar contaminación/vertimientos), consistente con priorizar medidas climáticas como obligación estatal.",
           "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1494/ARCHIVO/FIRMADO/5717.PDF"
         },
         "t13": {
           "vote": 1.0,
-          "comment": "El plan facilita residencia/nacionalidad para extranjeros que inviertan (p. ej. residencia inmediata desde cierto umbral), señalando una postura favorable a la inversión extranjera como parte del desarrollo.",
+          "comment": "El plan del 2021 facilita residencia/nacionalidad para extranjeros que inviertan (p. ej. residencia inmediata desde cierto umbral), señalando una postura favorable a la inversión extranjera como parte del desarrollo.",
           "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1494/ARCHIVO/FIRMADO/5717.PDF"
         },
         "t14": {
           "vote": 1.0,
-          "comment": "El plan plantea fortalecer capacidad estatal (profesionalización/meritocracia en función pública, fortalecimiento institucional), consistente con “invertir más en instituciones estatales” vs recortar.",
+          "comment": "El plan del 2021 plantea fortalecer capacidad estatal (profesionalización/meritocracia en función pública, fortalecimiento institucional), consistente con “invertir más en instituciones estatales” vs recortar.",
           "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1494/ARCHIVO/FIRMADO/5717.PDF"
         },
         "t15": {
           "vote": 0.0,
           "comment": "Representantes del FREPAP han declarado estar “totalmente en contra” del matrimonio igualitario.",
           "source": "https://larepublica.pe/politica/2020/01/27/frepap-en-desacuerdo-con-union-civil-tienen-enquistado-el-mal-en-su-sangre-elecciones-2020-congreso"
+        },
+        "t18": {
+          "vote": 0.5,
+          "comment": "El plan del 2021 propone ambas cosas: bajar IGV para incentivar regularización y programas/medidas de formalización.",
+          "source": null
         },
         "t20": {
           "vote": 1.0,
@@ -670,13 +680,13 @@
       "votes": {
         "t1": {
           "vote": 1.0,
-          "comment": "El plan y comunicados de Fuerza Popular priorizan medidas de seguridad contundentes, el fortalecimiento policial y han propuesto que las FF.AA. asuman roles en penales y seguridad; eso indica alineamiento con un enfoque punitivo.",
-          "source": "https://elcomercio.pe/politica/elecciones/keiko-fujimori-plantea-que-las-fuerzas-armadas-adminsitren-los-penales-en-un-eventual-gobierno-fuerza-popular-elecciones-2021-noticia/"
+          "comment": "Su plan de seguridad propone \"mano dura\", construir penales y endurecer medidas contra la criminalidad, postura enfocada en castigo y control.",
+          "source": "https://gestion.pe/peru/politica/las-propuestas-de-keiko-fujimori-en-seguridad-ciudadana-segun-su-plan-de-gobierno-noticia/"
         },
         "t2": {
           "vote": 0.0,
-          "comment": "Fuerza Popular se ha opuesto a la implementación amplia de la Educación Sexual Integral y forma parte del bloque conservador que critica el enfoque de género; por tanto no apoyan convertirla en mandato.",
-          "source": "https://www.swissinfo.ch/spa/per%C3%BA-elecciones_debate-presidencial-en-per%C3%BA-enfoca-cruces-en-educaci%C3%B3n-y-enfoque-de-g%C3%A9nero/46574100"
+          "comment": "El 19/11/2025, la bancada de Fuerza Popular votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética.\" sin mayor componente social o de género.",
+          "source": "https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2025-2026 -> Primera Legislatura Ordinaria -> 11/19/2025, pág. 10); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
         },
         "t3": {
           "vote": 0.0,
@@ -685,7 +695,7 @@
         },
         "t4": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Una investigación de Ojo Público analizó \"ocho votaciones de 23 proyectos de ley, presentados entre 2021 y 2024, a favor de la desregulación de la minería no formal en el país\" y llegó a la conclusión de que más del 75% de la bancada de Fuerza Popular votó a favor de dos tercios o más de las leyes desregulatorias.",
+          "comment": "Una investigación de Ojo Público analizó \"ocho votaciones de 23 proyectos de ley, presentados entre 2021 y 2024, a favor de la desregulación de la minería no formal en el país\" y llegó a la conclusión de que más del 75% de la bancada de Fuerza Popular votó a favor de dos tercios o más de las leyes desregulatorias.",
           "source": "https://ojo-publico.com/politica/fuerza-popular-avanza-pais-y-peru-libre-blindan-la-mineria-informal;https://convoca.pe/agenda-propia/reinfo-congreso-aprueba-en-media-hora-ampliacion-del-registro-que-beneficia-la"
         },
         "t5": {
@@ -721,7 +731,7 @@
         "t11": {
           "vote": 0.0,
           "comment": "El programa establece respeto al derecho a la consulta previa ciudadana y estándares ambientales y bioseguridad para proyectos extractivos; lo que propone es consulta y estándares, no un poder de veto automático de los pueblos sobre proyectos (se promueve consulta previa y diálogo).",
-          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1595/ARCHIVO/FIRMADO/5314.PDF"
+          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1595/ARCHIVO/FIRMADO/5314.PDF (págs. 39, 45)"
         },
         "t12": {
           "vote": 1.0,
@@ -730,8 +740,8 @@
         },
         "t13": {
           "vote": 1.0,
-          "comment": "El programa promueve la atracción de inversión privada y extranjera como motor para diversificación productiva e infraestructura; reconoce la necesidad de inversión extranjera para el desarrollo.",
-          "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1595/ARCHIVO/FIRMADO/5314.PDF"
+          "comment": "Considera importante tanto a la inversión privada nacional como a la extranjera. Esta segunda es considerada esencial para el desarrollo de proyectos mineros.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Fuerza-Popular-Plan-de-gobierno-LP-Derecho.pdf (págs. 11, 22, 24)"
         },
         "t14": {
           "vote": 1.0,
@@ -764,9 +774,9 @@
           "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1595/ARCHIVO/FIRMADO/5314.PDF"
         },
         "t20": {
-          "vote": 0.5,
-          "comment": "Hay un posicionamiento crítico desde el liderazgo pero no declaraciones individuales públicas sobre hacer una prohibición legal de reelección",
-          "source": "https://rpp.pe/politica/elecciones/luis-duran-critica-a-congresistas-que-buscan-la-reeleccion-tras-deconstruir-la-constitucion-el-pais-esta-capturado-noticia-1669297"
+          "vote": 0.0,
+          "comment": "El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de Fuerza Popular votó unánimemente a favor.",
+          "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187 ; https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2023-2024 -> Segunda Legislatura Ordinaria -> 03/06/2024, pág. 9)"
         }
       }
     },
@@ -2079,6 +2089,11 @@
           "comment": "Propone elevar la presión tributaria al 19% mediante beneficios para formales y tributos escalonados para pequeños negocios",
           "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
         },
+        "t7": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista, el candidate Francisco Diez-Canseco sostiene que es necesario aplicar la pena de muerte para sicarios,",
+          "source": null
+        },
         "t8": {
           "vote": 1.0,
           "comment": "Establece el control territorial y militarización estratégica mediante el despliegue de Fuerzas Armadas en zonas críticas.",
@@ -2227,8 +2242,8 @@
         },
         "t3": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Perú Moderno centra su discurso en lucha anticorrupción con sanciones duras",
-          "source": "https://perumoderno.pe/ideario"
+          "comment": "Por falta de información, se tomó la posición del candidato: Carlos Jaico tiene como propuesta \"muerte civil\" para políticos condenados por corrupción.",
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-jaico-plantea-muerte-civil-funcionarios-corruptos-condenados-1063930.aspx"
         },
         "t4": {
           "vote": 0.5,
@@ -2296,8 +2311,8 @@
       "name": "Perú Moderno",
       "votes": {
         "t1": {
-          "vote": 0.0,
-          "comment": "No hay evidencia en sus documentos públicos de propuestas significativas de rehabilitación o reintegración social de criminales. El enfoque está orientado al control, la represión del crimen organizado y el fortalecimiento policial, lo que los posiciona más alineados con la afirmación de priorizar el castigo",
+          "vote": 0.5,
+          "comment": "No hay evidencia en sus documentos públicos de propuestas significativas de rehabilitación o reintegración social de criminales. El enfoque está orientado al control, la represión del crimen organizado y el fortalecimiento policial, sin un enfoque punitivo ni de rehabilitación.",
           "source": "https://mpesije.jne.gob.pe/docs/12de1a7b-008b-43c5-9159-c62c9b45eab1.pdf"
         },
         "t2": {
@@ -2335,15 +2350,20 @@
           "comment": "El programa prioriza el fortalecimiento, modernización y ampliación de la salud pública como responsabilidad central del Estado.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
+        "t10": {
+          "vote": 0.0,
+          "comment": "El plan plantea controles intensivos de fronteras, “reconducciones”, eliminar “privilegios a migrantes irregulares” y sancionar a quienes colaboren con ellos o los contraten.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
+        },
         "t11": {
           "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra declara que la solución a la minería es \"facilitar la formalización\" de pequeña minería y minería artesanal, separando estos sectores de la minería ilegal. Reconoce que \"hay familias que viven de la minería artesanal\", pero su enfoque es en simplificar requisitos para formalizar, no en otorgar poder de veto",
-          "source": "https://www.youtube.com/watch?v=IynQN-QhXkE"
+          "comment": "El plan sí habla de respeto al medio ambiente y coordinación con comunidades indígenas para proteger territorios, pero no hay una propuesta de derecho de veto sobre proyectos extractivos.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
         "t12": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En entrevista QUBO (diciembre 2025), Mario Vizcarra afirma que \"el derecho por el medio ambiente también\" es fundamental.",
-          "source": "https://youtu.be/0pp_EkaFO7Q?t=588"
+          "comment": "El plan incluye varias medidas climáticas y ambientales: adaptación al cambio climático, alertas tempranas, restauración de zonas degradadas, manejo de cuencas, prevención de incendios y protección ecosistémica.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
         "t13": {
           "vote": 1.0,
@@ -2987,7 +3007,7 @@
       "votes": {
         "t1": {
           "vote": 0.0,
-          "comment": "El plan prioriza prevención/reinserción y reforma policial (no un enfoque exclusivamente punitivo), por lo que no prioriza el castigo sobre la reintegración.",
+          "comment": "El plan prioriza prevención/reinserción y reforma policial (no un enfoque exclusivamente punitivo)",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t3": {
@@ -2997,17 +3017,17 @@
         },
         "t4": {
           "vote": 0.0,
-          "comment": "El plan retrata la minería ilegal/informal como amenaza y propone control e interdicción (p.ej., rastreo de insumos como mercurio) más que “regularizar” activamente; por tanto no apoya la regularización activa de la minería informal.",
+          "comment": "El plan retrata la minería ilegal/informal como amenaza y propone control e interdicción (p.ej., rastreo de insumos como mercurio) más que “regularizar” activamente.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t6": {
           "vote": 0.0,
-          "comment": "Plantea reducción/simplificación tributaria (eliminar impuestos “antitécnicos”, reducir tasas) y no un esquema de mayor progresividad; por tanto no respalda que “los que tienen más paguen mayor %” como principio central.",
+          "comment": "Plantea reducción/simplificación tributaria (eliminar impuestos “antitécnicos”, reducir tasas) y no un esquema de mayor progresividad.",
           "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-carlos-espa-del-partido-si-creo"
         },
         "t7": {
           "vote": 0.0,
-          "comment": "El candidato/líder Carlos Espá (SíCreo) se muestra en contra de la pena de muerte (la califica de “cortina de humo”); por tanto no está de acuerdo con que “está bien que exista la pena de muerte”.",
+          "comment": "Por falta de información, se tomó la posición del candidato: Se muestra en contra de la pena de muerte (la califica de “cortina de humo”).",
           "source": "https://peru21.pe/politica/carlos-espa-vs-carlos-alvarez-cuales-son-sus-propuestas-en-temas-de-seguridad/"
         },
         "t8": {
@@ -3017,27 +3037,27 @@
         },
         "t9": {
           "vote": 0.0,
-          "comment": "El plan enfatiza eficiencia y participación privada (p.ej., privatización/participación privada en servicios), no prioriza explícitamente “más presupuesto a salud pública en vez de fomentar la privada”; por tanto no respalda esa prioridad.",
+          "comment": "El plan enfatiza eficiencia y participación privada.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t10": {
           "vote": 0.0,
-          "comment": "El plan plantea frenar la migración ilegal con fortalecimiento de FF.AA./PNP y control fronterizo, no prioriza regularizar a irregulares sobre deportación/control; por tanto no está de acuerdo con esa prioridad.",
+          "comment": "El plan plantea frenar la migración ilegal con fortalecimiento de FF.AA./PNP y control fronterizo, no prioriza regularizar a irregulares sobre deportación/control.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t12": {
           "vote": 1.0,
-          "comment": "El plan incluye “adaptación al cambio climático”, “transición energética” y cumplimiento de compromisos ambientales; por tanto sí respalda que combatir el cambio climático sea una obligación principal del gobierno.",
+          "comment": "El plan incluye “adaptación al cambio climático”, “transición energética” y cumplimiento de compromisos ambientales.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t13": {
           "vote": 1.0,
-          "comment": "El plan promueve inversión privada y menciona explícitamente inversión “nacional y extranjera”; por tanto sí considera necesaria la inversión extranjera para el desarrollo.",
+          "comment": "El plan promueve inversión privada y menciona explícitamente inversión “nacional y extranjera\".",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t14": {
           "vote": 0.0,
-          "comment": "El plan enfatiza recorte de erogaciones superfluas, eficiencia y mayor rol privado, no “invertir más en instituciones estatales en vez de reducir gastos”; por tanto no respalda esa prioridad.",
+          "comment": "El plan enfatiza recorte de erogaciones superfluas, eficiencia y mayor rol privado.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t15": {
@@ -3047,7 +3067,7 @@
         },
         "t18": {
           "vote": 1.0,
-          "comment": "El plan plantea bajar costos de legalidad/formalidad vía simplificación tributaria y reducción de tasas, más que depender de “programas de formalización”; por tanto sí está de acuerdo.",
+          "comment": "El plan plantea bajar costos de legalidad/formalidad vía simplificación tributaria y reducción de tasas, más que depender de “programas de formalización”.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t19": {
@@ -3167,12 +3187,22 @@
       "votes": {
         "t1": {
           "vote": 1.0,
-          "comment": "El plan de gobierno propone un enfoque fuertemente punitivo/militarizado contra la delincuencia (p.ej., fusionar Defensa e Interior en un “ministerio de GUERRA”, grupos de inteligencia con apoyo de FF.AA., “Ley de Amparo al Policía”), y no plantea medidas de reinserción como eje central.",
+          "comment": "El plan de gobierno propone un enfoque fuertemente punitivo/militarizado contra la delincuencia.",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+        },
+        "t2": {
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: En marzo del 2026, el resumen oficial de su plan de gobierno difundido por El Peruano no incluyó propuestas sobre educación sexual integral ni sobre enfoque de género en el currículo escolar. No queda clara su posición frente a este enunciado.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
+        },
+        "t3": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En enero del 2026, la candidata habló de una “lucha frontal contra la corrupción” y de democratizar la justicia, pero no planteó de manera explícita una inhabilitación de por vida para personas con sentencias por corrupción.",
+          "source": "https://www.rcrperu.com/candidata-rosario-del-pilar-fernandez-de-un-camino-diferente-propone-democratizar-la-justicia-y-una-lucha-frontal-contra-la-corrupcion/"
         },
         "t4": {
           "vote": 1.0,
-          "comment": "El plan plantea “Solución definitiva al REINFO y formalización minera” y también “Formalización de la minería artesanal”, lo que implica una postura a favor de regularizar/impulsar formalización de la minería informal.",
+          "comment": "El plan plantea “Solución definitiva al REINFO y formalización minera” y también “Formalización de la minería artesanal\".",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "t5": {
@@ -3182,27 +3212,42 @@
         },
         "t8": {
           "vote": 1.0,
-          "comment": "El plan propone integrar Interior y Defensa (FF.AA.) en un solo “ministerio de GUERRA” y crear escuadrones/grupos de inteligencia con apoyo de FF.AA., lo que es consistente con mayor presencia/rol militar en seguridad interna.",
+          "comment": "El plan propone integrar Interior y Defensa (FF.AA.) en un solo “ministerio de guerra” y crear escuadrones/grupos de inteligencia con apoyo de FF.AA., lo que es consistente con mayor presencia/rol militar en seguridad interna.",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "t9": {
           "vote": 1.0,
-          "comment": "El plan prioriza expansión/fortalecimiento de servicios públicos (p.ej., campañas gratuitas, creación de postas, atención 24/7; además “Unificación ESSALUD y MINSA”), sin un énfasis en fomentar salud privada.",
+          "comment": "El plan prioriza expansión/fortalecimiento de servicios públicos (p.ej., campañas gratuitas, creación de postas, atención 24/7).",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+        },
+        "t11": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El resumen oficial de su plan de gobierno no incluyó una propuesta que otorgue a los pueblos indígenas poder de veto sobre proyectos extractivos en sus territorios.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
         },
         "t12": {
           "vote": 1.0,
-          "comment": "El plan incluye, en el enfoque ambiental, control de contaminación/gestión de residuos, economía circular y “gestión del riesgo climático” (incluyendo reducción de emisiones de GEI), consistente con priorizar medidas frente al cambio climático.",
+          "comment": "El plan incluye, en el enfoque ambiental, control de contaminación/gestión de residuos, economía circular y “gestión del riesgo climático” (incluyendo reducción de emisiones de GEI).",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+        },
+        "t13": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El resumen del plan oficial no formula de manera explícita una defensa de la inversión extranjera como condición necesaria para el desarrollo del país.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
         },
         "t14": {
           "vote": 1.0,
-          "comment": "El plan plantea fortalecimiento/expansión institucional y de servicios públicos (p.ej., reestructuración de la Junta Nacional de Justicia, creación de Oficina Nacional Anticorrupción, unificación ESSALUD-MINSA), lo que es consistente con invertir más en instituciones estatales en vez de recortar gastos.",
+          "comment": "El plan plantea fortalecimiento/expansión institucional y de servicios públicos y no reducir gastos.",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
+        },
+        "t17": {
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: En marzo del 2026, el resumen oficial de su plan de gobierno no incluyó una postura expresa sobre la autoridad de la Corte Interamericana de Derechos Humanos ni sobre la permanencia del Perú bajo su jurisdicción. Con la información pública revisada, no queda clara su posición frente a este enunciado.",
+          "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
         },
         "t18": {
           "vote": 0.0,
-          "comment": "El plan propone “programas de empleo temporal y formalización laboral” e “incentivos” para formalizar, y también formalización minera (REINFO/minería artesanal); por tanto no respalda la idea de reducir impuestos *en lugar de* programas de formalización.",
+          "comment": "El plan propone “programas de empleo temporal y formalización laboral” e “incentivos” para formalizar, y también formalización minera.",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         }
       },
@@ -3222,32 +3267,32 @@
         },
         "t2": {
           "vote": 0.0,
-          "comment": "El plan rechaza la “educación sexual integral con enfoque de género” y plantea sustituirla por educación basada en valores y biología; por tanto NO está de acuerdo con que sea obligatoria.",
+          "comment": "El plan rechaza la “educación sexual integral con enfoque de género” y plantea sustituirla por educación basada en valores y biología.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t3": {
-          "vote": 0.0,
-          "comment": "Chiabra plantea “muerte civil” por corrupción por un periodo (al menos 5 años), no un veto de por vida; por tanto NO coincide con “vetadas de por vida”.",
+          "vote": 0.5,
+          "comment": "Chiabra plantea “muerte civil” por corrupción por un periodo (al menos 5 años), no un veto de por vida; por tanto no coincide con “vetadas de por vida”.",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-chiabra-plantea-reducir-burocracia-para-combatir-corrupcion-1061223.aspx"
         },
         "t4": {
           "vote": 1.0,
-          "comment": "El plan propone corregir el REINFO y destrabar/tramitar la formalización del pequeño minero (crítica a tramitología y enfoque de formalización), lo que coincide con regularizar más activamente.",
+          "comment": "El plan propone corregir el REINFO y destrabar/tramitar la formalización del pequeño minero.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t5": {
           "vote": 0.0,
-          "comment": "Un líder clave del bloque (PPC) se pronunció contra despenalizar el aborto en casos de violación (debate/archivamiento del proyecto); por tanto NO está de acuerdo con permitirlo.",
+          "comment": "Un líder clave del bloque (PPC) se pronunció contra despenalizar el aborto en casos de violación (debate/archivamiento del proyecto).",
           "source": "https://www.americaeconomia.com/politica-sociedad/politica/peru-archivan-proyecto-para-despenalizar-aborto-en-casos-de-violacion-sex"
         },
         "t7": {
           "vote": 0.0,
-          "comment": "Chiabra calificó la pena de muerte como “populista”/inviable (marcando distancia); por tanto NO está de acuerdo con que “está bien que exista”.",
+          "comment": "Chiabra calificó la pena de muerte como “populista”/inviable.",
           "source": "https://larepublica.pe/politica/2026/01/29/roberto-chiabra-pena-de-muerte-es-una-medida-populista-que-no-se-va-a-cumplir-hnews-1174123"
         },
         "t8": {
           "vote": 1.0,
-          "comment": "El plan propone un “comando unificado” con FF.AA. y PNP y refuerza el rol de FF.AA. en apoyo al orden interno en regímenes de excepción; en la práctica respalda mayor presencia/participación militar para seguridad.",
+          "comment": "El plan propone un “comando unificado” con FF.AA. y PNP y refuerza el rol de FF.AA. en apoyo al orden interno en regímenes de excepción.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t9": {
@@ -3262,12 +3307,12 @@
         },
         "t12": {
           "vote": 1.0,
-          "comment": "El plan incluye compromisos ambientales (reforestación, “bonos de carbono”, y turismo “carbono negativo”), lo que indica que sí prioriza medidas vinculadas a cambio climático/sostenibilidad.",
+          "comment": "El plan incluye compromisos ambientales (reforestación, “bonos de carbono”, y turismo “carbono negativo”).",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t13": {
           "vote": 1.0,
-          "comment": "El plan promueve atraer inversión privada (APP) y menciona colaboración con fondos/inversores internacionales; en conjunto, coincide con que la inversión extranjera es necesaria para el desarrollo.",
+          "comment": "El plan promueve atraer inversión privada (APP) y menciona colaboración con fondos/inversores internacionales.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t14": {
@@ -3277,7 +3322,7 @@
         },
         "t15": {
           "vote": 0.0,
-          "comment": "Una lideresa histórica asociada a Unidad Nacional/PPC se pronunció contra el matrimonio gay (“no a matrimonios gays”); por tanto NO está de acuerdo con matrimonio igualitario.",
+          "comment": "Una lideresa histórica asociada a Unidad Nacional/PPC se pronunció contra el matrimonio gay (“no a matrimonios gays”).",
           "source": "https://rpp.pe/politica/actualidad/flores-nano-le-dice-no-a-matrimonios-gays-en-peru-noticia-280671"
         },
         "t17": {
@@ -3292,7 +3337,7 @@
         },
         "t19": {
           "vote": 0.0,
-          "comment": "El plan reivindica el marco constitucional vigente (economía social de mercado, referencia a Constitución de 1993) y no plantea asamblea constituyente para reemplazarla; por tanto NO está de acuerdo con convocarla para cambiar la del 93.",
+          "comment": "El plan reivindica el marco constitucional vigente (economía social de mercado, referencia a Constitución de 1993) y no plantea asamblea constituyente para reemplazarla.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t20": {
