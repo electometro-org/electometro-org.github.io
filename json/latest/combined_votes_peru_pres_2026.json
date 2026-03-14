@@ -41,10 +41,10 @@
           "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf",
           "source_type": "party_fallback"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -264,10 +264,10 @@
           "source": "https://rpp.pe/politica/elecciones/cesar-acuna-plantea-muerte-civil-para-los-corruptos-noticia-935471",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.0,
@@ -451,10 +451,10 @@
           "source": "https://willax.pe/politica/elige-bien-2026/enrique-valderrama-campana-austera-plata-como-cancha-willax",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.5,
@@ -698,10 +698,10 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 19, 110)",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.0,
@@ -757,18 +757,6 @@
           "comment_key": "explanations.candidates.c4.t9",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf",
           "source_type": "party_fallback"
-        },
-        "Migración: El Estado debería priorizar la deportación de las personas con situación migratoria irregular en vez de su reconocimiento legal.": {
-          "id_tema": "t10",
-          "tema": "Migración",
-          "question": "El Estado debería priorizar la deportación de las personas con situación migratoria irregular en vez de su reconocimiento legal.",
-          "question_key": "questions.t10",
-          "topic_key": "topics.t10",
-          "vote": 1.0,
-          "comment": "Si bien el plan de gobierno de Podemos Perú promete mayor inversión pública, prioriza claramente la inversión privada. El énfasis en el caso de la inversión pública es puesto en la \"ejecución\", es decir, en llevar a cabo gran parte de los gastos previstos según el presupuesto estatal. Además, el crecimiento de la inversión estatal es atado a que se cumpla la condición del crecimiento económico.(algo como este;el plan es un poco vago, pero no habla de regularizar inmigrantes y en cambio le dedica harta atención a la frontera)",
-          "comment_key": "explanations.candidates.c4.t10",
-          "source": "Plan, págs ?",
-          "source_type": "candidate"
         },
         "Pueblos indígenas: Los pueblos indígenas deberían poder vetar proyectos extractivos (minería, petróleo) en sus tierras.": {
           "id_tema": "t11",
@@ -848,10 +836,10 @@
           "question": "Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.",
           "question_key": "questions.t18",
           "topic_key": "topics.t18",
-          "vote": 1.0,
-          "comment": "\"\".",
+          "vote": 0.5,
+          "comment": "Si bien su plan de gobierno propone más de una sola medida para luchar contra la informalidad, también identifica como principal obstáculo a superar los \"confiscatorios [...] costos tributarios\".",
           "comment_key": "explanations.candidates.c4.t18",
-          "source": "Plan (pág. 64, 66)",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 64, 66)",
           "source_type": "candidate"
         },
         "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
@@ -909,10 +897,10 @@
           "source": "https://caretas.pe/politica/alvaro-paz-de-la-barra-propone-cadena-perpetua-para-funcionarios-corruptos/",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.0,
@@ -1144,10 +1132,10 @@
           "source": "https://canaln.pe/actualidad/fuerza-popular-28-candidatos-sentencias-firmes-n490776",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.0,
@@ -1379,10 +1367,10 @@
           "source": "https://radioondaazul.com/elecciones-2026-252-candidatos-con-sentencias-penales-postulan-a-cargos-nacionales/",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -1554,10 +1542,10 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf",
           "source_type": "party_fallback"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -1777,10 +1765,10 @@
           "source": "https://canaln.pe/actualidad/belaunde-sentenciado-peculado-no-puede-presidente-n489489",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -2024,10 +2012,10 @@
           "source": "https://rpp.pe/politica/elecciones/carlos-alvarez-niega-tener-conocimiento-sobre-candidatos-con-sentencia-dentro-de-su-partido-noticia-1671344?fbclid=IwY2xjawPTCGhleHRuA2FlbQIxMABicmlkETFXTm0wa2lHcDNYRGdlbDNjc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi-Y6yMLbKlrdBlmv-gFTHcEY0SLVV34JbMMIC7Ge-MYbbbvdp6eX8vycFfu_aem_YQedFW_qDjKtsVU-dJF0_A",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -2247,10 +2235,10 @@
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf",
           "source_type": "party_fallback"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.5,
@@ -2470,10 +2458,10 @@
           "source": "https://www.americatv.com.pe/noticias/actualidad/nieto-ley-que-impide-postular-condenados-terrorismo-avance-n298065",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.5,
@@ -2693,10 +2681,10 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf",
           "source_type": "party_fallback"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -2844,10 +2832,10 @@
           "source": "https://diariocorreo.pe/politica/alex-gonzales-si-expresidentes-son-sentenciados-por-malos-manejos-en-sus-cargos-no-hay-indulto-noticia/",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -3043,10 +3031,10 @@
           "source": "https://democraticofederal.com/wp-content/uploads/2026/01/PLAN-DE-GOBIERNO.pdf",
           "source_type": "party_fallback"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -3465,10 +3453,10 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf",
           "source_type": "party_fallback"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -3688,10 +3676,10 @@
           "source": "https://www.expreso.com.pe/politica/herbert-caller-corrupcion",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -3839,10 +3827,10 @@
           "source": "https://www.exitosanoticias.pe/politica/yohny-lescano-plantea-muerte-civil-funcionarios-estado-empresarios-corruptos-n169654",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -4014,10 +4002,10 @@
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf",
           "source_type": "party_fallback"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -4189,10 +4177,10 @@
           "source": "https://www.youtube.com/live/xY7ewqcLwys?si=lyrL0byHsLlKGvhH&t=2707",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -4400,10 +4388,10 @@
           "source": "https://www.gob.pe/institucion/mpfn/noticias/520789-ministerio-publico-solicito-5-anos-y-4-meses-de-prision-para-vladimir-cerron-por-adelanto-directo-en-obra-de-mejoramiento-vial/+++https://cnnespanol.cnn.com/2023/10/07/vladimir-cerron-partido-peru-libre-condena-carcel-corrupcion-orix+++https://www.dw.com/es/vladimir-cerr%C3%B3n-cumple-un-a%C3%B1o-pr%C3%B3fugo-de-la-justicia-de-per%C3%BA/a-70418949",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.5,
@@ -4774,10 +4762,10 @@
           "source": "https://www.infobae.com/peru/2025/08/14/hermano-de-martin-vizcarra-sobre-prision-preventiva-contra-el-expresidente-el-pacto-mafioso-se-mantiene-en-el-pais/",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -5009,10 +4997,10 @@
           "source": "infobae.com (19 Jul 2025); peru21.pe (28 May 2025); lpderecho.pe (May 2024)",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.0,
@@ -5232,10 +5220,10 @@
           "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -5407,10 +5395,10 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -5546,10 +5534,10 @@
           "source": "https://progresemos.pe/plan-gobierno",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -5685,10 +5673,10 @@
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-napoleon-becerra-promete-acabar-seis-meses-inseguridad-ciudadana-1063796.aspx",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.0,
@@ -5884,10 +5872,10 @@
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf",
           "source_type": "party_fallback"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.5,
@@ -6119,10 +6107,10 @@
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf (mpesije.jne.gob.pe)",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -6246,10 +6234,10 @@
           "source": "https://cosas.pe/actualidad/355614/carlos-espa-precandidato-presidencial-propone-un-cambio-profundo-queremos-secar-el-pozo-de-la-corrupcion/",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -6433,10 +6421,10 @@
           "source": "https://gestion.pe/peru/politica/george-forsyth-plantea-declarar-delitos-de-corrupcion-como-de-lesa-humanidad-y-y-muerte-civil-elecciones-2021-nndc-noticia/+++La inhabilitación vitalicia de cargos públicos también está contemplada en el plan de gobierno actual de Somos Perú.",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -6656,10 +6644,10 @@
           "source": "https://www.rcrperu.com/candidata-rosario-del-pilar-fernandez-de-un-camino-diferente-propone-democratizar-la-justicia-y-una-lucha-frontal-contra-la-corrupcion/",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,
@@ -6819,10 +6807,10 @@
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-chiabra-plantea-reducir-burocracia-para-combatir-corrupcion-1061223.aspx",
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.0,
@@ -7030,10 +7018,10 @@
           "source": null,
           "source_type": "candidate"
         },
-        "Minería informal: El Estado debería desarrollar mecanismos más activos para regular a mineros informales.": {
+        "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
           "tema": "Minería informal",
-          "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales.",
+          "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.",
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 1.0,

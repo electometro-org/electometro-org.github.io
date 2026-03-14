@@ -19,7 +19,7 @@
     "t4": {
       "id": "t4",
       "topic": "Minería informal",
-      "question": "El Estado debería desarrollar mecanismos más activos para regular a mineros informales."
+      "question": "El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales."
     },
     "t5": {
       "id": "t5",
@@ -442,11 +442,6 @@
           "comment": "El plan de gobierno prioriza inversión pública y reasignación de recursos hacia salud, además de fortalecer infraestructura y servicios públicos.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf"
         },
-        "t10": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Si bien el plan de gobierno de Podemos Perú promete mayor inversión pública, prioriza claramente la inversión privada. El énfasis en el caso de la inversión pública es puesto en la \"ejecución\", es decir, en llevar a cabo gran parte de los gastos previstos según el presupuesto estatal. Además, el crecimiento de la inversión estatal es atado a que se cumpla la condición del crecimiento económico.(algo como este;el plan es un poco vago, pero no habla de regularizar inmigrantes y en cambio le dedica harta atención a la frontera)",
-          "source": "Plan, págs ?"
-        },
         "t11": {
           "vote": 0.0,
           "comment": "El plan de gobierno propone revisar y reglamentar con claridad la consulta previa, asistencia técnica a comunidades y alianzas multiactor, pero no reconoce poder de veto indígena sobre proyectos extractivos.",
@@ -478,9 +473,9 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 18-19)"
         },
         "t18": {
-          "vote": 0.0,
-          "comment": "El plan de gobierno trata la informalidad como un problema que requiere incentivos, asistencia, formalización progresiva, capacitación y simplificación; no plantea reemplazar eso por solo bajar impuestos.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf"
+          "vote": 0.5,
+          "comment": "Si bien su plan de gobierno propone más de una sola medida para luchar contra la informalidad, también identifica como principal obstáculo a superar los \"confiscatorios [...] costos tributarios\".",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 64, 66)"
         },
         "t20": {
           "vote": 0.0,
