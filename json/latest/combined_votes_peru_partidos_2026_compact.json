@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "quiz": {
     "t1": {
       "id": "t1",
@@ -9,7 +9,7 @@
     "t2": {
       "id": "t2",
       "topic": "Educación sexual",
-      "question": "La educación sexual integral con enfoque de género no debería ser una parte obligatoria del currículo escolar."
+      "question": "La educación sexual integral con enfoque de género debería ser una parte obligatoria del currículo escolar."
     },
     "t3": {
       "id": "t3",
@@ -24,7 +24,7 @@
     "t5": {
       "id": "t5",
       "topic": "Aborto",
-      "question": "El aborto no debería estar permitido en casos de violación."
+      "question": "El aborto debería estar permitido en casos de violación."
     },
     "t6": {
       "id": "t6",
@@ -69,12 +69,12 @@
     "t14": {
       "id": "t14",
       "topic": "Gasto estatal",
-      "question": "El gobierno debería invertir más en instituciones estatales, en vez de reducir gastos."
+      "question": "El gobierno debería reducir gastos en vez de invertir más en las instituciones estatales y los servicios públicos."
     },
     "t16": {
       "id": "t16",
       "topic": "Pensión pública",
-      "question": "El Estado debería priorizar el sistema de pensiones públicas en vez de fomentar las pensiones privadas."
+      "question": "El Estado debería fomentar el sistema de pensiones privadas en vez de priorizar las pensiones públicas."
     },
     "t17": {
       "id": "t17",
@@ -113,7 +113,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno formula la necesidad de la educación sexual explícitamente cómo parte de la educación primaria cómo objetivo general en cuanto a los estudiantes, pero también a los docentes durante su formación.",
           "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
@@ -173,7 +173,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno presenta, por ejemplo, un enfoque estatal para el fortalecimiento de los sistemas de salud y de pensiones. Sin embargo, también se habla de cooperación con el sector privado en varios ámbitos.",
           "source": "https://mpesije.jne.gob.pe/docs/7d70c5e1-2246-42e8-90c2-372aa1cf7f52.pdf"
         },
@@ -213,7 +213,7 @@
           "source": "https://www.infobae.com/peru/2024/02/28/app-impulsa-propuesta-para-que-las-fuerzas-armadas-acompanen-a-la-pnp-en-lucha-contra-delincuencia/"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El 19/11/2025, la bancada de Alianza Para el Progreso votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética.\" sin mayor componente social o de género.",
           "source": "https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
         },
@@ -228,7 +228,7 @@
           "source": "https://ojo-publico.com/politica/fuerza-popular-avanza-pais-y-peru-libre-blindan-la-mineria-informal;https://convoca.pe/agenda-propia/reinfo-congreso-aprueba-en-media-hora-ampliacion-del-registro-que-beneficia-la"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "En 2016, el excongresista ultraconservador Julio Rosas de APP declaró que Acuña le había reiterado una postura en contra de la despenalización del aborto como lider partidario. Documentación de campañas previas, además, muestra una postura conservadora de APP con respecto a la despenalización del aborto.",
           "source": "https://elcomercio.pe/politica/elecciones/acuna-confirmo-compromiso-familia-defensa-vida-391502-+++https://tc.gob.pe/publicaciones/resumenes/2016/febrero/Resumen_12022016.pdf"
         },
@@ -263,7 +263,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Para-el-Progreso-Plan-de-gobierno-LP-Derecho.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno apuesta por un sistema previsional privado: reemplazar AFP por EAF, manejar allí un capital semilla y fortalecer el mercado previsional privado.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Para-el-Progreso-Plan-de-gobierno-LP-Derecho.pdf"
         },
@@ -313,7 +313,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Aprista-Peruano-Plan-de-Gobierno-LP.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato se ha posicionado en contra de la despenalización del aborto así como del matrimonio igualitario.",
           "source": "https://willax.pe/politica/elige-bien-2026/enrique-valderrama-campana-austera-plata-como-cancha-willax"
         },
@@ -358,7 +358,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Aprista-Peruano-Plan-de-Gobierno-LP.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone un Estado fuerte, moderno y descentralizado, profesionalización del servicio civil, fortalecimiento institucional, meritocracia y mayor capacidad estatal en salud, educación, justicia y control territorial.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Aprista-Peruano-Plan-de-Gobierno-LP.pdf"
         },
@@ -408,7 +408,7 @@
           "source": "https://conectateconmayra.com/2026/01/22/karol-paredes-avanza-pais-propone-la-pena-de-muerte-y-salirse-de-los-pactos-internacionales-de-derechos-humanos/;https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 18-19)"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El 19/11/2025, la bancada de Avanza País votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética\" sin enfoque de género.",
           "source": "https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2025-2026 -> Primera Legislatura Ordinaria -> 11/19/2025, pág. 10); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/;https://ojo-publico.com/5988/presion-ultraconservadora-bloquea-la-educacion-sexual-los-colegios"
         },
@@ -423,7 +423,7 @@
           "source": "https://ojo-publico.com/politica/fuerza-popular-avanza-pais-y-peru-libre-blindan-la-mineria-informal"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno de Avanza País no menciona el aborto. Sin embargo, la bancada de Avanza País votó en bloque a favor del \"PROYECTO DE LEY 785, QUE PROPONE RECONOCER DERECHOS AL CONCEBIDO\". El lenguaje de los \"derechos del concebido\" es usado por otros partidos políticos socialmente conservadores, como Renovación Popular, que se oponen al aborto.",
           "source": "https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2022-2022 -> Segunda Legislatura Ordinaria -> 04/13/2023, pág. 15);https://comunicaciones.congreso.gob.pe/noticias/aprueban-por-insistencia-norma-que-establece-derechos-al-concebido/"
         },
@@ -439,13 +439,13 @@
         },
         "t9": {
           "vote": 0.5,
-          "comment": "El plan de gobierno prioriza inversión pública y reasignación de recursos hacia salud, además de fortalecer infraestructura y servicios públicos.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf"
+          "comment": "El plan de gobierno propone incrementar la inversión estatal en el sector salud y enfatiza la necesidad de utilizar los recursos públicos de la manera más eficiente posible. Sin embargo, también prevee una mayor participación de privados en la prestación de servicios de salud.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 10, 22-26)"
         },
         "t11": {
           "vote": 0.0,
-          "comment": "El plan de gobierno propone revisar y reglamentar con claridad la consulta previa, asistencia técnica a comunidades y alianzas multiactor, pero no reconoce poder de veto indígena sobre proyectos extractivos.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf"
+          "comment": "El plan de gobierno de Avanza País propone reformar la consulta previa y otras cuantas medidas para evitar conflictos entre las empresas mineras y las comunidades locales, pero en ninguna parte sugiere que las comunidades locales puedan vetar proyectos extractivos.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 68-69)"
         },
         "t12": {
           "vote": 1.0,
@@ -458,7 +458,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Williams se considera a sí mismo y a su partido como\"liberales en lo económico\"; sostiene que desean un \"estado reducido\". Además, considera que el gasto social estatal puede fácilmente ser excesivo y devenir en \"asistencialismo\" y así perpetuar la pobreza de sus beneficiarios.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Avanza-Pais-Plan-de-gobierno-LP-Derecho.pdf (págs. 10, 18);https://www.instagram.com/reel/DC9uGyMxgu4/;https://www.youtube.com/watch?v=0ena1xJz9Ro (minutos 0-1)"
         },
@@ -479,7 +479,7 @@
         },
         "t20": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de Avanza País votó unánimemente a favor.",
+          "comment": "El 06/03/2024, durante la \"SEGUNDA VOTACIÓN DE LOS PROYECTOS DE LEY 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 Y 3744.\", (estos proyectos de ley, aparte de la reintroducción de un sistema parlamentario de dos cámaras, proponían volver a permitir la reelección de los legisladores), la bancada de Avanza País votó unánimemente a favor.",
           "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187 ; https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2023-2024 -> Segunda Legislatura Ordinaria -> 03/06/2024, pág. 9)"
         }
       },
@@ -513,7 +513,7 @@
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-paz-de-barra-plantea-crear-unidad-para-pacificar-al-pais-100-dias-1061065.aspx"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato se ha mostrado cercano a la Iglesia de Jesucristo de los Santos de los Últimos Días, organización que se opone fuertemente a la legalización del aborto en todos sus casos.",
           "source": "https://wayka.pe/iglesia-homofobica-hace-donativos-a-escuelas-a-traves-del-minedu/"
         },
@@ -563,7 +563,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/b4869a0b-ff3d-47d7-af7b-62fd1295db83.pdf"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato planteó la entrega de una pensión mensual vitalicia de S/1500 para todos los adultos mayores de 60 años como “política de reivindicación social”, una propuesta que fortalecería activamente el pilar público de pensiones.",
           "source": "https://www.instagram.com/p/DULkHOjkubP/"
         },
@@ -603,7 +603,7 @@
           "source": "https://www.leyes.congreso.gob.pe/Documentos/2016_2021/Proyectos_de_Ley_y_de_Resoluciones_Legislativas/Proyectos_Firmas_digitales/PL05744.pdf"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "En legislaturas anteriores, la bancada del FREPAP ha declarado que no apoyarían el enfoque de género.",
           "source": "https://larepublica.pe/politica/2020/01/27/frepap-en-desacuerdo-con-union-civil-tienen-enquistado-el-mal-en-su-sangre-elecciones-2020-congreso"
         },
@@ -618,7 +618,7 @@
           "source": "https://comunicaciones.congreso.gob.pe/noticias/piden-mejorar-formalizacion-minera-artesanal/"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El FREPAP mantiene históricamente una posición en contra del aborto, que ha reivindicado en el Congreso.",
           "source": "https://wayka.pe/con-oposicion-del-frepap-aprueban-dictamen-de-ley-de-reproduccion-asistida/"
         },
@@ -628,7 +628,7 @@
           "source": "https://comunicaciones.congreso.gob.pe/noticias/establecen-medidas-extraordinarias-de-uso-del-canon-para-salud-educacion-y-agricultura/"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Hay bastante evidencia de una visión desarrollista-estatal: apoyo a usar canon para salud/educación/agricultura, planes nacionales sectoriales, intervención de COFIDE y gasto prioritario en agro.",
           "source": "https://comunicaciones.congreso.gob.pe/noticias/establecen-medidas-extraordinarias-de-uso-del-canon-para-salud-educacion-y-agricultura/"
         },
@@ -664,7 +664,7 @@
           "source": "https://gestion.pe/peru/politica/las-propuestas-de-keiko-fujimori-en-seguridad-ciudadana-segun-su-plan-de-gobierno-noticia/"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El 19/11/2025, la bancada de Fuerza Popular votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética.\" sin mayor componente social o de género.",
           "source": "https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2025-2026 -> Primera Legislatura Ordinaria -> 11/19/2025, pág. 10); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
         },
@@ -679,7 +679,7 @@
           "source": "https://ojo-publico.com/politica/fuerza-popular-avanza-pais-y-peru-libre-blindan-la-mineria-informal;https://convoca.pe/agenda-propia/reinfo-congreso-aprueba-en-media-hora-ampliacion-del-registro-que-beneficia-la"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Fuerza Popular y su lideresa Keiko Fujimori se declaran 'pro-vida' y su plan de gobierno actual defiende el derecho a la vida desde la concepción. Históricamente, el fujimorismo ha apoyado muchos movimientos y manifestaciones en contra de la despenalización del aborto.",
           "source": "https://canaln.pe/actualidad/keiko-fujimori-reafirma-su-postura-provida-n420789"
         },
@@ -734,7 +734,7 @@
           "source": "https://www.facebook.com/waykaperu/posts/estos-personajes-fujimoristas-apoyan-al-colectivo-con-mis-hijos-no-te-metas/1961086630642394/"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno plantea fortalecer el sistema de pensiones y realizar una reforma profunda para garantizar sostenibilidad y ampliar cobertura, también propone fortalecer el sistema de pensiones público y mecanismos no contributivos para protección universal, por lo que prioriza reforzar esquema público.",
           "source": "https://apisije-e.jne.gob.pe/TRAMITE/ESCRITO/1595/ARCHIVO/FIRMADO/5314.PDF"
         },
@@ -769,7 +769,7 @@
           "source": "https://rpp.pe/politica/estado/nueva-alianza-politica-fuerza-y-libertad-busca-reformar-el-peru-desde-las-regiones-senala-fiorella-molinelli-noticia-1649041"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: La candidata se ha mostrado a favor de la censura de ciertos libros empleados para la ESI, que no parece apoyar en general.",
           "source": "https://www.instagram.com/reels/DT1qGhfAhRN/"
         },
@@ -784,7 +784,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Fuerza-y-Libertad.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: La candidata ha mencionado estar a favor del aborto terapéutico, mas no en casos de violación.",
           "source": "https://www.facebook.com/reel/1349134966986583"
         },
@@ -819,7 +819,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Fuerza-y-Libertad.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone fortalecer y profesionalizar instituciones estatales (p. ej., administración pública meritocrática y estable, nuevas autoridades/entidades, inversión en capacidades estatales como defensa y salud), sin contemplar políticas de recorte.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Fuerza-y-Libertad.pdf"
         },
@@ -849,7 +849,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno respalda explícitamente fortalecer la educación sexual integral para reducir el embarazo adolescente y además plantea revisar materiales con enfoque de género e interculturalidad.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
         },
@@ -864,7 +864,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "En legislaturas parlamentarias y candidaturas presidenciales anteriores, el partido ha mantenido una postura consistente a favor de la despenalización del aborto.",
           "source": "https://www.infobae.com/america/peru/2021/10/02/congreso-juntos-por-el-peru-prepara-proyecto-de-ley-para-despenalizar-el-aborto/"
         },
@@ -877,11 +877,6 @@
           "vote": 0.0,
           "comment": "El plan de gobierno concibe la salud como prioridad pública, critica la mercantilización de la salud, reclama mayor inversión pública y una rectoría estatal más sólida, y propone ampliar progresivamente infraestructura y servicios estatales.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
-        },
-        "t10": {
-          "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: \"\".",
-          "source": "https://www.ideeleradio.pe/yo-tambien-soy-migrante/veronika-mendoza-sobre-migracion-venezolana-para-quienes-decidan-quedarse-debe-implementarse-una-politica-de-regularizacion/"
         },
         "t11": {
           "vote": 1.0,
@@ -899,7 +894,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone fortalecer la capacidad de intervención del Estado, ampliar inversión pública, recuperar iniciativa empresarial estatal, crear fondos públicos, reforzar salud, educación, justicia y descentralización",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Juntos-por-el-Peru-Plan-de-Gobierno-LP.pdf"
         },
@@ -907,11 +902,6 @@
           "vote": 1.0,
           "comment": "En legislaturas parlamentarias y candidaturas presidenciales anteriores, el partido ha mantenido una postura consistente a favor del matrimonio igualitario.",
           "source": "https://elcomercio.pe/politica/congreso/congreso-de-la-republica-presentan-proyecto-de-ley-sobre-el-matrimonio-igualitario-entre-personas-del-mismo-sexo-juntos-por-el-peru-somos-peru-partido-morado-nndc-noticia/#:~:text=Diversos%20congresistas%20de%20las%20bancadas%20de%20Juntos,un%20proyecto%20de%20ley%20que%20plantea%20el"
-        },
-        "t16": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: \"En el pasado, etc.\".",
-          "source": "https://canaln.pe/actualidad/luque-sobre-eliminacion-afp-planteamos-reforma-sistema-pensiones-aportes-no-deben-tocarse-n435498;https://lpderecho.pe/sigrid-bazan-plantea-derogar-reforma-pensiones-cambios-benefician-directamente-afp/#:~:text=Sigrid%20Baz%C3%A1n%20plantea%20derogar%20reforma,directamente%20a%20las%20AFP%20%7C%20LP"
         },
         "t17": {
           "vote": 0.5,
@@ -949,7 +939,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Libertad-Popular-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno propone implementar y promover la educación sexual integral “en todos los niveles educativos” e integrar contenidos de “igualdad de género” en el currículo escolar obligatorio.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-Libertad-Popular-Plan-de-Gobierno-LP-derecho.pdf"
         },
@@ -1059,7 +1049,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/76291ee3-eba2-4c88-adef-2530f2d70bb8.pdf"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista de 2023 para el canal de Youtube Rock Tabú, Álvarez se posicionó en contra de la enseñanza de la llamada \"ideología de género\" a niños, enfatizando ser crítico de, por ejemplo, contenidos que expongan la diversidad sexual de género. El mismo tema fue abordado en su participación en un show de streaming en 2024.",
           "source": "https://www.youtube.com/watch?v=odEwWLAX_xQ (minuto 49)+++https://www.youtube.com/watch?v=YCiwTI3mhIM"
         },
@@ -1074,7 +1064,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/76291ee3-eba2-4c88-adef-2530f2d70bb8.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En un video de 2020 publicado en sus redes sociales, Carlos Álvarez manifestó su indignación ante la despenalización del aborto en Argentina y se refirió al aborto como \"el asesinato de un ser en formación\".",
           "source": "https://www.facebook.com/CARLOSALVAREZYLASMILVOCES/videos/si-a-la-vida-no-a-la-muerte/3789576224428398/"
         },
@@ -1119,7 +1109,7 @@
           "source": "https://rpp.pe/politica/elecciones/carlos-alvarez-no-soy-ni-de-izquierda-ni-de-derecha-ni-de-centro-el-gobernante-que-llegue-al-2026-debe-ser-pragmatico-noticia-1653430"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno de País Para Todos denuncia una \"alta ineficiencia del gasto pública\", y propone reducir el gasto sin financiamiento y los apoyos a empresas estatales.",
           "source": "https://mpesije.jne.gob.pe/docs/76291ee3-eba2-4c88-adef-2530f2d70bb8.pdf"
         },
@@ -1129,7 +1119,7 @@
           "source": "https://www.youtube.com/watch?v=YCiwTI3mhIM"
         },
         "t16": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno propone un sistema previsional “universal” donde “público y privado compiten” (ONP/AFP)",
           "source": "https://mpesije.jne.gob.pe/docs/76291ee3-eba2-4c88-adef-2530f2d70bb8.pdf"
         },
@@ -1159,7 +1149,7 @@
       "name": "Partido Cívico OBRAS",
       "votes": {
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierna de OBRAS critica la currícula actual por contenidos \"controvertidos\" y propone potenciar consciencia de valores y folklore sin mencionar la educación sexual integral.",
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf"
         },
@@ -1174,7 +1164,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno establece como principio el respeto \"irrestricto\" al derecho a la vida y la protección de la familia, probablemente en alusión a la despenalización del aborto.",
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf"
         },
@@ -1209,7 +1199,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno apunta a una gestión estatal ágil con un aparato estatal reducido y con redirección de recursos hacia la inversión pública.",
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf"
         },
@@ -1259,7 +1249,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/19bde703-f7f4-4715-92f3-b82e19bbe651.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno del partido contempla la educación sexual integral con enfoque de género en el currículo nacional.",
           "source": "https://mpesije.jne.gob.pe/docs/19bde703-f7f4-4715-92f3-b82e19bbe651.pdf"
         },
@@ -1274,7 +1264,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/19bde703-f7f4-4715-92f3-b82e19bbe651.pdf"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno contempla \"garantizar el ejercicio pleno de los derechos sexuales y reproductivos.\"",
           "source": "https://mpesije.jne.gob.pe/docs/19bde703-f7f4-4715-92f3-b82e19bbe651.pdf"
         },
@@ -1314,7 +1304,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/19bde703-f7f4-4715-92f3-b82e19bbe651.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone incrementar el presupuesto público para sectores específicos (por ejemplo, ciencia y tecnología) y fortalecer la capacidad estatal de proveer servicios básicos. También incluye medidas para mejorar el control de la calidad y eficiencia del gasto.",
           "source": "https://mpesije.jne.gob.pe/docs/19bde703-f7f4-4715-92f3-b82e19bbe651.pdf"
         },
@@ -1324,7 +1314,7 @@
           "source": "https://www.youtube.com/watch?v=4EyM6_qqqn0"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Aunque el plan de gobierno del Partido del Buen Gobierno no propone desincentivar el uso de fondos privados, sí contempla el aumento de la cobertura del sistema previsional, con nuevos mecanismos como la afiliación automática para trabajadores independientes.",
           "source": "https://mpesije.jne.gob.pe/docs/19bde703-f7f4-4715-92f3-b82e19bbe651.pdf"
         },
@@ -1359,7 +1349,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno asegura explícitamente que “se eliminará la ideología de género”.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf"
         },
@@ -1394,7 +1384,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno plantea medidas de \"austeridad extrema\" y “reducción drástica del gasto público (…) al 20% del PBI”, a pesar de sus propuestas para fortalecer servicios públicos.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf"
         },
@@ -1404,7 +1394,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno contempla una “reforma total del sistema de pensiones” y la creación de una variante universal de Pensión 65 con presupuesto incrementado.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Democrata-Unido-Peru-Plan-de-Gobierno-LP-derecho.pdf"
         },
@@ -1429,7 +1419,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/3f2a939b-edf2-4505-b709-df775a5e0038.pdf"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone educación sexual integral (basada en evidencia científica y con enfoque intercultural) como parte de sus componentes en salud integral. El enfoque de género es transversal a sus propuestas.",
           "source": "https://mpesije.jne.gob.pe/docs/3f2a939b-edf2-4505-b709-df775a5e0038.pdf"
         },
@@ -1479,7 +1469,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/3f2a939b-edf2-4505-b709-df775a5e0038.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone fortalecer capacidades estatales y la ejecución pública (reformas, programas nacionales, modernización).",
           "source": "https://mpesije.jne.gob.pe/docs/3f2a939b-edf2-4505-b709-df775a5e0038.pdf"
         },
@@ -1534,7 +1524,7 @@
           "source": "https://democraticofederal.com/wp-content/uploads/2026/01/PLAN-DE-GOBIERNO.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En declaraciones difundidas en redes sociales, Masse afirma: “No apoyo el aborto, estoy formado para salvar vidas, no para extinguirla”.",
           "source": "https://www.instagram.com/reel/DS6fbkljiJU/"
         },
@@ -1579,7 +1569,7 @@
           "source": "https://perufederal.pe/storage/2026/01/PLAN-DE-GOBIERNO-DEL-PARTIDO-PERU-DEMOCRATICO-FEDERAL.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno plantea un “Estado fuerte”, “gobierno eficaz” y un sistema de bienestar social con acceso universal a servicios.",
           "source": "https://perufederal.pe/storage/2026/01/PLAN-DE-GOBIERNO-DEL-PARTIDO-PERU-DEMOCRATICO-FEDERAL.pdf"
         },
@@ -1679,7 +1669,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         },
         "t16": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Defiende capitalización privada con rol mínimo del Estado",
           "source": "https://larepublica.pe/politica/fernando-olivera-pensiones/"
         },
@@ -1724,7 +1714,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista de febrero de 2026, Guevara se posicionó a favor del aborto terapéutico y del aborto en casos de violación.",
           "source": "https://www.youtube.com/watch?v=RtRXVv9QUow (min 7-8)"
         },
@@ -1764,7 +1754,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno apuesta por fortalecer y transformar el Estado mediante inversión en capacidades institucionales, transparencia, justicia, salud y rendición de cuentas, en lugar de reducir su papel.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-morado-Plan-de-gobierno-LP-Derecho.pdf"
         },
@@ -1809,7 +1799,7 @@
           "source": "https://partidopatrioticodelperu.pe/ideario/;https://www.dailymotion.com/video/x9zk73e"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "En entrevista, Herbert Caller rechaza “el asunto este de género” (“No, nada de eso… Eso se tiene que cortar”), por lo que no apoya ESI obligatoria con enfoque de género.",
           "source": "https://www.dailymotion.com/video/x9zk73e"
         },
@@ -1844,7 +1834,7 @@
           "source": "https://partidopatrioticodelperu.pe/ideario/"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El ideario propone un Estado que “participe directamente” e impulse sectores estratégicos y medidas de fortalecimiento estatal (p. ej., eliminar CAS), por lo que sí favorece invertir/fortalecer instituciones estatales más que recortar.",
           "source": "https://partidopatrioticodelperu.pe/ideario/"
         },
@@ -1854,7 +1844,7 @@
           "source": "https://www.dailymotion.com/video/x9zk73e"
         },
         "t16": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Defensa capitalización individual",
           "source": null
         },
@@ -1919,7 +1909,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/582e0d55-19ee-4a7f-85ef-c254be5bada6.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Propone programas sociales expansivos incluyendo \"remuneración para amas de casa de sectores pobres\", \"hospitales con atención 24 horas pagando horas extras a médicos y enfermeras\", y \"satélite de telecomunicaciones propio\" para internet gratuito en zonas rurales, priorizando inversión estatal sobre reducción de gastos.",
           "source": "https://elbuho.pe/2026/01/del-satelite-al-pago-a-las-amas-de-casa-las-promesas-de-yonhy-lescano-en-las-elecciones-2026/"
         },
@@ -1929,7 +1919,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/582e0d55-19ee-4a7f-85ef-c254be5bada6.pdf"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Propone reformas hacia un sistema único de pensiones (AFP y ONP) que asegure que la pensión mínima cubra la canasta básica.",
           "source": "https://mpesije.jne.gob.pe/docs/582e0d55-19ee-4a7f-85ef-c254be5bada6.pdf"
         },
@@ -1956,10 +1946,10 @@
         "t1": {
           "vote": 0.0,
           "comment": "El plan de gobierno prioriza un enfoque punitivo (megapenales de máxima seguridad, aislamiento/incomunicación de cabecillas) más que la reintegración social de personas condenadas.",
-          "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf (págs. 21-24)"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno del partido propone solo \"educación sanitaria\" que promueva la \"responsabilidad sexual\", mas no la ESI o el enfoque de género.",
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
         },
@@ -1973,10 +1963,20 @@
           "comment": "El plan de gobierno plantea reingeniería del REINFO y metas exigibles para formalización (y baja/interdicción a quienes no avancen), es decir, sí propone una regularización/formalización más activa (aunque acompañada de interdicción).",
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
         },
+        "t5": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista con el periodista liberal Marco Sifuentes, Grozo declaró estar en contra de la despenalización del aborto, incluso en el caso de embarazos causados por violación.",
+          "source": "https://www.youtube.com/watch?v=6IxF2arOxHM&list=TLPQMTUwMzIwMjaUYwtiRlV-nw&index=1 (minutos 46-48)"
+        },
         "t6": {
           "vote": 0.0,
           "comment": "El plan de gobierno enfatiza incentivos y exoneraciones tributarias para formalización y señala evitar aumentar impuestos al trabajo.",
-          "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
+          "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf (págs. 160, 170)"
+        },
+        "t7": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista realizada con Radio Exitosa el 11/03/2026, Grozo se posicionó en contra de la pena de muerte. Concretamente dijo lo siguiente: \"Estamos en contra de la pena de muerte. Dios da la vida y Dios la quita.\"",
+          "source": "https://www.exitosanoticias.pe/politica/wolfgang-grozo-pena-muerte-favor-cadena-perpetua-corruptos-n170843"
         },
         "t8": {
           "vote": 1.0,
@@ -2004,7 +2004,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
         },
         "t16": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno prioriza el esquema de capitalización individual como “único pilar obligatorio”.",
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
         },
@@ -2039,7 +2039,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Priorizará la educación sexual integral en el sistema educativo garantizando el ejercicio de los derechos reproductivos de las mujeres",
           "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
         },
@@ -2054,7 +2054,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista, Francisco Diez-Canseco menciona que el aborto debería estar permitido en ciertos casos. No está de acuerdo con negarle el aborto a una niña que fue violada, pone como ejemplo el caso de una chica en Nicaragua",
           "source": "https://www.youtube.com/live/xY7ewqcLwys?si=a7D0syM_HksNm8xl&t=2979"
         },
@@ -2089,7 +2089,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno propone \"la refundación de lo público como un estado más pequeño austero y eficiente\"",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Accion-Plan-de-Gobierno-LP.pdf, pág. 15"
         },
@@ -2130,7 +2130,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/f4e5c2c2-b0df-4033-adda-6617af774154.pdf"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Propone eliminar la “ideología de género” en las escuelas (posición contraria a un currículo obligatorio de ESI con enfoque de género).",
           "source": "https://mpesije.jne.gob.pe/docs/f4e5c2c2-b0df-4033-adda-6617af774154.pdf"
         },
@@ -2145,7 +2145,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/f4e5c2c2-b0df-4033-adda-6617af774154.pdf"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En 2016, se reportó que Cerrón había tenido declaraciones apoyando la despenalización del aborto para proteger la integridad física de las mujeres.",
           "source": "https://larepublica.pe/politica/735315-vladimir-cerron-favor-de-despenalizar-el-aborto"
         },
@@ -2180,7 +2180,7 @@
           "source": "https://peruaccion.pe/wp-content/uploads/2024/05/IDEARIO-PERU-ACCION.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Plantea “austeridad y reducción del gasto” y crear un consejo de eficiencia y control del gasto estatal orientado al recorte de costos (no “invertir más en vez de reducir gastos”).",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Accion-Plan-de-Gobierno-LP.pdf"
         },
@@ -2230,7 +2230,7 @@
           "source": "https://larepublica.pe/economia/2025/12/05/reinfo-asi-votaron-las-bancadas-del-congreso-que-aprobaron-una-nueva-ampliacion-del-proceso-de-formalizacion-minera-en-peru-hasta-fines-del-2026-hnews-127505"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El ideario de Perú Libre del año 2020 propone la despenalización del aborto (con matices: rechaza su uso como “método anticonceptivo”).",
           "source": "https://declara.jne.gob.pe/assets/plangobierno/fileplangobierno/16542.pdf"
         },
@@ -2260,12 +2260,12 @@
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno de Perú Libre contempla incrementos en el gasto para fortalecer servicios estatales en varios rubros, como salud y educación.",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno plantea fortalecer significativamente el sistema previsional y condena la \"mercantilización\" de la seguridad social.",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
         },
@@ -2305,7 +2305,7 @@
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-jaico-plantea-muerte-civil-funcionarios-corruptos-condenados-1063930.aspx"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En entrevista, Mario Vizcarra sostuvo que el aborto “debe ser una decisión de la mujer” y agregó que estaría a favor “más aún en temas de violación”.",
           "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
         },
@@ -2350,7 +2350,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno plantea reducción y racionalización del Estado antes que una expansión general del gasto institucional.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
@@ -2360,7 +2360,7 @@
           "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
         },
         "t16": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El programa no prioriza el sistema público de pensiones y reconoce un rol central de las AFP y pensiones privadas.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
@@ -2400,7 +2400,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno incluye educación sexual para niñez/adolescencia y propone incluir contenidos de igualdad en la currícula y enfoque de género en políticas públicas.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
@@ -2415,7 +2415,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Podemos Perú es un partido conservador en materias de género, y en su plan de gobierno afirma que \"sí podemos defender la vida y la dignidad humana desde su concepción\". En otras palabras, se oponen al aborto.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (pág. 9); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
         },
@@ -2460,7 +2460,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone fortalecer/modernizar el Estado (servicio civil, meritocracia, digitalización) y promover inversión pública.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
@@ -2470,7 +2470,7 @@
           "source": "https://www.facebook.com/SiPodemosPeru/posts/urgente-%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%92-%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%91%F0%9D%90%94%CC%81-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%85%F0%9D%90%88%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%84-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%95%F0%9D%90%88%F0%9D%90%83%F0%9D%90%80-%F0%9D%90%98-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%85%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%80-desde-podemos-per%C3%BA-reafirmam/1123816709102814/"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Podemos Perú, si bien no propone deshacerse de las pensiones privadas o algo similar,  prioriza la expansión de las pensiones públicas, al menos en lo que se refiere a \"establecer una pensión mínima universal digna\" para expandir el porcentaje de la población cubierta por una pensión.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (págs. 51-2)"
         },
@@ -2510,7 +2510,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Declara que debe garantizarse educación sexual integral y que negarla es un retroceso.",
           "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
         },
@@ -2520,7 +2520,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El ideario del partido afirma la defensa de la \"vida desde su concepción\", postura que implica oposición al aborto incluso en casos de violación.",
           "source": "https://podemosperu.org.pe/ideario/+++https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
@@ -2550,7 +2550,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno apuesta por un Estado fuerte y financiamiento para servicios públicos (salud, educación, infraestructura) y por fortalecer instituciones estatales en lugar de recortes generalizados.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
@@ -2560,7 +2560,7 @@
           "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone una \"Reforma previsional con Pensión Digna para Todos\" e inclusión previsional del sector informal, priorizando un sistema público de pensiones.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
@@ -2635,7 +2635,7 @@
           "source": "https://primerolagente.pe/wp-content/uploads/2025/12/PRIMERO-LA-GENTE-Programa-de-gobierno-2026.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno se centra en fortalecer capacidades estatales (p.ej., centro de gobierno/modernización, integridad, sistemas públicos) y no en recortes como eje principal.",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
@@ -2700,7 +2700,7 @@
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone fortalecer capacidades del Estado (digitalizar trámites al 100%, interoperabilidad, meritocracia) y proteger inversión social; no es un enfoque de “reducir el Estado”, sino de invertir y hacerlo más eficiente.",
           "source": "https://progresemos.pe/wp-content/uploads/2025/12/PG-Progresemos.pdf"
         },
@@ -2780,12 +2780,12 @@
           "source": "https://pte.pe/documentos/"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno plantea “recuperar el rol dirigente del Estado” y critica el modelo neoliberal.",
           "source": "https://peruvotoinformado.com/img/2026/partido/plan-partido-de-los-trabajadores-y-emprendedores-pte-peru.pdf"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Propone recuperar el rol dirigente del Estado social y rechaza la tercerización de los servicios públicos",
           "source": "https://pte.pe/documentos/"
         },
@@ -2820,7 +2820,7 @@
           "source": "https://www.youtube.com/watch?v=DXX3CpNF0FM"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno define al partido como organización política cristiana y que persigue el desarrollo intgral de la persona y familia como bien común del pueblo peruano. La congresista Milagros Jáuregui además describe la elimincación del enfoque de género cómo una victoria cristiana",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/11/25/milagros-jauregui-celebra-eliminacion-del-enfoque-de-genero-esto-es-una-victoria-cristiana/"
         },
@@ -2835,7 +2835,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://obrasperu.live/"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "La congresista Milagros Jáuregui ha fomentado la polémica propuesta que obliga a niñas a ser madres y que veta el aborto terapéutico. En el plan de gobierno no se menciona este tema, pero se hace énfasis en la definición del partido como organización cristiana. Este hecho apoyo las opiniones de la congresista Jáuregui.",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/06/25/congresista-milagros-jauregui-celebra-su-polemica-propuesta-que-obliga-a-ninas-a-ser-madres-y-veta-el-aborto-terapeutico/"
         },
@@ -2930,7 +2930,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El Plan menciona políticas con “enfoque … de género”.",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf (mpesije.jne.gob.pe)"
         },
@@ -2960,7 +2960,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El Plan enfatiza fortalecer capacidad del Estado y aumentar recursos/gestión en sectores públicos (salud pública, seguridad, fiscalización laboral, etc.).",
           "source": "https://mpesije.jne.gob.pe/docs/40877746-e670-42d3-840b-cdf683f46355.pdf (mpesije.jne.gob.pe)"
         },
@@ -3035,7 +3035,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno enfatiza recorte de erogaciones superfluas, eficiencia y mayor rol privado.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Si-creo-Plan-de-Gobierno-LP-derecho.pdf"
         },
@@ -3070,7 +3070,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno de Somos Perú para las elecciones de 2026 incluye la propuesta de \"brindar atención y consejería especializada a adolescentes y jóvenes, en salud sexual y reproductiva libre de violencia\".",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
@@ -3085,7 +3085,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf+++https://larepublica.pe/elecciones/2021/03/26/elecciones-2021-impulsaran-mineria-pero-con-respeto-ambiental-pltc"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: Durante la campaña presidencial de 2021, el candidato se pronunció a favor de la despenalización del aborto exclusivamente en casos de violación o riesgo de vida para la madre. No hay mención del tema en su plan de gobierno actual.",
           "source": "https://canaln.pe/actualidad/george-forsyth-sobre-aborto-solo-casos-violacion-cuando-madre-este-peligro-n432360"
         },
@@ -3125,7 +3125,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno de Somos Perú muestra una postura generalmente favorable al incremento del gasto público, sobre todo en el sector salud y en la inversión en infraestructura, que aún considera demasiado poco competitiva en comparación a la inversión privada.",
           "source": "https://mpesije.jne.gob.pe/docs/1334ac30-c28e-42a5-8fc5-79a4638ccd2a.pdf"
         },
@@ -3185,7 +3185,7 @@
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: En contra del aborto.",
           "source": "https://rpp.pe/politica/actualidad/ministra-fernandez-en-contra-de-despenalizacion-del-consumo-de-drogas-noticia-331378"
         },
@@ -3215,7 +3215,7 @@
           "source": "https://elperuano.pe/noticia/290847-elecciones-2026-conoce-el-plan-de-gobierno-de-la-candidata-rosario-fernandez-bazan"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno plantea fortalecimiento/expansión institucional y de servicios públicos y no reducir gastos.",
           "source": "https://mpesije.jne.gob.pe/docs/de662f06-21d5-4523-a3ec-4fcbacabe16c.pdf"
         },
@@ -3245,7 +3245,7 @@
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-chiabra-plantea-estrategia-integral-nacional-contra-inseguridad-1061247.aspx"
         },
         "t2": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno rechaza la “educación sexual integral con enfoque de género” y plantea sustituirla por educación basada en valores y biología.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
@@ -3260,7 +3260,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t5": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "Un líder clave del bloque (PPC) se pronunció contra despenalizar el aborto en casos de violación (debate/archivamiento del proyecto).",
           "source": "https://www.americaeconomia.com/politica-sociedad/politica/peru-archivan-proyecto-para-despenalizar-aborto-en-casos-de-violacion-sex"
         },
@@ -3295,7 +3295,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Unidad-Nacional-Plan-de-Gobierno-LP-derecho.pdf"
         },
         "t14": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato plantea reducir la cantidad de ministerios en el Estado a 14.",
           "source": "https://cosas.pe/de-fondo/348980/roberto-chiabra-presenta-su-plan-de-gobierno-y-propone-reducir-el-gabinete-a-14-ministerios/"
         },
@@ -3340,7 +3340,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "t2": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "El plan de gobierno propone fortalecer la Educación Sexual Integral (ESI) en todos los niveles, con enfoque de género y para enfrentar violencias y discriminación.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
@@ -3355,7 +3355,7 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "t5": {
-          "vote": 0.0,
+          "vote": 1.0,
           "comment": "Aunque el plan menciona fortalecer el aborto terapéutico, encontré además un video donde se afirma estar “a favor de la despenalización del aborto… en casos de violación”.",
           "source": "https://www.facebook.com/MAXUYTV.canal12/videos/gahela-cari-es-confrontada-candidato-de-derecha-versus-candidata-de-izquierdaest/1276555397714380/ (Facebook)"
         },
@@ -3380,12 +3380,12 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "t14": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno plantea mayores prioridades de gasto (salud, educación, protección social, etc.) y construcción/fortalecimiento de instituciones públicas; no un enfoque de recorte.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
         "t16": {
-          "vote": 1.0,
+          "vote": 0.0,
           "comment": "El plan de gobierno propone un nuevo sistema de pensiones con reforma del sistema público y ruptura del oligopolio AFP; orientación solidaria (reparto/capitalización colectiva) antes que privatización.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Alianza-Venceremos-Plan-de-Gobierno-LP.pdf"
         },
