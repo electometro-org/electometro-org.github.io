@@ -4183,6 +4183,18 @@
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf",
           "source_type": "party"
         },
+        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "id_tema": "t15",
+          "tema": "Matrimonio igualitario",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.t15",
+          "topic_key": "topics.t15",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista con el periodista liberal Marco Sifuentes, Grozo habló de la necesidad de respetar a las personas homosexuales, e incluso propuso que se les reconozca el derecho a la unión civil. No obstante, no se posicionó a favor del matrimonio igualitario.",
+          "comment_key": "explanations.parties.p21.t15",
+          "source": "https://www.youtube.com/watch?v=6IxF2arOxHM&list=TLPQMTUwMzIwMjaUYwtiRlV-nw&index=1 (minutos 49-52)",
+          "source_type": "candidate_fallback"
+        },
         "Pensión pública: El Estado debería fomentar el sistema de pensiones privadas en vez de priorizar las pensiones públicas.": {
           "id_tema": "t16",
           "tema": "Pensión pública",

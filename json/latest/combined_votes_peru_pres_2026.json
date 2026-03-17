@@ -3960,11 +3960,11 @@
           "question": "La educación sexual integral con enfoque de género debería ser una parte obligatoria del currículo escolar.",
           "question_key": "questions.t2",
           "topic_key": "topics.t2",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno del partido propone solo \"educación sanitaria\" que promueva la \"responsabilidad sexual\", mas no la ESI o el enfoque de género.",
+          "vote": 1.0,
+          "comment": "Grozo pide la cadena perpetua para los sentenciados por corrupción.",
           "comment_key": "explanations.candidates.c21.t2",
-          "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf",
-          "source_type": "party_fallback"
+          "source": "https://www.youtube.com/watch?v=6IxF2arOxHM&list=TLPQMTUwMzIwMjaUYwtiRlV-nw&index=1 (minuto 19)",
+          "source_type": "candidate"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
           "id_tema": "t3",
@@ -3973,10 +3973,10 @@
           "question_key": "questions.t3",
           "topic_key": "topics.t3",
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno propone “muerte civil” (inhabilitación perpetua) para sentenciados por corrupción.",
+          "comment": "El candidato presidencial del partido (Wolfgang Grozo) plantea usar cuarteles militares para retener sicarios/extorsionadores “mientras construye cárceles”, lo que implica mayor presencia/uso militar para combatir la criminalidad.",
           "comment_key": "explanations.candidates.c21.t3",
-          "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf",
-          "source_type": "party_fallback"
+          "source": "https://trome.com/actualidad/politica/wolfgang-grozo-a-los-delincuentes-hay-que-meterlos-dos-metros-bajo-tierra-elecciones-2026-entrevista-video-noticia/ (Trome.com)",
+          "source_type": "candidate"
         },
         "Minería informal: El Estado debería desarrollar mecanismos más activos para regularizar a mineros informales.": {
           "id_tema": "t4",
@@ -4085,6 +4085,18 @@
           "comment_key": "explanations.candidates.c21.t13",
           "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf",
           "source_type": "party_fallback"
+        },
+        "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
+          "id_tema": "t15",
+          "tema": "Matrimonio igualitario",
+          "question": "Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.",
+          "question_key": "questions.t15",
+          "topic_key": "topics.t15",
+          "vote": 0.0,
+          "comment": "En una entrevista con el periodista liberal Marco Sifuentes, Grozo habló de la necesidad de respetar a las personas homosexuales, e incluso propuso que se les reconozca el derecho a la unión civil. No obstante, no se posicionó a favor del matrimonio igualitario.",
+          "comment_key": "explanations.candidates.c21.t15",
+          "source": "https://www.youtube.com/watch?v=6IxF2arOxHM&list=TLPQMTUwMzIwMjaUYwtiRlV-nw&index=1 (minutos 49-52)",
+          "source_type": "candidate"
         },
         "Pensión pública: El Estado debería fomentar el sistema de pensiones privadas en vez de priorizar las pensiones públicas.": {
           "id_tema": "t16",
