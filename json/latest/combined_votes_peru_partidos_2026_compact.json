@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.2",
   "quiz": {
     "t1": {
       "id": "t1",
@@ -79,7 +79,7 @@
     "t17": {
       "id": "t17",
       "topic": "Derechos humanos",
-      "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (Corte IDH)"
+      "question": "Es importante que, para defender los derechos humanos, el Perú siga reconociendo la autoridad de la Corte Interamericana de Derechos Humanos (CIDH)"
     },
     "t18": {
       "id": "t18",
@@ -89,7 +89,7 @@
     "t19": {
       "id": "t19",
       "topic": "Nueva constitución",
-      "question": "Debería convocarse a una asamblea contituyente para cambiar la constitución del 93."
+      "question": "Debería convocarse a una Asamblea Contituyente para cambiar la Constitución de 1993."
     },
     "t15": {
       "id": "t15",
@@ -214,8 +214,8 @@
         },
         "t2": {
           "vote": 0.0,
-          "comment": "El 19/11/2025, la bancada de Alianza Para el Progreso votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética.\" sin mayor componente social o de género.",
-          "source": "https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
+          "comment": "El 19/11/2025, la bancada de APP votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética\" sin enfoque de género.",
+          "source": "https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2025-2026 -> Primera Legislatura Ordinaria -> 11/19/2025, pág. 10); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
         },
         "t3": {
           "vote": 1.0,
@@ -665,7 +665,7 @@
         },
         "t2": {
           "vote": 0.0,
-          "comment": "El 19/11/2025, la bancada de Fuerza Popular votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética.\" sin mayor componente social o de género.",
+          "comment": "El 19/11/2025, la bancada de Fuerza Popular votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética\" sin enfoque de género.",
           "source": "https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2025-2026 -> Primera Legislatura Ordinaria -> 11/19/2025, pág. 10); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
         },
         "t3": {
@@ -1075,8 +1075,8 @@
         },
         "t7": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Álvarez se pronunció a favor de reformas al Codigo Penal que permitan la pena de muerte para delincuentes.",
-          "source": "https://gestion.pe/peru/politica/carlos-alvarez-a-favor-de-la-pena-de-muerte-para-criminales-y-convenio-con-nayib-bukele-noticia"
+          "comment": "Por falta de información, se tomó la posición del candidato: En el debate presidencial del 23.03., Álvarez proclamó querer \"aplicar la pena de muerte en el Perú.\" También afirmó que \"estos malditos criminales no merecen el perdón.\"",
+          "source": "https://www.youtube.com/watch?v=OikfsWFXkJA&t=606s (min. 28)"
         },
         "t8": {
           "vote": 1.0,
@@ -1125,8 +1125,8 @@
         },
         "t17": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista de septiembre de 2025, Álvarez acusó a la  CIDH de ser \"ideologizada\" y fallar de manera sistémica contra el estado peruano, por lo que defendió una eventual salida del Perú, o una permanencia con límites.",
-          "source": "https://rpp.pe/politica/elecciones/carlos-alvarez-no-soy-ni-de-izquierda-ni-de-derecha-ni-de-centro-el-gobernante-que-llegue-al-2026-debe-ser-pragmatico-noticia-1653430"
+          "comment": "Por falta de información, se tomó la posición del candidato: En el debate presidencial del 23.03, Álvarez prometió \"denunciar el pacto de San José [el tratado que reconoce la autoridad de la CIDH]\". Además, en una entrevista de septiembre de 2025, Álvarez acusó a la  CIDH de ser \"ideologizada\" y fallar de manera sistémica contra el estado peruano, por lo que defendió una eventual salida del Perú, o una permanencia con límites.",
+          "source": "https://rpp.pe/politica/elecciones/carlos-alvarez-no-soy-ni-de-izquierda-ni-de-derecha-ni-de-centro-el-gobernante-que-llegue-al-2026-debe-ser-pragmatico-noticia-1653430;https://www.youtube.com/watch?v=OikfsWFXkJA&t=606s (min. 28)"
         },
         "t18": {
           "vote": 0.5,
@@ -1375,7 +1375,7 @@
         },
         "t10": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Propone \"declarar al país en estado de emergencia y otorgar 48 horas a los extranjeros para abandonar el territorio.\"",
+          "comment": "Por falta de información, se tomó la posición del candidato: Carrasco propone \"declarar al país en estado de emergencia y otorgar 48 horas a los extranjeros para abandonar el territorio.\"",
           "source": "https://elbuho.pe/2025/06/charlie-carrasco-y-vicente-alanoca-candidatos-presidenciales-desde-el-sur-rumbo-a-las-elecciones-2026/"
         },
         "t13": {
@@ -1600,23 +1600,18 @@
       "votes": {
         "t1": {
           "vote": 1.0,
-          "comment": "El plan de gobierno propone la “eliminación total de beneficios penitenciarios”, “cárcel efectiva”, penas reales y acumulativas, e incluso trabajo obligatorio para condenados por delitos graves, con un énfasis claro en el castigo sobre la reintegración.",
+          "comment": "El plan de gobierno propone la “eliminación total de beneficios penitenciarios”, “cárcel efectiva”, penas reales y acumulativas, e incluso trabajo obligatorio para condenados por delitos graves.",
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         },
         "t2": {
           "vote": 0.5,
-          "comment": "El plan desarrolla ampliamente educación e igualdad de oportunidades, pero no menciona educación sexual integral ni enfoque de género como contenido obligatorio del currículo.",
+          "comment": "El plan contempla medidas relacionadas a la educación e igualdad de oportunidades, pero no contempla la educación sexual integral ni el enfoque de género como contenido obligatorio del currículo.",
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         },
         "t3": {
-          "vote": 0.0,
-          "comment": "El plan de gobierno no formula explícitamente una inhabilitación perpetua para cargos públicos.",
-          "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
-        },
-        "t5": {
           "vote": 0.5,
-          "comment": "El plan de gobierno no aborda el aborto de manera directa. Solo aparece una defensa general del “valor de la vida y la dignidad”, que no basta para fijar con claridad una postura sobre aborto por violación.",
-          "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
+          "comment": "Por falta de información, se tomó la posición del candidato: Olivera ha históricamente reivindicado el discurso anticorrupción con énfasis, pero no ha planteado explícitamente una propuesta de inhabilitación vitalicia.",
+          "source": "https://larepublica.pe/politica/fernando-olivera-corrupcion/"
         },
         "t6": {
           "vote": 0.0,
@@ -1625,7 +1620,7 @@
         },
         "t7": {
           "vote": 0.5,
-          "comment": "El plan de gobierno adopta una línea penal muy severa, pero no menciona expresamente la pena de muerte. La posición frente al enunciado no queda definida en el documento.",
+          "comment": "El plan de gobierno adopta una línea penal muy severa, pero no menciona expresamente la pena de muerte.",
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         },
         "t8": {
@@ -1635,12 +1630,12 @@
         },
         "t9": {
           "vote": 0.5,
-          "comment": "El plan de gobierno propone ampliar fuertemente el gasto público en salud, llegar a 7% del PBI, fortalecer SIS y expandir infraestructura pública; pero también permite libre elección entre EPS y reconoce espacio al sistema privado. La posición es mixta.",
+          "comment": "El plan de gobierno propone ampliar fuertemente el gasto público en salud, llegar a 7% del PBI, fortalecer SIS y expandir infraestructura pública; pero también permite libre elección entre EPS y reconoce espacio al sistema privado.",
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         },
         "t10": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Discurso de control y expulsión de migrantes irregulares",
+          "comment": "Por falta de información, se tomó la posición del candidato: Por lo general, Olivera ha tenido un discurso que enfatiza el control fronterizo y la expulsión de migrantes irregulares.",
           "source": "https://larepublica.pe/politica/fernando-olivera-migracion/"
         },
         "t11": {
@@ -1660,17 +1655,12 @@
         },
         "t14": {
           "vote": 0.5,
-          "comment": "El plan combina ambas cosas: propone reasignar fondos públicos a salud, educación, justicia y seguridad, pero también reducir gastos corrientes innecesarios y racionalizar el Estado.",
-          "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
-        },
-        "t15": {
-          "vote": 0.5,
-          "comment": "El plan de gobierno no menciona matrimonio igualitario.",
+          "comment": "El plan de gobierno combina ambas cosas: propone reasignar fondos públicos a salud, educación, justicia y seguridad, pero también reducir gastos corrientes innecesarios y racionalizar el Estado.",
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         },
         "t16": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Defiende capitalización privada con rol mínimo del Estado",
+          "comment": "Por falta de información, se tomó la posición del candidato: El candidato defiende la capitalización privada con rol mínimo del Estado.",
           "source": "https://larepublica.pe/politica/fernando-olivera-pensiones/"
         },
         "t17": {
@@ -1680,7 +1670,7 @@
         },
         "t18": {
           "vote": 0.0,
-          "comment": "El plan de gobierno propone reducir algunos impuestos, pero también insiste en incorporar a los informales al sistema mediante incentivos, cadenas productivas, innovación y transferencia tecnológica. No plantea bajar impuestos en reemplazo de la formalización, sino junto con mecanismos de formalización.",
+          "comment": "El plan de gobierno propone reducir algunos impuestos, pero también insiste en incorporar a los informales al sistema mediante incentivos diversos, cadenas productivas, innovación y transferencia tecnológica.",
           "source": "https://mpesije.jne.gob.pe/docs/d656b83f-3177-4053-a381-0f36ec99490a.pdf"
         },
         "t19": {
@@ -2301,7 +2291,7 @@
         },
         "t2": {
           "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: Respecto al proyecto de ley que propone eliminar enfoque de igualdad de género, Mario Vizcarra declara ser respetuoso de decisiones sobre relaciones entre personas del mismo sexo y cuestiona por qué oponerse a asuntos que considera derechos fundamentales, pero no afirma explícitamente apoyo a obligatoriedad de educación sexual integral con enfoque de género en currículo.",
+          "comment": "Por falta de información, se tomó la posición del candidato: Respecto al proyecto de ley aprobado en 2025 que elimina el enfoque de género de políticas públicas, Mario Vizcarra declaró ser respetuoso de las decisiones individuales de personas homosexuales y cuestionó la oposición a asuntos que considera derechos fundamentales. Sin embargo, no ha afirmado explícitamente su apoyo a la obligatoriedad de la educación sexual integral con enfoque de género.",
           "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
         },
         "t3": {
@@ -2309,25 +2299,25 @@
           "comment": "Perú Moderno apoya plenamente la afirmación de que las personas condenadas por corrupción deberían ser vetadas de por vida de cargos públicos. De hecho, van más allá de simplemente apoyar la idea: la han convertido en una propuesta bandera con nombre propio (\"muerte civil\"), y descartan expresamente cualquier posibilidad de rehabilitación para quienes hayan defraudado al Estado.",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-jaico-plantea-muerte-civil-funcionarios-corruptos-condenados-1063930.aspx"
         },
+        "t4": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra declara que la solución a la minería es \"facilitar la formalización\" de pequeña minería y minería artesanal, separando estos sectores de la minería ilegal. Reconoce que \"hay familias que viven de la minería artesanal\" y que se debe simplificar los requisitos para formalizarla.",
+          "source": "https://www.youtube.com/watch?v=IynQN-QhXkE"
+        },
         "t5": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En entrevista, Mario Vizcarra sostuvo que el aborto “debe ser una decisión de la mujer” y agregó que estaría a favor “más aún en temas de violación”.",
+          "comment": "Por falta de información, se tomó la posición del candidato: En euna ntrevista, Mario Vizcarra sostuvo que el aborto “debe ser una decisión de la mujer” y agregó que estaría a favor “más aún en temas de violación.”",
           "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
         },
         "t6": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra critica explícitamente la \"Ley Chlimper\" (Ley 32434) que exonera a grandes agroexportadores por 10 años más, causando pérdida de 200 millones de soles. Arremetió \"contra la extensión de beneficios tributarios para los grandes agroexportadores\" como demanda clara de que personas con más dinero paguen más impuestos.",
+          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra ha criticado explícitamente la \"Ley Chlimper\" (Ley 32434) que exonera a grandes agroexportadores por 10 años más, causando pérdidas estimadas en 200 millones de soles. Arremetió \"contra la extensión de beneficios tributarios para los grandes agroexportadores\".",
           "source": "https://elbuho.pe/2025/12/el-plan-de-los-vizcarra-asi-busca-mario-heredar-los-votos-del-sur-tras-la-condena-de-martin/"
         },
         "t7": {
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El candidato ha argumentado que la pena de muerte es un mecanismo inefectivo para controlar el crimen. Además, ha declarado que la pena de muerte en el Perú es inviable, aludiendo a los límites constitucionales y compromisos internacionales, por lo que descarta su implementación como política pública.",
           "source": "https://www.instagram.com/reel/DTPACQDjjeR/"
-        },
-        "t8": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Su plan (según revisión de planes de gobierno) propone una “intervención real de las Fuerzas Armadas en el ordenamiento de la seguridad interna” para combatir la delincuencia.",
-          "source": "https://gestion.pe/peru/politica/elecciones-2026-las-medidas-mas-radicales-que-los-partidos-plantean-contra-la-inseguridad-noticia/"
         },
         "t9": {
           "vote": 0.0,
@@ -2406,12 +2396,12 @@
         },
         "t2": {
           "vote": 1.0,
-          "comment": "El plan de gobierno incluye educación sexual para niñez/adolescencia y propone incluir contenidos de igualdad en la currícula y enfoque de género en políticas públicas.",
+          "comment": "El plan de gobierno incluye a la educación sexual para niñez/adolescencia y propone incluir contenidos de igualdad en la currícula y enfoque de género en políticas públicas.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "t3": {
           "vote": 0.0,
-          "comment": "Menciona el problema de corrupción, pero no propone vetar a políticos condenados por corrupción.",
+          "comment": "El plan de gobierno temariza el problema de la corrupción, pero no propone medidas de inhabilitación permanente.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "t4": {
@@ -2419,19 +2409,9 @@
           "comment": "El plan de gobierno propone una “ley que formalice la minería informal” y habla de formalización como parte del enfoque contra economías ilegales.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
-        "t5": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Podemos Perú es un partido conservador en materias de género, y en su plan de gobierno afirma que \"sí podemos defender la vida y la dignidad humana desde su concepción\". En otras palabras, se oponen al aborto.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (pág. 9); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
-        },
-        "t6": {
-          "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: Podemos Perú no propone aumentar las tasas del impuesto a la renta que pagan los mayores ingresos. Sin embargo, propone \"revisar y eliminar beneficios tributarios regresivos que favorecen a grupos económicos concentrados\".",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (p. 24)"
-        },
         "t7": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios; apoya pena capital en público.",
+          "comment": "Por falta de información, se tomó la posición del candidato: En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios.",
           "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels)"
         },
         "t8": {
@@ -2441,12 +2421,12 @@
         },
         "t9": {
           "vote": 0.0,
-          "comment": "El plan de gobierno propone incrementar el presupuesto y mejorar eficiencia del gasto público en salud, y enfatiza la salud pública como eje programático central.",
+          "comment": "El plan de gobierno propone incrementar el presupuesto y mejorar la eficiencia del gasto público en salud, enfatizando la salud pública como eje programático central.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "t10": {
           "vote": 0.0,
-          "comment": "El documento reclama respuestas inclusivas para población migrante y menciona la necesidad de protección y regularización de migrantes. No menciona una expulsión indiscriminada de migrantes irregulares.",
+          "comment": "El documento reclama respuestas inclusivas para la población migrante y menciona la necesidad de medidas de protección y regularización de migrantes. No contempla una expulsión indiscriminada de migrantes irregulares.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "t11": {
@@ -2469,11 +2449,6 @@
           "comment": "El plan de gobierno propone fortalecer/modernizar el Estado (servicio civil, meritocracia, digitalización) y promover inversión pública.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
-        "t15": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: La bancada de Podemos Perú es conservadora en lo que se refiere a los derechos de las personas LGBT+ y se opone al matrimonio igualitario.",
-          "source": "https://www.facebook.com/SiPodemosPeru/posts/urgente-%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%92-%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%91%F0%9D%90%94%CC%81-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%85%F0%9D%90%88%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%84-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%95%F0%9D%90%88%F0%9D%90%83%F0%9D%90%80-%F0%9D%90%98-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%85%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%80-desde-podemos-per%C3%BA-reafirmam/1123816709102814/"
-        },
         "t16": {
           "vote": 0.0,
           "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Podemos Perú, si bien no propone deshacerse de las pensiones privadas o algo similar,  prioriza la expansión de las pensiones públicas, al menos en lo que se refiere a \"establecer una pensión mínima universal digna\" para expandir el porcentaje de la población cubierta por una pensión.",
@@ -2481,22 +2456,17 @@
         },
         "t17": {
           "vote": 1.0,
-          "comment": "El plan de gobierno señala adhesión del Perú al Sistema Interamericano y menciona la Comisión y Corte Interamericana de DD. HH.",
+          "comment": "El plan de gobierno explícitamente menciona la continuidad de la adhesión del Perú al Sistema Interamericano y menciona la Comisión y Corte Interamericana de DD. HH.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
         "t18": {
           "vote": 0.0,
-          "comment": "El plan de gobierno prioriza programas e incentivos de formalización y no plantea bajar impuestos como sustituto de la formalización.",
+          "comment": "El plan de gobierno prioriza programas de formalización y no plantea bajar impuestos como principal incentivo para la formalización.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
-        },
-        "t19": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Podemos Perú propone un par de reformas constitucionales, mas en ningún momento sugiere que sea necesario convocar a una Asamblea Constituyente o cambiar significativamente la Constitución actual.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (págs. 5, 11-2, 15)"
         },
         "t20": {
           "vote": 1.0,
-          "comment": "El plan de gobierno critica la ley de 2024 sobre reelección parlamentaria (y bicameralidad) señalando que en el referéndum 2018 se votó “no” a la reelección.",
+          "comment": "El plan de gobierno critica la ley de 2024 que restauró la legalidad de la reelección parlamentaria (y bicameralidad), señalando que en el referéndum 2018 se votó “no” a la misma.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         }
       },
@@ -2515,23 +2485,23 @@
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t2": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Declara que debe garantizarse educación sexual integral y que negarla es un retroceso.",
-          "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
+          "vote": 0.0,
+          "comment": "El 19/11/2025, la bancada de APP votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética\" sin enfoque de género.",
+          "source": "https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2025-2026 -> Primera Legislatura Ordinaria -> 11/19/2025, pág. 10); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
         },
         "t4": {
           "vote": 1.0,
-          "comment": "El plan de gobierno propone una reforma minera y metas explícitas para formalizar a la minería informal (meta: ≥90% de mineros informales a la actividad formal).",
+          "comment": "El plan de gobierno propone una reforma minera con metas concretas para formalizar a la minería informal (meta: ≥90% de mineros informales a la actividad formal).",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t5": {
           "vote": 0.0,
-          "comment": "El ideario del partido afirma la defensa de la \"vida desde su concepción\", postura que implica oposición al aborto incluso en casos de violación.",
+          "comment": "El ideario del partido afirma la defensa de la \"vida desde su concepción\".",
           "source": "https://podemosperu.org.pe/ideario/+++https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t7": {
           "vote": 1.0,
-          "comment": "Congresistas vinculados a Podemos Perú suscribieron iniciativas relacionadas con restablecer la pena de muerte y la salida de tratados que lo impiden; hay respaldo parlamentario dentro del grupo.",
+          "comment": "Congresistas vinculados a Podemos Perú suscribieron iniciativas relacionadas con restablecer la pena de muerte y la salida de tratados que lo impiden.",
           "source": "https://ojo-publico.com/politica/extremos-del-congreso-buscan-retirar-al-peru-convencion-ddhh"
         },
         "t8": {
@@ -2541,17 +2511,17 @@
         },
         "t9": {
           "vote": 0.0,
-          "comment": "El programa declara \"Salud como derecho humano\" y propone fortalecer atención primaria, aumentar presupuesto y un sistema de salud público fuerte.",
+          "comment": "El programa reconoce a la salud como derecho humano y propone fortalecer atención primaria, y aumentar el presupuesto para fortalecer el sistema de salud público.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t12": {
           "vote": 1.0,
-          "comment": "El plan de gobierno incluye ejes ambientales y plantea gestión sostenible de recursos, protección del ambiente y prioridad en sierra y Amazonía; la acción climática aparece como obligación gubernamental.",
+          "comment": "El plan de gobierno incluye un eje temática y plantea medidas para la gestión sostenible de recursos y la protección del medio ambiente con prioridad en la sierra y Amazonía.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t13": {
           "vote": 1.0,
-          "comment": "El programa impulsa un \"shock de inversiones privadas y públicas\" y asegura la complementariedad inversión pública-privada; promueve la atracción de inversión (incluida extranjera) para desarrollo.",
+          "comment": "El programa impulsa un \"shock de inversiones privadas y públicas\" y asegura la complementariedad inversión pública-privada, promoviendo la atracción de inversión (incluida extranjera).",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t14": {
@@ -2560,23 +2530,23 @@
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t15": {
-          "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: Indica consenso partidario en unión civil y debate interno sobre matrimonio igualitario; no fija apoyo explícito al matrimonio igualitario como tal.",
-          "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
+          "vote": 0.0,
+          "comment": "La bancada de Podemos Perú ha mantenido una postura consistentemente conservadora con respecto a los derechos de las personas LGBT+ y se opone al matrimonio igualitario.",
+          "source": "https://www.facebook.com/SiPodemosPeru/posts/urgente-%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%92-%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%91%F0%9D%90%94%CC%81-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%85%F0%9D%90%88%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%84-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%95%F0%9D%90%88%F0%9D%90%83%F0%9D%90%80-%F0%9D%90%98-%F0%9D%90%8B%F0%9D%90%80-%F0%9D%90%85%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%80-desde-podemos-per%C3%BA-reafirmam/1123816709102814/"
         },
         "t16": {
           "vote": 0.0,
-          "comment": "El plan de gobierno propone una \"Reforma previsional con Pensión Digna para Todos\" e inclusión previsional del sector informal, priorizando un sistema público de pensiones.",
+          "comment": "El plan de gobierno propone una \"Reforma previsional con Pensión Digna para Todos\" e inclusión de trabajadores con empleo informal en el sistema previsional.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t17": {
           "vote": 0.0,
-          "comment": "Periodistas e investigación muestran que parlamentarios de Podemos Perú suscribieron proyectos para desvincular al Perú de la Convención Americana/Corte IDH; esto indica una postura contraria a mantener su plena autoridad.",
+          "comment": "Periodistas e investigación muestran que parlamentarios de Podemos Perú suscribieron proyectos para desvincular al Perú de la Convención Americana/Corte IDH.",
           "source": "https://ojo-publico.com/politica/extremos-del-congreso-buscan-retirar-al-peru-convencion-ddhh"
         },
         "t18": {
           "vote": 0.0,
-          "comment": "El plan de gobierno prioriza programas de formalización (créditos, asistencia técnica, simplificación administrativa) y estímulos dirigidos a MYPEs para formalizar, no la reducción generalizada de impuestos como principal herramienta.",
+          "comment": "El plan de gobierno prioriza programas de formalización con incentivos como créditos, asistencia técnica, simplificación administrativa y otros estímulos dirigidos a MYPEs, sin enfatizar la reducción de impuestos como principal herramienta.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
         "t19": {
@@ -2585,9 +2555,9 @@
           "source": "https://canaln.pe/actualidad/primero-gente-castillo-descarta-asamblea-constituyente-n485532"
         },
         "t20": {
-          "vote": 1.0,
-          "comment": "En el eje de reforma política El plan de gobierno propone mecanismos de rendición de cuentas (revocatoria, paridad y alternancia) y reformas para evitar la captura; el documento apoya limitaciones a la continuidad parlamentaria (alternancia/controles), es coherente con prohibir reelección.",
-          "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
+          "vote": 0.0,
+          "comment": "El 06/03/2024, durante la votación de los proyectos de ley 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 y 3744, que proponían volver a permitir la reelección de los legisladores, la bancada de PP votó a favor.",
+          "source": "https://rpp.pe/politica/estado/el-ejecutivo-promulgo-la-ley-del-retorno-a-la-bicameralidad-noticia-1542187"
         }
       },
       "candidate": {
@@ -2850,8 +2820,8 @@
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
         },
         "t7": {
-          "vote": 0.0,
-          "comment": "Durante legislaturas anteriores, la bancada del partido ha mostrado una posición en favor de la pena de muerte en el Perú, especialmente en relación a personas con sentencia por feminicidio o violación.",
+          "vote": 1.0,
+          "comment": "Durante legislaturas anteriores, la bancada del partido ha mostrado una posición a favor de la pena de muerte en el Perú, especialmente en relación a personas con sentencia por feminicidio o violación.",
           "source": "https://www.infobae.com/peru/2023/03/31/renovacion-popular-busca-pena-de-muerte-para-feminicidas-y-violadores-y-propone-cambiar-nombre-al-ministerio-de-la-mujer/"
         },
         "t8": {
