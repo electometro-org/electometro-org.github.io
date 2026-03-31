@@ -628,9 +628,9 @@
           "source": "https://elcomercio.pe/economia/peru/reforma-y-recaudacion-tributaria-que-plantean-fuerza-popular-y-peru-libre-elecciones-2021-ncze-noticia/"
         },
         "t7": {
-          "vote": 1.0,
-          "comment": "En declaraciones públicas anteriores apoyó, a título personal, la pena de muerte para violadores de niños en casos extremos, y su bancada impulsó iniciativas punitivas.",
-          "source": "https://www.reuters.com/article/peru-elecciones-fujimori-idLTAKCN0VJ04E"
+          "vote": 0.5,
+          "comment": "En declaraciones públicas anteriores apoyó, a título personal, la pena de muerte para violadores de niños en casos extremos, y su bancada impulsó iniciativas punitivas. Sin embargo durante el debate presidencial 2026 declaró: \"Pero no [nos retiraremos de la CIDH] por el tema de la pena de muerte. Porque para derrotar al terrorismo en los años 90 no se necesitó la pena de muerte.\"",
+          "source": "https://www.reuters.com/article/peru-elecciones-fujimori-idLTAKCN0VJ04E;https://www.youtube.com/watch?v=FQJyUExv_gc"
         },
         "t8": {
           "vote": 1.0,
@@ -679,8 +679,8 @@
         },
         "t17": {
           "vote": 0.0,
-          "comment": "La candidata ha propuesto dejar de reconocer a la Corte IDH (CIDH) para luego volver a reconocer su autoridad excepto en el caso de juicios relacionados a terrorismo. Además, declaraciones de campañas anteriores sugieren una mayor oposición al CIDH por parte de Fujimori de lo que sus declaraciones más recientes sugieren.",
-          "source": "https://www.atv.pe/noticia/keiko-fujimori-propone-expulsion-de-migrantes-irregulares/#!/ ; https://larepublica.pe/politica/2024/07/09/salir-de-la-cidh-me-parece-importantisimo-el-mensaje-de-keiko-fujimori-a-fuerza-popular-en-el-2018-340650"
+          "comment": "La candidata ha propuesto dejar de reconocer a la Corte IDH (CIDH) para luego volver a reconocer su autoridad excepto en el caso de juicios relacionados a terrorismo. Además, durante el debate presidencial 2026 Fujimori declaró: \"Para luchar contra la delincuencia, si es que tenemos que retirarnos de la corte [CIDH] pues lo haremos\".",
+          "source": "https://www.atv.pe/noticia/keiko-fujimori-propone-expulsion-de-migrantes-irregulares/#!/ ; https://www.youtube.com/watch?v=FQJyUExv_gc"
         },
         "t19": {
           "vote": 0.0,
@@ -854,8 +854,8 @@
         },
         "t19": {
           "vote": 1.0,
-          "comment": "En una entrevista realizada el 11/03/2026, Sánchez reiteró la posición de su partido a favor de escribir una nueva Constitución que introduzca un nuevo \"pacto social\".",
-          "source": "https://www.youtube.com/watch?v=zTrK6SUgmGM (minutos 0-1)"
+          "comment": "En una entrevista realizada el 11/03/2026, Sánchez reiteró la posición de su partido a favor de escribir una nueva Constitución que introduzca un nuevo \"pacto social\". En el debate presidencial del 24.03., Sánchez dedicó más de una intervención a repetir la importancia de formular una nueva Constitución.",
+          "source": "https://www.youtube.com/watch?v=zTrK6SUgmGM (minutos 0-1);https://www.youtube.com/watch?v=QKW-18R6erI (minutos 56-57, 78)"
         },
         "t20": {
           "vote": 1.0,
@@ -1805,7 +1805,7 @@
         "t3": {
           "vote": 1.0,
           "comment": "Indicó que los funcionarios del Estado y empresarios que trabajen con el Estado que incurran en hechos delictivos \"serán declarados muertos civiles para que así no vuelvan a tener ligación con el Estado nunca más\", sin posibilidad de contratar o trabajar con el Estado si incurren en corrupción. El 23.03. reiteró su compromiso con su propuesta sobre la muerte civil.",
-          "source": "https://www.exitosanoticias.pe/politica/yohny-lescano-plantea-muerte-civil-funcionarios-estado-empresarios-corruptos-n169654;https://www.youtube.com/watch?v=OikfsWFXkJA&t=606s (min 86)"
+          "source": "https://www.exitosanoticias.pe/politica/yohny-lescano-plantea-muerte-civil-funcionarios-estado-empresarios-corruptos-n169654;https://www.youtube.com/watch?v=OikfsWFXkJA&t=606s (mins 86, 125)"
         },
         "t4": {
           "vote": 1.0,
@@ -1884,13 +1884,13 @@
         },
         "t3": {
           "vote": 1.0,
-          "comment": "Grozo pide la cadena perpetua para los sentenciados por corrupción.",
-          "source": "https://www.youtube.com/watch?v=6IxF2arOxHM&list=TLPQMTUwMzIwMjaUYwtiRlV-nw&index=1 (minuto 19)"
+          "comment": "Grozo pide la cadena perpetua para los sentenciados por corrupción. Reiteró su compromiso con esta propuesta en el debate presidencial del 23.03:\"Por eso es que nosotros proponemos inhabilitación civil de por vida para funcionario que sea condenado por corrupción.\"",
+          "source": "https://www.youtube.com/watch?v=6IxF2arOxHM&list=TLPQMTUwMzIwMjaUYwtiRlV-nw&index=1 (minuto 19);https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 140-141)"
         },
         "t4": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno plantea reingeniería del REINFO y metas exigibles para formalización (y baja/interdicción a quienes no avancen), es decir, sí propone una regularización/formalización más activa (aunque acompañada de interdicción).",
-          "source": "https://mpesije.jne.gob.pe/docs/ee89ac99-516b-4665-9297-413a0cf104de.pdf"
+          "comment": "En el debate del 23.03., Grozo resaltó la importancia de enfrentarse a la minería no legal y criticó las múltiples \"prórrogas\" que los mineros ilegales recibieron por parte del actual Congreso de la República.",
+          "source": "https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 102-103)"
         },
         "t5": {
           "vote": 0.0,
@@ -2264,13 +2264,13 @@
         },
         "t7": {
           "vote": 0.0,
-          "comment": "El candidato ha argumentado que la pena de muerte es un mecanismo inefectivo para controlar el crimen. Además, ha declarado que la pena de muerte en el Perú es inviable, aludiendo a los límites constitucionales y compromisos internacionales, por lo que descarta su implementación como política pública.",
-          "source": "https://www.instagram.com/reel/DTPACQDjjeR/"
+          "comment": "El candidato ha argumentado que la pena de muerte es un mecanismo inefectivo para controlar el crimen. Además, ha declarado que la pena de muerte en el Perú es inviable, aludiendo a los límites constitucionales y compromisos internacionales, por lo que descarta su implementación como política pública. Durante el debate presidencial 2026 declaró: \"Mucho se habla de establecer la pena de muerte para casos de sicariatos y violaciones. Creemos que esa es una medida demagógica.\"",
+          "source": "https://www.instagram.com/reel/DTPACQDjjeR/;https://www.youtube.com/watch?v=FQJyUExv_gc"
         },
         "t8": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno plantea reformas para permitir la participación/intervención legal de las FFAA en la lucha contra la inseguridad y medidas asociadas (p. ej., cárceles bajo control de FFAA).",
-          "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
+          "comment": "Durante el debate presidencial 2026, Mario Vizcarra declaró: \"En mi gobierno estableceremos un régimen de excepción, amparado en el artículo 137 de la constitución. Para que las fuerzas armadas nos ayuden a combatir la delincuencia.\"",
+          "source": "https://www.youtube.com/watch?v=FQJyUExv_gc"
         },
         "t9": {
           "vote": 0.0,
@@ -2359,8 +2359,8 @@
         },
         "t7": {
           "vote": 1.0,
-          "comment": "En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios.",
-          "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels)"
+          "comment": "En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios. En el debate del 23.03. no habló directamente de la pena de muerte, pero amenazó de muerte a los criminales: \"O acaban en la cárcel o acaban muertos.\"",
+          "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels);https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 177-178)"
         },
         "t8": {
           "vote": 1.0,
@@ -2723,8 +2723,8 @@
       "votes": {
         "t1": {
           "vote": 1.0,
-          "comment": "El candidato ha aseverado que mandará a políticos corruptos, así cómo a delincuentes capturadas en flagrancia, a la selva, en dónde se les colocará en una cárcel rodeada por Shushupes",
-          "source": "https://www.infobae.com/peru/2026/02/27/rafael-lopez-aliaga-propone-clausurar-el-penal-de-barbadillo-y-enviar-a-expresidentes-a-carcel-en-la-selva/"
+          "comment": "En el debate presidencial del 23.03, López Aliaga expresó su rechazo por la CIDH, propuso expulsar a los \"extranjeros ilegales\" y también prometió castigar a los criminales encerrándolos en \"cárceles en la selva más aislada del Perú\".",
+          "source": "https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 57-58)"
         },
         "t2": {
           "vote": 0.0,
@@ -2732,9 +2732,9 @@
           "source": "https://elcomercio.pe/elecciones-2021/rafael-lopez-aliaga-toda-la-doctrina-de-genero-evidentemente-va-a-ser-exterminada-renovacion-popular-entrevista-elecciones-2021-noticia/"
         },
         "t3": {
-          "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno denuncia la corrupción endémica en todos los niveles del aparato público, comentarios se centran en la corrupción dentro del sistema de justicia y la policía.",
-          "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf"
+          "vote": 0.0,
+          "comment": "En el debate del 23.03, López Aliaga no propuso la muerte civil de funcionarios sentenciados por corrupción. Lo que sí que propuso fue reducir ministerios y en general el rol del estado, para eliminar \"la grasa\" o los excesos presupuestales que generan la corrupción.",
+          "source": "https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 125-6)"
         },
         "t4": {
           "vote": 0.5,
@@ -2768,8 +2768,8 @@
         },
         "t10": {
           "vote": 1.0,
-          "comment": "En enero del 2025, el candidato propuso la expulsión de extranjeros irregulares durante a una visita a Tumbes.",
-          "source": "https://caretas.pe/politica/lopez-aliaga-propone-expulsion-de-extranjeros-irregulares/"
+          "comment": "En enero del 2025, el candidato propuso la expulsión de extranjeros irregulares durante a una visita a Tumbes; en el debate presidencial del 23.03, López Aliaga expresó su rechazo por la CIDH, propuso expulsar a los \"extranjeros ilegales\" y también prometió castigar a los criminales encerrándolos en \"cárceles en la selva más aislada del Perú\".",
+          "source": "https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 57-58);https://gestion.pe/peru/politica/las-propuestas-de-lopez-aliaga-en-cade-eliminar-doble-tributacion-comprar-renuncias-y-tener-kpis-noticia/+++https://caretas.pe/politica/lopez-aliaga-propone-expulsion-de-extranjeros-irregulares/"
         },
         "t11": {
           "vote": 0.5,
@@ -2803,8 +2803,8 @@
         },
         "t17": {
           "vote": 0.0,
-          "comment": "Durante el CADE Ejecutivos 2025, el candidato declaró su intención de retirar al Perú de la corte IDH.",
-          "source": "https://gestion.pe/peru/politica/las-propuestas-de-lopez-aliaga-en-cade-eliminar-doble-tributacion-comprar-renuncias-y-tener-kpis-noticia/"
+          "comment": "Durante el CADE Ejecutivos 2025, el candidato declaró su intención de retirar al Perú de la corte IDH. En el debate presidencial del 23.03, López Aliaga expresó su rechazo por la CIDH, propuso expulsar a los \"extranjeros ilegales\" y también prometió castigar a los criminales encerrándolos en \"cárceles en la selva más aislada del Perú\"",
+          "source": "https://gestion.pe/peru/politica/las-propuestas-de-lopez-aliaga-en-cade-eliminar-doble-tributacion-comprar-renuncias-y-tener-kpis-noticia/;https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 57-58)."
         },
         "t18": {
           "vote": 0.5,

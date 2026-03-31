@@ -740,8 +740,8 @@
         },
         "t17": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: La candidata ha propuesto dejar de reconocer a la Corte IDH (CIDH) para luego volver a reconocer su autoridad excepto en el caso de juicios relacionados a terrorismo. Además, declaraciones de campañas anteriores sugieren una mayor oposición al CIDH por parte de Fujimori de lo que sus declaraciones más recientes sugieren.",
-          "source": "https://www.atv.pe/noticia/keiko-fujimori-propone-expulsion-de-migrantes-irregulares/#!/ ; https://larepublica.pe/politica/2024/07/09/salir-de-la-cidh-me-parece-importantisimo-el-mensaje-de-keiko-fujimori-a-fuerza-popular-en-el-2018-340650"
+          "comment": "Por falta de información, se tomó la posición del candidato: La candidata ha propuesto dejar de reconocer a la Corte IDH (CIDH) para luego volver a reconocer su autoridad excepto en el caso de juicios relacionados a terrorismo. Además, durante el debate presidencial 2026 Fujimori declaró: \"Para luchar contra la delincuencia, si es que tenemos que retirarnos de la corte [CIDH] pues lo haremos\".",
+          "source": "https://www.atv.pe/noticia/keiko-fujimori-propone-expulsion-de-migrantes-irregulares/#!/ ; https://www.youtube.com/watch?v=FQJyUExv_gc"
         },
         "t19": {
           "vote": 0.0,
@@ -2316,8 +2316,13 @@
         },
         "t7": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El candidato ha argumentado que la pena de muerte es un mecanismo inefectivo para controlar el crimen. Además, ha declarado que la pena de muerte en el Perú es inviable, aludiendo a los límites constitucionales y compromisos internacionales, por lo que descarta su implementación como política pública.",
-          "source": "https://www.instagram.com/reel/DTPACQDjjeR/"
+          "comment": "Por falta de información, se tomó la posición del candidato: El candidato ha argumentado que la pena de muerte es un mecanismo inefectivo para controlar el crimen. Además, ha declarado que la pena de muerte en el Perú es inviable, aludiendo a los límites constitucionales y compromisos internacionales, por lo que descarta su implementación como política pública. Durante el debate presidencial 2026 declaró: \"Mucho se habla de establecer la pena de muerte para casos de sicariatos y violaciones. Creemos que esa es una medida demagógica.\"",
+          "source": "https://www.instagram.com/reel/DTPACQDjjeR/;https://www.youtube.com/watch?v=FQJyUExv_gc"
+        },
+        "t8": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Durante el debate presidencial 2026, Mario Vizcarra declaró: \"En mi gobierno estableceremos un régimen de excepción, amparado en el artículo 137 de la constitución. Para que las fuerzas armadas nos ayuden a combatir la delincuencia.\"",
+          "source": "https://www.youtube.com/watch?v=FQJyUExv_gc"
         },
         "t9": {
           "vote": 0.0,
@@ -2411,8 +2416,8 @@
         },
         "t7": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios.",
-          "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels)"
+          "comment": "Por falta de información, se tomó la posición del candidato: En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios. En el debate del 23.03. no habló directamente de la pena de muerte, pero amenazó de muerte a los criminales: \"O acaban en la cárcel o acaban muertos.\"",
+          "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels);https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 177-178)"
         },
         "t8": {
           "vote": 1.0,
