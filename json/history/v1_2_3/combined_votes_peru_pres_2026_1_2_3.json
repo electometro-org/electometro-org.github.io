@@ -168,9 +168,9 @@
           "question_key": "questions.t14",
           "topic_key": "topics.t14",
           "vote": 0.0,
-          "comment": "En el plan de gobierno del partido Ahora Nación se declara una priorización de las inversiones públicas por parte del gobierno sin querer desmedrar las privadas. El candidato López Chau sin embargo firmó una demanda ante el TC en febrero del 2026 para derogar el decreto que privatiza Petroperú. Esta acción plantea una posición que prioriza la inversión estatal también.",
+          "comment": "En el plan de gobierno del partido Ahora Nación se declara una priorización de las inversiones públicas por parte del gobierno sin querer desmedrar las privadas. El candidato López Chau sin embargo firmó una demanda ante el TC en febrero del 2026 para derogar el decreto que privatiza Petroperú. Esta acción plantea una posición que prioriza la inversión estatal. Además, recientemente, en el debate presidencial del 01.04, López Chau propuso un rol activo del estado en la reforma de las universidades, con el fin de impulsar el desarrollo del Perú: \"Convertiremos a las universidades en plataformas científicas, tecnológicas y de innovación para potenciar las regiones que serán la que conquisten los mercados del mundo.\".",
           "comment_key": "explanations.candidates.c1.t14",
-          "source": "https://larepublica.pe/economia/2026/02/11/alfonso-lopez-chau-firma-demanda-ante-el-tc-para-derogar-el-decreto-que-privatiza-petroperu-hnews-153263",
+          "source": "https://larepublica.pe/economia/2026/02/11/alfonso-lopez-chau-firma-demanda-ante-el-tc-para-derogar-el-decreto-que-privatiza-petroperu-hnews-153263;https://www.youtube.com/watch?v=3XPNH40gWDo&t=6994s (minuto 49)",
           "source_type": "candidate"
         },
         "Pensión pública: El Estado debería fomentar el sistema de pensiones privadas en vez de priorizar las pensiones públicas.": {
@@ -366,11 +366,11 @@
           "question": "El gobierno debería reducir gastos en vez de invertir más en las instituciones estatales y los servicios públicos.",
           "question_key": "questions.t14",
           "topic_key": "topics.t14",
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno apuesta por un sistema previsional privado: reemplazar AFP por EAF, manejar allí un capital semilla y fortalecer el mercado previsional privado.",
+          "vote": 0.5,
+          "comment": "Durante el debate del 01.04., Acuña defendió afirmaciones aparentemente contradictorias. Por un lado, propuso \"Plata como cancha para obras como cancha.\" Sin embargo, insistió en que el plan económico de su partido \"es financiable y fiscalmente responsable.\".",
           "comment_key": "explanations.candidates.c2.t14",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Alianza-Para-el-Progreso-Plan-de-gobierno-LP-Derecho.pdf",
-          "source_type": "party_fallback"
+          "source": "https://www.youtube.com/watch?v=3XPNH40gWDo&t=2955s (minutos 113 y 121)",
+          "source_type": "candidate"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
           "id_tema": "t15",
@@ -391,9 +391,9 @@
           "question_key": "questions.t18",
           "topic_key": "topics.t18",
           "vote": 1.0,
-          "comment": "Su receta contra la informalidad enfatiza incentivos tributarios, flexibilización y menor costo de formalizar antes que más programas burocráticos de formalización.",
+          "comment": "Su receta contra la informalidad enfatiza incentivos tributarios, flexibilización y menor costo de formalizar antes que más programas burocráticos de formalización. De hecho, esto va en línea con sus principales propuestas para fomentar el crecimiento económico. Durante el debate presidencial del 01.04., Acuña prometió un \"apagón regulatorio\" y eliminar \"más de 1000 barreras burocráticas\".",
           "comment_key": "explanations.candidates.c2.t18",
-          "source": "https://rpp.pe/politica/elecciones/tenemos-la-formula-para-terminar-con-la-informalidad-por-cesar-acuna-noticia-1321394",
+          "source": "https://rpp.pe/politica/elecciones/tenemos-la-formula-para-terminar-con-la-informalidad-por-cesar-acuna-noticia-1321394;https://www.youtube.com/watch?v=3XPNH40gWDo&t=6994s (minuto 113)",
           "source_type": "candidate"
         },
         "Nueva constitución: Debería convocarse a una Asamblea Contituyente para cambiar la Constitución de 1993.": {
@@ -402,7 +402,7 @@
           "question": "Debería convocarse a una Asamblea Contituyente para cambiar la Constitución de 1993.",
           "question_key": "questions.t19",
           "topic_key": "topics.t19",
-          "vote": 1.0,
+          "vote": 0.5,
           "comment": "En 2021 dijo que “la Constitución del 93 ya fue” y que veía una oportunidad para tener una nueva Constitución, lo que lo acerca a una postura favorable a cambiarla vía proceso constituyente.",
           "comment_key": "explanations.candidates.c2.t19",
           "source": "https://diariovoces.com.pe/cesar-acuna-como-dicen-los-jovenes-la-constitucion-del-93-y-ya-fue/",
@@ -1115,9 +1115,9 @@
           "question_key": "questions.t2",
           "topic_key": "topics.t2",
           "vote": 0.0,
-          "comment": "En declaraciones de la campaña de 2021, Fujimori se posicionó contra la \"ideología de género\", enfatizando solo el deseo de la igualdad entre los sexos. Múltiples políticos fujimoristas han sido parte de movimientos contra el enfoque de género en la educación, como Con Mis Hijos No Te Metas. Además, el 19/11/2025, la bancada de Fuerza Popular votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética.\" sin mayor componente social o de género.",
+          "comment": "En declaraciones de la campaña de 2021, Fujimori se posicionó contra la \"ideología de género\", enfatizando solo el deseo de la igualdad entre los sexos. Múltiples políticos fujimoristas han sido parte de movimientos contra el enfoque de género en la educación, como Con Mis Hijos No Te Metas. Además, durante el debate presidencial 2026 declaró: “Volviendo al tema de educación. Nuestro país necesita una verdadera revolución, […] por supuesto, eliminaremos la ideología de género”.",
           "comment_key": "explanations.candidates.c7.t2",
-          "source": "https://cnnespanol.cnn.com/2021/06/11/pedro-castillo-keiko-fujimori-sobre-seis-temas-controversiales-orix+++https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2025-2026 -> Primera Legislatura Ordinaria -> 11/19/2025, pág. 10); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/",
+          "source": "https://cnnespanol.cnn.com/2021/06/11/pedro-castillo-keiko-fujimori-sobre-seis-temas-controversiales-orix;https://www.youtube.com/watch?v=lvYx1o42LUQ",
           "source_type": "candidate"
         },
         "Corrupción: Las personas con sentencias por corrupción deberían ser vetadas de por vida de cargos públicos.": {
@@ -1298,6 +1298,18 @@
           "comment": "La candidata ha propuesto dejar de reconocer a la Corte IDH (CIDH) para luego volver a reconocer su autoridad excepto en el caso de juicios relacionados a terrorismo. Además, durante el debate presidencial 2026 Fujimori declaró: \"Para luchar contra la delincuencia, si es que tenemos que retirarnos de la corte [CIDH] pues lo haremos\".",
           "comment_key": "explanations.candidates.c7.t17",
           "source": "https://www.atv.pe/noticia/keiko-fujimori-propone-expulsion-de-migrantes-irregulares/#!/ ; https://www.youtube.com/watch?v=FQJyUExv_gc",
+          "source_type": "candidate"
+        },
+        "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
+          "id_tema": "t18",
+          "tema": "Informalidad",
+          "question": "Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.",
+          "question_key": "questions.t18",
+          "topic_key": "topics.t18",
+          "vote": 0.5,
+          "comment": "Durante el debate presidencial 2026, Fujimori declaró: “Pero volviendo a las propuestas y a las ideas, el Perú es un país de emprendedores y el Estado lo que hace es perseguirlos, ponerles multas, cerrarles sus locales en vez de ser sus aliados, te piden hasta 20 permisos para poder abrir tu pequeño negocio. Por eso desde Fuerza Popular vamos a crear una oficina de simplificación de trámites que estará adscrita a la presidencia y yo misma me haré cargo”. Esto presenta al estado cómo un ente obstructor, sin embargo no se refiere directamente a la reducción de impuestos cómo política de formalización.",
+          "comment_key": "explanations.candidates.c7.t18",
+          "source": "https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
           "source_type": "candidate"
         },
         "Nueva constitución: Debería convocarse a una Asamblea Contituyente para cambiar la Constitución de 1993.": {
@@ -2163,9 +2175,9 @@
           "question_key": "questions.t18",
           "topic_key": "topics.t18",
           "vote": 0.5,
-          "comment": "Aunque el plan de gobierno de País Para Todos no contempla específicamente reducir impuestos, sí propone reducir los costos de todos los trámites correspondientes de formalización y simplificar procesos en general.",
+          "comment": "El candidato propuso durante el debate presidencial 2026 medidas de alivio tributario señalando que “no se pagará renta al menos por el primer año”, así cómo simplificaciones y programas en favor de la formalización, como “ventanilla única”, “licencias en un día” y “créditos a tasas preferenciales”. Esto no plantea exclusivamente una de las medidas descritas en el enunciado, por lo que su posición puede ser calificada como neutral.",
           "comment_key": "explanations.candidates.c11.t18",
-          "source": "https://mpesije.jne.gob.pe/docs/76291ee3-eba2-4c88-adef-2530f2d70bb8.pdf",
+          "source": "https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
           "source_type": "candidate"
         },
         "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
@@ -2548,11 +2560,11 @@
           "question": "El gobierno debería reducir gastos en vez de invertir más en las instituciones estatales y los servicios públicos.",
           "question_key": "questions.t14",
           "topic_key": "topics.t14",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno propone incrementar el presupuesto público para sectores específicos (por ejemplo, ciencia y tecnología) y fortalecer la capacidad estatal de proveer servicios básicos. También incluye medidas para mejorar el control de la calidad y eficiencia del gasto.",
+          "vote": 1.0,
+          "comment": "Durante el debate del 01.04., Nieto presentó un par de propuestas económicas que requerirían una mayor inversión estatal. Entre otras medidas, propuso la \"provisión de energía eléctrica para las comunidades altoandinas\" utilizando energía solar y también propuso aplicar \"la ley para que el Estado le compre a las MIPES el 40% de sus compras.\".",
           "comment_key": "explanations.candidates.c13.t14",
-          "source": "https://mpesije.jne.gob.pe/docs/19bde703-f7f4-4715-92f3-b82e19bbe651.pdf",
-          "source_type": "party_fallback"
+          "source": "https://www.youtube.com/watch?v=3XPNH40gWDo&t=3128s (minutos 117, 120)",
+          "source_type": "candidate"
         },
         "Matrimonio igualitario: Así como a las parejas heterosexuales, a las parejas homosexuales se les debería reconocer el derecho al matrimonio igualitario.": {
           "id_tema": "t15",
@@ -3882,9 +3894,9 @@
           "question_key": "questions.t16",
           "topic_key": "topics.t16",
           "vote": 0.0,
-          "comment": "En su plan de gobierno 2021, con Acción Popular, cuestionó duramente el Sistema Privado de Pensiones señalando que \"no ha sido capaz de otorgar pensiones dignas\" y que \"sólo ha sido eficiente haciendo ricas a las AFP\", proponiendo una reforma para crear un nuevo sistema con \"pensión básica universal financiada con impuestos\".",
+          "comment": "Durante el debate presidencial 2026, el candidato Lescano declaró:  “Los pensionistas ganan una miseria, 400 0 500 soles. Hay que subirles al sueldo mínimo vital. […] Y también, reformar la ley de las AFP, que se necesita reformar todavía para hacerle justicia a los millones de trabajadores.” Esta declaración asemeja su posición hacia una posición contraria a la tésis.",
           "comment_key": "explanations.candidates.c20.t16",
-          "source": "https://elcomercio.pe/economia/peru/yonhy-lescano-el-resumen-de-sus-propuestas-y-el-perfil-economico-de-su-plan-de-gobierno-noticia/",
+          "source": "https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
           "source_type": "candidate"
         },
         "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
@@ -3893,10 +3905,10 @@
           "question": "Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.",
           "question_key": "questions.t18",
           "topic_key": "topics.t18",
-          "vote": 1.0,
-          "comment": "Lescano declaró en 2015 que \"si uno quiere que los jóvenes que están en situación de informalidad sean contratados y salgan de ella, se le debe dar a las empresas algún tipo de incentivo tributario, pero no se debe poner en desventaja al trabajador\", evidenciando una posición que combina incentivos tributarios con programas y protección de derechos laborales.",
+          "vote": 0.0,
+          "comment": "Durante el bloque de ‘Empleo, desarrollo y emprendimiento’ del debate presidencial 2026, el candidato Lescano declaró: “Nosotros pensamos que a los microempresarios no hay que sancionarlos, no hay que perseguirlos. Hay que darles servicios, y además hay que ayudarlos a que se formalicen para que den trabajo.”. Esta declaración alude directamente a la necesidad de tener apoyo estatal para la formalización. Contiene un componenten anti-punitivo también, qué sin embaro no alude directamente a la reducción de impuestos.",
           "comment_key": "explanations.candidates.c20.t18",
-          "source": "https://enfoquederecho.com/2015/01/25/yonhy-lescano-esta-ley-no-solo-recorta-derechos-laborales-sino-que-afecta-la-dignidad-de-las-personas-mas-jovenes/",
+          "source": "https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
           "source_type": "candidate"
         },
         "Nueva constitución: Debería convocarse a una Asamblea Contituyente para cambiar la Constitución de 1993.": {
@@ -5123,11 +5135,11 @@
           "question": "Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.",
           "question_key": "questions.t18",
           "topic_key": "topics.t18",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del partido: El plan de gobierno prioriza programas de formalización con incentivos como créditos, asistencia técnica, simplificación administrativa y otros estímulos dirigidos a MYPEs, sin enfatizar la reducción de impuestos como principal herramienta.",
+          "vote": 1.0,
+          "comment": "En el debate presidencial del 01.04., Luna presentó exclusivamente beneficios tributarios como parte de su estrategia para luchar contra la informalidad: \"nosotros impulsaremos la formalización de las micros y pequeños empresas, otorgando facilidades 50% de IGB y cero impuestos durante los primeros 5 años\".",
           "comment_key": "explanations.candidates.c26.t18",
-          "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf",
-          "source_type": "party_fallback"
+          "source": "https://www.youtube.com/watch?v=3XPNH40gWDo&t=3128s (minuto 145)",
+          "source_type": "candidate"
         },
         "Reelección: Debería prohibirse la reelección de parlamentarios a cualquiera de las dos cámaras del Legislativo.": {
           "id_tema": "t20",
@@ -5831,9 +5843,9 @@
           "question_key": "questions.t4",
           "topic_key": "topics.t4",
           "vote": 0.5,
-          "comment": "En noviembre del 2025, el candidato declaró que considera que el congreso contiene a muchas personas ligadas a la minería ilegal. En relación a ello plantea que el ejército sea implementado para combatir estas economías ilegales. En diciembre del mismo año declaró “¿Cuál es el problema? Perú es informal” al defender a Javier Bernal, candidato al congreso quien es investigado por presunto lavado de activos e relación a la minería ilegal.",
+          "comment": "En noviembre del 2025, el candidato declaró que considera que el congreso contiene a muchas personas ligadas a la minería ilegal. En relación a ello plantea que el ejército sea implementado para combatir estas economías ilegales. En diciembre del mismo año declaró “¿Cuál es el problema? Perú es informal” al defender a Javier Bernal, candidato al congreso quien es investigado por presunto lavado de activos e relación a la minería ilegal. Asimismo, durante el debate presidencial 2026 declaró: “Hay 5 motores que impulsan al Perú. La minería, sobre todo la informal, ancestral, que tiene el mayor respeto de nuestro partido, y va a ser prioritaria.”",
           "comment_key": "explanations.candidates.c31.t4",
-          "source": "https://www.infobae.com/peru/2025/11/30/rafael-lopez-aliaga-afirma-que-el-congreso-tiene-mucha-gente-ligada-a-la-mineria-ilegal-y-plantea-que-el-ejercito-tome-la-pampa/;https://www.infobae.com/peru/2025/12/02/rafael-lopez-aliaga-defiende-a-vocero-de-mineros-informales-que-postula-por-su-partido-cual-es-el-problema-peru-es-informal/",
+          "source": "https://www.infobae.com/peru/2025/11/30/rafael-lopez-aliaga-afirma-que-el-congreso-tiene-mucha-gente-ligada-a-la-mineria-ilegal-y-plantea-que-el-ejercito-tome-la-pampa/;https://www.infobae.com/peru/2025/12/02/rafael-lopez-aliaga-defiende-a-vocero-de-mineros-informales-que-postula-por-su-partido-cual-es-el-problema-peru-es-informal/;https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
           "source_type": "candidate"
         },
         "Aborto: El aborto debería estar permitido en casos de violación.": {
@@ -5891,9 +5903,9 @@
           "question_key": "questions.t9",
           "topic_key": "topics.t9",
           "vote": 0.5,
-          "comment": "En febrero del 2026, el candidato describió sus propuestas en materia de salud, en dónde destacóa la necesidad de reestructurar al MINSA y ESSALUD debido a ineficiencias en su funcionamiento. Estas declaraciones no dejan en claro la posición del candidato en cuanto al enunciado",
+          "comment": "En febrero del 2026, el candidato describió sus propuestas en materia de salud, en dónde destacó la necesidad de reestructurar al MINSA y ESSALUD debido a ineficiencias en su funcionamiento. Sin embargo, durante el debate presidencial 2026 declaró: “Hospitales solidarios a nivel nacional. Un hospital solidario que funciona perfectamente en cada capital de provincia. Y toda posta abierta 24 horas para derivar esos pacientes a hospitales solidarios de calidad.\n” Esta declaración pone la posición del candidato en contra del contenido del enunciado.",
           "comment_key": "explanations.candidates.c31.t9",
-          "source": "https://canaln.pe/actualidad/rafael-lopez-aliaga-plantea-reestructurar-minsa-y-essalud-n490154",
+          "source": "https://canaln.pe/actualidad/rafael-lopez-aliaga-plantea-reestructurar-minsa-y-essalud-n490154;https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
           "source_type": "candidate"
         },
         "Migración: El Estado debería priorizar la deportación de las personas con situación migratoria irregular en vez de su reconocimiento legal.": {

@@ -1425,6 +1425,18 @@
           "source": "https://www.atv.pe/noticia/keiko-fujimori-propone-expulsion-de-migrantes-irregulares/#!/ ; https://www.youtube.com/watch?v=FQJyUExv_gc",
           "source_type": "candidate_fallback"
         },
+        "Informalidad: Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.": {
+          "id_tema": "t18",
+          "tema": "Informalidad",
+          "question": "Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.",
+          "question_key": "questions.t18",
+          "topic_key": "topics.t18",
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: Durante el debate presidencial 2026, Fujimori declaró: “Pero volviendo a las propuestas y a las ideas, el Perú es un país de emprendedores y el Estado lo que hace es perseguirlos, ponerles multas, cerrarles sus locales en vez de ser sus aliados, te piden hasta 20 permisos para poder abrir tu pequeño negocio. Por eso desde Fuerza Popular vamos a crear una oficina de simplificación de trámites que estará adscrita a la presidencia y yo misma me haré cargo”. Esto presenta al estado cómo un ente obstructor, sin embargo no se refiere directamente a la reducción de impuestos cómo política de formalización.",
+          "comment_key": "explanations.parties.p7.t18",
+          "source": "https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
+          "source_type": "candidate_fallback"
+        },
         "Nueva constitución: Debería convocarse a una Asamblea Contituyente para cambiar la Constitución de 1993.": {
           "id_tema": "t19",
           "tema": "Nueva constitución",
@@ -3992,10 +4004,10 @@
           "question": "Para reducir la informalidad, se debería bajar los impuestos en lugar de tener programas de formalización.",
           "question_key": "questions.t18",
           "topic_key": "topics.t18",
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Lescano declaró en 2015 que \"si uno quiere que los jóvenes que están en situación de informalidad sean contratados y salgan de ella, se le debe dar a las empresas algún tipo de incentivo tributario, pero no se debe poner en desventaja al trabajador\", evidenciando una posición que combina incentivos tributarios con programas y protección de derechos laborales.",
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Durante el bloque de ‘Empleo, desarrollo y emprendimiento’ del debate presidencial 2026, el candidato Lescano declaró: “Nosotros pensamos que a los microempresarios no hay que sancionarlos, no hay que perseguirlos. Hay que darles servicios, y además hay que ayudarlos a que se formalicen para que den trabajo.”. Esta declaración alude directamente a la necesidad de tener apoyo estatal para la formalización. Contiene un componenten anti-punitivo también, qué sin embaro no alude directamente a la reducción de impuestos.",
           "comment_key": "explanations.parties.p20.t18",
-          "source": "https://enfoquederecho.com/2015/01/25/yonhy-lescano-esta-ley-no-solo-recorta-derechos-laborales-sino-que-afecta-la-dignidad-de-las-personas-mas-jovenes/",
+          "source": "https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
           "source_type": "candidate_fallback"
         },
         "Nueva constitución: Debería convocarse a una Asamblea Contituyente para cambiar la Constitución de 1993.": {
@@ -6004,9 +6016,9 @@
           "question_key": "questions.t9",
           "topic_key": "topics.t9",
           "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: En febrero del 2026, el candidato describió sus propuestas en materia de salud, en dónde destacóa la necesidad de reestructurar al MINSA y ESSALUD debido a ineficiencias en su funcionamiento. Estas declaraciones no dejan en claro la posición del candidato en cuanto al enunciado",
+          "comment": "Por falta de información, se tomó la posición del candidato: En febrero del 2026, el candidato describió sus propuestas en materia de salud, en dónde destacó la necesidad de reestructurar al MINSA y ESSALUD debido a ineficiencias en su funcionamiento. Sin embargo, durante el debate presidencial 2026 declaró: “Hospitales solidarios a nivel nacional. Un hospital solidario que funciona perfectamente en cada capital de provincia. Y toda posta abierta 24 horas para derivar esos pacientes a hospitales solidarios de calidad.\n” Esta declaración pone la posición del candidato en contra del contenido del enunciado.",
           "comment_key": "explanations.parties.p31.t9",
-          "source": "https://canaln.pe/actualidad/rafael-lopez-aliaga-plantea-reestructurar-minsa-y-essalud-n490154",
+          "source": "https://canaln.pe/actualidad/rafael-lopez-aliaga-plantea-reestructurar-minsa-y-essalud-n490154;https://www.youtube.com/watch?v=lvYx1o42LUQ&t",
           "source_type": "candidate_fallback"
         },
         "Migración: El Estado debería priorizar la deportación de las personas con situación migratoria irregular en vez de su reconocimiento legal.": {
