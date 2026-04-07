@@ -463,10 +463,10 @@
           "question": "El aborto debería estar permitido en casos de violación.",
           "question_key": "questions.t5",
           "topic_key": "topics.t5",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El candidato se ha posicionado en contra de la despenalización del aborto así como del matrimonio igualitario.",
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En el debate presidencial dijo estar absolutamente a favor del aborto en casos de violación.",
           "comment_key": "explanations.parties.p3.t5",
-          "source": "https://willax.pe/politica/elige-bien-2026/enrique-valderrama-campana-austera-plata-como-cancha-willax",
+          "source": "https://peru21.pe/politica/debate-en-vivo-enrique-valderrama-estoy-absolutamente-favor-del-aborto-en-casos-de-violacion/",
           "source_type": "candidate_fallback"
         },
         "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
@@ -2362,18 +2362,6 @@
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf",
           "source_type": "party"
         },
-        "Impuestos progresivos: Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.": {
-          "id_tema": "t6",
-          "tema": "Impuestos progresivos",
-          "question": "Las personas con más dinero deberían pagar un mayor porcentaje de impuestos sobre sus ingresos.",
-          "question_key": "questions.t6",
-          "topic_key": "topics.t6",
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Durante su gestión como alcalde de Lima (1990-1995), impulsó el decreto legislativo de ley de tributación municipal que eliminó la facultad de cobrar arbitrios, quitando \"solvencia económica a la municipalidad\" según análisis retrospectivo, evidenciando una posición contraria a incrementar la carga tributaria.",
-          "comment_key": "explanations.parties.p12.t6",
-          "source": "https://peru21.pe/politica/belmont-paso-174-dias-fuera-pais-ultimos-dos-anos-gestion-429883-noticia/",
-          "source_type": "candidate_fallback"
-        },
         "Salud pública: El Estado debería fomentar la salud privada en vez de incrementar el presupuesto para la salud pública.": {
           "id_tema": "t9",
           "tema": "Salud pública",
@@ -2440,8 +2428,8 @@
           "question": "El gobierno debería reducir gastos en vez de invertir más en las instituciones estatales y los servicios públicos.",
           "question_key": "questions.t14",
           "topic_key": "topics.t14",
-          "vote": 1.0,
-          "comment": "El plan de gobierno apunta a una gestión estatal ágil con un aparato estatal reducido y con redirección de recursos hacia la inversión pública.",
+          "vote": 0.5,
+          "comment": "El plan de gobierno apunta a una gestión estatal ágil con un aparato estatal reducido, pero también enfatiza la mejora de los servicios públicos.",
           "comment_key": "explanations.parties.p12.t14",
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf",
           "source_type": "party"

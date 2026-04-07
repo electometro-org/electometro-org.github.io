@@ -313,9 +313,9 @@
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Aprista-Peruano-Plan-de-Gobierno-LP.pdf"
         },
         "t5": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El candidato se ha posicionado en contra de la despenalización del aborto así como del matrimonio igualitario.",
-          "source": "https://willax.pe/politica/elige-bien-2026/enrique-valderrama-campana-austera-plata-como-cancha-willax"
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En el debate presidencial dijo estar absolutamente a favor del aborto en casos de violación.",
+          "source": "https://peru21.pe/politica/debate-en-vivo-enrique-valderrama-estoy-absolutamente-favor-del-aborto-en-casos-de-violacion/"
         },
         "t6": {
           "vote": 1.0,
@@ -1173,11 +1173,6 @@
           "comment": "El plan de gobierno establece como principio el respeto \"irrestricto\" al derecho a la vida y la protección de la familia, probablemente en alusión a la despenalización del aborto.",
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf"
         },
-        "t6": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Durante su gestión como alcalde de Lima (1990-1995), impulsó el decreto legislativo de ley de tributación municipal que eliminó la facultad de cobrar arbitrios, quitando \"solvencia económica a la municipalidad\" según análisis retrospectivo, evidenciando una posición contraria a incrementar la carga tributaria.",
-          "source": "https://peru21.pe/politica/belmont-paso-174-dias-fuera-pais-ultimos-dos-anos-gestion-429883-noticia/"
-        },
         "t9": {
           "vote": 0.0,
           "comment": "El plan de gobierno contempla mejoras en la prestación de servicios de salud universal, con atención a prioritaria a poblaciones vulnerables.",
@@ -1204,8 +1199,8 @@
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf"
         },
         "t14": {
-          "vote": 1.0,
-          "comment": "El plan de gobierno apunta a una gestión estatal ágil con un aparato estatal reducido y con redirección de recursos hacia la inversión pública.",
+          "vote": 0.5,
+          "comment": "El plan de gobierno apunta a una gestión estatal ágil con un aparato estatal reducido, pero también enfatiza la mejora de los servicios públicos.",
           "source": "https://mpesije.jne.gob.pe/docs/5643db28-6dbd-4d35-b79e-30d20d3bed85.pdf"
         },
         "t15": {
