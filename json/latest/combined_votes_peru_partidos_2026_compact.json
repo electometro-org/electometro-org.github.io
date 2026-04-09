@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.3.0",
   "quiz": {
     "t1": {
       "id": "t1",
@@ -2026,7 +2026,7 @@
     },
     "p22": {
       "id": "p22",
-      "name": "Partido Regionalista de Integración Nacional (PRIN)",
+      "name": "Partido Regionalista de Integración Nacional",
       "votes": {
         "t1": {
           "vote": 0.0,
@@ -2048,20 +2048,10 @@
           "comment": "El plan de gobierno plantea incorporar a la pequeña minería y minería artesanal en cadenas productivas formales (y erradicar la minería ilegal), lo que implica un enfoque activo de formalización/regulación.",
           "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
         },
-        "t5": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista, Francisco Diez-Canseco menciona que el aborto debería estar permitido en ciertos casos. No está de acuerdo con negarle el aborto a una niña que fue violada, pone como ejemplo el caso de una chica en Nicaragua",
-          "source": "https://www.youtube.com/live/xY7ewqcLwys?si=a7D0syM_HksNm8xl&t=2979"
-        },
         "t6": {
           "vote": 1.0,
           "comment": "Propone elevar la presión tributaria al 19% mediante beneficios para formales y tributos escalonados para pequeños negocios",
           "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
-        },
-        "t7": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista, el candidate Francisco Diez-Canseco sostiene que es necesario aplicar la pena de muerte para sicarios, presidentes de la república y v*oladores de menores",
-          "source": "https://www.youtube.com/watch?v=u7MgEsFFiYc&t=1326s"
         },
         "t8": {
           "vote": 1.0,
@@ -2083,25 +2073,15 @@
           "comment": "El plan de gobierno incluye metas y acciones explícitas para mitigación/adaptación (economía baja en carbono, reducción de GEI, medidas NDC), por lo que sí prioriza acciones contra el cambio climático.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
         },
-        "t14": {
+        "t13": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno propone \"la refundación de lo público como un estado más pequeño austero y eficiente\"",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Accion-Plan-de-Gobierno-LP.pdf, pág. 15"
+          "comment": "Por falta de información, se tomó la posición del candidato: Plantea “atraer inversión/atraer capitales” y mejorar la confianza de inversores, incluyendo referencia a “capitales… extranjeros”.",
+          "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-walter-chirinos-purizaga-del-partido-politico-prin (TVPerú)"
         },
-        "t15": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En contra del matrimonio igualitario",
-          "source": "https://www.youtube.com/watch?v=xY7ewqcLwys&t=2816s"
-        },
-        "t16": {
+        "t14": {
           "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: Si bien en la entrevista menciona que va a aumentar Pensión 65 a 500 soles el mes, no menciona lo que planea hacer con el sistema de pensiones privado.",
-          "source": "https://www.youtube.com/watch?v=xY7ewqcLwys&t=6522s"
-        },
-        "t17": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Sostiene que es necesario retirarse del pacto de San José para habilitar la pena de muerte",
-          "source": "https://www.youtube.com/watch?v=u7MgEsFFiYc&t=1326s"
+          "comment": "Por falta de información, se tomó la posición del candidato: El plan habla de “estado fuerte”, pero también de priorizar recursos escasos, reforma del Estado y reducción de déficit; no queda claro si prioriza “invertir más” versus “recortar gastos”.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
         },
         "t18": {
           "vote": 0.0,
@@ -2113,6 +2093,10 @@
           "comment": "El plan de gobierno plantea “sin necesidad de grandes cambios refundacionales” y con respeto a la Constitución; no propone asamblea constituyente para cambiar la Constitución de 1993.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
         }
+      },
+      "candidate": {
+        "id": "c22",
+        "name": "Walter Chirinos"
       }
     },
     "p23": {
@@ -2141,8 +2125,8 @@
         },
         "t5": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En 2016, se reportó que Cerrón había tenido declaraciones apoyando la despenalización del aborto para proteger la integridad física de las mujeres.",
-          "source": "https://larepublica.pe/politica/735315-vladimir-cerron-favor-de-despenalizar-el-aborto"
+          "comment": "Por falta de información, se tomó la posición del candidato: En una entrevista, Francisco Diez-Canseco menciona que el aborto debería estar permitido en ciertos casos. No está de acuerdo con negarle el aborto a una niña que fue violada, pone como ejemplo el caso de una chica en Nicaragua",
+          "source": "https://www.youtube.com/live/xY7ewqcLwys?si=a7D0syM_HksNm8xl&t=2979"
         },
         "t6": {
           "vote": 0.0,
@@ -2181,27 +2165,32 @@
         },
         "t15": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Cerrón se ha manifestado en contra del matrimonio igualitario y de otras demandas políticas del colectivo LGBT en múltiples declaraciones.",
-          "source": "https://www.bbc.com/mundo/noticias-america-latina-58287173"
+          "comment": "Por falta de información, se tomó la posición del candidato: En contra del matrimonio igualitario",
+          "source": "https://www.youtube.com/watch?v=xY7ewqcLwys&t=2816s"
+        },
+        "t16": {
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: Si bien en la entrevista menciona que va a aumentar Pensión 65 a 500 soles el mes, no menciona lo que planea hacer con el sistema de pensiones privado.",
+          "source": "https://www.youtube.com/watch?v=xY7ewqcLwys&t=6522s"
         },
         "t17": {
           "vote": 0.0,
           "comment": "Busca la salida de la CIDH para instaurar la pena de muerte para presidentes corruptos, asesinos, sicarios y violadores.",
           "source": "https://mpesije.jne.gob.pe/docs/f4e5c2c2-b0df-4033-adda-6617af774154.pdf"
         },
+        "t18": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En el plan de gobierno, se propone impulsar \"mediante incentivos fiscales y tributarios que las empresas informales se formalicen\"",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Accion-Plan-de-Gobierno-LP.pdf, pág. 17"
+        },
         "t19": {
           "vote": 0.0,
           "comment": "Propone reformas puntuales a la Constitución vigente y someterlas a referéndums, no convocar una asamblea constituyente para cambiar la Constitución del 93.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Accion-Plan-de-Gobierno-LP.pdf"
-        },
-        "t20": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En declaraciones de 2022, Cerrón se posicionó a favor de la reelección de autoridades en todos los niveles de gobierno.",
-          "source": "https://peru21.pe/politica/vladimir-cerron-a-favor-de-reeleccion-presidencial-de-congresistas-gobernadores-regionales-y-alcaldes-asamblea-constituyente-peru-libre-rmmn-noticia/"
         }
       },
       "candidate": {
-        "id": "c22",
+        "id": "c23",
         "name": "Francisco Diez-Canseco"
       }
     },
@@ -2214,10 +2203,15 @@
           "comment": "El plan de gobierno de Perú Libre rechaza priorizar un enfoque exclusivamente punitivo: plantea atender causas sociales de la delincuencia y medidas de reinserción (producción/empleo para reos al salir).",
           "source": "https://declara.jne.gob.pe/assets/plangobierno/fileplangobierno/16542.pdf"
         },
+        "t2": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Durante su tiempo como gobernante de Junín, se difundieron diversas declaraciones de él en contra del enfoque o \"ideología\" de género.",
+          "source": "https://www.facebook.com/waykaperu/photos/este-es-vladimir-cerr%C3%B3n-el-gobernador-regional-de-jun%C3%ADn-que-est%C3%A1-en-contra-del-e/2089352091149180/"
+        },
         "t3": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Carlos Jaico tiene como propuesta \"muerte civil\" para políticos condenados por corrupción.",
-          "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-jaico-plantea-muerte-civil-funcionarios-corruptos-condenados-1063930.aspx"
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Vladimir Cerrón ha estado involucrado en varios escándalos de corrupción y actualmente se encuentra prófugo de la justicia.",
+          "source": "https://www.gob.pe/institucion/mpfn/noticias/520789-ministerio-publico-solicito-5-anos-y-4-meses-de-prision-para-vladimir-cerron-por-adelanto-directo-en-obra-de-mejoramiento-vial/+++https://cnnespanol.cnn.com/2023/10/07/vladimir-cerron-partido-peru-libre-condena-carcel-corrupcion-orix+++https://www.dw.com/es/vladimir-cerr%C3%B3n-cumple-un-a%C3%B1o-pr%C3%B3fugo-de-la-justicia-de-per%C3%BA/a-70418949"
         },
         "t4": {
           "vote": 0.5,
@@ -2233,6 +2227,11 @@
           "vote": 1.0,
           "comment": "El plan de gobierno de Perú Libre contempla la incrementación de los impuestos directos \"a grandes rentas y patrimonios\".",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
+        },
+        "t7": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Durante le campaña de 2016, Cerrón propuso la pena de muerte para delitos relacionados al narcotráfico.",
+          "source": "https://larepublica.pe/politica/735304-vladimir-cerron-propone-la-pena-de-muerte-para-delitos-de-narcotrafico"
         },
         "t9": {
           "vote": 0.0,
@@ -2259,6 +2258,11 @@
           "comment": "El plan de gobierno de Perú Libre contempla incrementos en el gasto para fortalecer servicios estatales en varios rubros, como salud y educación.",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
         },
+        "t15": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Cerrón se ha manifestado en contra del matrimonio igualitario y de otras demandas políticas del colectivo LGBT en múltiples declaraciones.",
+          "source": "https://www.bbc.com/mundo/noticias-america-latina-58287173"
+        },
         "t16": {
           "vote": 0.0,
           "comment": "El plan de gobierno plantea fortalecer significativamente el sistema previsional y condena la \"mercantilización\" de la seguridad social.",
@@ -2273,10 +2277,15 @@
           "vote": 1.0,
           "comment": "El programa propone explícitamente Asamblea Constituyente y nueva Constitución para reemplazar el marco de 1993.",
           "source": "https://mpesije.jne.gob.pe/docs/b2d25860-484e-4226-bd13-a57fb83c59cb.pdf"
+        },
+        "t20": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En declaraciones de 2022, Cerrón se posicionó a favor de la reelección de autoridades en todos los niveles de gobierno.",
+          "source": "https://peru21.pe/politica/vladimir-cerron-a-favor-de-reeleccion-presidencial-de-congresistas-gobernadores-regionales-y-alcaldes-asamblea-constituyente-peru-libre-rmmn-noticia/"
         }
       },
       "candidate": {
-        "id": "c23",
+        "id": "c24",
         "name": "Vladimir Cerrón"
       }
     },
@@ -2289,40 +2298,10 @@
           "comment": "No hay evidencia en sus documentos públicos de propuestas significativas de rehabilitación o reintegración social de criminales. El enfoque está orientado al control, la represión del crimen organizado y el fortalecimiento policial, sin un enfoque punitivo ni de rehabilitación.",
           "source": "https://mpesije.jne.gob.pe/docs/12de1a7b-008b-43c5-9159-c62c9b45eab1.pdf"
         },
-        "t2": {
-          "vote": 0.5,
-          "comment": "Por falta de información, se tomó la posición del candidato: Respecto al proyecto de ley aprobado en 2025 que elimina el enfoque de género de políticas públicas, Mario Vizcarra declaró ser respetuoso de las decisiones individuales de personas homosexuales y cuestionó la oposición a asuntos que considera derechos fundamentales. Sin embargo, no ha afirmado explícitamente su apoyo a la obligatoriedad de la educación sexual integral con enfoque de género.",
-          "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
-        },
         "t3": {
           "vote": 1.0,
           "comment": "Perú Moderno apoya plenamente la afirmación de que las personas condenadas por corrupción deberían ser vetadas de por vida de cargos públicos. De hecho, van más allá de simplemente apoyar la idea: la han convertido en una propuesta bandera con nombre propio (\"muerte civil\"), y descartan expresamente cualquier posibilidad de rehabilitación para quienes hayan defraudado al Estado.",
           "source": "https://andina.pe/agencia/noticia-elecciones-2026-carlos-jaico-plantea-muerte-civil-funcionarios-corruptos-condenados-1063930.aspx"
-        },
-        "t4": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra declara que la solución a la minería es \"facilitar la formalización\" de pequeña minería y minería artesanal, separando estos sectores de la minería ilegal. Reconoce que \"hay familias que viven de la minería artesanal\" y que se debe simplificar los requisitos para formalizarla.",
-          "source": "https://www.youtube.com/watch?v=IynQN-QhXkE"
-        },
-        "t5": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En euna ntrevista, Mario Vizcarra sostuvo que el aborto “debe ser una decisión de la mujer” y agregó que estaría a favor “más aún en temas de violación.”",
-          "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
-        },
-        "t6": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra ha criticado explícitamente la \"Ley Chlimper\" (Ley 32434) que exonera a grandes agroexportadores por 10 años más, causando pérdidas estimadas en 200 millones de soles. Arremetió \"contra la extensión de beneficios tributarios para los grandes agroexportadores\".",
-          "source": "https://elbuho.pe/2025/12/el-plan-de-los-vizcarra-asi-busca-mario-heredar-los-votos-del-sur-tras-la-condena-de-martin/"
-        },
-        "t7": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El candidato ha argumentado que la pena de muerte es un mecanismo inefectivo para controlar el crimen. Además, ha declarado que la pena de muerte en el Perú es inviable, aludiendo a los límites constitucionales y compromisos internacionales, por lo que descarta su implementación como política pública. Durante el debate presidencial 2026 declaró: \"Mucho se habla de establecer la pena de muerte para casos de sicariatos y violaciones. Creemos que esa es una medida demagógica.\"",
-          "source": "https://www.instagram.com/reel/DTPACQDjjeR/;https://www.youtube.com/watch?v=FQJyUExv_gc"
-        },
-        "t8": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Durante el debate presidencial 2026, Mario Vizcarra declaró: \"En mi gobierno estableceremos un régimen de excepción, amparado en el artículo 137 de la constitución. Para que las fuerzas armadas nos ayuden a combatir la delincuencia.\"",
-          "source": "https://www.youtube.com/watch?v=FQJyUExv_gc"
         },
         "t9": {
           "vote": 0.0,
@@ -2354,11 +2333,6 @@
           "comment": "El plan de gobierno plantea reducción y racionalización del Estado antes que una expansión general del gasto institucional.",
           "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Peru-Moderno-Plan-de-Gobierno-LP.pdf"
         },
-        "t15": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En entrevistas ha señalado que “no se debe discriminar a nadie por su orientación sexual” y que el Estado debe reconocer derechos civiles sin distinción, mostrando apertura al reconocimiento legal de parejas del mismo sexo.",
-          "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
-        },
         "t16": {
           "vote": 1.0,
           "comment": "El programa no prioriza el sistema público de pensiones y reconoce un rol central de las AFP y pensiones privadas.",
@@ -2386,7 +2360,7 @@
         }
       },
       "candidate": {
-        "id": "c24",
+        "id": "c25",
         "name": "Carlos Jaico"
       }
     },
@@ -2414,10 +2388,20 @@
           "comment": "El plan de gobierno propone una “ley que formalice la minería informal” y habla de formalización como parte del enfoque contra economías ilegales.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
-        "t7": {
+        "t5": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En redes y comunicados públicos expresó apoyo a la pena de muerte para asesinos y a medidas excepcionales contra sicarios. En el debate del 23.03. no habló directamente de la pena de muerte, pero amenazó de muerte a los criminales: \"O acaban en la cárcel o acaban muertos.\"",
-          "source": "facebook.com/JoseLunaGalvez.Peru (posts '¡Pena De Muerte Ya!'); instagram.com (reels);https://www.youtube.com/watch?v=OikfsWFXkJA&t=2843s (minutos 177-178)"
+          "comment": "Por falta de información, se tomó la posición del candidato: En euna ntrevista, Mario Vizcarra sostuvo que el aborto “debe ser una decisión de la mujer” y agregó que estaría a favor “más aún en temas de violación.”",
+          "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
+        },
+        "t6": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Mario Vizcarra ha criticado explícitamente la \"Ley Chlimper\" (Ley 32434) que exonera a grandes agroexportadores por 10 años más, causando pérdidas estimadas en 200 millones de soles. Arremetió \"contra la extensión de beneficios tributarios para los grandes agroexportadores\".",
+          "source": "https://elbuho.pe/2025/12/el-plan-de-los-vizcarra-asi-busca-mario-heredar-los-votos-del-sur-tras-la-condena-de-martin/"
+        },
+        "t7": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: El candidato ha argumentado que la pena de muerte es un mecanismo inefectivo para controlar el crimen. Además, ha declarado que la pena de muerte en el Perú es inviable, aludiendo a los límites constitucionales y compromisos internacionales, por lo que descarta su implementación como política pública. Durante el debate presidencial 2026 declaró: \"Mucho se habla de establecer la pena de muerte para casos de sicariatos y violaciones. Creemos que esa es una medida demagógica.\"",
+          "source": "https://www.instagram.com/reel/DTPACQDjjeR/;https://www.youtube.com/watch?v=FQJyUExv_gc"
         },
         "t8": {
           "vote": 1.0,
@@ -2454,10 +2438,10 @@
           "comment": "El plan de gobierno propone fortalecer/modernizar el Estado (servicio civil, meritocracia, digitalización) y promover inversión pública.",
           "source": "https://mpesije.jne.gob.pe/docs/f9624874-7cf6-4737-8db3-b73707c98e70.pdf"
         },
-        "t16": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El plan de gobierno de Podemos Perú, si bien no propone deshacerse de las pensiones privadas o algo similar,  prioriza la expansión de las pensiones públicas, al menos en lo que se refiere a \"establecer una pensión mínima universal digna\" para expandir el porcentaje de la población cubierta por una pensión.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Podemos-Peru.pdf (págs. 51-2)"
+        "t15": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En entrevistas ha señalado que “no se debe discriminar a nadie por su orientación sexual” y que el Estado debe reconocer derechos civiles sin distinción, mostrando apertura al reconocimiento legal de parejas del mismo sexo.",
+          "source": "https://www.infobae.com/peru/2025/12/01/mario-vizcarra-responde-a-investigaciones-y-devela-su-posicion-a-favor-del-aborto-y-legalizacion-de-drogas-por-que-oponerse/"
         },
         "t17": {
           "vote": 1.0,
@@ -2476,7 +2460,7 @@
         }
       },
       "candidate": {
-        "id": "c25",
+        "id": "c26",
         "name": "Mario Vizcarra"
       }
     },
@@ -2493,6 +2477,11 @@
           "vote": 0.0,
           "comment": "El 19/11/2025, la bancada de APP votó a favor del proyecto de ley 8731, que reemplaza a la educación sexual integral con una \"educación sexual con base científica, biológica y ética\" sin enfoque de género.",
           "source": "https://www.congreso.gob.pe/AsistenciasVotacionesPleno/asistencia-votacion-pleno (Período Anual de Sesiones 2025-2026 -> Primera Legislatura Ordinaria -> 11/19/2025, pág. 10); https://epicentro.tv/elecciones-2026-partidos-proponen-desaparecer-el-ministerio-de-la-mujer-y-retroceder-en-politicas-de-genero/"
+        },
+        "t3": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Luna ha buscado anular investigaciones en su contra y su partido ha presentado recursos para excluirse de pesquisas. En ese sentido, sus acciones públicas podrían indicar una oposición a sanciones permanentes o inhabilitaciones.",
+          "source": "infobae.com (19 Jul 2025); peru21.pe (28 May 2025); lpderecho.pe (May 2024)"
         },
         "t4": {
           "vote": 1.0,
@@ -2518,6 +2507,11 @@
           "vote": 0.0,
           "comment": "El programa reconoce a la salud como derecho humano y propone fortalecer atención primaria, y aumentar el presupuesto para fortalecer el sistema de salud público.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
+        },
+        "t10": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: En declaraciones, Luna ha apoyado medidas de expulsión de extranjeros que cometan delitos y el fortalecimiento del control fronterizo hermético. Afirma que \"tenemos que ser bien duros en la política migratoria\".",
+          "source": "https://www.youtube.com/watch?v=R0d-zE4DO5c (minutos 55-58)"
         },
         "t12": {
           "vote": 1.0,
@@ -2554,11 +2548,6 @@
           "comment": "El plan de gobierno prioriza programas de formalización con incentivos como créditos, asistencia técnica, simplificación administrativa y otros estímulos dirigidos a MYPEs, sin enfatizar la reducción de impuestos como principal herramienta.",
           "source": "https://mpesije.jne.gob.pe/docs/67b637b0-e2f7-47cc-8b23-fa16be709cc2.pdf"
         },
-        "t19": {
-          "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Dirigente de Primero la Gente (Del Castillo) descarta asamblea constituyente.",
-          "source": "https://canaln.pe/actualidad/primero-gente-castillo-descarta-asamblea-constituyente-n485532"
-        },
         "t20": {
           "vote": 0.0,
           "comment": "El 06/03/2024, durante la votación de los proyectos de ley 660, 724, 792, 1044, 1091, 1334, 1655, 1708, 1746, 1750, 1959, 2004, 2025, 2053, 2085,2231, 2314 y 3744, que proponían volver a permitir la reelección de los legisladores, la bancada de PP votó a favor.",
@@ -2566,7 +2555,7 @@
         }
       },
       "candidate": {
-        "id": "c26",
+        "id": "c27",
         "name": "José Luna Gálvez"
       }
     },
@@ -2579,15 +2568,30 @@
           "comment": "En el plan resumen priorizan prevención/estrategia y “salidas alternativas” (no un enfoque exclusivamente punitivo) y plantean que >60% de internos participe en educación/capacitación/trabajo.",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
+        "t2": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Declara que debe garantizarse educación sexual integral y que negarla es un retroceso.",
+          "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
+        },
         "t4": {
           "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: Propone incorporar la pequeña minería y minería artesanal a cadenas productivas mineras formales (y erradicar la minería ilegal), lo que equivale a una estrategia activa de formalización/regularización del segmento informal-artesanal.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+          "comment": "Por falta de información, se tomó la posición del candidato: Distingue ilegal vs informal y sostiene que al informal que quiere formalizarse hay que ayudarlo con plazos claros; rechaza prórrogas del REINFO.",
+          "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
+        },
+        "t5": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Se pronuncia a favor de permitirlo en caso de violación (“sin duda”).",
+          "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
         },
         "t6": {
           "vote": 1.0,
           "comment": "Plantean “hacer el sistema tributario más progresivo y eficiente” y racionalizar exoneraciones/ampliar base del Impuesto a la Renta.",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
+        },
+        "t7": {
+          "vote": 0.0,
+          "comment": "Por falta de información, se tomó la posición del candidato: Se declara en contra de la pena de muerte.",
+          "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
         },
         "t8": {
           "vote": 0.0,
@@ -2598,11 +2602,6 @@
           "vote": 0.0,
           "comment": "Enfatizan “salud pública articulada y de calidad” (unificar el sistema nacional de salud) y regular el sistema privado de seguros/medicamentos limitando prácticas abusivas.",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
-        },
-        "t10": {
-          "vote": 1.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: En migración enfatiza control fronterizo (tecnología biométrica) y propone que el Ejército asuma temporalmente el control de fronteras; no prioriza regularización de situación migratoria irregular.",
-          "source": "https://andina.pe/agencia/noticia-elecciones-2026-walter-chirinos-del-prin-propone-estado-excepcion-contra-criminalidad-1061053.aspx (andina.pe)"
         },
         "t12": {
           "vote": 1.0,
@@ -2619,6 +2618,11 @@
           "comment": "El plan de gobierno se centra en fortalecer capacidades estatales (p.ej., centro de gobierno/modernización, integridad, sistemas públicos) y no en recortes como eje principal.",
           "source": "https://mpesije.jne.gob.pe/docs/1430b48a-b7d1-4acf-970e-7c5e58f450c2.pdf"
         },
+        "t15": {
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del candidato: Indica consenso partidario en unión civil y debate interno sobre matrimonio igualitario; no fija apoyo explícito al matrimonio igualitario como tal.",
+          "source": "https://larepublica.pe/politica/2025/12/14/marisol-perez-tello-candidata-por-primero-la-gente-no-trato-con-dictadores-ni-de-derecha-ni-de-izquierda-hnews-207536"
+        },
         "t17": {
           "vote": 1.0,
           "comment": "Se compromete a fortalecer la reputación del país en derechos humanos y mejorar su posición en el ranking global de derechos fundamentales",
@@ -2631,12 +2635,12 @@
         },
         "t19": {
           "vote": 0.0,
-          "comment": "Por falta de información, se tomó la posición del candidato: El plan señala que no ve necesidad de “grandes cambios refundacionales” y enfatiza respeto a Constitución vigente; por tanto, no apunta a una asamblea constituyente.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+          "comment": "Por falta de información, se tomó la posición del candidato: Dirigente de Primero la Gente (Del Castillo) descarta asamblea constituyente.",
+          "source": "https://canaln.pe/actualidad/primero-gente-castillo-descarta-asamblea-constituyente-n485532"
         }
       },
       "candidate": {
-        "id": "c27",
+        "id": "c28",
         "name": "María Soledad Pérez Tello"
       }
     },
@@ -2801,7 +2805,7 @@
         },
         "t2": {
           "vote": 0.0,
-          "comment": "El plan de gobierno define al partido como organización política cristiana y que persigue el desarrollo intgral de la persona y familia como bien común del pueblo peruano. La congresista Milagros Jáuregui además describe la elimincación del enfoque de género cómo una victoria cristiana",
+          "comment": "El plan de gobierno define al partido como organización política cristiana y que persigue el desarrollo integral de la persona y familia como bien común del pueblo peruano. La congresista Milagros Jáuregui además describe la eliminación del enfoque de género cómo una victoria cristiana",
           "source": "https://mpesije.jne.gob.pe/docs/2096b44a-f3b6-4c81-b03d-94fbfc9ac762.pdf;https://www.infobae.com/peru/2025/11/25/milagros-jauregui-celebra-eliminacion-del-enfoque-de-genero-esto-es-una-victoria-cristiana/"
         },
         "t3": {

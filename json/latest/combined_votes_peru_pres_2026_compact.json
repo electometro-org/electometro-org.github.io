@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.3.0",
   "quiz": {
     "t1": {
       "id": "t1",
@@ -1965,6 +1965,81 @@
     },
     "c22": {
       "id": "c22",
+      "name": "Walter Chirinos",
+      "votes": {
+        "t1": {
+          "vote": 0.0,
+          "comment": "En su plan de gobierno plantea “garantizar la reinserción social” de personas privadas de libertad, por lo que no se alinea con un enfoque de priorizar solo castigo.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+        },
+        "t2": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: Priorizará la educación sexual integral en el sistema educativo garantizando el ejercicio de los derechos reproductivos de las mujeres",
+          "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
+        },
+        "t3": {
+          "vote": 0.5,
+          "comment": "Por falta de información, se tomó la posición del partido: Propone confiscación de activos y la creación de un Consejo Nacional Anticorrupción sin mencionar explícitamente el veto de por vida",
+          "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
+        },
+        "t4": {
+          "vote": 1.0,
+          "comment": "Propone incorporar la pequeña minería y minería artesanal a cadenas productivas mineras formales (y erradicar la minería ilegal), lo que equivale a una estrategia activa de formalización/regularización del segmento informal-artesanal.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+        },
+        "t6": {
+          "vote": 1.0,
+          "comment": "Por falta de información, se tomó la posición del partido: Propone elevar la presión tributaria al 19% mediante beneficios para formales y tributos escalonados para pequeños negocios",
+          "source": "https://mpesije.jne.gob.pe/docs/3b89548c-81fa-479d-9ff9-2b7011fec7d2.pdf"
+        },
+        "t8": {
+          "vote": 0.5,
+          "comment": "El candidato propone “estado de excepción” y reorganización policial/MP/INPE, pero no hallé una propuesta explícita de “mayor presencia militar en las calles” como política general.",
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-walter-chirinos-del-prin-propone-estado-excepcion-contra-criminalidad-1061053.aspx (andina.pe)"
+        },
+        "t9": {
+          "vote": 0.0,
+          "comment": "El plan plantea incrementar progresivamente el presupuesto en salud hasta “al menos 6% del PBI”, priorizando fortalecimiento del sistema público.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+        },
+        "t10": {
+          "vote": 1.0,
+          "comment": "En migración enfatiza control fronterizo (tecnología biométrica) y propone que el Ejército asuma temporalmente el control de fronteras; no prioriza regularización de situación migratoria irregular.",
+          "source": "https://andina.pe/agencia/noticia-elecciones-2026-walter-chirinos-del-prin-propone-estado-excepcion-contra-criminalidad-1061053.aspx (andina.pe)"
+        },
+        "t12": {
+          "vote": 1.0,
+          "comment": "Incluye un eje ambiental con medidas de mitigación/adaptación, reducción de GEI y acciones explícitas frente al cambio climático.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+        },
+        "t13": {
+          "vote": 1.0,
+          "comment": "Plantea “atraer inversión/atraer capitales” y mejorar la confianza de inversores, incluyendo referencia a “capitales… extranjeros”.",
+          "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-walter-chirinos-purizaga-del-partido-politico-prin (TVPerú)"
+        },
+        "t14": {
+          "vote": 0.5,
+          "comment": "El plan habla de “estado fuerte”, pero también de priorizar recursos escasos, reforma del Estado y reducción de déficit; no queda claro si prioriza “invertir más” versus “recortar gastos”.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+        },
+        "t18": {
+          "vote": 0.0,
+          "comment": "El plan fija metas de formalización (MIPYMES) y aumento de presión tributaria, por lo que no se alinea con reemplazar formalización por “bajar impuestos”.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+        },
+        "t19": {
+          "vote": 0.0,
+          "comment": "El plan señala que no ve necesidad de “grandes cambios refundacionales” y enfatiza respeto a Constitución vigente; por tanto, no apunta a una asamblea constituyente.",
+          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
+        }
+      },
+      "party": {
+        "id": "p22",
+        "name": "Partido Regionalista de Integración Nacional"
+      }
+    },
+    "c23": {
+      "id": "c23",
       "name": "Francisco Diez-Canseco",
       "votes": {
         "t1": {
@@ -2058,8 +2133,8 @@
         "name": "Perú Acción"
       }
     },
-    "c23": {
-      "id": "c23",
+    "c24": {
+      "id": "c24",
       "name": "Vladimir Cerrón",
       "votes": {
         "t1": {
@@ -2153,8 +2228,8 @@
         "name": "Perú Libre"
       }
     },
-    "c24": {
-      "id": "c24",
+    "c25": {
+      "id": "c25",
       "name": "Carlos Jaico",
       "votes": {
         "t1": {
@@ -2228,8 +2303,8 @@
         "name": "Perú Moderno"
       }
     },
-    "c25": {
-      "id": "c25",
+    "c26": {
+      "id": "c26",
       "name": "Mario Vizcarra",
       "votes": {
         "t1": {
@@ -2328,8 +2403,8 @@
         "name": "Perú Primero"
       }
     },
-    "c26": {
-      "id": "c26",
+    "c27": {
+      "id": "c27",
       "name": "José Luna Gálvez",
       "votes": {
         "t1": {
@@ -2423,8 +2498,8 @@
         "name": "Podemos Perú"
       }
     },
-    "c27": {
-      "id": "c27",
+    "c28": {
+      "id": "c28",
       "name": "María Soledad Pérez Tello",
       "votes": {
         "t1": {
@@ -2506,65 +2581,6 @@
       "party": {
         "id": "p28",
         "name": "Primero La Gente"
-      }
-    },
-    "c28": {
-      "id": "c28",
-      "name": "Walter Chirinos",
-      "votes": {
-        "t1": {
-          "vote": 0.0,
-          "comment": "En su plan de gobierno plantea “garantizar la reinserción social” de personas privadas de libertad, por lo que no se alinea con un enfoque de priorizar solo castigo.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
-        },
-        "t4": {
-          "vote": 1.0,
-          "comment": "Propone incorporar la pequeña minería y minería artesanal a cadenas productivas mineras formales (y erradicar la minería ilegal), lo que equivale a una estrategia activa de formalización/regularización del segmento informal-artesanal.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
-        },
-        "t8": {
-          "vote": 0.5,
-          "comment": "El candidato propone “estado de excepción” y reorganización policial/MP/INPE, pero no hallé una propuesta explícita de “mayor presencia militar en las calles” como política general.",
-          "source": "https://andina.pe/agencia/noticia-elecciones-2026-walter-chirinos-del-prin-propone-estado-excepcion-contra-criminalidad-1061053.aspx (andina.pe)"
-        },
-        "t9": {
-          "vote": 0.0,
-          "comment": "El plan plantea incrementar progresivamente el presupuesto en salud hasta “al menos 6% del PBI”, priorizando fortalecimiento del sistema público.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
-        },
-        "t10": {
-          "vote": 1.0,
-          "comment": "En migración enfatiza control fronterizo (tecnología biométrica) y propone que el Ejército asuma temporalmente el control de fronteras; no prioriza regularización de situación migratoria irregular.",
-          "source": "https://andina.pe/agencia/noticia-elecciones-2026-walter-chirinos-del-prin-propone-estado-excepcion-contra-criminalidad-1061053.aspx (andina.pe)"
-        },
-        "t12": {
-          "vote": 1.0,
-          "comment": "Incluye un eje ambiental con medidas de mitigación/adaptación, reducción de GEI y acciones explícitas frente al cambio climático.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
-        },
-        "t13": {
-          "vote": 1.0,
-          "comment": "Plantea “atraer inversión/atraer capitales” y mejorar la confianza de inversores, incluyendo referencia a “capitales… extranjeros”.",
-          "source": "https://www.tvperu.gob.pe/noticias/politica/tu-decision-2026-planes-de-gobierno-de-walter-chirinos-purizaga-del-partido-politico-prin (TVPerú)"
-        },
-        "t14": {
-          "vote": 0.5,
-          "comment": "El plan habla de “estado fuerte”, pero también de priorizar recursos escasos, reforma del Estado y reducción de déficit; no queda claro si prioriza “invertir más” versus “recortar gastos”.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
-        },
-        "t18": {
-          "vote": 0.0,
-          "comment": "El plan fija metas de formalización (MIPYMES) y aumento de presión tributaria, por lo que no se alinea con reemplazar formalización por “bajar impuestos”.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
-        },
-        "t19": {
-          "vote": 0.0,
-          "comment": "El plan señala que no ve necesidad de “grandes cambios refundacionales” y enfatiza respeto a Constitución vigente; por tanto, no apunta a una asamblea constituyente.",
-          "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Partido-Politico-PRIN-Plan-de-gobierno-LP-Derecho.pdf"
-        }
-      },
-      "party": {
-        "name": "PRIN"
       }
     },
     "c29": {
