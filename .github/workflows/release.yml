@@ -43,8 +43,9 @@ jobs:
           fi
           echo "Uploading to: ${PATH_PREFIX}elections/..."
 
-          # Upload from json/latest/ directory, stripping version suffix
-          for file in json/latest/*.json; do
+          # Upload from every latest/ directory (json/latest/, json/regions/latest/, ...),
+          # stripping version suffix
+          for file in $(find json -path "*/latest/*.json" -type f | sort); do
             if [ -f "$file" ]; then
               filename=$(basename "$file")
               # Strip version suffix: combined_votes_peru_partidos_2026_v1.2.3.json -> combined_votes_peru_partidos_2026.json
