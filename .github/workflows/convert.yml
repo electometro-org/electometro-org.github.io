@@ -13,6 +13,7 @@ jobs:
     env:
       CHILE_FILE: ${{ vars.CHILE_FILE }}
       PERU_FILE: ${{ vars.PERU_FILE }}
+      PERU_REGIONS_FILE: ${{ vars.PERU_REGIONS_FILE }}
 
     steps:
     - name: Checkout repository
@@ -26,6 +27,7 @@ jobs:
         mkdir downloaded
         ./xlsx_downloader.sh -f "$CHILE_FILE" "${{ secrets.CHILE_FILE_URL }}"
         ./xlsx_downloader.sh -f "$PERU_FILE" "${{ secrets.PERU_FILE_URL }}"
+        ./xlsx_downloader.sh -f "$PERU_REGIONS_FILE" "${{ secrets.PERU_REGIONS_FILE_URL }}"
 
 
     - name: Set up Python
@@ -41,7 +43,7 @@ jobs:
 
     - name: Run all Python scripts
       run: |
-        for script in scripts/*.py; do
+        for script in $(find scripts -name "*.py" -type f | sort); do
           echo "Running $script"
           python "$script"
         done

@@ -31,6 +31,17 @@ compact format, per region:
 
 import json
 import os
+import re
+
+
+def topic_sort_key(topic_id):
+    """
+    Sort key for topic IDs: 'PE' (common) topics always first, then the
+    rest in natural order, e.g. PE1, PE2, ..., PE10, L1, L2, ..., L10.
+    """
+    match = re.match(r"^([A-Za-z]+)(\d+)$", topic_id)
+    prefix, number = (match.group(1), int(match.group(2))) if match else (topic_id, 0)
+    return (0 if prefix == "PE" else 1, prefix, number)
 
 
 def normalize_id(text):
@@ -82,6 +93,8 @@ def convert_to_new_format(input_data, entity_type="candidates"):
                     "question": question_text,
                 }
 
+    topics = dict(sorted(topics.items(), key=lambda kv: topic_sort_key(kv[0])))
+
     new_entities = {}
 
     for entity_name, entity_data in entities.items():
@@ -104,6 +117,8 @@ def convert_to_new_format(input_data, entity_type="candidates"):
                 "comment": vote_data.get("comment"),
                 "source": vote_data.get("source"),
             }
+
+        new_votes = dict(sorted(new_votes.items(), key=lambda kv: topic_sort_key(kv[0])))
 
         entity_entry = {
             "id": entity_id,

@@ -3,10 +3,21 @@ import os
 import json
 import re
 
-NEW_STRUCTURE_FILE = os.getenv("PERU_REGIONS_FILE", "datos/20260907_Datos.xlsx")
+NEW_STRUCTURE_FILE = os.getenv("PERU_REGIONS_FILE")
 
 OUTPUT_DIR_LATEST = "json/regions/latest/"
 OUTPUT_DIR_HISTORY = "json/regions/history/"
+
+
+def topic_sort_key(topic_id):
+    """
+    Sort key for topic IDs: 'PE' (common) topics always first, then the
+    rest in natural order, e.g. PE1, PE2, ..., PE10, L1, L2, ..., L10.
+    """
+    topic_id = topic_id or ""
+    match = re.match(r"^([A-Za-z]+)(\d+)$", topic_id)
+    prefix, number = (match.group(1), int(match.group(2))) if match else (topic_id, 0)
+    return (0 if prefix == "PE" else 1, prefix, number)
 
 NON_REGION_SHEETS = {"version", "tesis"}
 
@@ -193,7 +204,11 @@ def load_region_sheet(filepath, sheet_name):
 def build_region_output(df):
     """Build the {'candidates': {...}} block for a single region sheet."""
     excluded_columns = {"ID_tema", "Tema", "Statement"}
-    candidate_columns = [col for col in df.columns if col not in excluded_columns]
+    candidate_columns = [
+        col
+        for col in df.columns
+        if col not in excluded_columns and clean_text(col) is not None
+    ]
 
     # No ID_candidate metadata row exists in these sheets (unlike presidencial/
     # parlamentaria), so candidate codes are auto-generated here: c1..cN in
@@ -256,6 +271,14 @@ def build_region_output(df):
                 "source": source_value,
                 "source_type": "candidate",
             }
+
+    for candidate_meta in candidates_info.values():
+        candidate_meta["votes"] = dict(
+            sorted(
+                candidate_meta["votes"].items(),
+                key=lambda kv: topic_sort_key(kv[1]["id_tema"]),
+            )
+        )
 
     return {"candidates": candidates_info}
 
