@@ -33,7 +33,7 @@
         "PE6": {
           "id": "PE6",
           "topic": "Zonificación territorial",
-          "question": "El ordenamiento territorial basados en criterios ambientales debería ser vinculantes y poder restringir actividades económicas en zonas ambientales vulnerables."
+          "question": "El ordenamiento territorial basados en criterios ambientales debería ser vinculante y poder restringir actividades económicas en zonas ambientales vulnerables."
         },
         "PE7": {
           "id": "PE7",
@@ -251,9 +251,9 @@
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/5ac8800d-7ba6-4bd9-afa3-bd409e5b8f96.pdf"
             },
             "L1": {
-              "vote": 0.5,
-              "comment": "La propuesta de Ahora Nación recogida en su plan comparte parte de la lógica de la tesis. Rompe con la lógica privada/autofinanciada y lo integra formalmente a RIS, pero conserva una red municipal SISMUN; apoyo parcial.",
-              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/5ac8800d-7ba6-4bd9-afa3-bd409e5b8f96.pdf"
+              "vote": 0.0,
+              "comment": "Durante el debate, Susel Paredes propuso “rescatar” los Hospitales de la Solidaridad y ampliar su horario de atención hasta las 9 de la noche. La propuesta supone mantener y reformar SISOL como red municipal, por lo que es incompatible con integrarlo por completo al MINSA o EsSalud.",
+              "source": "https://www.youtube.com/watch?v=InT33XM0zAA"
             },
             "L2": {
               "vote": 0.5,
@@ -629,6 +629,11 @@
               "vote": 1.0,
               "comment": "Lo que propone Fuerza Ciudadana en su plan de gobierno coincide con el núcleo del enunciado. Incluye fortalecimiento de mercados locales dentro del desarrollo económico; evidencia menos específica sobre abastos.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/68cc35dd-2173-451b-9982-d334e0dbd1d2.pdf"
+            },
+            "L8": {
+              "vote": 0.5,
+              "comment": "Durante el debate municipal, Rubén Bonilla respondió afirmativamente a una política metropolitana de vivienda y habilitación urbana que priorice zonas con servicios básicos y limite ocupaciones en áreas no adecuadas. Esto respalda reservar localizaciones urbanas adecuadas para vivienda, pero no menciona aumentar la capacidad de construcción ni el trade-off con desarrollos inmobiliarios más rentables.",
+              "source": "https://www.youtube.com/watch?v=tNgPGhxIVzg"
             }
           },
           "party": {
@@ -799,9 +804,9 @@
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/a775b8e8-202f-44cc-86ef-6465c60d4799.pdf"
             },
             "L6": {
-              "vote": 0.5,
-              "comment": "En este punto, el documento de APRA es más matizado que el enunciado. Apoya transporte de bajo impacto y expansión ciclista, sin una decisión explícita sobre redistribución de carriles.",
-              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/a775b8e8-202f-44cc-86ef-6465c60d4799.pdf"
+              "vote": 1.0,
+              "comment": "Durante el debate municipal, ante la pregunta de si priorizaría el transporte público en la distribución del espacio vial incluso reduciendo carriles para vehículos particulares, Mónica Yaya respondió “sí” y sostuvo que Lima necesita transporte urbano masivo que haga menos necesario el automóvil particular. La respuesta acepta explícitamente el trade-off central de la tesis.",
+              "source": "https://www.youtube.com/watch?v=tNgPGhxIVzg"
             },
             "L8": {
               "vote": 0.5,
@@ -913,8 +918,8 @@
             },
             "PE2": {
               "vote": 0.5,
-              "comment": "El plan busca una ciudad sin discriminación ni exclusión y promueve la igualdad de género, pero no menciona expresamente orientación sexual, identidad de género ni una ordenanza específica.",
-              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/951db97a-92a1-40e9-a295-41250a4cd712.pdf"
+              "comment": "Durante el debate municipal, Flor de María Hurtado respondió a una interpelación sobre la llamada “ideología de género” afirmando que gobernará para todos, sin diferencias de opciones, y que no permitirá “ninguna discriminación”. La declaración respalda el principio antidiscriminatorio, pero no se pronuncia expresamente sobre aprobar o mantener ordenanzas específicas que protejan por orientación sexual e identidad de género.",
+              "source": "https://www.youtube.com/watch?v=InT33XM0zAA"
             },
             "PE3": {
               "vote": 0.5,
@@ -1155,9 +1160,9 @@
               "source": "https://www.munisurco.gob.pe/se-inicio-la-recuperacion-del-centro-historico-de-surco-con-el-proyecto-de-la-supermanzana/"
             },
             "L10": {
-              "vote": 0.5,
-              "comment": "Carlos Bruce cuestiona el nivel y el costo del endeudamiento heredado, pero no descarta la deuda como herramienta financiera. En una entrevista de junio de 2026 planteó cancelar la deuda cara y refinanciarla con otra más barata. Su posición, por tanto, acepta el instrumento bajo condiciones de sostenibilidad, pero no respalda aumentar sin más la deuda municipal para nuevas obras.",
-              "source": "https://podscan.fm/podcasts/la-republica-sin-guion/episodes/2606-rosa-maria-palacios-entrevista-a-carlos-bruce-rmp-singuion-parte-23"
+              "vote": 0.0,
+              "comment": "Durante el debate municipal, en su mensaje final, Carlos Bruce criticó el endeudamiento de la gestión saliente y se comprometió explícitamente a no asumir nueva deuda. Esa promesa electoral contradice la tesis de aumentar el endeudamiento municipal para financiar grandes obras.",
+              "source": "https://www.youtube.com/watch?v=InT33XM0zAA"
             }
           },
           "party": {
@@ -1325,6 +1330,11 @@
               "vote": 1.0,
               "comment": "La propuesta electoral de Luis Huette dirige expresamente parte de la inversión vial hacia la periferia. La síntesis de su expediente del JNE recoge como objetivo priorizar el transporte masivo y “ampliar la infraestructura vial en la periferia”. Ese criterio territorial permite ubicar la posición a favor de atender primero déficits de conectividad alejados de los ejes centrales.",
               "source": "https://www.versuselectoral.com/alcaldes/luis-alberto-huette-tolentino"
+            },
+            "PE5": {
+              "vote": 1.0,
+              "comment": "Ante una pregunta directa durante el debate municipal sobre reasentar a familias ubicadas en zonas de muy alto riesgo y evitar nuevas ocupaciones en laderas, Luis Huette respondió afirmativamente y justificó la medida por la exposición permanente a sismos y huaicos. La respuesta coincide directamente con priorizar el reasentamiento en zonas de muy alto riesgo.",
+              "source": "https://www.youtube.com/watch?v=InT33XM0zAA"
             },
             "PE6": {
               "vote": 1.0,
@@ -1714,8 +1724,8 @@
             },
             "L5": {
               "vote": 0.0,
-              "comment": "La tesis entra en conflicto con la solución que propone Renovación Popular en su plan. Se opone expresamente a los peajes. El documento señala: “Eliminación de todos los peajes de Lima. Eliminaré los peajes [...] de Lima” (plan de gobierno, p. 79).",
-              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/789b6e2b-0ef9-4471-b29b-3a19bfad095d.pdf"
+              "comment": "Rafael López Aliaga cerró una de sus intervenciones durante el debate municipal con la consigna “peajes nunca más”. Al tratarse de una declaración electoral directa y categórica, su posición es contraria a reinstaurar el cobro de peajes en las Panamericanas.",
+              "source": "https://www.youtube.com/watch?v=tNgPGhxIVzg&t"
             },
             "L6": {
               "vote": 0.5,
@@ -1844,6 +1854,11 @@
               "vote": 0.5,
               "comment": "La candidatura de Batalla Perú muestra una orientación favorable a mejorar la conectividad periférica: Samir Quispe propone llevar el Metropolitano hasta Ancón, extender la Línea 1 hacia Lurín e intervenir cuellos de botella en Puente Piedra y San Juan de Miraflores. La evidencia no establece, sin embargo, que esas inversiones deban priorizarse aun cuando beneficien a menos personas por sol, por lo que la coincidencia con la tesis es parcial.",
               "source": "https://elperuano.pe/noticia/304889-samir-quispe-caballero-en-los-tres-primeros-meses-cerraremos-los-mercados-informales"
+            },
+            "PE5": {
+              "vote": 0.5,
+              "comment": "Samir Quispe respondió “sí” a impulsar el reasentamiento de familias en zonas de muy alto riesgo durante el debate municipal, pero condicionó la medida a expedientes técnicos y estudios y rechazó que se use la fuerza para derribar viviendas y dejar familias en la calle. Su apoyo al reasentamiento es por tanto explícito, pero condicionado.",
+              "source": "https://www.youtube.com/watch?v=InT33XM0zAA"
             },
             "PE6": {
               "vote": 1.0,
@@ -2255,7 +2270,7 @@
         "PE6": {
           "id": "PE6",
           "topic": "Zonificación territorial",
-          "question": "El ordenamiento territorial basados en criterios ambientales debería ser vinculantes y poder restringir actividades económicas en zonas ambientales vulnerables."
+          "question": "El ordenamiento territorial basados en criterios ambientales debería ser vinculante y poder restringir actividades económicas en zonas ambientales vulnerables."
         },
         "PE7": {
           "id": "PE7",
@@ -2417,6 +2432,11 @@
               "comment": "El plan señala: \"Fortalecer integralmente el Primer Nivel de Atención para convertirlo en el eje central del sistema regional de salud\".\"Sobrecarga de hospitales por patologías que podrían resolverse en establecimientos de menor complejidad.\".",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/019a4684-877a-45a4-bd17-24beffd4f8d7.pdf"
             },
+            "PE2": {
+              "vote": 0.5,
+              "comment": "Sin información del candidato: su plan regional no menciona discriminación por orientación sexual ni identidad de género. Evidencia del partido: el plan nacional de Ahora Nación plantea la \"lucha contra todo tipo de discriminación\" y la igualdad \"sin distinción de raza, género, nacionalidad, condición social o económica\", pero no menciona expresamente orientación sexual, identidad de género ni ordenanzas específicas.",
+              "source": null
+            },
             "PE3": {
               "vote": 0.5,
               "comment": "Propone APP para Majes-Siguas II y participación privada   en proyectos estratégicos, pero también un pool de 200 maquinarias para   ejecutar obras por administración directa y reducir la dependencia de   contratistas.",
@@ -2427,20 +2447,60 @@
               "comment": "Propone duplicar o triplicar la   inversión en provincias periféricas (Caravelí, Castilla, Condesuyos, zonas   altas de Caylloma) con carreteras y servicios, sin reducir la de la   capital.",
               "source": "https://diarioelpueblo.com.pe/2026/09/07/jenry-huisa-plantea-descentralizacion-nuevas-universidades-y-renovacion-de-la-gestion-regional/"
             },
+            "PE5": {
+              "vote": 1.0,
+              "comment": "Sin información del candidato: su plan regional no aborda zonas de riesgo ni reubicación. Evidencia del partido: el plan nacional de Ahora Nación propone \"reubicando progresivamente a las familias que viven en zonas de riesgo no mitigable\" (p. 28), en línea con la tesis.",
+              "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Ahora-Nacion-Plan-de-Gobierno-LP-derecho.pdf"
+            },
+            "PE6": {
+              "vote": 0.5,
+              "comment": "El plan propone el \"aprovechamiento responsable de los recursos naturales, promoviendo inversiones compatibles con la protección del territorio\" (p. 9), pero no precisa que el ordenamiento territorial sea vinculante ni que restrinja actividades económicas.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/019a4684-877a-45a4-bd17-24beffd4f8d7.pdf"
+            },
+            "PE7": {
+              "vote": 0.5,
+              "comment": "Sin información del candidato. Evidencia indirecta del partido: el plan nacional de Ahora Nación aborda la inseguridad mediante reforma policial, inteligencia, laboratorios forenses e interoperabilidad entre Policía, Ministerio Público, Poder Judicial e INPE, sin mencionar la declaratoria de estado de emergencia ni la participación de las Fuerzas Armadas. No hay pronunciamiento explícito a favor ni en contra.",
+              "source": "https://www.infobae.com/peru/2026/04/06/que-proponen-los-planes-de-gobierno-de-los-candidatos-presidenciales-en-las-elecciones-2026-para-combatir-la-inseguridad-ciudadana/"
+            },
+            "PE8": {
+              "vote": 0.5,
+              "comment": "El plan propone \"espacios de participación para la vigilancia social de las inversiones regionales\" (p. 6), pero no plantea que una mayor parte de la inversión se decida mediante presupuesto participativo.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/019a4684-877a-45a4-bd17-24beffd4f8d7.pdf"
+            },
             "PE9": {
               "vote": 0.5,
               "comment": "Vincula la reestructuración de institutos con la   generación de empleo local y la atracción de inversión privada, sin priorizar   el empleo sobre la   productividad.",
               "source": "https://diarioelpueblo.com.pe/2026/09/07/jenry-huisa-plantea-descentralizacion-nuevas-universidades-y-renovacion-de-la-gestion-regional/"
+            },
+            "PE10": {
+              "vote": 0.0,
+              "comment": "Sin información del candidato. Evidencia del partido: el plan nacional de Ahora Nación propone un \"Programa Nacional de Desarrollo Productivo y Formalización para micro y pequeñas empresas urbanas y rurales\" y un \"régimen tributario, laboral y municipal simplificado\" (p. 39); busca formalizar a los informales, no excluirlos del apoyo.",
+              "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Ahora-Nacion-Plan-de-Gobierno-LP-derecho.pdf"
             },
             "AR2": {
               "vote": 0.5,
               "comment": "Propone reactivar Majes-Siguas II (reparar túneles y   canales de Majes I, cuenca intermedia) e incorporar capital privado vía APP,   sin precisar si el proyecto debe volver al Gobierno   Regional.",
               "source": "https://diarioelpueblo.com.pe/2026/09/07/jenry-huisa-plantea-descentralizacion-nuevas-universidades-y-renovacion-de-la-gestion-regional/"
             },
+            "AR3": {
+              "vote": 0.0,
+              "comment": "Sin información del candidato a gobernador. Evidencia de la organización: el candidato de Ahora Nación a la alcaldía provincial, Alfredo Benavente, propone consolidar el SIT mediante \"una auditoría técnica-operativa, monitoreo mediante GPS\" y optimización de rutas y frecuencias, sin plantear un sistema sobre rieles. Evidencia de la organización; el transporte urbano es competencia municipal.",
+              "source": "https://elbuho.pe/2026/09/elecciones-en-arequipa-2026-que-propone-cada-candidato-para-resolver-caos-del-transporte/"
+            },
+            "AR4": {
+              "vote": 0.5,
+              "comment": "Sin información del candidato. Evidencia del partido: el plan nacional propone \"rediseñar integralmente el proceso de formalización minera, simplificando trámites, estableciendo plazos claros y diferenciando territorios y tipologías de mineros\", pero no se pronuncia sobre las interdicciones ni sobre Secocha o Caravelí.",
+              "source": "https://peru21.pe/investigacion/los-planes-de-los-partidos-que-abren-la-puerta-la-mineria-ilegal/"
+            },
             "AR5": {
               "vote": 0.5,
               "comment": "El plan ubica a Corío como uno de cuatro ejes de transformación regional, junto con Majes-Siguas II, seguridad hídrica y salud; no lo define como única apuesta principal.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/019a4684-877a-45a4-bd17-24beffd4f8d7.pdf"
+            },
+            "AR6": {
+              "vote": 0.0,
+              "comment": "Sin información del candidato. Evidencia del partido: el plan nacional propone \"ampliar los programas de formalización de la propiedad predial urbana\", con la meta de 500 000 títulos (p. 30), en sentido contrario a priorizar la recuperación de terrenos invadidos.",
+              "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Ahora-Nacion-Plan-de-Gobierno-LP-derecho.pdf"
             },
             "AR8": {
               "vote": 0.0,
@@ -2476,10 +2536,20 @@
               "comment": "Prioriza culminar obras en   provincias alejadas como el túnel de Pampamarca (La Unión) y descentralizar   recursos para que provincias como Condesuyos y La Unión reciban la misma   atención que la capital.",
               "source": "https://diarioelpueblo.com.pe/2026/09/08/caceres-llica-plantea-mas-especialistas-en-salud-y-recuperar-majes-siguas-ii-para-arequipa/"
             },
+            "PE5": {
+              "vote": 1.0,
+              "comment": "Sin información del candidato: su plan regional no aborda zonas de riesgo ni reubicación. Evidencia del partido: el plan nacional de Ahora Nación propone \"reubicando progresivamente a las familias que viven en zonas de riesgo no mitigable\" (p. 28), en línea con la tesis.",
+              "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Ahora-Nacion-Plan-de-Gobierno-LP-derecho.pdf"
+            },
             "PE6": {
               "vote": 0.5,
               "comment": "El plan propone un adecuado proceso de ordenamiento territorial, pero no precisa que sea vinculante ni que restrinja actividades económicas en zonas vulnerables.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/96d851d0-cdf6-44d6-a249-20e8142c753a.pdf"
+            },
+            "PE7": {
+              "vote": 0.5,
+              "comment": "Sin información del candidato. Evidencia indirecta del partido: el plan nacional de Ahora Nación aborda la inseguridad mediante reforma policial, inteligencia, laboratorios forenses e interoperabilidad entre Policía, Ministerio Público, Poder Judicial e INPE, sin mencionar la declaratoria de estado de emergencia ni la participación de las Fuerzas Armadas. No hay pronunciamiento explícito a favor ni en contra.",
+              "source": "https://www.infobae.com/peru/2026/04/06/que-proponen-los-planes-de-gobierno-de-los-candidatos-presidenciales-en-las-elecciones-2026-para-combatir-la-inseguridad-ciudadana/"
             },
             "PE8": {
               "vote": 0.5,
@@ -2560,6 +2630,11 @@
               "comment": "El plan propone un Plan de Reordenamiento Territorial, pero no precisa carácter vinculante ni restricciones económicas en zonas ambientalmente vulnerables.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/c89e2e14-b91d-45ef-8b3d-ff7bcc4e8c8b.pdf"
             },
+            "PE7": {
+              "vote": 0.5,
+              "comment": "El plan señala que la \"gestión del riesgo debe incorporarse como criterio obligatorio de inversión pública\" (p. 9), pero no propone un ordenamiento territorial ambiental vinculante ni restricciones a actividades económicas en zonas vulnerables.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/835fdca9-1a28-45e9-b8bf-b29b55af1551.pdf"
+            },
             "PE9": {
               "vote": 0.5,
               "comment": "Propone crear 15,000 empleos temporales para jóvenes en alianza con el sector privado, sin plantear expresamente sacrificar productividad.",
@@ -2613,6 +2688,31 @@
               "vote": 0.0,
               "comment": "Plantea como primera tarea  culminar los cuatro hospitales inconclusos y dotarlos de especialistas; no  menciona postas ni centros de salud del primer nivel. Evidencia  indirecta.",
               "source": "https://diarioelpueblo.com.pe/2026/09/08/caceres-llica-plantea-mas-especialistas-en-salud-y-recuperar-majes-siguas-ii-para-arequipa/"
+            },
+            "PE2": {
+              "vote": 0.5,
+              "comment": "Sin información de la candidata. Evidencia del partido: el ideario de FREPAP plantea \"eliminando toda forma de discriminación\", pero no menciona expresamente orientación sexual, identidad de género ni ordenanzas. En 2020, un congresista del partido rechazó la unión civil con expresiones ofensivas y luego el partido se desmarcó; evidencia antigua y contradictoria.",
+              "source": "https://frepap.org.pe/nosotros/;https://canaln.pe/actualidad/frepap-no-hay-nada-malo-enfoque-genero-estamos-acuerdo-n403840"
+            },
+            "PE5": {
+              "vote": 0.5,
+              "comment": "El plan propone \"actualizar mapas de riesgo, intervenir torrenteras y zonas críticas, fortalecer alerta temprana\" e \"intervenir el 100% de zonas de alto riesgo priorizadas\" (p. 17); apuesta por la mitigación y la prevención, sin plantear la reubicación de familias como prioridad.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/835fdca9-1a28-45e9-b8bf-b29b55af1551.pdf"
+            },
+            "PE6": {
+              "vote": 0.5,
+              "comment": "El plan señala que la \"gestión del riesgo debe incorporarse como criterio obligatorio de inversión pública\" (p. 9), pero no propone un ordenamiento territorial ambiental vinculante ni restricciones a actividades económicas en zonas vulnerables.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/835fdca9-1a28-45e9-b8bf-b29b55af1551.pdf"
+            },
+            "PE7": {
+              "vote": 0.5,
+              "comment": "Propone un \"plan de seguridad ciudadana con patrullaje integrado y mapeo delictivo\" (plan, p. 16) y \"redes de videovigilancia, recuperar espacios públicos\" (Misti Press, 06/09); no menciona estado de emergencia ni Fuerzas Armadas. Sin pronunciamiento explícito.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/835fdca9-1a28-45e9-b8bf-b29b55af1551.pdf;https://arequipamistipress.com/2026/09/06/yackelin-huarsaya-del-frepap-es-la-unica-mujer-entre-quince-postulantes-al-gobierno-regional-de-arequipa/"
+            },
+            "PE8": {
+              "vote": 0.5,
+              "comment": "El plan reconoce que el presupuesto participativo tiene \"limitada incidencia\" (p. 13) y propone \"Cabildos Abiertos Itinerantes para la rendición de cuentas y el diálogo permanente\" (p. 23), no plantea que una mayor parte de la inversión se decida por presupuesto participativo.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/835fdca9-1a28-45e9-b8bf-b29b55af1551.pdf"
             },
             "PE9": {
               "vote": 0.5,
@@ -2811,10 +2911,20 @@
               "comment": "El plan prioriza \"la mejora de carreteras interprovinciales\" e internet \"en zonas rurales\" (p. 19); favorece cerrar brechas territoriales, pero no asume expresamente beneficiar a menos personas por sol invertido.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/2b8069ba-ddcb-4001-a35b-f2a89095b19d.pdf"
             },
+            "PE5": {
+              "vote": 0.5,
+              "comment": "El plan propone \"implementar medidas de adaptación en todas las provincias\" frente al cambio climático, y el candidato criticó la falta de un plan de contingencia ante el Fenómeno El Niño; enfoque preventivo, sin plantear la reubicación de familias como prioridad.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/2b8069ba-ddcb-4001-a35b-f2a89095b19d.pdf;https://elbuho.pe/2026/09/hugo-aguilar-busca-la-gubernatura-de-arequipa-y-niega-irregularidades-en-su-paso-por-sedapar/"
+            },
             "PE6": {
               "vote": 0.5,
               "comment": "El plan promueve la \"gestión sostenible del territorio\" y el \"control ambiental\" (p. 11), pero no hace vinculante el ordenamiento ni explicita restricciones a actividades económicas.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/2b8069ba-ddcb-4001-a35b-f2a89095b19d.pdf"
+            },
+            "PE7": {
+              "vote": 0.5,
+              "comment": "El plan propone fortalecer la seguridad ciudadana \"mediante la articulación con los gobiernos locales, la Policía Nacional del Perú y la sociedad civil\", sin mencionar estado de emergencia ni Fuerzas Armadas. A nivel nacional, el APRA propone ampliar el Ejército para la \"seguridad y vigilancia fronteriza\", no para la seguridad interna.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/2b8069ba-ddcb-4001-a35b-f2a89095b19d.pdf;https://larepublica.pe/elecciones/decide-tu-voto-2026/apra"
             },
             "PE8": {
               "vote": 0.5,
@@ -2831,6 +2941,16 @@
               "comment": "El plan señala: \"Promover la formalización del empleo mediante incentivos y simplificación administrativa\".",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/2b8069ba-ddcb-4001-a35b-f2a89095b19d.pdf"
             },
+            "AR1": {
+              "vote": 0.5,
+              "comment": "Afirma que \"también tenemos que impulsar la minería, el hidrógeno verde, la energía solar y eólica\", pero no se pronuncia específicamente sobre Tía María. A nivel nacional, el APRA propone el \"destrabe de proyectos mineros\".",
+              "source": "https://diariocorreo.pe/edicion/arequipa/hugo-aguilar-candidato-a-gobernador-arequipa-tiene-todo-para-ser-una-region-de-oportunidades-noticia/;https://larepublica.pe/elecciones/decide-tu-voto-2026/apra"
+            },
+            "AR2": {
+              "vote": 0.5,
+              "comment": "Explica que \"Majes-Siguas II pasó al Gobierno central porque en Arequipa no se encontró una fórmula para continuar el litigio internacional\" y plantea \"hacer un análisis costo-beneficio\"; no propone que el proyecto vuelva al Gobierno Regional ni defiende que siga en el Midagri.",
+              "source": "https://diariocorreo.pe/edicion/arequipa/hugo-aguilar-candidato-a-gobernador-arequipa-tiene-todo-para-ser-una-region-de-oportunidades-noticia/"
+            },
             "AR3": {
               "vote": 1.0,
               "comment": "Planteó priorizar para Arequipa el tren eléctrico o Tren Blanco como sistema de transporte masivo.",
@@ -2840,6 +2960,11 @@
               "vote": 1.0,
               "comment": "El plan propone un Programa Regional de Formalización y Minería Sostenible dirigido a la pequeña minería y minería artesanal.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/2b8069ba-ddcb-4001-a35b-f2a89095b19d.pdf"
+            },
+            "AR5": {
+              "vote": 0.5,
+              "comment": "Afirma que \"Corío es una oportunidad. La Autoridad Nacional Portuaria ya aprobó la elaboración del Plan Maestro del puerto\", pero no lo define como la apuesta principal de desarrollo regional. Su plan de gobierno no menciona Corío.",
+              "source": "https://diariocorreo.pe/edicion/arequipa/hugo-aguilar-candidato-a-gobernador-arequipa-tiene-todo-para-ser-una-region-de-oportunidades-noticia/"
             },
             "AR8": {
               "vote": 0.0,
@@ -2924,14 +3049,34 @@
               "comment": "El plan programa intervenciones tanto en establecimientos del primer nivel como en hospitales, sin establecer una prioridad presupuestaria entre ambos.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/13d9f4b1-746d-4005-a4de-b79ff1301842.pdf"
             },
+            "PE2": {
+              "vote": 0.5,
+              "comment": "En junio de 2026 donó 20 metros de tela para la bandera de la Marcha del Orgullo de Arequipa y, según las organizadoras, calificó la marcha como \"una iniciativa muy positiva\"; Renovación Popular sinembargo sostiene la posición contraria.",
+              "source": "https://larepublica.pe/politica/2026/06/27/renovacion-popular-suspende-a-candidato-en-arequipa-tras-donar-materiales-para-bandera-de-la-comunidad-lgbt-hnews-634743;https://hbanoticias.pe/candidatos-de-renovacion-popular-respaldan-marcha-lgbtiq/"
+            },
             "PE4": {
               "vote": 1.0,
               "comment": "El plan señala: \"Cierre de brechas de interconexión departamental y vecinal\".",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/13d9f4b1-746d-4005-a4de-b79ff1301842.pdf"
             },
+            "PE5": {
+              "vote": 0.5,
+              "comment": "El plan propone \"desarrollar instrumentos de planificación y estrategias de prevención y atención para reducir el riesgo de desastres\" (p. 5); enfoque preventivo, sin plantear la reubicación de familias como prioridad.",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/13d9f4b1-746d-4005-a4de-b79ff1301842.pdf"
+            },
             "PE6": {
               "vote": 1.0,
               "comment": "El plan señala: \"Fortalecer la gestión ambiental territorial mediante ... instrumentos de manejo sostenible\".",
+              "source": "https://votoinformado.jne.gob.pe/mpesije/docs/13d9f4b1-746d-4005-a4de-b79ff1301842.pdf"
+            },
+            "PE7": {
+              "vote": 0.5,
+              "comment": "Sostiene que \"el gobernador debe asumir el liderazgo y trabajar junto con la Policía\" y propone un C5I con 2.500 cámaras; plantea batallones de ingeniería del Ejército solo para asfaltar vías, no para seguridad. A nivel nacional, Renovación Popular propone fortalecer a las Fuerzas Armadas \"para la defensa nacional externa e interna\" (p. 11). No pide expresamente estado de emergencia.",
+              "source": "https://diariocorreo.pe/edicion/arequipa/harold-rodriguez-candidato-regional-de-arequipa-entegaremos-obras-que-realmente-se-necesita-noticia/;https://img.lpderecho.pe/wp-content/uploads/2025/12/Renovacion-Popular-Plan-de-Gobierno-LP.pdf"
+            },
+            "PE8": {
+              "vote": 0.5,
+              "comment": "El plan propone que \"se desarrollarán audiencias públicas descentralizadas en las distintas provincias\" (p. 6), pero no plantea que una mayor parte de la inversión se decida mediante presupuesto participativo.",
               "source": "https://votoinformado.jne.gob.pe/mpesije/docs/13d9f4b1-746d-4005-a4de-b79ff1301842.pdf"
             },
             "PE9": {
@@ -2948,6 +3093,11 @@
               "vote": 0.5,
               "comment": "El candidato de   su movimiento a la alcaldía provincial propone un metro ligero articulado al   SIT, no en reemplazo de completarlo. Evidencia de la organización; además, el   transporte urbano es competencia municipal.",
               "source": "https://elbuho.pe/2026/09/elecciones-en-arequipa-2026-que-propone-cada-candidato-para-resolver-caos-del-transporte/"
+            },
+            "AR4": {
+              "vote": 0.5,
+              "comment": "Sin información del candidato. Evidencia del partido: el plan nacional propone que \"el Estado comprará el mineral a mineros formalizados y ancestrales, protegiendo precios\" (p. 27) y, a la vez, la intervención de las Fuerzas Armadas contra la minería ilegal",
+              "source": "https://img.lpderecho.pe/wp-content/uploads/2025/12/Renovacion-Popular-Plan-de-Gobierno-LP.pdf"
             },
             "AR7": {
               "vote": 0.5,
@@ -2976,6 +3126,11 @@
             "PE3": {
               "vote": 0.5,
               "comment": "Propuso captar inversión privada mediante APP, proyectos en activos y Obras por Impuestos, aunque también mantuvo ejecución pública y no precisó concesionar la operación hospitalaria.",
+              "source": "https://revelacion.pe/2026/06/23/berly-gonzales-presenta-propuestas-y-lista-con-miras-al-gobierno-regional-de-arequipa/"
+            },
+            "PE4": {
+              "vote": 0.5,
+              "comment": "Prioriza culminar la autopista Arequipa–La Joya (Obras por Impuestos para los túneles mellizos), un corredor de alta demanda; no plantea priorizar las zonas peor conectadas.",
               "source": "https://revelacion.pe/2026/06/23/berly-gonzales-presenta-propuestas-y-lista-con-miras-al-gobierno-regional-de-arequipa/"
             },
             "PE6": {
@@ -3287,7 +3442,7 @@
         "PE6": {
           "id": "PE6",
           "topic": "Zonificación territorial",
-          "question": "El ordenamiento territorial basados en criterios ambientales debería ser vinculantes y poder restringir actividades económicas en zonas ambientales vulnerables."
+          "question": "El ordenamiento territorial basados en criterios ambientales debería ser vinculante y poder restringir actividades económicas en zonas ambientales vulnerables."
         },
         "PE7": {
           "id": "PE7",
@@ -3312,22 +3467,22 @@
         "PI1": {
           "id": "PI1",
           "topic": "Turismo",
-          "question": "La ejecución del presupuesto público en medidas de prevención y mitigación es insuficiente/ineficiente frente al Fenómeno El Niño lo cual afecta la actividad turística de Piura."
+          "question": "La ejecución del presupuesto público en medidas de prevención y mitigación frente al Fenómeno El Niño es insuficiente/ineficiente, lo cual afecta la actividad turística de Piura."
         },
         "PI2": {
           "id": "PI2",
           "topic": "Prevención de El Niño",
-          "question": "La inversión regional debería priorizar defensas ribereñas y drenaje pluvial frente a El Niño, aunque eso implique postergar otras obras."
+          "question": "La inversión regional debería priorizar defensas ribereñas y drenaje pluvial frente al Fenómeno El Niño, aunque eso implique postergar otras obras."
         },
         "PI3": {
           "id": "PI3",
           "topic": "Prevención de El Niño",
-          "question": "El gobierno regional debería priorizar la culminación y el mantenimiento de las obras de prevención ante El Niño (drenaje pluvial urbano, reforzamiento del reservorio de Poechos y del sistema de diques) antes que nuevas obras de infraestructura no relacionadas a la prevención de inundaciones."
+          "question": "El gobierno regional debería priorizar la culminación y el mantenimiento de las obras de prevención ante el Fenómeno El Niño (drenaje pluvial urbano, reforzamiento del reservorio de Poechos y del sistema de diques) antes que nuevas obras de infraestructura no relacionadas a la prevención de inundaciones."
         },
         "PI4": {
           "id": "PI4",
           "topic": "Minería",
-          "question": "El gobierno regional debería oponerse a la ejecución de proyectos mineros (como Río Blanco (Majaz)), en las nacientes de las cuencas de Ayabaca y Huancabamba, mientras no cuenten con la aceptación de las comunidades campesinas de la zona, incluso si eso retrasa la inversión minera en la región."
+          "question": "El gobierno regional debería oponerse a la ejecución de proyectos mineros (como Río Blanco, Majaz), en las nacientes de las cuencas de Ayabaca y Huancabamba, mientras no cuenten con la aceptación de las comunidades campesinas de la zona, incluso si eso retrasa la inversión minera en la región."
         },
         "PI5": {
           "id": "PI5",
@@ -3337,7 +3492,7 @@
         "PI6": {
           "id": "PI6",
           "topic": "Proyecto Alto Piura (PEIHAP)",
-          "question": "El gobierno regional  debería asumir un rol más decisivo en la conducción y fiscalización del Proyecto Alto Piura"
+          "question": "El gobierno regional  debería asumir un rol más decisivo en la conducción y fiscalización del Proyecto Alto Piura."
         },
         "PI7": {
           "id": "PI7",
@@ -3347,7 +3502,7 @@
         "PI8": {
           "id": "PI8",
           "topic": "Bosque seco y algarrobo",
-          "question": "El gobierno regional debería restringir más el aprovechamiento productivo de los bosques de algarrobo mientras persista su deterioro, aun si ello limita actividades económicas vinculadas a este recurso."
+          "question": "El gobierno regional debería restringir más el aprovechamiento productivo de los bosques de algarrobo mientras persista su deterioro, aún si ello limita actividades económicas vinculadas a este recurso."
         },
         "PI9": {
           "id": "PI9",
