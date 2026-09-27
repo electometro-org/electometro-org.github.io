@@ -2,7 +2,7 @@ name: Release to Bucket
 
 on:
   workflow_run:
-    workflows: ["Parse XLSX to JSON and commit"]
+    workflows: ["Parse master data into JSON"]
     types:
       - completed
 
